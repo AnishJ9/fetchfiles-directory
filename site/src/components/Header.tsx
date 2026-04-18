@@ -1,12 +1,18 @@
 import Link from "next/link";
-import { Search, Menu } from "lucide-react";
+import { Search, Menu, PawPrint } from "lucide-react";
 import { METROS, METRO_LABELS } from "@/types/listing";
 
 export function Header() {
   return (
     <header className="border-b border-ink-100 bg-white/80 backdrop-blur sticky top-0 z-20">
       <div className="mx-auto max-w-6xl px-4 flex items-center justify-between h-14">
-        <Link href="/" className="font-semibold text-ink-900 tracking-tight">
+        <Link
+          href="/"
+          className="flex items-center gap-2 font-semibold text-ink-900 tracking-tight"
+        >
+          <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-warm-100">
+            <PawPrint className="w-4 h-4 text-warm-700" />
+          </span>
           Fetch Directory
         </Link>
 
