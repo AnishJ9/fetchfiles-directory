@@ -1,0 +1,3965 @@
+[
+  {
+    "id": "41194a1fe23427bb",
+    "name": "Clearwater",
+    "category": "veterinarian",
+    "address": "26277 US Hwy 19 N",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33761",
+    "metro": "tampa",
+    "lat": 28.01129,
+    "lng": -82.731906,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cle"
+    },
+    "lastSeenAt": "2026-04-18T19:45:56Z",
+    "claimed": false,
+    "phone": "+17277916694",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cle"
+  },
+  {
+    "id": "83716636a188167e",
+    "name": "Austin SE",
+    "category": "veterinarian",
+    "address": "9300 South IH 35",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.163374,
+    "lng": -97.790599,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "sea"
+    },
+    "lastSeenAt": "2026-04-18T19:47:05Z",
+    "claimed": false,
+    "phone": "+15122800121",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/sea"
+  },
+  {
+    "id": "60a4aa47f89e1cc8",
+    "name": "VCA Briarcliff Animal Hospital",
+    "category": "veterinarian",
+    "address": "1850 Johnson Road NE",
+    "city": "Atlanta",
+    "state": "",
+    "zip": "30306",
+    "metro": "atlanta",
+    "lat": 33.8046226,
+    "lng": -84.3382149,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "briarcliff-atlanta"
+    },
+    "lastSeenAt": "2026-04-18T19:47:20Z",
+    "claimed": false,
+    "phone": "+14048746393",
+    "website": "https://vcahospitals.com/briarcliff-atlanta"
+  },
+  {
+    "id": "c528cc1df231800f",
+    "name": "VCA Buckhead Animal Hospital",
+    "category": "veterinarian",
+    "address": "1911 Piedmont Circle NE",
+    "city": "Atlanta",
+    "state": "",
+    "zip": "30324",
+    "metro": "atlanta",
+    "lat": 33.809079,
+    "lng": -84.3669,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "buckhead"
+    },
+    "lastSeenAt": "2026-04-18T19:47:22Z",
+    "claimed": false,
+    "phone": "+14048733771",
+    "website": "https://vcahospitals.com/buckhead"
+  },
+  {
+    "id": "f94844b7f3cc7b2d",
+    "name": "VCA College Park Animal Hospital",
+    "category": "veterinarian",
+    "address": "1203 Cleveland Avenue, Suite 2",
+    "city": "East Point",
+    "state": "",
+    "zip": "30344",
+    "metro": "atlanta",
+    "lat": 33.68198489168967,
+    "lng": -84.42859644603021,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "college-park"
+    },
+    "lastSeenAt": "2026-04-18T19:47:25Z",
+    "claimed": false,
+    "phone": "+14048351222",
+    "website": "https://vcahospitals.com/college-park"
+  },
+  {
+    "id": "36a5d9fc13f48937",
+    "name": "VCA Dunwoody Veterinary Center",
+    "category": "veterinarian",
+    "address": "1660 Mt. Vernon Road",
+    "city": "Dunwoody",
+    "state": "",
+    "zip": "30338",
+    "metro": "atlanta",
+    "lat": 33.947509952743374,
+    "lng": -84.3320637288349,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "dunwoody"
+    },
+    "lastSeenAt": "2026-04-18T19:47:26Z",
+    "claimed": false,
+    "phone": "+17703945004",
+    "website": "https://vcahospitals.com/dunwoody"
+  },
+  {
+    "id": "7e5df8d8d832b59e",
+    "name": "VCA Falcon Village Animal Hospital",
+    "category": "veterinarian",
+    "address": "2030 Lawrenceville Suwanee Road",
+    "city": "Suwanee",
+    "state": "",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.000053,
+    "lng": -84.038647,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "falcon-village"
+    },
+    "lastSeenAt": "2026-04-18T19:47:27Z",
+    "claimed": false,
+    "phone": "+17709628326",
+    "website": "https://vcahospitals.com/falcon-village"
+  },
+  {
+    "id": "0ce5a24ae9655147",
+    "name": "VCA Lilburn Animal Hospital",
+    "category": "veterinarian",
+    "address": "4985 Lawrenceville Highway",
+    "city": "Lilburn",
+    "state": "",
+    "zip": "30047",
+    "metro": "atlanta",
+    "lat": 33.889708,
+    "lng": -84.144818,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "lilburn"
+    },
+    "lastSeenAt": "2026-04-18T19:47:29Z",
+    "claimed": false,
+    "phone": "+17709216766",
+    "website": "https://vcahospitals.com/lilburn"
+  },
+  {
+    "id": "5dc61303e5e2aefc",
+    "name": "VCA Midtown Animal Hospital",
+    "category": "veterinarian",
+    "address": "1510 Piedmont Avenue NE",
+    "city": "Atlanta",
+    "state": "",
+    "zip": "30324",
+    "metro": "atlanta",
+    "lat": 33.795601,
+    "lng": -84.370645,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "midtown"
+    },
+    "lastSeenAt": "2026-04-18T19:47:30Z",
+    "claimed": false,
+    "phone": "+14048757387",
+    "website": "https://vcahospitals.com/midtown"
+  },
+  {
+    "id": "687bbda90e72b7d4",
+    "name": "VCA North Atlanta Animal Hospital",
+    "category": "veterinarian",
+    "address": "227 Sandy Springs Place, Suite 210",
+    "city": "Sandy Springs",
+    "state": "",
+    "zip": "30328",
+    "metro": "atlanta",
+    "lat": 33.919657,
+    "lng": -84.381019,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "north-atlanta"
+    },
+    "lastSeenAt": "2026-04-18T19:47:32Z",
+    "claimed": false,
+    "phone": "+14042559345",
+    "website": "https://vcahospitals.com/north-atlanta"
+  },
+  {
+    "id": "38b181de762b1eec",
+    "name": "VCA Peachtree Animal Hospital",
+    "category": "veterinarian",
+    "address": "4839 Peachtree Road",
+    "city": "Chamblee",
+    "state": "",
+    "zip": "30341",
+    "metro": "atlanta",
+    "lat": 33.88143325998055,
+    "lng": -84.3194138615896,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "peachtree"
+    },
+    "lastSeenAt": "2026-04-18T19:47:33Z",
+    "claimed": false,
+    "phone": "+17704572591",
+    "website": "https://vcahospitals.com/peachtree"
+  },
+  {
+    "id": "7980e9cf87b9a870",
+    "name": "VCA Pets Are People Too Roswell Animal Hospital",
+    "category": "veterinarian",
+    "address": "535 Sun Valley Drive",
+    "city": "Roswell",
+    "state": "",
+    "zip": "30076",
+    "metro": "atlanta",
+    "lat": 34.051867,
+    "lng": -84.338994,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "pets-are-people-too-roswell"
+    },
+    "lastSeenAt": "2026-04-18T19:47:34Z",
+    "claimed": false,
+    "phone": "+17709933040",
+    "website": "https://vcahospitals.com/pets-are-people-too-roswell"
+  },
+  {
+    "id": "c271a654372d1bd2",
+    "name": "VCA Roswell Animal Hospital",
+    "category": "veterinarian",
+    "address": "1112 Alpharetta Street",
+    "city": "Roswell",
+    "state": "",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.028846,
+    "lng": -84.357157,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "roswell"
+    },
+    "lastSeenAt": "2026-04-18T19:47:34Z",
+    "claimed": false,
+    "phone": "+17709939031",
+    "website": "https://vcahospitals.com/roswell"
+  },
+  {
+    "id": "2891b9410887baf9",
+    "name": "VCA Terrell Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "1315 Powers Ferry Road SE",
+    "city": "Marietta",
+    "state": "",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.919795,
+    "lng": -84.466659,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "terrell-mill"
+    },
+    "lastSeenAt": "2026-04-18T19:47:36Z",
+    "claimed": false,
+    "phone": "+17709529300",
+    "website": "https://vcahospitals.com/terrell-mill"
+  },
+  {
+    "id": "59cf4e69843cbf83",
+    "name": "VCA Carrollwood Cat Hospital",
+    "category": "veterinarian",
+    "address": "13305 Orange Grove Drive",
+    "city": "Tampa",
+    "state": "",
+    "zip": "33618",
+    "metro": "tampa",
+    "lat": 28.066883,
+    "lng": -82.500311,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "carrollwood-cat"
+    },
+    "lastSeenAt": "2026-04-18T19:47:50Z",
+    "claimed": false,
+    "phone": "+18139636612",
+    "website": "https://vcahospitals.com/carrollwood-cat"
+  },
+  {
+    "id": "a663991b0226a6cb",
+    "name": "VCA Cypress Creek Animal Hospital",
+    "category": "veterinarian",
+    "address": "25227 Wesley Chapel Blvd.",
+    "city": "Lutz",
+    "state": "",
+    "zip": "33559",
+    "metro": "tampa",
+    "lat": 28.1949388,
+    "lng": -82.3998431,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "cypress-creek"
+    },
+    "lastSeenAt": "2026-04-18T19:47:57Z",
+    "claimed": false,
+    "phone": "+18139493045",
+    "website": "https://vcahospitals.com/cypress-creek"
+  },
+  {
+    "id": "c38df3493251b8f0",
+    "name": "VCA Noah&#39;s Place Animal Medical Center",
+    "category": "veterinarian",
+    "address": "2050 62nd Avenue North",
+    "city": "St. Petersburg",
+    "state": "",
+    "zip": "33702",
+    "metro": "tampa",
+    "lat": 27.82929,
+    "lng": -82.66014,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "noahs-place"
+    },
+    "lastSeenAt": "2026-04-18T19:48:14Z",
+    "claimed": false,
+    "phone": "+17275226640",
+    "website": "https://vcahospitals.com/noahs-place"
+  },
+  {
+    "id": "0a158aeb3c5e552e",
+    "name": "VCA Anderson Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "13542 North Highway 183",
+    "city": "Austin",
+    "state": "",
+    "zip": "78750",
+    "metro": "austin",
+    "lat": 30.4508582,
+    "lng": -97.7940863,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "anderson-mill"
+    },
+    "lastSeenAt": "2026-04-18T19:48:36Z",
+    "claimed": false,
+    "phone": "+15122584163",
+    "website": "https://vcahospitals.com/anderson-mill"
+  },
+  {
+    "id": "919f7f3ea35fa01a",
+    "name": "VCA Arbor Animal Hospital",
+    "category": "veterinarian",
+    "address": "8820 Burnet Road, Suite 400",
+    "city": "Austin",
+    "state": "",
+    "zip": "78757",
+    "metro": "austin",
+    "lat": 30.37180573192472,
+    "lng": -97.7277093463929,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "arbor"
+    },
+    "lastSeenAt": "2026-04-18T19:48:43Z",
+    "claimed": false,
+    "phone": "+15127941040",
+    "website": "https://vcahospitals.com/arbor"
+  },
+  {
+    "id": "18c2626ddb54bcb7",
+    "name": "VCA Ben White Animal Hospital",
+    "category": "veterinarian",
+    "address": "2417 W. Ben White Blvd.",
+    "city": "Austin",
+    "state": "",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.232254,
+    "lng": -97.794265,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "ben-white"
+    },
+    "lastSeenAt": "2026-04-18T19:48:46Z",
+    "claimed": false,
+    "phone": "+15124447518",
+    "website": "https://vcahospitals.com/ben-white"
+  },
+  {
+    "id": "c8bb01dd321f0cd0",
+    "name": "VCA Capital Area Veterinary Specialists",
+    "category": "veterinarian",
+    "address": "7958 Shoal Creek Blvd.",
+    "city": "Austin",
+    "state": "",
+    "zip": "78757",
+    "metro": "austin",
+    "lat": 30.363133,
+    "lng": -97.740287,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "capital-area"
+    },
+    "lastSeenAt": "2026-04-18T19:48:51Z",
+    "claimed": false,
+    "phone": "+15123880944",
+    "website": "https://vcahospitals.com/capital-area"
+  },
+  {
+    "id": "2c3e2e833f8f03fd",
+    "name": "VCA Hometown Animal Hospital",
+    "category": "veterinarian",
+    "address": "1001 FM 685",
+    "city": "Pflugerville",
+    "state": "",
+    "zip": "78660",
+    "metro": "austin",
+    "lat": 30.443894,
+    "lng": -97.607882,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "hometown"
+    },
+    "lastSeenAt": "2026-04-18T19:49:10Z",
+    "claimed": false,
+    "phone": "+15122512242",
+    "website": "https://vcahospitals.com/hometown"
+  },
+  {
+    "id": "b8186ed8e97930f4",
+    "name": "VCA Lakeline Animal Hospital",
+    "category": "veterinarian",
+    "address": "12010 Ranch Road 620 North",
+    "city": "Austin",
+    "state": "",
+    "zip": "78750",
+    "metro": "austin",
+    "lat": 30.460415,
+    "lng": -97.821428,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "lakeline"
+    },
+    "lastSeenAt": "2026-04-18T19:49:16Z",
+    "claimed": false,
+    "phone": "+15122581155",
+    "website": "https://vcahospitals.com/lakeline"
+  },
+  {
+    "id": "702254ec900bb0fa",
+    "name": "VCA Northwest Hills Animal Hospital",
+    "category": "veterinarian",
+    "address": "3426 Greystone Drive",
+    "city": "Austin",
+    "state": "",
+    "zip": "78731",
+    "metro": "austin",
+    "lat": 30.357315,
+    "lng": -97.747418,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "northwest-hills"
+    },
+    "lastSeenAt": "2026-04-18T19:49:26Z",
+    "claimed": false,
+    "phone": "+15123455067",
+    "website": "https://vcahospitals.com/northwest-hills"
+  },
+  {
+    "id": "2c47a66c9669f158",
+    "name": "VCA Premier Animal Hospital and Pet Resort",
+    "category": "veterinarian",
+    "address": "3651 E Whitestone Blvd.",
+    "city": "Cedar Park",
+    "state": "",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.539543,
+    "lng": -97.774563,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "premier"
+    },
+    "lastSeenAt": "2026-04-18T19:49:32Z",
+    "claimed": false,
+    "phone": "+15122604000",
+    "website": "https://vcahospitals.com/premier"
+  },
+  {
+    "id": "2e031cfbf60160a8",
+    "name": "VCA Tanglewood Animal Hospital",
+    "category": "veterinarian",
+    "address": "9125 Menchaca Road",
+    "city": "Austin",
+    "state": "",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.180607,
+    "lng": -97.8189956,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "tanglewood"
+    },
+    "lastSeenAt": "2026-04-18T19:49:43Z",
+    "claimed": false,
+    "phone": "+15122800878",
+    "website": "https://vcahospitals.com/tanglewood"
+  },
+  {
+    "id": "b084e372c408dd4d",
+    "name": "VCA Terrell Animal Hospital",
+    "category": "veterinarian",
+    "address": "2 Lakeway Centre Court",
+    "city": "Lakeway",
+    "state": "",
+    "zip": "78734",
+    "metro": "austin",
+    "lat": 30.346729,
+    "lng": -97.96325,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "terrell"
+    },
+    "lastSeenAt": "2026-04-18T19:49:47Z",
+    "claimed": false,
+    "phone": "+15122635517",
+    "website": "https://vcahospitals.com/terrell"
+  },
+  {
+    "id": "13740de09d3ccce6",
+    "name": "VCA McKay&#39;s Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "1000 Longpoint Way",
+    "city": "Franklin",
+    "state": "",
+    "zip": "37064",
+    "metro": "nashville",
+    "lat": 35.885870750749284,
+    "lng": -86.81822610383209,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "mckays-mill"
+    },
+    "lastSeenAt": "2026-04-18T19:49:55Z",
+    "claimed": false,
+    "phone": "+16155993783",
+    "website": "https://vcahospitals.com/mckays-mill"
+  },
+  {
+    "id": "d4e91a55809fb411",
+    "name": "VCA Animal Care Center of Mt. Juliet",
+    "category": "veterinarian",
+    "address": "2701 N. Mt. Juliet Road",
+    "city": "Mt. Juliet",
+    "state": "",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.20866,
+    "lng": -86.51608,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "mt-juliet"
+    },
+    "lastSeenAt": "2026-04-18T19:49:56Z",
+    "claimed": false,
+    "phone": "+16157547387",
+    "website": "https://vcahospitals.com/mt-juliet"
+  },
+  {
+    "id": "3481095a3e46c39e",
+    "name": "VCA Murphy Road Animal Hospital",
+    "category": "veterinarian",
+    "address": "4408 Murphy Road",
+    "city": "Nashville",
+    "state": "",
+    "zip": "37209",
+    "metro": "nashville",
+    "lat": 36.141277,
+    "lng": -86.839877,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "murphy-road"
+    },
+    "lastSeenAt": "2026-04-18T19:49:58Z",
+    "claimed": false,
+    "phone": "+16153834241",
+    "website": "https://vcahospitals.com/murphy-road"
+  },
+  {
+    "id": "49c33c31ecc8ce85",
+    "name": "VCA PetMed Animal Hospital",
+    "category": "veterinarian",
+    "address": "1120 Bell Road",
+    "city": "Antioch",
+    "state": "",
+    "zip": "37013",
+    "metro": "nashville",
+    "lat": 36.0443197,
+    "lng": -86.6658513,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "petmed"
+    },
+    "lastSeenAt": "2026-04-18T19:50:00Z",
+    "claimed": false,
+    "phone": "+16157318074",
+    "website": "https://vcahospitals.com/petmed"
+  },
+  {
+    "id": "20274fd32dc45abb",
+    "name": "Camp Bow Wow Alpharetta",
+    "category": "daycare",
+    "address": "1755 Grassland Pkwy, Suite E",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.0754,
+    "lng": -84.2941,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "alpharetta"
+    },
+    "lastSeenAt": "2026-04-18T19:50:21Z",
+    "claimed": false,
+    "phone": "+16786791964",
+    "website": "https://www.campbowwow.com/alpharetta/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "8feb45550f781374",
+    "name": "Camp Bow Wow Austin",
+    "category": "daycare",
+    "address": "13900 IH-35,",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78728",
+    "metro": "austin",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "austin"
+    },
+    "lastSeenAt": "2026-04-18T19:50:24Z",
+    "claimed": false,
+    "phone": "+17372589027",
+    "website": "https://www.campbowwow.com/austin/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "fb1a53c7f8a9a62d",
+    "name": "Camp Bow Wow Duluth",
+    "category": "daycare",
+    "address": "1795 Buford Hwy,",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30097",
+    "metro": "atlanta",
+    "lat": 34.0029,
+    "lng": -84.1446,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "duluth"
+    },
+    "lastSeenAt": "2026-04-18T19:51:03Z",
+    "claimed": false,
+    "phone": "+17703349810",
+    "website": "https://www.campbowwow.com/duluth/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "7cde32133005a503",
+    "name": "Camp Bow Wow Lawrenceville GA",
+    "category": "daycare",
+    "address": "585 Old Norcross Rd,",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30046",
+    "metro": "atlanta",
+    "lat": 33.9562,
+    "lng": -83.988,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "lawrenceville-ga"
+    },
+    "lastSeenAt": "2026-04-18T19:51:38Z",
+    "claimed": false,
+    "phone": "+17708726185",
+    "website": "https://www.campbowwow.com/lawrenceville-ga/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "b6c8a46a56b824a9",
+    "name": "Camp Bow Wow Mt Juliet",
+    "category": "daycare",
+    "address": "3085 N. Mt Juliet Rd,",
+    "city": "Mt. Juliet",
+    "state": "TN",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.1998,
+    "lng": -86.5186,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "mt-juliet"
+    },
+    "lastSeenAt": "2026-04-18T19:51:56Z",
+    "claimed": false,
+    "phone": "+16159082439",
+    "website": "https://www.campbowwow.com/mt-juliet/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "937b4ba4c9144c64",
+    "name": "Camp Bow Wow South Asheville",
+    "category": "daycare",
+    "address": "5 Airport Rd,",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "metro": "asheville",
+    "lat": 35.4767,
+    "lng": -82.5165,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "south-asheville"
+    },
+    "lastSeenAt": "2026-04-18T19:52:33Z",
+    "claimed": false,
+    "phone": "+18286242780",
+    "website": "https://www.campbowwow.com/south-asheville/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "c62828fdb9c5d2dd",
+    "name": "Camp Bow Wow Tampa Airport",
+    "category": "daycare",
+    "address": "4624 N Grady Ave,",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33614",
+    "metro": "tampa",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "tampa"
+    },
+    "lastSeenAt": "2026-04-18T19:52:46Z",
+    "claimed": false,
+    "phone": "+18136802944",
+    "website": "https://www.campbowwow.com/tampa/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "06a23cd90011d8bb",
+    "name": "Camp Bow Wow Tampa South Shore",
+    "category": "daycare",
+    "address": "12218 Balm Riverview Rd,",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33579",
+    "metro": "tampa",
+    "lat": 27.8659,
+    "lng": -82.3265,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "tampa-south-shore"
+    },
+    "lastSeenAt": "2026-04-18T19:52:47Z",
+    "claimed": false,
+    "phone": "+18135365982",
+    "website": "https://www.campbowwow.com/tampa-south-shore/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "dd009799c884f4bd",
+    "name": "Camp Bow Wow Woodstock",
+    "category": "daycare",
+    "address": "12916 Hwy 92,",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "metro": "atlanta",
+    "lat": 34.1015,
+    "lng": -84.5194,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "woodstock"
+    },
+    "lastSeenAt": "2026-04-18T19:53:02Z",
+    "claimed": false,
+    "phone": "+14706641293",
+    "website": "https://www.campbowwow.com/woodstock/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "eb7e4d37d1034d76",
+    "name": "Camp Bow Wow Leander",
+    "category": "daycare",
+    "address": "607 Leander Dr, Building 10",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5788,
+    "lng": -97.8531,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "leander"
+    },
+    "lastSeenAt": "2026-04-18T19:54:04Z",
+    "claimed": false,
+    "phone": "+17372587924",
+    "website": "https://www.campbowwow.com/leander/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "9493d3f1e928c08d",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2701-A Parker Dr",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78681",
+    "metro": "austin",
+    "lat": 30.48321688962021,
+    "lng": -97.6788405828027,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "490"
+    },
+    "lastSeenAt": "2026-04-18T19:54:35Z",
+    "claimed": false,
+    "phone": "+15126000115",
+    "website": "https://stores.petco.com/tx/round-rock/pet-supplies-roundrock-tx-490.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "961e7f1e4344f91f",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1630 Scenic Hwy 124",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078",
+    "metro": "atlanta",
+    "lat": 33.88426666897999,
+    "lng": -84.00889361207888,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1710"
+    },
+    "lastSeenAt": "2026-04-18T19:54:38Z",
+    "claimed": false,
+    "phone": "+17709729995",
+    "website": "https://stores.petco.com/ga/snellville/pet-supplies-snellville-ga-1710.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "2036f06fa7acfd66",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3264 Buford Dr",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519",
+    "metro": "atlanta",
+    "lat": 34.06743344215511,
+    "lng": -83.98788170615158,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1713"
+    },
+    "lastSeenAt": "2026-04-18T19:54:39Z",
+    "claimed": false,
+    "phone": "+16787148048",
+    "website": "https://stores.petco.com/ga/buford/pet-supplies-buford-ga-1713.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "562f23f62576bc04",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "10980 State Bridge Rd",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022-4537",
+    "metro": "atlanta",
+    "lat": 34.04886645154977,
+    "lng": -84.22556015153789,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1718"
+    },
+    "lastSeenAt": "2026-04-18T19:54:39Z",
+    "claimed": false,
+    "phone": "+16782970673",
+    "website": "https://stores.petco.com/ga/alpharetta/pet-supplies-alpharetta-ga-1718.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "321e479a427a96d2",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2131 Pleasant Hill Rd",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "metro": "atlanta",
+    "lat": 33.95396976431856,
+    "lng": -84.13395616231074,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1722"
+    },
+    "lastSeenAt": "2026-04-18T19:54:39Z",
+    "claimed": false,
+    "phone": "+16784751147",
+    "website": "https://stores.petco.com/ga/duluth/pet-supplies-duluth-ga-1722.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "2894c55df35c3e9f",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "8164 Mall Pkwy",
+    "city": "Lithonia",
+    "state": "GA",
+    "zip": "30038-2545",
+    "metro": "atlanta",
+    "lat": 33.69270822073685,
+    "lng": -84.09093759090754,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1730"
+    },
+    "lastSeenAt": "2026-04-18T19:54:39Z",
+    "claimed": false,
+    "phone": "+17704821565",
+    "website": "https://stores.petco.com/ga/lithonia/pet-supplies-lithonia-ga-1730.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "bc8e4f814eaf2d47",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1231 Bruce B Downs Blvd",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544",
+    "metro": "tampa",
+    "lat": 28.174533826322545,
+    "lng": -82.35551969802972,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1733"
+    },
+    "lastSeenAt": "2026-04-18T19:54:40Z",
+    "claimed": false,
+    "phone": "+18139739067",
+    "website": "https://stores.petco.com/fl/wesley-chapel/pet-supplies-wesleychapel-fl-1733.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7d9d41491234f0b9",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "13127 N Dale Mabry Hwy",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618-2405",
+    "metro": "tampa",
+    "lat": 28.066985224003535,
+    "lng": -82.50289217668649,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1737"
+    },
+    "lastSeenAt": "2026-04-18T19:54:40Z",
+    "claimed": false,
+    "phone": "+18139689361",
+    "website": "https://stores.petco.com/fl/tampa/pet-supplies-tampa-fl-1737.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "32aab1ba4be685fc",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "136 S Westshore Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33609-2539",
+    "metro": "tampa",
+    "lat": 27.943522087727843,
+    "lng": -82.52347160239873,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1738"
+    },
+    "lastSeenAt": "2026-04-18T19:54:40Z",
+    "claimed": false,
+    "phone": "+18132823224",
+    "website": "https://stores.petco.com/fl/tampa/pet-supplies-tampa-fl-1738.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "41ae5b67cbb42dbb",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "50 Ernest Barrett Pkwy",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066-3339",
+    "metro": "atlanta",
+    "lat": 34.01619031529451,
+    "lng": -84.55125808427526,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1747"
+    },
+    "lastSeenAt": "2026-04-18T19:54:42Z",
+    "claimed": false,
+    "phone": "+17702186201",
+    "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-1747.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b78d1747e06a48da",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "298 Spring Creek Dr",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37067",
+    "metro": "nashville",
+    "lat": 35.937322944631,
+    "lng": -86.8196302830519,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1544"
+    },
+    "lastSeenAt": "2026-04-18T19:54:44Z",
+    "claimed": false,
+    "phone": "+16157781839",
+    "website": "https://stores.petco.com/tn/franklin/pet-supplies-franklin-tn-1544.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "0d10cd4e341d0d70",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2615 Medical Center Pkwy",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129-2257",
+    "metro": "nashville",
+    "lat": 35.86186192151946,
+    "lng": -86.447847155047,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1667"
+    },
+    "lastSeenAt": "2026-04-18T19:54:45Z",
+    "claimed": false,
+    "phone": "+16158900082",
+    "website": "https://stores.petco.com/tn/murfreesboro/pet-supplies-murfreesboro-tn-1667.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7331b5c6a13b5f1e",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2115 N Decatur Rd",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30033-5305",
+    "metro": "atlanta",
+    "lat": 33.78941045554636,
+    "lng": -84.30524776593211,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1557"
+    },
+    "lastSeenAt": "2026-04-18T19:54:45Z",
+    "claimed": false,
+    "phone": "+14046335049",
+    "website": "https://stores.petco.com/ga/decatur/pet-supplies-decatur-ga-1557.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "106c836ac938e333",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1100 Johnson Ferry Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.97791832451269,
+    "lng": -84.41531552548297,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1558"
+    },
+    "lastSeenAt": "2026-04-18T19:54:46Z",
+    "claimed": false,
+    "phone": "+17703213449",
+    "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-1558.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "8da89a656b5145c4",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "5938 Roswell Rd NE",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30328-4908",
+    "metro": "atlanta",
+    "lat": 33.91787269141845,
+    "lng": -84.38120723561605,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1729"
+    },
+    "lastSeenAt": "2026-04-18T19:54:47Z",
+    "claimed": false,
+    "phone": "+14042556544",
+    "website": "https://stores.petco.com/ga/sandy-springs/pet-supplies-sandysprings-ga-1729.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "d4fcd2a65aba16e6",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3805 Dallas Hwy SW",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30064",
+    "metro": "atlanta",
+    "lat": 33.94957019615402,
+    "lng": -84.66324027202648,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2538"
+    },
+    "lastSeenAt": "2026-04-18T19:54:50Z",
+    "claimed": false,
+    "phone": "+17706154070",
+    "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-2538.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "030c92e257ca1e0b",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2463 Hamilton Mill Pkwy",
+    "city": "Dacula",
+    "state": "GA",
+    "zip": "30019",
+    "metro": "atlanta",
+    "lat": 34.07251342430916,
+    "lng": -83.91542057485141,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "5506"
+    },
+    "lastSeenAt": "2026-04-18T19:54:53Z",
+    "claimed": false,
+    "phone": "+17709320561",
+    "website": "https://stores.petco.com/ga/dacula/pet-supplies-dacula-ga-5506.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "c4caab793fad42ba",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2020 Howell Mill Rd",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318-1732",
+    "metro": "atlanta",
+    "lat": 33.81043230826724,
+    "lng": -84.41453411129753,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "5504"
+    },
+    "lastSeenAt": "2026-04-18T19:54:53Z",
+    "claimed": false,
+    "phone": "+14043515591",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-5504.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "1549690921fcefa1",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2900 Delk Rd Extension",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.92293042368488,
+    "lng": -84.46610354042924,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "5507"
+    },
+    "lastSeenAt": "2026-04-18T19:54:54Z",
+    "claimed": false,
+    "phone": "+17706129423",
+    "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-5507.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "3c591ddffca5afab",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "4480 S Cobb Dr",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.84255295177455,
+    "lng": -84.50490407062169,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "5508"
+    },
+    "lastSeenAt": "2026-04-18T19:54:54Z",
+    "claimed": false,
+    "phone": "+17708039481",
+    "website": "https://stores.petco.com/ga/smyrna/pet-supplies-smyrna-ga-5508.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "f6c7c66de1c8b5ae",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "14010 US-183",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78717",
+    "metro": "austin",
+    "lat": 30.47401965625115,
+    "lng": -97.80155112417606,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1402"
+    },
+    "lastSeenAt": "2026-04-18T19:54:54Z",
+    "claimed": false,
+    "phone": "+15123315874",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-1402.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6ea93ad48d35f4e4",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1014 Glenbrook Way",
+    "city": "Hendersonville",
+    "state": "TN",
+    "zip": "37075-1230",
+    "metro": "nashville",
+    "lat": 36.33398122150581,
+    "lng": -86.62199380073551,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1632"
+    },
+    "lastSeenAt": "2026-04-18T19:54:56Z",
+    "claimed": false,
+    "phone": "+16158262028",
+    "website": "https://stores.petco.com/tn/hendersonville/pet-supplies-hendersonville-tn-1632.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "fb9039db6d24aa07",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3536 Murfreesboro Pike",
+    "city": "Antioch",
+    "state": "TN",
+    "zip": "37013-2582",
+    "metro": "nashville",
+    "lat": 36.052627218071805,
+    "lng": -86.61424433802873,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1550"
+    },
+    "lastSeenAt": "2026-04-18T19:54:56Z",
+    "claimed": false,
+    "phone": "+16156412112",
+    "website": "https://stores.petco.com/tn/antioch/pet-supplies-antioch-tn-1550.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "bfe482a432f5aa44",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2955 Cobb Pkwy SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30339-3520",
+    "metro": "atlanta",
+    "lat": 33.8824730325465,
+    "lng": -84.45988280428182,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1554"
+    },
+    "lastSeenAt": "2026-04-18T19:54:57Z",
+    "claimed": false,
+    "phone": "+17709529701",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1554.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "fdb91088d118e8f3",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3756B Roswell Rd",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30342",
+    "metro": "atlanta",
+    "lat": 33.85802498731163,
+    "lng": -84.38276859510589,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1567"
+    },
+    "lastSeenAt": "2026-04-18T19:54:58Z",
+    "claimed": false,
+    "phone": "+14048419733",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1567.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "f0479f7a818c3ad2",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3201 Bee Caves Rd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78746-6771",
+    "metro": "austin",
+    "lat": 30.2721616730417,
+    "lng": -97.79966429961685,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2404"
+    },
+    "lastSeenAt": "2026-04-18T19:54:59Z",
+    "claimed": false,
+    "phone": "+15127320472",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-2404.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "743aac99a79e9638",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "13089 Hwy 9 N",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.10243256628185,
+    "lng": -84.26866807719566,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1879"
+    },
+    "lastSeenAt": "2026-04-18T19:55:03Z",
+    "claimed": false,
+    "phone": "+17707720961",
+    "website": "https://stores.petco.com/ga/milton/pet-supplies-milton-ga-1879.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "ca57e3e9581c75fa",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "5001 183A Toll Rd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.531724760476788,
+    "lng": -97.81977052359123,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2458"
+    },
+    "lastSeenAt": "2026-04-18T19:55:04Z",
+    "claimed": false,
+    "phone": "+15126909496",
+    "website": "https://stores.petco.com/tx/cedar-park/pet-supplies-cedarpark-tx-2458.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "8e9fcadea6435411",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1401 S Hwy US 183",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.560218979585706,
+    "lng": -97.84716051657124,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2460"
+    },
+    "lastSeenAt": "2026-04-18T19:55:05Z",
+    "claimed": false,
+    "phone": "+15127787114",
+    "website": "https://stores.petco.com/tx/leander/pet-supplies-leander-tx-2460.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "668b61d5334eb4c6",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "964 Merrimon Ave",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28804",
+    "metro": "asheville",
+    "lat": 35.63115050983059,
+    "lng": -82.55437118008095,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2532"
+    },
+    "lastSeenAt": "2026-04-18T19:55:06Z",
+    "claimed": false,
+    "phone": "+18284126073",
+    "website": "https://stores.petco.com/nc/asheville/pet-supplies-asheville-nc-2532.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "889d012a06c17c28",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "11147 Park Blvd",
+    "city": "Seminole",
+    "state": "FL",
+    "zip": "33772",
+    "metro": "tampa",
+    "lat": 27.841896898995397,
+    "lng": -82.79310851962605,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2541"
+    },
+    "lastSeenAt": "2026-04-18T19:55:07Z",
+    "claimed": false,
+    "phone": "+17279542450",
+    "website": "https://stores.petco.com/fl/seminole/pet-supplies-seminole-fl-2541.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "fb2cea20f8240f84",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1570 Crater Lake Dr",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30152",
+    "metro": "atlanta",
+    "lat": 33.99900483181871,
+    "lng": -84.59189783492039,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2542"
+    },
+    "lastSeenAt": "2026-04-18T19:55:07Z",
+    "claimed": false,
+    "phone": "+17706154147",
+    "website": "https://stores.petco.com/ga/kennesaw/pet-supplies-kennesaw-ga-2542.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b8b7f8883fa2d4a7",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "2434 W Brandon Blvd",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511-4717",
+    "metro": "tampa",
+    "lat": 27.941484955077296,
+    "lng": -82.32157681534422,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2722"
+    },
+    "lastSeenAt": "2026-04-18T19:55:08Z",
+    "claimed": false,
+    "phone": "+18135710120",
+    "website": "https://stores.petco.com/fl/brandon/pet-supplies-brandon-fl-2722.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7d7ad7154ecc1266",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "3372 Cobb Pkwy NW",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "metro": "atlanta",
+    "lat": 34.03791668314694,
+    "lng": -84.68338804553758,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2727"
+    },
+    "lastSeenAt": "2026-04-18T19:55:09Z",
+    "claimed": false,
+    "phone": "+16785746592",
+    "website": "https://stores.petco.com/ga/acworth/pet-supplies-acworth-ga-2727.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "8d59096ed10e7b87",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1243 N Peachtree Pkwy",
+    "city": "Peachtree City",
+    "state": "GA",
+    "zip": "30269",
+    "metro": "atlanta",
+    "lat": 33.43772011735417,
+    "lng": -84.59170758343238,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2729"
+    },
+    "lastSeenAt": "2026-04-18T19:55:09Z",
+    "claimed": false,
+    "phone": "+16783649212",
+    "website": "https://stores.petco.com/ga/peachtree-city/pet-supplies-peachtreecity-ga-2729.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7924ad74902d6540",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "7050 US Hwy 19 N",
+    "city": "Pinellas Park",
+    "state": "FL",
+    "zip": "33781-4601",
+    "metro": "tampa",
+    "lat": 27.8360328773751,
+    "lng": -82.68337299995906,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2788"
+    },
+    "lastSeenAt": "2026-04-18T19:55:11Z",
+    "claimed": false,
+    "phone": "+17275278460",
+    "website": "https://stores.petco.com/fl/pinellas-park/pet-supplies-pinellaspark-fl-2788.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7aaa02fb1300bf35",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "9828 Great Hills Trl",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759",
+    "metro": "austin",
+    "lat": 30.395605576103073,
+    "lng": -97.74812269631252,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "444"
+    },
+    "lastSeenAt": "2026-04-18T19:55:12Z",
+    "claimed": false,
+    "phone": "+15123452355",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-444.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "0e7ef6ec4a2cb193",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "5601 Brodie Ln",
+    "city": "Sunset Valley",
+    "state": "TX",
+    "zip": "78745",
+    "metro": "austin",
+    "lat": 30.22783254350619,
+    "lng": -97.81915512491206,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "448"
+    },
+    "lastSeenAt": "2026-04-18T19:55:12Z",
+    "claimed": false,
+    "phone": "+15128923996",
+    "website": "https://stores.petco.com/tx/sunset-valley/pet-supplies-sunsetvalley-tx-448.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b133c1df9efb0a1d",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "19000 Limestone Commercial Dr",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660-4509",
+    "metro": "austin",
+    "lat": 30.47253834769162,
+    "lng": -97.59685377572272,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1498"
+    },
+    "lastSeenAt": "2026-04-18T19:55:15Z",
+    "claimed": false,
+    "phone": "+15122523677",
+    "website": "https://stores.petco.com/tx/pflugerville/pet-supplies-pflugerville-tx-1498.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e2d34f6f112a04b6",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "5100 Kyle Center Dr",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640-6137",
+    "metro": "austin",
+    "lat": 30.01197944298921,
+    "lng": -97.86559010118243,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2402"
+    },
+    "lastSeenAt": "2026-04-18T19:55:15Z",
+    "claimed": false,
+    "phone": "+15122687428",
+    "website": "https://stores.petco.com/tx/kyle/pet-supplies-kyle-tx-2402.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "bf1e176bc20a6d00",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "30697 US Hwy 19 N",
+    "city": "Palm Harbor",
+    "state": "FL",
+    "zip": "34684-4410",
+    "metro": "tampa",
+    "lat": 28.05117018670259,
+    "lng": -82.73740382491806,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1525"
+    },
+    "lastSeenAt": "2026-04-18T19:55:16Z",
+    "claimed": false,
+    "phone": "+17277858263",
+    "website": "https://stores.petco.com/fl/palm-harbor/pet-supplies-palmharbor-fl-1525.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e9203a822898b9cd",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "7010 W Hwy 71",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78735",
+    "metro": "austin",
+    "lat": 30.235915127132454,
+    "lng": -97.8757759506598,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2740"
+    },
+    "lastSeenAt": "2026-04-18T19:55:19Z",
+    "claimed": false,
+    "phone": "+15127127121",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-2740.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "1ec043d22667ae0a",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "825 Brevard Rd",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806",
+    "metro": "asheville",
+    "lat": 35.532846746071115,
+    "lng": -82.60547054477424,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1533"
+    },
+    "lastSeenAt": "2026-04-18T19:55:19Z",
+    "claimed": false,
+    "phone": "+18286657977",
+    "website": "https://stores.petco.com/nc/asheville/pet-supplies-asheville-nc-1533.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "1ebf2df11ea39e9f",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "210 Franklin Rd",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027-3219",
+    "metro": "nashville",
+    "lat": 36.0324179,
+    "lng": -86.7871449,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1541"
+    },
+    "lastSeenAt": "2026-04-18T19:55:20Z",
+    "claimed": false,
+    "phone": "+16153775360",
+    "website": "https://stores.petco.com/tn/brentwood/pet-supplies-brentwood-tn-1541.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "8b9b783ef25a3984",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "40962 US Hwy 19 N",
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "zip": "34689-5446",
+    "metro": "tampa",
+    "lat": 28.144748388811664,
+    "lng": -82.7426943650297,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1577"
+    },
+    "lastSeenAt": "2026-04-18T19:55:21Z",
+    "claimed": false,
+    "phone": "+17279392937",
+    "website": "https://stores.petco.com/fl/tarpon-springs/pet-supplies-tarponsprings-fl-1577.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "f674a636a61bd15f",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1000 E 41st St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78751",
+    "metro": "austin",
+    "lat": 30.30088318113715,
+    "lng": -97.72057225782284,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "482"
+    },
+    "lastSeenAt": "2026-04-18T19:55:24Z",
+    "claimed": false,
+    "phone": "+15124190311",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-482.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e3af06d767665ccb",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "9638 US Hwy 19 N",
+    "city": "Port Richey",
+    "state": "FL",
+    "zip": "34668",
+    "metro": "tampa",
+    "lat": 28.297137110389468,
+    "lng": -82.70378742270184,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "3701"
+    },
+    "lastSeenAt": "2026-04-18T19:55:31Z",
+    "claimed": false,
+    "phone": "+17278479140",
+    "website": "https://stores.petco.com/fl/port-richey/pet-supplies-portrichey-fl-3701.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "44de9679af0fbb57",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "5120 E Bay Dr",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33764",
+    "metro": "tampa",
+    "lat": 27.91801448695043,
+    "lng": -82.73326273293097,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2525"
+    },
+    "lastSeenAt": "2026-04-18T19:55:32Z",
+    "claimed": false,
+    "phone": "+17273732601",
+    "website": "https://stores.petco.com/fl/clearwater/pet-supplies-clearwater-fl-2525.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e3c23ce6f8db0f70",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "7657 Hwy 70 S",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221-1706",
+    "metro": "nashville",
+    "lat": 36.07654359921667,
+    "lng": -86.9501441758623,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "1609"
+    },
+    "lastSeenAt": "2026-04-18T19:55:36Z",
+    "claimed": false,
+    "phone": "+16156622585",
+    "website": "https://stores.petco.com/tn/nashville/pet-supplies-nashville-tn-1609.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "4cf268508a36b44e",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "1267 Caroline St NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30307",
+    "metro": "atlanta",
+    "lat": 33.75753818176381,
+    "lng": -84.34631498429553,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petco",
+      "storeId": "2718"
+    },
+    "lastSeenAt": "2026-04-18T19:55:39Z",
+    "claimed": false,
+    "phone": "+14045211762",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-2718.html",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "57fe6a58b22cf54f",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3335 Cobb Parkway NW Ste 500",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "metro": "atlanta",
+    "lat": 34.0333729,
+    "lng": -84.6827165,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/acworth/acworth"
+    },
+    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "claimed": false,
+    "phone": "+17705290748",
+    "website": "https://stores.petsmart.com/ga/acworth/acworth",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "9376816317cb3dd1",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "6370 North Point Pkwy",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 34.04618,
+    "lng": -84.29159,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/alpharetta/alpharetta"
+    },
+    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "claimed": false,
+    "phone": "+17703438511",
+    "website": "https://stores.petsmart.com/ga/alpharetta/alpharetta",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "de66e5f25bc34fa0",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3221 Peachtree Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30305",
+    "metro": "atlanta",
+    "lat": 33.84236,
+    "lng": -84.37343,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/atlanta/buckhead"
+    },
+    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "claimed": false,
+    "phone": "+14042660402",
+    "website": "https://stores.petsmart.com/ga/atlanta/buckhead",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "fb6f4ce815bbd009",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1801 Howell Mill Rd NW Ste 30",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.8033988,
+    "lng": -84.4113632,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/atlanta/castlegate"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+14043529746",
+    "website": "https://stores.petsmart.com/ga/atlanta/castlegate",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "d1625e730a08e3f1",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "650 Ponce De Leon Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308",
+    "metro": "atlanta",
+    "lat": 33.7759684,
+    "lng": -84.3660274,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/atlanta/midtown-atlanta"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+14048722363",
+    "website": "https://stores.petsmart.com/ga/atlanta/midtown-atlanta",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "661c516ffe3aa6ac",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "128 Perimeter Center W",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30346",
+    "metro": "atlanta",
+    "lat": 33.92779,
+    "lng": -84.34497,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/atlanta/perimeter"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+17704810043",
+    "website": "https://stores.petsmart.com/ga/atlanta/perimeter",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6f664050f0972040",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "4155 Austell Rd",
+    "city": "Austell",
+    "state": "GA",
+    "zip": "30106",
+    "metro": "atlanta",
+    "lat": 33.85148,
+    "lng": -84.60412,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/austell/austell"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+16789451081",
+    "website": "https://stores.petsmart.com/ga/austell/austell",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "ebcd3aa1da63baee",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1705 Mall of Georgia Blvd 50",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519",
+    "metro": "atlanta",
+    "lat": 34.06067,
+    "lng": -83.99386,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/buford/mall-of-georgia"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+16784827449",
+    "website": "https://stores.petsmart.com/ga/buford/mall-of-georgia",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b70c6bafa75a55d0",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1810 Cumming Highway Ste 12",
+    "city": "Canton",
+    "state": "GA",
+    "zip": "30114",
+    "metro": "atlanta",
+    "lat": 34.2366498,
+    "lng": -84.4587859,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/canton/canton"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+17707047400",
+    "website": "https://stores.petsmart.com/ga/canton/canton",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "75d7d9ee54acb298",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1020 Market Place Blvd",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041",
+    "metro": "atlanta",
+    "lat": 34.18073,
+    "lng": -84.12935,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/cumming/cumming"
+    },
+    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "claimed": false,
+    "phone": "+16785131689",
+    "website": "https://stores.petsmart.com/ga/cumming/cumming",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "855fbc31a2d96e36",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "2940 Chapel Hill Rd",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30135",
+    "metro": "atlanta",
+    "lat": 33.72588,
+    "lng": -84.73572,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/douglasville/douglasville"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+17709423326",
+    "website": "https://stores.petsmart.com/ga/douglasville/douglasville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "f39db24b02e19fc6",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3803 Venture Dr",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "metro": "atlanta",
+    "lat": 33.95321,
+    "lng": -84.13698,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/duluth/duluth"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+17708138400",
+    "website": "https://stores.petsmart.com/ga/duluth/duluth",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b3c0f868d2925abe",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3665 Marketplace Blvd",
+    "city": "East Point",
+    "state": "GA",
+    "zip": "30344",
+    "metro": "atlanta",
+    "lat": 33.6575611,
+    "lng": -84.503276,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/east-point/east-point"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+14043440773",
+    "website": "https://stores.petsmart.com/ga/east-point/east-point",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "0f0f020befdca91c",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "101 Pavilion Pkwy",
+    "city": "Fayetteville",
+    "state": "GA",
+    "zip": "30214",
+    "metro": "atlanta",
+    "lat": 33.4804,
+    "lng": -84.43879,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/fayetteville/fayetteville"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+17707194444",
+    "website": "https://stores.petsmart.com/ga/fayetteville/fayetteville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "fd190b3d3c0e4ee8",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "4794 Jimmy Lee Smith Pkwy Ste 108",
+    "city": "Hiram",
+    "state": "GA",
+    "zip": "30141",
+    "metro": "atlanta",
+    "lat": 33.886151,
+    "lng": -84.746319,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/hiram/hiram"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+16785670583",
+    "website": "https://stores.petsmart.com/ga/hiram/hiram",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "8b5896a03cf55c31",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "860 Cobb Place Blvd NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "metro": "atlanta",
+    "lat": 34.01162,
+    "lng": -84.57151,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/kennesaw/kennesaw"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+17704245226",
+    "website": "https://stores.petsmart.com/ga/kennesaw/kennesaw",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6722fe01c2cd979a",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "875 Lawrenceville-Suwanee Rd",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30043",
+    "metro": "atlanta",
+    "lat": 33.97085,
+    "lng": -84.01691,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/lawrenceville/lawrenceville"
+    },
+    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "claimed": false,
+    "phone": "+17709952449",
+    "website": "https://stores.petsmart.com/ga/lawrenceville/lawrenceville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "326751d5bd621165",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "2150 Paxton Dr SW",
+    "city": "Lilburn",
+    "state": "GA",
+    "zip": "30047",
+    "metro": "atlanta",
+    "lat": 33.83686,
+    "lng": -84.07566,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/lilburn/stone-mountain"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+17709850469",
+    "website": "https://stores.petsmart.com/ga/lilburn/stone-mountain",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "17718f62b6ec0151",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1285 Johnson Ferry Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9788955,
+    "lng": -84.4249282,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/marietta/marietta"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+17709713010",
+    "website": "https://stores.petsmart.com/ga/marietta/marietta",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6fcc3a2bfd1dd0ce",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1950 Jonesboro Rd",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30253",
+    "metro": "atlanta",
+    "lat": 33.46557,
+    "lng": -84.2202,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/mcdonough/mcdonough"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+16785830287",
+    "website": "https://stores.petsmart.com/ga/mcdonough/mcdonough",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e39325c62c961009",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1986 Mount Zion Rd",
+    "city": "Morrow",
+    "state": "GA",
+    "zip": "30260",
+    "metro": "atlanta",
+    "lat": 33.56428,
+    "lng": -84.32564,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/morrow/southlake"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+17704780860",
+    "website": "https://stores.petsmart.com/ga/morrow/southlake",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "e65501330e14f3f7",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "6050 Peachtree Pkwy",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30092",
+    "metro": "atlanta",
+    "lat": 33.95167,
+    "lng": -84.23224,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/norcross/norcross"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+17703000926",
+    "website": "https://stores.petsmart.com/ga/norcross/norcross",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "cf50a9871fdf7505",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "625 Crossville Rd Ste 134",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.0596258,
+    "lng": -84.380203,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/roswell/north-roswell"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+16783528138",
+    "website": "https://stores.petsmart.com/ga/roswell/north-roswell",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "ea7bd085b9029f5d",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "2540 Cumberland Blvd",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.88823,
+    "lng": -84.47506,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/smyrna/smyrna"
+    },
+    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "claimed": false,
+    "phone": "+17704328250",
+    "website": "https://stores.petsmart.com/ga/smyrna/smyrna",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "bdfcdfe1c0eb6c2c",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1929 Scenic Highway N",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078",
+    "metro": "atlanta",
+    "lat": 33.8728111,
+    "lng": -84.0142784,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/snellville/snellville"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+17702250382",
+    "website": "https://stores.petsmart.com/ga/snellville/snellville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "f2f6f5aff7534b48",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3630 Peachtree Pkwy",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.07112,
+    "lng": -84.16796,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/suwanee/johns-creek"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+17708148723",
+    "website": "https://stores.petsmart.com/ga/suwanee/johns-creek",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6604787f8a3661a5",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "4023 Lavista Rd",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "metro": "atlanta",
+    "lat": 33.84642,
+    "lng": -84.25256,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/tucker/tucker"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+17704145126",
+    "website": "https://stores.petsmart.com/ga/tucker/tucker",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b0f46f843811c32a",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "142 Woodstock Square Ave",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189",
+    "metro": "atlanta",
+    "lat": 34.08403,
+    "lng": -84.54393,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "ga/woodstock/woodstock"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+16784452741",
+    "website": "https://stores.petsmart.com/ga/woodstock/woodstock",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "c009b637a1141a72",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1051 Brandon Blvd West",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.9376,
+    "lng": -82.3003,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/brandon/brandon"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+18136894814",
+    "website": "https://stores.petsmart.com/fl/brandon/brandon",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "1c5fd028b2ed6411",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "11331 Causeway Blvd",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.92314,
+    "lng": -82.32185,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/brandon/brandon-causeway"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+18136893378",
+    "website": "https://stores.petsmart.com/fl/brandon/brandon-causeway",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "a43e109d5bfb8ef5",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "26277 US Hwy 19 N",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33761",
+    "metro": "tampa",
+    "lat": 28.01115,
+    "lng": -82.73148,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/clearwater/north-clearwater"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+17277993311",
+    "website": "https://stores.petsmart.com/fl/clearwater/north-clearwater",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "636767f944f51fe8",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "2625 Gulf To Bay",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33759",
+    "metro": "tampa",
+    "lat": 27.96048,
+    "lng": -82.72886,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/clearwater/south-clearwater"
+    },
+    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "claimed": false,
+    "phone": "+17277253755",
+    "website": "https://stores.petsmart.com/fl/clearwater/south-clearwater",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b365c3c9dc8383ac",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "10500 Ulmerton Rd Ste 308",
+    "city": "Largo",
+    "state": "FL",
+    "zip": "33771",
+    "metro": "tampa",
+    "lat": 27.8907721,
+    "lng": -82.7851576,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/largo/largo"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+17275182600",
+    "website": "https://stores.petsmart.com/fl/largo/largo",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "9a3d8cb1735e5ba0",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3130 Tampa Rd",
+    "city": "Oldsmar",
+    "state": "FL",
+    "zip": "34677",
+    "metro": "tampa",
+    "lat": 28.0523501,
+    "lng": -82.6991542,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/oldsmar/oldsmar"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+17274311991",
+    "website": "https://stores.petsmart.com/fl/oldsmar/oldsmar",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "139dec42940bc56e",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "211 West Alexander Street Suite A",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33563",
+    "metro": "tampa",
+    "lat": 27.9871917,
+    "lng": -82.1241072,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/plant-city/plant-city"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+18137036961",
+    "website": "https://stores.petsmart.com/fl/plant-city/plant-city",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "52d75a09f5594be6",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "7777 Dr Martin Luther King St",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33702",
+    "metro": "tampa",
+    "lat": 27.8439035,
+    "lng": -82.6441864,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/st-petersburg/ne-st-petersburg-gateway"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+17275779935",
+    "website": "https://stores.petsmart.com/fl/st-petersburg/ne-st-petersburg-gateway",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "302913d0df430647",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "12835 Citrus Plaza Dr",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33625",
+    "metro": "tampa",
+    "lat": 28.06391,
+    "lng": -82.57561,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/tampa/citrus-park"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+18139267488",
+    "website": "https://stores.petsmart.com/fl/tampa/citrus-park",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "33d059c866ebe355",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "6248 Commerce Palms Drive",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": 28.11506,
+    "lng": -82.37871,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/tampa/north-tampa"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+18135588160",
+    "website": "https://stores.petsmart.com/fl/tampa/north-tampa",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "ce66b86245f2d570",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1540 N Dale Mabry Hwy",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.95643,
+    "lng": -82.50566,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/tampa/south-tampa"
+    },
+    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "claimed": false,
+    "phone": "+18138759721",
+    "website": "https://stores.petsmart.com/fl/tampa/south-tampa",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "6d4e276764c4cef6",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "11665 W Hillsborough Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33635",
+    "metro": "tampa",
+    "lat": 28.01739,
+    "lng": -82.61889,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/tampa/westchase"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+18138916371",
+    "website": "https://stores.petsmart.com/fl/tampa/westchase",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b5a535f7810c0bf1",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3313 Lithia Pinecrest Rd.",
+    "city": "Valrico",
+    "state": "FL",
+    "zip": "33596",
+    "metro": "tampa",
+    "lat": 27.8959948,
+    "lng": -82.2439704,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/valrico/bloomingdale"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+18132629912",
+    "website": "https://stores.petsmart.com/fl/valrico/bloomingdale",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "be71b40bca47977f",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "6001 Wesley Grove Blvd.",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544",
+    "metro": "tampa",
+    "lat": 28.24402,
+    "lng": -82.35156,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "fl/wesley-chapel/wesley-chapel-new-tampa"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+18139947010",
+    "website": "https://stores.petsmart.com/fl/wesley-chapel/wesley-chapel-new-tampa",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "769f3f36b42bede7",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "12812 Shops Parkway Ste 400",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78738",
+    "metro": "austin",
+    "lat": 30.30558,
+    "lng": -97.94197,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/austin-bee-cave"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+15122635790",
+    "website": "https://stores.petsmart.com/tx/austin/austin-bee-cave",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "c1cfaab4ed90df1f",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1201 Barbara Jordan Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78723",
+    "metro": "austin",
+    "lat": 30.30662,
+    "lng": -97.70944,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/austin-mueller"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+15124690501",
+    "website": "https://stores.petsmart.com/tx/austin/austin-mueller",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "00fb9ad4b927e4d3",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "11150 Research Blvd Svrd SB Ste 100",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759",
+    "metro": "austin",
+    "lat": 30.40723,
+    "lng": -97.74551,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/north-austin-balcones"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+15125279644",
+    "website": "https://stores.petsmart.com/tx/austin/north-austin-balcones",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "3d7068b7c4c74316",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1628 Ohlen Rd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.36365,
+    "lng": -97.71708,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/north-austin-ohlen"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+15128357221",
+    "website": "https://stores.petsmart.com/tx/austin/north-austin-ohlen",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "bbd16399e680c41c",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "12901 N I-35 Bldg 7 Ste 700",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "metro": "austin",
+    "lat": 30.41544,
+    "lng": -97.67284,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/north-austin-parmer"
+    },
+    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "claimed": false,
+    "phone": "+15129900365",
+    "website": "https://stores.petsmart.com/tx/austin/north-austin-parmer",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "200a4f4459e3eb5c",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "9300 South IH-35",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.14653,
+    "lng": -97.7941,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/austin/se-austin"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15122800404",
+    "website": "https://stores.petsmart.com/tx/austin/se-austin",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "0f4c33e75d9a6eab",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "11066 Pecan Park Blvd Ste 315",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.46993,
+    "lng": -97.80117,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/cedar-park/austin-lakeline"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15129968605",
+    "website": "https://stores.petsmart.com/tx/cedar-park/austin-lakeline",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7e867c3112a2317f",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1335 E. Whitestone Blvd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.52629,
+    "lng": -97.81361,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/cedar-park/cedar-park"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15125281683",
+    "website": "https://stores.petsmart.com/tx/cedar-park/cedar-park",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "3d1d8acc3ea9e96b",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1013 W University Ave Bldg B",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6310193,
+    "lng": -97.6943288,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/georgetown/georgetown"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15128682288",
+    "website": "https://stores.petsmart.com/tx/georgetown/georgetown",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "7e229725f0d44aa0",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "201 University Oaks Blvd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78665",
+    "metro": "austin",
+    "lat": 30.55583,
+    "lng": -97.68968,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/round-rock/north-round-rock"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15122388859",
+    "website": "https://stores.petsmart.com/tx/round-rock/north-round-rock",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "c8f9947b24a209aa",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "2601 S IH35 Pad E",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.48426,
+    "lng": -97.67182,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/round-rock/round-rock"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15122181816",
+    "website": "https://stores.petsmart.com/tx/round-rock/round-rock",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "a8cd83ea1969db35",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1050 McKinley Place Dr, Suite 30",
+    "city": "San Marcos",
+    "state": "TX",
+    "zip": "78666",
+    "metro": "austin",
+    "lat": 29.85372,
+    "lng": -97.95294,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tx/san-marcos/san-marcos"
+    },
+    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "claimed": false,
+    "phone": "+15123925959",
+    "website": "https://stores.petsmart.com/tx/san-marcos/san-marcos",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "1510a53ed29581d3",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "8105 Moores Lane Ste 1300",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027",
+    "metro": "nashville",
+    "lat": 35.96574,
+    "lng": -86.80221,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/brentwood/brentwood"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16153718890",
+    "website": "https://stores.petsmart.com/tn/brentwood/brentwood",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b4d54f6cf4081f41",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "235 E MAIN ST#100",
+    "city": "HENDERSONVILLE",
+    "state": "TN",
+    "zip": "37075",
+    "metro": "nashville",
+    "lat": 36.3070378,
+    "lng": -86.6022608,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/hendersonville/hendersonville-tn"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16154313963",
+    "website": "https://stores.petsmart.com/tn/hendersonville/hendersonville-tn",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "44a883f09206aa63",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "401 South Mt Juliet Rd Suite 645",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.16614,
+    "lng": -86.51399,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/mount-juliet/mt-juliet"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16157732175",
+    "website": "https://stores.petsmart.com/tn/mount-juliet/mt-juliet",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "dd3b58200cd70521",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1734 Old Fort Pkwy",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129",
+    "metro": "nashville",
+    "lat": 35.84629,
+    "lng": -86.41871,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/murfreesboro/murfreesboro"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16158904344",
+    "website": "https://stores.petsmart.com/tn/murfreesboro/murfreesboro",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "5bcb0d9fbb212822",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "719 Thompson Lane",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37204",
+    "metro": "nashville",
+    "lat": 36.10866,
+    "lng": -86.76367,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/nashville/nashville-100-oaks-mall"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16153860105",
+    "website": "https://stores.petsmart.com/tn/nashville/nashville-100-oaks-mall",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "63e64b7f33b5f683",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "6622 Charlotte Pike Suite 108",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209",
+    "metro": "nashville",
+    "lat": 36.13758,
+    "lng": -86.88239,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/nashville/west-nashville"
+    },
+    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "claimed": false,
+    "phone": "+16153529386",
+    "website": "https://stores.petsmart.com/tn/nashville/west-nashville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "474237b69e5606ff",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "807 Industrial Boulevard",
+    "city": "Smyrna",
+    "state": "TN",
+    "zip": "37167",
+    "metro": "nashville",
+    "lat": 35.979498,
+    "lng": -86.569632,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/smyrna/smyrna"
+    },
+    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "claimed": false,
+    "phone": "+16152208487",
+    "website": "https://stores.petsmart.com/tn/smyrna/smyrna",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "631ee7dab7a9a3ed",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "1038 Crossings Blvd",
+    "city": "Spring Hill",
+    "state": "TN",
+    "zip": "37174",
+    "metro": "nashville",
+    "lat": 35.73648,
+    "lng": -86.9355,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "tn/spring-hill/spring-hill"
+    },
+    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "claimed": false,
+    "phone": "+19314862727",
+    "website": "https://stores.petsmart.com/tn/spring-hill/spring-hill",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "b3b38bfff22cc110",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "3 McKenna Rd",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "metro": "asheville",
+    "lat": 35.44721,
+    "lng": -82.53313,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "nc/arden/arden"
+    },
+    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "claimed": false,
+    "phone": "+18286815343",
+    "website": "https://stores.petsmart.com/nc/arden/arden",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "ff4050031783b46f",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "150 Bleachery Blvd.",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28805",
+    "metro": "asheville",
+    "lat": 35.57496,
+    "lng": -82.51287,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "nc/asheville/asheville"
+    },
+    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "claimed": false,
+    "phone": "+18282985670",
+    "website": "https://stores.petsmart.com/nc/asheville/asheville",
+    "subcategories": [
+      "retail"
+    ]
+  },
+  {
+    "id": "be792c5939f79141",
+    "name": "PetSmart",
+    "category": "groomer",
+    "address": "213 Greenville Hwy",
+    "city": "Hendersonville",
+    "state": "NC",
+    "zip": "28792",
+    "metro": "asheville",
+    "lat": 35.3078331,
+    "lng": -82.4597521,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "petsmart",
+      "storeId": "nc/hendersonville/hendersonville-nc"
+    },
+    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "claimed": false,
+    "phone": "+18283933206",
+    "website": "https://stores.petsmart.com/nc/hendersonville/hendersonville-nc",
+    "subcategories": [
+      "retail"
+    ]
+  }
+]
