@@ -1,0 +1,885 @@
+[
+  {
+    "id": "86febc6fd18bb83c",
+    "name": "Paulding County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9448191,
+    "lng": -84.8175644,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/367914488"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "f359291455686d93",
+    "name": "Rockdale County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.6835,
+    "lng": -83.9997,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/367914502"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "6c117a87a9ef776c",
+    "name": "Our Pal's Place",
+    "category": "shelter",
+    "address": "4508 Canton Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066",
+    "metro": "atlanta",
+    "lat": 34.0611547,
+    "lng": -84.5212796,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7608047303"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+16783617623",
+    "website": "https://www.opp.ourpalsplace.org/",
+    "email": "helpanimals@ourpalsplace.org",
+    "hours": {
+      "raw": "Sa-Su 13:00-17:00 || \"by appointment\""
+    }
+  },
+  {
+    "id": "5431ab3b9d0d1135",
+    "name": "Bosley's Place",
+    "category": "shelter",
+    "address": "3485 South Cobb Drive",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8688121,
+    "lng": -84.5254649,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10619435286"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14045654025",
+    "website": "https://www.bosleysplace.com",
+    "email": "info@bosleysplace.com"
+  },
+  {
+    "id": "26e9696c3fc93ef0",
+    "name": "Papayago Rescue House",
+    "category": "shelter",
+    "address": "3778 Canton Road Northeast, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0439452,
+    "lng": -84.5291324,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10817221574"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14703082011",
+    "website": "https://papayagorescuehouse.org/",
+    "hours": {
+      "raw": "by appointment"
+    }
+  },
+  {
+    "id": "348a85ab978782d2",
+    "name": "Furkids Adoption Center - East Cobb",
+    "category": "shelter",
+    "address": "4001 Canton Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0471176,
+    "lng": -84.5292975,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11724822632"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "website": "https://furkids.org/"
+  },
+  {
+    "id": "7f36ec70834a635f",
+    "name": "Furkids Pet Adoption and Community Resource Center",
+    "category": "shelter",
+    "address": "4015 Holcomb Bridge Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9659452,
+    "lng": -84.2567639,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13158634427"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "0d6d1c78a3624c71",
+    "name": "Fulton County Animal Services",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7788928,
+    "lng": -84.4279774,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13228178496"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "cc3505255d3885d0",
+    "name": "Good Mews",
+    "category": "shelter",
+    "address": "3805 Robinson Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9775312,
+    "lng": -84.4418424,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/284701423"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17704992287",
+    "website": "https://www.goodmews.org/",
+    "hours": {
+      "raw": "Sa 10:00-16:00; Su[2-5] 13:00-16:00"
+    }
+  },
+  {
+    "id": "fae39e067b607ee6",
+    "name": "Humane Society of Cobb County",
+    "category": "shelter",
+    "address": "148 South Fairground Street Southeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "metro": "atlanta",
+    "lat": 33.948298,
+    "lng": -84.5362256,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/295295206"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "60dd297c7b139f51",
+    "name": "Gwinnett County Bill Atkinson Animal Welfare Center",
+    "category": "shelter",
+    "address": "884 Winder Highway",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30045",
+    "metro": "atlanta",
+    "lat": 33.9707168,
+    "lng": -83.9537931,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/364440309"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17703393200",
+    "website": "https://www.gwinnettcounty.com/portal/gwinnett/Departments/Police/AnimalWelfareandEnforcementNew",
+    "hours": {
+      "raw": "Mo-Sa 08:30-16:30"
+    }
+  },
+  {
+    "id": "59bbb77446159251",
+    "name": "Atlanta Humane Society - Mansell Campus",
+    "category": "shelter",
+    "address": "1565 Mansell Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30009",
+    "metro": "atlanta",
+    "lat": 34.0382611,
+    "lng": -84.3212185,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/364553299"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14048755331",
+    "website": "http://atlantahumane.org/"
+  },
+  {
+    "id": "e915da0a39dcb3e4",
+    "name": "Royal Animal Refuge",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4938741,
+    "lng": -84.5769698,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/369312003"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "9d5a24535b489d27",
+    "name": "Georgia House Rabbit Society",
+    "category": "shelter",
+    "address": "3114 Cherokee Street Northwest",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30114",
+    "metro": "atlanta",
+    "lat": 34.0295782,
+    "lng": -84.6086779,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/753419368"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+16786537175",
+    "website": "https://www.houserabbitga.com/",
+    "hours": {
+      "raw": "Mo 11:00-18:00; Tu 11:00-17:00; We 11:00-18:00; Th-Fr 11:00-17:00; Sa 12:00-17:00"
+    }
+  },
+  {
+    "id": "4b3252d568c504ce",
+    "name": "Mostly Mutts Animal Rescue",
+    "category": "shelter",
+    "address": "3238 Cherokee Street Northwest",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0322214,
+    "lng": -84.6069509,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/755218133"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17702726888",
+    "website": "https://mostlymutts.org/",
+    "hours": {
+      "raw": "Mo-Sa 10:00-15:00; Su off"
+    }
+  },
+  {
+    "id": "c2d1d72e61fcda66",
+    "name": "Henry County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4346661,
+    "lng": -84.1628044,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/949450395"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "ed2a96f75231b79f",
+    "name": "Clayton County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.5380435,
+    "lng": -84.3453915,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/968164363"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "d79c44766a0a9b00",
+    "name": "The Dog House",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8554935,
+    "lng": -84.6010645,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1010580734"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "af94169ba44e3a90",
+    "name": "Arthur M. Blank Family Animal Center",
+    "category": "shelter",
+    "address": "1551 Perry Boulevard Northwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.7897598,
+    "lng": -84.4383745,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1090404878"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "website": "https://atlantahumane.org"
+  },
+  {
+    "id": "c4a33c80c28de976",
+    "name": "Pet Pal Animal Shelter",
+    "category": "shelter",
+    "address": "405 22nd Street South",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33712",
+    "metro": "tampa",
+    "lat": 27.7671801,
+    "lng": -82.6632846,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/295556643"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+17273287738",
+    "email": "info@petpalanimalshelter.com",
+    "hours": {
+      "raw": "Tu-Fr 11:00-16:30, Sa 10:00-04:30"
+    }
+  },
+  {
+    "id": "137f0eb4100bdcb5",
+    "name": "Humane Society Tampa Bay",
+    "category": "shelter",
+    "address": "3607 North Armenia Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.9714866,
+    "lng": -82.4842267,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/524345111"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+18138767138",
+    "website": "https://humanesocietytampa.org/"
+  },
+  {
+    "id": "44e7a2efeec9a920",
+    "name": "Manatee County Animal Services",
+    "category": "shelter",
+    "address": "305 25th Street West",
+    "city": "Palmetto",
+    "state": "FL",
+    "zip": "34221",
+    "metro": "tampa",
+    "lat": 27.5336734,
+    "lng": -82.5662354,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "relation/14635720"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+19417425933",
+    "website": "https://www.mymanatee.org/pets/",
+    "hours": {
+      "raw": "Mo-Sa 10:00-17:00; Su 13:00-16:00"
+    }
+  },
+  {
+    "id": "360a0b6d9936a4b0",
+    "name": "Texas Humane Heroes",
+    "category": "shelter",
+    "address": "10930 East Crystal Falls Parkway",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5658039,
+    "lng": -97.8081439,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1203890440"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15122603602",
+    "website": "https://humaneheroes.org/",
+    "email": "info@texashumaneheroes.org",
+    "hours": {
+      "raw": "Tu-Fr 12:00-18:00; Sa-Su 11:00-17:00"
+    }
+  },
+  {
+    "id": "7c2bf90244e9008d",
+    "name": "Williamson County Regional Animal Shelter",
+    "category": "shelter",
+    "address": "1855 Southeast Inner Loop",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6172992,
+    "lng": -97.6553985,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3660970520"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129433322",
+    "website": "https://pets.wilco.org/"
+  },
+  {
+    "id": "b957a67b34bd8da1",
+    "name": "APA! Tarrytown Dog Adoption Center Play Yard & Gift Shop",
+    "category": "shelter",
+    "address": "3118 Windsor Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.2967742,
+    "lng": -97.7679341,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295814522"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Su 12:00-19:00"
+    }
+  },
+  {
+    "id": "c4b24f00d585f48a",
+    "name": "Austin Pets Alive! Town Lake Animal Center",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.269672,
+    "lng": -97.7597722,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295844535"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Su 11:30-19:00"
+    }
+  },
+  {
+    "id": "ffa42bec62ab18dd",
+    "name": "Austin Pets Alive! Town Lake Animal Adoption Cetner",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.2698608,
+    "lng": -97.759685,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295844536"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129616519",
+    "website": "https://www.austinpetsalive.org/",
+    "hours": {
+      "raw": "Mo-Su 12:00-18:00"
+    }
+  },
+  {
+    "id": "fff49a4ee8595e43",
+    "name": "House Rabbit Resource Network",
+    "category": "shelter",
+    "address": "110 West Pflugerville Parkway, Unit Suite E",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660",
+    "metro": "austin",
+    "lat": 30.4656626,
+    "lng": -97.6259774,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11406200510"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "website": "https://rabbitresource.org/",
+    "email": "hrrn@rabbitresource.org"
+  },
+  {
+    "id": "98a483299ada597e",
+    "name": "Canine Headquarters",
+    "category": "shelter",
+    "address": "1350 County Road 130",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.623266,
+    "lng": -97.5650357,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12219346696"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "47a62d4a08dbd6b9",
+    "name": "City of Georgetown Animal Shelter",
+    "category": "shelter",
+    "address": "110 West L Walden Drive",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.649755,
+    "lng": -97.6643117,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12286708838"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "a4559dc2852136f4",
+    "name": "Austin Humane Society",
+    "category": "shelter",
+    "address": "124 West Anderson Lane",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.344704,
+    "lng": -97.705244,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/379203995"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "website": "https://www.austinhumanesociety.org/"
+  },
+  {
+    "id": "3050cc86875cffbf",
+    "name": "Austin Wildlife Rescue",
+    "category": "shelter",
+    "address": "5401 East Martin Luther King Jr Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78721",
+    "metro": "austin",
+    "lat": 30.285906,
+    "lng": -97.6737047,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382016737"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15124729453",
+    "website": "https://www.austinwildliferescue.org/",
+    "hours": {
+      "raw": "Mo-Su 09:00-16:00"
+    }
+  },
+  {
+    "id": "3cc0f57cf4b634b1",
+    "name": "Austin Animal Center",
+    "category": "shelter",
+    "address": "7201 Levander Loop, Unit Bldg A",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.2514663,
+    "lng": -97.6896802,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382724204"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129742000",
+    "website": "https://www.austintexas.gov/content/austin-animal-center"
+  },
+  {
+    "id": "8d1ed184d3436c82",
+    "name": "Deer Pens",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2450118,
+    "lng": -97.4445384,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576267"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "e887432d9ffffbe4",
+    "name": "Bird Cages",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2448503,
+    "lng": -97.4434282,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576268"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "2b95ad913c1673be",
+    "name": "Opossum Cages",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2448809,
+    "lng": -97.4435414,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576269"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "5d1c4a7b14f3e7b6",
+    "name": "Austin Pets Alive!",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.269871,
+    "lng": -97.7592895,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "relation/5691105"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "42bb02912cea44f8",
+    "name": "Friends of Madison Co.",
+    "category": "shelter",
+    "address": "107 South Main Street",
+    "city": "Marshall",
+    "state": "NC",
+    "zip": "28753",
+    "metro": "asheville",
+    "lat": 35.7969269,
+    "lng": -82.6821916,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6439976190"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false
+  },
+  {
+    "id": "ca2c129329cdfe47",
+    "name": "Brother Wolf",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.5724532,
+    "lng": -82.5252393,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11181502441"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false
+  },
+  {
+    "id": "3822cd049a77c51e",
+    "name": "Buncombe County Animal Shelter",
+    "category": "shelter",
+    "address": "16 Forever Friend Lane",
+    "city": "",
+    "state": "NC",
+    "zip": "28806",
+    "metro": "asheville",
+    "lat": 35.5477011,
+    "lng": -82.6013865,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/943676272"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false,
+    "phone": "+18282506430",
+    "hours": {
+      "raw": "Mo-Fr 10:00-16:00; Sa 12:00-16:00"
+    }
+  }
+]

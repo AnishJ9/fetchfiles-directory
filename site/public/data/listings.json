@@ -26,7 +26,8 @@
     "website": "https://vcahospitals.com/roswell",
     "hours": {
       "raw": "Mo-Th 07:30-19:00; Fr 07:30-18:00; Sa 08:00-16:00"
-    }
+    },
+    "description": "VCA Roswell Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "bce917c6be402638",
@@ -48,7 +49,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://churchstanimalhospital.com/"
+    "website": "https://churchstanimalhospital.com/",
+    "description": "Welcome to Church Street Animal Hospital, a trusted veterinary hospital offering compassionate care, modern medicine, and personalized service for pets and their families."
   },
   {
     "id": "53876a9584d12a9c",
@@ -91,7 +93,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://eastatlantaanimalclinic.com/"
+    "website": "https://eastatlantaanimalclinic.com/",
+    "description": "Our veterinarians are devoted to staying on top of the latest diagnostics, treatments, and wellness programs to maintain your pet\u2019s optimal health. Call us."
   },
   {
     "id": "cb4fdd0433017fd1",
@@ -144,7 +147,8 @@
     "website": "http://www.windyhillvet.com/",
     "hours": {
       "raw": "Mo-We 8:00-18:00; Th 9:00-12:00; Fr 8:00-18:00; Sa 9:00-12:00"
-    }
+    },
+    "description": "Get top-rated veterinary care at Windy Hill Veterinary Hospital in Smyrna, GA. Our experienced vets provide compassionate pet services. Book an appointment today or contact us for more details!"
   },
   {
     "id": "8e36247c73385bb2",
@@ -170,7 +174,8 @@
     "website": "http://www.cobbevc.com/",
     "hours": {
       "raw": "Mo-Th 16:00-09:00; Fr 16:00-24:00; Sa-Su 00:00-24:00"
-    }
+    },
+    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area."
   },
   {
     "id": "140a3ee015ea998a",
@@ -196,7 +201,8 @@
     "website": "http://cumberlandanimalclinic.com/",
     "hours": {
       "raw": "Mo 08:00-18:00; Tu-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-13:00"
-    }
+    },
+    "description": "Cumberland Animal Clinic is a full-service veterinary hospital that offers comprehensive services for pets in Smyrna. We're open 6 days a week - call or book online."
   },
   {
     "id": "a8fa53746549294a",
@@ -223,7 +229,8 @@
     "email": "info@ansleyanimalclinic.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:30"
-    }
+    },
+    "description": "Ansley Animal Clinic provides comprehensive pet care in Atlanta, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "bd35acc57ea93724",
@@ -346,7 +353,8 @@
     },
     "subcategories": [
       "cat-only"
-    ]
+    ],
+    "description": "Trusted Johns Creek Veterinary Clinic providing full-service care for dogs, cats, rabbits, and exotic species. Compassionate care since 2001."
   },
   {
     "id": "5f99947ac89c4195",
@@ -393,7 +401,8 @@
     "website": "http://www.millermobilevet.com/",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-    }
+    },
+    "description": "Miller Vet Marietta offers compassionate mobile veterinary services for your pets in Marietta, GA. Schedule an appointment today!"
   },
   {
     "id": "50b396c6c4e87645",
@@ -440,7 +449,8 @@
     "website": "https://www.mariettavetclinic.com/",
     "hours": {
       "raw": "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-    }
+    },
+    "description": "Dr. Julian Peckich and his friendly team are dedicated to providing honest, personalized pet care, from basic examinations to emergency procedures."
   },
   {
     "id": "27cf7fd25c8538d9",
@@ -509,7 +519,8 @@
     "website": "https://pethoodga.org/",
     "hours": {
       "raw": "Mo-Th 07:30-17:00"
-    }
+    },
+    "description": "Discover affordable pet care services, rescue programs, and ways to get involved with Planned PEThood of Georgia. Help us make a difference for pets in need."
   },
   {
     "id": "20b2cb4ffb3e1c6a",
@@ -577,7 +588,8 @@
     "website": "https://www.northhillsatlantavet.com/",
     "hours": {
       "raw": "Mo-Fr 11:00-20:00; Sa 08:00-13:00"
-    }
+    },
+    "description": "Affordable veterinarian Atlanta area. Dentistry, Allergy management, spay/neuter, Bone Plating, ACL surgery TTA/MMP, Extra-capsular repair North Hills Animal Hospital"
   },
   {
     "id": "9ea2e3f83028ee4e",
@@ -627,7 +639,8 @@
     "website": "https://www.banfield.com/locations/veterinarians/ga/woodstock/wsk",
     "hours": {
       "raw": "Mo-Sa 08:00-18:00; Su 08:00-17:00"
-    }
+    },
+    "description": "Banfield Pet Hospital\u00ae - Woodstock provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "9486401d09e22df3",
@@ -674,7 +687,8 @@
     "website": "https://www.thrivepetcare.com/locations/georgia/marietta/sandy-plains-road",
     "hours": {
       "raw": "Mo-Sa 08:00-18:00"
-    }
+    },
+    "description": "Thrive Pet Healthcare - Marietta offers veterinary care for dogs and cats in Marietta and surrounding areas. Book your pet's appointment today."
   },
   {
     "id": "6469d40d24452c17",
@@ -722,7 +736,8 @@
     "email": "frontdesk@inmanparkanimalhospital.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-    }
+    },
+    "description": "Inman Park Animal Hospital provides comprehensive pet care in Atlanta, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "b8ec8d09847e06ae",
@@ -747,7 +762,8 @@
     "website": "https://www.millsanimalhospital.com/",
     "hours": {
       "raw": "Mo-Fr 08:30-18:00; Sa 08:00-12:00"
-    }
+    },
+    "description": "Get to know our veterinarians in Acworth, GA, learn about our services, and contact our animal hospital today!"
   },
   {
     "id": "50a531deebf7c49f",
@@ -795,7 +811,8 @@
     "email": "northroswellveterinaryclinic@gmail.com",
     "hours": {
       "raw": "Mo 07:30-18:30; Tu,We,Fr 07:30-18:00; Th,Sa 07:00-18:00; Su closed"
-    }
+    },
+    "description": "North Roswell Veterinary Clinic is a full service veterinary hospital serving Roswell, Alpharetta, Milton and other surrounding areas. They provide outstanding veterinary medical services for cats and dogs including routine vaccines, sick visits, surgery and boarding."
   },
   {
     "id": "77f0e90ba5914a31",
@@ -818,7 +835,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+14042923281",
-    "website": "https://nvsatlanta.com/"
+    "website": "https://nvsatlanta.com/",
+    "description": "Special protocols and procedures during the pandemic to take care of your pet and keep you, your family, and the most vulnerable safe."
   },
   {
     "id": "abeba984185b11a9",
@@ -939,7 +957,8 @@
     "website": "https://intownanimalhospital.com/",
     "hours": {
       "raw": "Mo-Fr 07:30-17:00; Sa-Su off"
-    }
+    },
+    "description": "Welcome to Intown Animal Hospital, your trusted veterinary hospital in Atlanta, offering compassionate, expert care to pets and their loving families."
   },
   {
     "id": "bf9ae36b59de2405",
@@ -1003,7 +1022,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://www.expressvetsmarietta.com/"
+    "website": "https://www.expressvetsmarietta.com/",
+    "description": "Did You Search For \"Vet Near Me\"? We've Got You Covered. Express Vets Has Quality Vet Care In Marietta."
   },
   {
     "id": "b5523b3f1922c9bf",
@@ -1050,7 +1070,8 @@
     "website": "https://urgentvet.com/location/kennesaw-ga/",
     "hours": {
       "raw": "Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00"
-    }
+    },
+    "description": "UrgentVet Kennesaw vet clinic is a walk-in, after-hours veterinarian in Kennesaw, GA open 365 days for cats & dogs with minor emergency injury or illness."
   },
   {
     "id": "0b9e8f209d325774",
@@ -1076,7 +1097,8 @@
     "website": "https://www.etowahvets.com/",
     "hours": {
       "raw": "Mo-Fr 07:30-13:00,15:00-18:00; Sa off; Su off"
-    }
+    },
+    "description": "Veterinarian in Marietta, GA - Visit our skilled Veterinarian in Marietta, GA. Accepting new appointments. Call today or request an appointment online."
   },
   {
     "id": "46257ee252fe4d25",
@@ -1105,7 +1127,8 @@
     "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/ksw",
     "hours": {
       "raw": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
-    }
+    },
+    "description": "Banfield Pet Hospital\u00ae Kennesaw Main provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "5c7c3900cb54a4d3",
@@ -1132,7 +1155,8 @@
     "email": "bgreenberg@northcobbanimal.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "North Cobb Animal Hospital is a full-service veterinary hospital that offers comprehensive services for pets in Kennesaw. We're open 6 days a week - call today."
   },
   {
     "id": "841ec6e75be41841",
@@ -1159,7 +1183,8 @@
     "email": "mailto:staff@webbbridgevet.com",
     "hours": {
       "raw": "Mo 08:00-18:00; Tu 08:30-17:00; We 08:00-18:00; Fr 08:30-17:00; Sa 08:30-16:00; Su off"
-    }
+    },
+    "description": "Webb Bridge Animal Hospital | Alpharetta | GA | Vet | Pet Clinic | Veterinarian | Veterinary | Small Animal | We are a full service animal hospital providing healthcare services to pets in Alpharetta and the surrounding areas. Our veterinarians offer a wide variety of medical, surgical and dental services in our veterinary clinic."
   },
   {
     "id": "19358a5d3fc81c27",
@@ -1181,7 +1206,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://www.totalveterinarycare.com/kennesaw-ga/"
+    "website": "https://www.totalveterinarycare.com/kennesaw-ga/",
+    "description": "Trusted veterinarian in Kennesaw, GA offering preventative, medical, and specialty pet care. Call (678) 389-9981 to book your pet's appointment today!"
   },
   {
     "id": "b87ffaf056f84419",
@@ -1207,7 +1233,8 @@
     "website": "https://shallowford-animal-hospital.hub.biz/",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "View Shallowford Animal Hospital in Marietta. Services Bathing, Boarding, Dental Care, Dipping, Hospitalization, Surgery, Kennels and Lodging. Staff: Veterinarians and DVM. View Phone, Address, Website, Reviews, Complaints, Compliments and Similar Businesses to Shallowford Animal Hospital"
   },
   {
     "id": "0478b1b99f65952b",
@@ -1262,7 +1289,8 @@
     "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rss",
     "hours": {
       "raw": "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-    }
+    },
+    "description": "Banfield Roswell South is your go-to local vet clinic in Roswell, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "2fa0adb35a7e63c0",
@@ -1289,7 +1317,8 @@
     "email": "team@kentvet.com",
     "hours": {
       "raw": "Mo-Tu,Th-Fr 09:00-18:00; We 09:00-12:00; Sa-Su off"
-    }
+    },
+    "description": "Kent Vet Clinic is a locally owned, full service veterinary clinic. Located in East Cobb - Marietta Georgia in Metro Atlanta, Kent Vet Heather Danaceau , DVM is our veterinarian Super Hero. Animals shower humans with unconditional love everyday. At Kent Vet Clinic, Dr. Heather Danaceau and her team arrest their hearts and souls to the very beings that bring us love, joy and happiness without..."
   },
   {
     "id": "e972b57a52c17373",
@@ -1316,7 +1345,8 @@
     "email": "info@briarlakevet.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00"
-    }
+    },
+    "description": "Dr. Hiro and Dr. Hochel have been caring for pets for 30 years."
   },
   {
     "id": "29cb21174d598131",
@@ -1342,7 +1372,8 @@
     "website": "https://avenueeastcobb.com/directory/petfolk/",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
-    }
+    },
+    "description": "Caring vet services at Petfolk Veterinary Clinic, Marietta, GA. Trust us for top-notch pet care. Schedule an appointment for your furry friend today!"
   },
   {
     "id": "892caf96eb81a80f",
@@ -1368,7 +1399,8 @@
     "website": "https://urgentvet.com/location/east-cobb-marietta-ga/",
     "hours": {
       "raw": "Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00; PH 12:00-20:00"
-    }
+    },
+    "description": "UrgentVet is an alternative emergency vet in Atlanta, GA, for non-life threatening same day, walk-in and after-hours emergency veterinarian services. Find an Urgent Vet clinic near you in Atlanta - veterinary urgent care for dogs and cats, 365 days a year."
   },
   {
     "id": "c221ab9ed3ab8b67",
@@ -1415,7 +1447,8 @@
     "website": "https://petfolk.com/locations/atlanta-ga/vet-clinics/kennesaw",
     "hours": {
       "raw": "08:00-18:00"
-    }
+    },
+    "description": "Looking for a Kennesaw vet? Book online or call our Kennesaw clinic for top-rated veterinary & urgent care support for pet emergencies for your dog or cat."
   },
   {
     "id": "381a8d5f6d6edef4",
@@ -1504,7 +1537,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+14042928800",
-    "website": "https://lifelineanimal.org/pet-care/"
+    "website": "https://lifelineanimal.org/pet-care/",
+    "description": "Affordable vet care, spay/neuter, and vaccine packages. Make an appointment today with our expert vet care team."
   },
   {
     "id": "34a77d293559a64d",
@@ -1552,7 +1586,8 @@
     "email": "midtown@cityvet.com",
     "hours": {
       "raw": "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su off"
-    }
+    },
+    "description": "We are excited to be your new neighbor at CityVet | Midtown! We are committed to being your personal partner in petcare by utilizing the latest advancements and techniques. We understand that your pets are a crucial part of your family, and we treat them as we treat our own! At CityVet, we offer a wide range of veterinary services, including preventive care, dental care, surgery, and more. We..."
   },
   {
     "id": "c5afdf0d7485e1d5",
@@ -1704,7 +1739,8 @@
     "website": "https://www.mygavet.com/",
     "hours": {
       "raw": "Mo-Su 07:30-18:00"
-    }
+    },
+    "description": "Georgia Veterinary Associates is a family of three animal care facilities equipped to handle all medical and surgical needs. From preventive health care..."
   },
   {
     "id": "2e3979dcdc609b17",
@@ -1752,7 +1788,8 @@
     "email": "catspwc@pawswhiskersandclaws.com",
     "hours": {
       "raw": "Mo-Fr 09:00-17:30; We off; Sa 09:00-13:00"
-    }
+    },
+    "description": "Before Your Visit Have you called us yet? We work by appointment only. Are you familiar with where we are located? Have you requested vet records from your previous clinic? Please be sure to bring your cat in a cat carrier with bedding. Have you reviewed our policies and method of payments? Paw Project We [\u2026]"
   },
   {
     "id": "14f8ec8afbd00408",
@@ -1848,7 +1885,8 @@
     "email": "sm@thevillagevets.com",
     "hours": {
       "raw": "Mo-Fr 07:00-18:00; Sa 07:30-14:00"
-    }
+    },
+    "description": "The Village Vets Stone Mountain provides comprehensive pet care in Stone Mountain, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "a7b69c107b259836",
@@ -1944,7 +1982,8 @@
     "website": "https://www.vcahospitals.com/terrell-mill",
     "hours": {
       "raw": "Mo-Fr 07:30-18:00; Sa-Su off"
-    }
+    },
+    "description": "VCA Terrell Mill Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "a3c43c01de13ef31",
@@ -1970,7 +2009,8 @@
     "website": "http://www.cobbevc.com/",
     "hours": {
       "raw": "24/7"
-    }
+    },
+    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area."
   },
   {
     "id": "1248350f570118d2",
@@ -2018,7 +2058,8 @@
     "email": "mppah4708@gmail.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "Veterinary care, boarding, and grooming. Mountain Park Plaza Animal Hospital: Serving our community for over 30 years!"
   },
   {
     "id": "b6aa2fbc4e3ac9c2",
@@ -2065,7 +2106,8 @@
     "website": "https://us.vetstoria.com/booking/63939860d879c/",
     "hours": {
       "raw": "Mo-Sa 08:00-12:00,13:00-17:30; Su 09:00-12:00"
-    }
+    },
+    "description": "If the page is not displayed within a few seconds, please check your internet connection and try reloading it."
   },
   {
     "id": "aa08772e606c3cd3",
@@ -2091,7 +2133,8 @@
     "website": "https://www.dogwood.vet/",
     "hours": {
       "raw": "24/7"
-    }
+    },
+    "description": "At Dogwood Veterinary Specialty and Emergency, we understand that pets are family, and they deserve care that reflects just how much they mean to you.Our..."
   },
   {
     "id": "3de521b7e1036932",
@@ -2117,7 +2160,8 @@
     "website": "https://www.theveterinaryclinic.net/",
     "hours": {
       "raw": "Mo 07:30-12:00, 13:30-21:00; Tu 08:30-12:00, 13:30-17:30; We 08:30-12:00, 13:30-21:00; Th 08:30-12:00, 13:30-17:30; Fr 08:30-12:00, 13:30-17:30; Sa 08:30-12:00"
-    }
+    },
+    "description": "We're an accredited AAHA hospital. Pets are our passion and keeping them healthy is our top priority. We have three veterinary clinics located in Marietta, Ga. Our Old Dallas location exotic veterinarians are highly knowledgeable with all of your critters needs!!"
   },
   {
     "id": "68b191be5335fdc4",
@@ -2143,7 +2187,8 @@
     "website": "https://www.powersferryanimalhospital.com/",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-    }
+    },
+    "description": "Powers Ferry Animal Hospital provides comprehensive pet care in Atlanta, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "3b37a8608671f457",
@@ -2237,7 +2282,8 @@
     "website": "https://docsue.org/",
     "hours": {
       "raw": "Mo 08:00-20:00;Tu-We 08:00-18:00;Th 08:00-20:00;Fr 08:00-18:00;Sa 20:00-15:00"
-    }
+    },
+    "description": "Explore DocSUE's crypto education hub covering DeFi, airdrop guides, compliance and blockchain tutorials. Get practical insights and stay ahead in the crypto world."
   },
   {
     "id": "b1b463ae8b33df59",
@@ -2312,7 +2358,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+14042527881",
-    "website": "https://www.aecsandysprings.com/"
+    "website": "https://www.aecsandysprings.com/",
+    "description": "Looking for a trusted veterinary and animal hospital in Sandy Springs, GA? Animal Emergency of Sandy Springs provides compassionate care, modern facilities, and expert vets for your pets."
   },
   {
     "id": "1150ad857850993a",
@@ -2377,7 +2424,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+17709459555",
-    "website": "https://animalhospitalofng.com/"
+    "website": "https://animalhospitalofng.com/",
+    "description": "Animal Hospital of North Gwinnett provides comprehensive pet care in Buford, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "cabae880da080020",
@@ -2467,7 +2515,8 @@
     "email": "care@mabryvet.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00"
-    }
+    },
+    "description": "Mabry Animal Hospital began with a dream of being able to expand our medical service offerings and reach more members of the community. We envisioned a location and hospital space with a homey, welcoming atmosphere and enough physical space for clients, patients, and staff to be comfortable."
   },
   {
     "id": "b235aa6a2e81d80f",
@@ -2598,7 +2647,8 @@
     "website": "https://www.cartersvillewestsideanimalhospital.com/westside-animal-hospital/",
     "hours": {
       "raw": "Mo-Fr 07:30-12:00, 13:00-17:30; Sa 07:30-12:00"
-    }
+    },
+    "description": "Westside Animal Hospital in Cartersville, GA offers compassionate veterinary care for your pets. From wellness exams to surgery, trust our AAHA-accredited team for all your pet's needs."
   },
   {
     "id": "76e3b85f5d6c2d60",
@@ -2627,7 +2677,8 @@
     },
     "subcategories": [
       "cat-only"
-    ]
+    ],
+    "description": "At Animal Hospital of East Cobb, we assist with all of the pet care needs of the Marietta, GA community. Call 7705788522 to schedule a pet exam today!"
   },
   {
     "id": "615adc1a0e842df9",
@@ -2653,7 +2704,8 @@
     "website": "http://thelakecityanimalhospital.com/",
     "hours": {
       "raw": "Mo 07:30-19:00; Tu-We 07:30-18:00; Th 07:30-19:00; Fr 07:30-18:00; Sa 09:00-14:00"
-    }
+    },
+    "description": "Lake City Animal Hospital provides affordable, compassionate veterinary care to pets in and around the Acworth area. Visit us or schedule online today."
   },
   {
     "id": "97fa644344909d31",
@@ -2679,7 +2731,8 @@
     "website": "wellspringvet.net",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00, Sa 8:00-12:00"
-    }
+    },
+    "description": "Our veterinarians here at Wellspring Animal Hospital provide high quality care to cats and dogs in Covington, GA. Make an appointment today!"
   },
   {
     "id": "2c51fb11ca7f2fab",
@@ -2914,7 +2967,8 @@
     "website": "https://www.millcreekvet.net/",
     "hours": {
       "raw": "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:30-12:30; PH unknown"
-    }
+    },
+    "description": "Providing high-quality pet care to Alpharetta, GA since 1996. We are accepting new clients! Book your pet\u2019s appointment online today."
   },
   {
     "id": "a5935ee460f11d32",
@@ -2983,7 +3037,8 @@
     "email": "trittanimalhospital@yahoo.com",
     "hours": {
       "raw": "Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su off"
-    }
+    },
+    "description": "Tritt Animal Hospital is a full-service animal hospital serving the East Cobb area since 1990. We understand the role your pet plays in your family and are dedicated to becoming your veterinarian and partner in your pet's health."
   },
   {
     "id": "defebd6b907b3e00",
@@ -3009,7 +3064,8 @@
     "website": "https://lassiteranimalhospital.com/",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "Lassiter Animal Hospital is a full-service animal hospital for cats, dogs and avians. Our Marietta veterinarians provide compassionate, state-of-the-art care."
   },
   {
     "id": "d70b90ca8e36b5e9",
@@ -3036,7 +3092,8 @@
     "email": "eastmariettaanimalhospital@gmail.com",
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 07:30-12:00; Su off"
-    }
+    },
+    "description": "Site powered by Weebly. Managed by IDEXX Laboratories"
   },
   {
     "id": "e7521398cf37851e",
@@ -3083,7 +3140,8 @@
     "website": "https://www.gavmg.com/",
     "hours": {
       "raw": "Mo-Fr 07:30-18:00; Sa 08:30-12:00; Su off"
-    }
+    },
+    "description": "Greater Atlanta Veterinary Medical Group provides comprehensive pet care in Marietta, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "1e26e5138416ebb5",
@@ -3109,7 +3167,8 @@
     "website": "https://shilohvet.net/",
     "hours": {
       "raw": "Mo-Fr 08:30-18:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "Shiloh Veterinary Hospital is a full-service animal hospital, with a professional medical team of 4 doctors, veterinary assistants and staff members who enjoy..."
   },
   {
     "id": "ba183b14a44ceae2",
@@ -3198,7 +3257,8 @@
     "website": "https://www.mycrossvethospital.com/",
     "hours": {
       "raw": "Mo-Tu,Th-Fr 07:00-18:30; We 07:00-13:00; Sa 08:00-13:00; Su off"
-    }
+    },
+    "description": "Your Woodstock GA care experts. Here at Crossroads Veterinary Hospital, we have worked to create a home-like environment for you and your pet. Our goal is to give you the power through preventative medicine to keep your pet both happy and healthy."
   },
   {
     "id": "9daa9d5036195a0a",
@@ -3245,7 +3305,8 @@
     "website": "https://www.arklevetcare.com/",
     "hours": {
       "raw": "Mo-Th 07:30-17:30; Fr 08:00-12:00"
-    }
+    },
+    "description": "ARKLE Veterinary Care - Visit our skilled Veterinarian in Smyrna, GA. Accepting new appointments. Call today or request an appointment online."
   },
   {
     "id": "216f90d841addc5e",
@@ -3315,7 +3376,8 @@
     "email": "rodispetspa@yahoo.com",
     "hours": {
       "raw": "Mo,Su off; Tu-Sa 08:00-16:00"
-    }
+    },
+    "description": "Book your appointment with Taxi Doggy Pet Grooming, LLC"
   },
   {
     "id": "c0d07560384dca87",
@@ -3409,7 +3471,8 @@
     "website": "https://www.thefuzzydawg.com/",
     "hours": {
       "raw": "Mo-Fr \"by appointment\"; Sa-Su closed; PH unknown"
-    }
+    },
+    "description": "I provide a unique experience for your loved fuzzy family member. I specialize in small dogs (45-50lbs or less) and my salon is not equipped to handle larger dogs. I take one-on-one grooming appointments in my state of the art salon located in my own home. One-on-one grooming appointments are a premium service that most grooming salons can not provide. Most of my client\u2019s pet\u2019s are done in about..."
   },
   {
     "id": "39bd098168edd0b4",
@@ -3456,7 +3519,8 @@
     "website": "https://rovermakeover.biz",
     "hours": {
       "raw": "Mo,Tu, Th-Sa 10:00-17:00"
-    }
+    },
+    "description": "Rover Makeover Grooming is located in Douglasville , GA. Rover Makeover Grooming is Pet Groomer serving Douglasville since 2011"
   },
   {
     "id": "7347f33ff1a532bb",
@@ -3528,7 +3592,8 @@
     "website": "https://dirtydoggywash.com/",
     "hours": {
       "raw": "Mo off; Tu-Th 10:00-16:00; Fr-Su 10:00-18:00"
-    }
+    },
+    "description": "Give your furry friend the royal treatment. Whether you want to do it yourself or prefer a hands-off approach, we've got you covered."
   },
   {
     "id": "e3142c6750673c80",
@@ -3575,7 +3640,8 @@
     "website": "https://tsurupets.com",
     "hours": {
       "raw": "Tu-Sa 09:00-17:00"
-    }
+    },
+    "description": "1575 Old Alabama Road #208, Roswell GA 30076 Tuesday - Saturday 9AM-5PM Appointment: 770-880-0008"
   },
   {
     "id": "400e71f12dbdd474",
@@ -3669,7 +3735,8 @@
     "website": "https://furreverfluffy.com/",
     "hours": {
       "raw": "Mo-Sa 08:00-17:00; Su off"
-    }
+    },
+    "description": "Hi, I'm Mark Cannon. A life coach & mentor in Scottsdale. About Me Contact Me My Message With a school-age daughter of my own, it is of the utmost importance that we keep pushing for changes in our schools, better study spaces for our kids, affordable after-school programs, and healthy lunches. Our children are the\u2026"
   },
   {
     "id": "67f49ea67dc2564b",
@@ -3722,7 +3789,8 @@
     "email": "jpstopdog@gmail.com",
     "hours": {
       "raw": "Mo 08:00-17:00; Tu-Fr 08:00-17:30; Sa 08:00-15:00; Su off"
-    }
+    },
+    "description": "JP'S TOP DOG Grooming 2300 Shallowford RD Marietta GA 30066 Tel:770-516-6558"
   },
   {
     "id": "419b542497dac2f0",
@@ -3800,7 +3868,8 @@
     "website": "https://www.scenthound.com/east-cobb",
     "hours": {
       "raw": "Mo-Sa 08:00-18:00"
-    }
+    },
+    "description": "Top-rated grooming for your dog. Special trial offer includes bath, ear washing, nail trimming, and teeth brushing. Snuggle up to a clean, healthy dog."
   },
   {
     "id": "aa38eb04a39e5f9a",
@@ -3826,7 +3895,8 @@
     "website": "https://petboutique-grooming.com/",
     "hours": {
       "raw": "Tu-Sa 07:30-18:00"
-    }
+    },
+    "description": "We offer full grooming services for your dogs, cats & pet family. So, think of the Pet Boutique as your complete groomer for all your grooming services."
   },
   {
     "id": "e08cb5fd565d445d",
@@ -3854,7 +3924,7 @@
     "phone": "+17709729995",
     "website": "https://stores.petco.com/ga/snellville/pet-supplies-snellville-ga-1710.html",
     "email": null,
-    "description": null
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Snellville. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "d7e1f55be21fca6f",
@@ -3902,7 +3972,8 @@
     "email": "info@coatly.com",
     "hours": {
       "raw": "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su off"
-    }
+    },
+    "description": "Welcome to Coatly! We're your go-to spot for pet grooming in Atlanta, GA. We focus on your pup\u2019s comfort throughout their stay and treat them like family."
   },
   {
     "id": "289c3d4763257339",
@@ -3929,7 +4000,8 @@
     "email": "Theluxdoggrooming@gmail.com",
     "hours": {
       "raw": "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-    }
+    },
+    "description": "At The Lux Dog Grooming, we believe that grooming goes beyond aesthetics; it is a vital part of your pet\u2019s health and happiness."
   },
   {
     "id": "3d93963cf8fc16af",
@@ -4004,7 +4076,8 @@
     "email": "reception@hotdogscoolcats.net",
     "hours": {
       "raw": "Mo-Fr 09:00-18:00"
-    }
+    },
+    "description": "New clients please take a few minutes to register online by clicking on the green button below. Once you SUBMIT, please call us to BOOK your appointment! We ask that you bring your current pet vaccines records with you on your first visit, or email to reception@hotdogscoolcats.net"
   },
   {
     "id": "4253bb53c382fa11",
@@ -4162,7 +4235,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://www.gbstable.com/"
+    "website": "https://www.gbstable.com/",
+    "description": "At GB\u2019s Stable, we are passionate about providing high-quality care and services for both horse and rider. Our experienced team of professionals is dedicated to ensuring that every horse in our care receives the best possible care, from grooming and feeding to training."
   },
   {
     "id": "ca5abacc6c285e9e",
@@ -4325,7 +4399,8 @@
     "website": "https://thepuphub.com/",
     "hours": {
       "raw": "Mo-Fr 07:00-11:30,14:00-19:00; Sa-Su 09:00-10:00,17:00-19:00"
-    }
+    },
+    "description": "Experience the best Marietta Doggy Daycare and Training at The Pup Hub! \ud83d\udc3e\ud83c\udfe1 Fun, Safe, & Professional Pet Care in Georgia. Enroll Your Pup Today!"
   },
   {
     "id": "5ddfb943630a9fd5",
@@ -4389,7 +4464,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "website": "https://petplayplace.com/kennesaw/"
+    "website": "https://petplayplace.com/kennesaw/",
+    "description": "Visit Pet Play Place in Canton, GA for trusted dog daycare, boarding, grooming, and training. Safe, fun, and professional care for your furry family."
   },
   {
     "id": "91d2c658cbcb9701",
@@ -4416,7 +4492,8 @@
     "email": "info@piedmontbark.com",
     "hours": {
       "raw": "Mo-Fr 07:00-19:30; Sa 08:00-17:00; Su 15:00-18:00"
-    }
+    },
+    "description": "Piedmont BARK is Atlanta's bestdog daycare, grooming, and boarding destination."
   },
   {
     "id": "32ef2f2e3da9a857",
@@ -4442,7 +4519,8 @@
     "website": "https://www.bestfriendspetcare.com/location/marietta-ga",
     "hours": {
       "raw": "Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 08:00-17:00; PH off"
-    }
+    },
+    "description": "At Best Friends in Marietta, GA, experience the excellence of a leader in pet hospitality for over 30 years. As an employee-owned company, we take extra pride in offering top-tier boarding, daycare, and grooming services. Our dedicated team, passionate about pets, ensures a safe and loving environment for your furry friends."
   },
   {
     "id": "157adfc2a3988f64",
@@ -4486,7 +4564,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+1-404-885-8788;+1-770-609-7483",
-    "website": "http://www.puppyhavenatl.com/"
+    "website": "http://www.puppyhavenatl.com/",
+    "description": "Puppy Haven Pet Resort offers pet care services in Atlanta, GA. We offer dog boarding, dog daycare, dog training, and dog grooming services."
   },
   {
     "id": "26f8378329e94426",
@@ -4510,7 +4589,8 @@
     "claimed": false,
     "phone": "+13027503309",
     "website": "https://www.mariettariding.com/",
-    "email": "JenniferLBuckStables@gmail.com"
+    "email": "JenniferLBuckStables@gmail.com",
+    "description": "We are a full-service equestrian facility nestled in the heart of Cobb County, conveniently located off 75/ 575 and Kennesaw State University. We offer premiere hunter-jumper lessons at our boutique facility. Whether you are just starting on your riding journey or looking to move up divisions, our expert coaches will help unlock the potential of riders of all ages."
   },
   {
     "id": "00497ab491a459d8",
@@ -4575,7 +4655,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+14046039744",
-    "website": "https://www.k-9coach.com/"
+    "website": "https://www.k-9coach.com/",
+    "description": "K-9 Coach offers dog daycare, boarding, grooming, and training for pets in Atlanta, Smyrna, Vinings, Sandy Springs, and the surrounding areas."
   },
   {
     "id": "5e8b1ac1bf8d3129",
@@ -4601,7 +4682,8 @@
     "website": "https://countrysidepetestates.com/",
     "hours": {
       "raw": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00; Jan 1 closed; May Mo[-1] closed; Jul 4 closed; Sep Mo[1] closed; Nov Th[4] closed; Dec 25 closed"
-    }
+    },
+    "description": "Countryside Pet Estates provides comprehensive pet care in Milton, GA. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "6c7acfe208d8afda",
@@ -4628,7 +4710,8 @@
     "email": "4kennesawpetcenter@gmail.com",
     "hours": {
       "raw": "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-    }
+    },
+    "description": "We take the time to truly hear you\u2014to understand your pet\u2019s story, your concerns, and your needs beyond the surface. Every conversation is a chance to build real partnership and trust."
   },
   {
     "id": "06723bd42337e42c",
@@ -4651,7 +4734,8 @@
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
     "phone": "+16785609154",
-    "website": "https://eastcobbstables.com/"
+    "website": "https://eastcobbstables.com/",
+    "description": "At East Cobb Stables we are committed to providing you with all your riding needs. With our convenient Atlanta in-town location, there is easy access from Buckhead, Sandy Springs, Roswell, Marietta, Alpharetta, Canton, and East Cobb."
   },
   {
     "id": "253d150d95dcb560",
@@ -4720,7 +4804,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
-    "website": "https://petsvillecitruspark.com/"
+    "website": "https://petsvillecitruspark.com/",
+    "description": "Looking for reliable boarding and daycare services for your pets? Petsville of Citrus Park offers top-notch facilities and care for your furry friends. Contact us today!"
   },
   {
     "id": "7aff8ae19be48264",
@@ -4828,7 +4913,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17272749112",
-    "website": "https://www.northeastanimalhospital.com/locations/downtown-st-pete-vet-clinic"
+    "website": "https://www.northeastanimalhospital.com/locations/downtown-st-pete-vet-clinic",
+    "description": "We offer two Saint Petersburg vet locations to serve the entire metro area. Our sister practice offers routine pet care service in a convenient location for downtown residents."
   },
   {
     "id": "bdf348dd463a566e",
@@ -4917,7 +5003,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18134064293",
-    "website": "https://SitStaySplash.com"
+    "website": "https://SitStaySplash.com",
+    "description": "Sit Stay Splash is a fully furnished \u201cdo-it-yourself\u201d dog wash that makes bathing your dog enjoyable!"
   },
   {
     "id": "370b303ad05e7763",
@@ -5048,7 +5135,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17274465501",
-    "website": "http://www.animalhealthcareclinic.com/"
+    "website": "http://www.animalhealthcareclinic.com/",
+    "description": "Animal Health Care Clinic is a full-service veterinary hospital in Clearwater offering the highest quality services for cats and dogs. Our veterinarians and support staff are dedicated to our patients, clients, and community."
   },
   {
     "id": "e0e82c14c292e6c8",
@@ -5071,7 +5159,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17273933102",
-    "website": "https://seminolevet.com/"
+    "website": "https://seminolevet.com/",
+    "description": "At Animal Hospital of Seminole, we offer primary care, boarding and bathing for dogs and cats in Seminole, Largo, and Pinellas County. We are proud to be FVMA and PCVMA certified."
   },
   {
     "id": "b52071ec4bbaa326",
@@ -5181,7 +5270,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18139919408",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/wesley-chapel/wyc"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/wesley-chapel/wyc",
+    "description": "Banfield Wesley Chapel is your go-to local vet clinic in Wesley Chapel, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "68441a37a6fe147b",
@@ -5204,7 +5294,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18139627117",
-    "website": "https://www.barschanimalclinic.com/"
+    "website": "https://www.barschanimalclinic.com/",
+    "description": "Providing a surprisingly human shopping experience. Trusted and secure. Millions of domains to choose from."
   },
   {
     "id": "e619c3b53868c141",
@@ -5227,7 +5318,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18138869866",
-    "website": "https://www.baycrestanimalclinic.com/"
+    "website": "https://www.baycrestanimalclinic.com/",
+    "description": "Tampa & Town N Country, FL Veterinarian provide veterinary care to keep your pets healthy and happy - Call Today! 813-886-9866"
   },
   {
     "id": "01def4095e5ecce2",
@@ -5315,7 +5407,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18136713400",
-    "website": "https://www.boyetteanimalhospital.com/"
+    "website": "https://www.boyetteanimalhospital.com/",
+    "description": "Boyette Animal Hospital is your local Veterinarian in serving all of your needs. Call us today at for an appointment."
   },
   {
     "id": "cd28e2b749a09855",
@@ -5359,7 +5452,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18136437177",
-    "website": "https://www.brandonequine.com/"
+    "website": "https://www.brandonequine.com/",
+    "description": "Brandon Equine Medical Center is a full service equine veterinary practice led by a professional, knowledgeable and compassionate team."
   },
   {
     "id": "4d672d37028fbbfd",
@@ -5382,7 +5476,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18136847387",
-    "website": "http://careanimalhospital.org/"
+    "website": "http://careanimalhospital.org/",
+    "description": "Care proudly offers a comprehensive range of services to address your pet\u2019s specific veterinary needs from vaccines, surgery, and more!"
   },
   {
     "id": "83833c975dc98856",
@@ -5468,7 +5563,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18132514384",
-    "website": "https://www.davisislandanimalclinic.com/"
+    "website": "https://www.davisislandanimalclinic.com/",
+    "description": "Davis Island Animal Clinic is a veterinary animal clinic serving all your pet medical needs in the South Tampa area"
   },
   {
     "id": "f1e6647dcb5af6e8",
@@ -5534,7 +5630,8 @@
     },
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
-    "website": "https://www.hydeparkvet.com/"
+    "website": "https://www.hydeparkvet.com/",
+    "description": "Hyde Park Veterinary Clinic is here to provide outstanding veterinary care to pets in Tampa, Florida."
   },
   {
     "id": "4fa00459928415f3",
@@ -5599,7 +5696,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17278228501",
-    "website": "https://www.northeastanimalhospital.com/"
+    "website": "https://www.northeastanimalhospital.com/",
+    "description": "Northeast Animal Hospital and Downtown Vet Clinic are hospitals for cats, dogs, avians and pocket pets. Our St. Petersburg veterinarians provide quality care."
   },
   {
     "id": "59e1192a31d3df80",
@@ -5643,7 +5741,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17275268700",
-    "website": "https://partridgeah.com/services/"
+    "website": "https://partridgeah.com/services/",
+    "description": "Your pet deserves the best, and we\u2019re here to provide it. Explore all the services we offer at Partridge Animal Hospital today!"
   },
   {
     "id": "d172a80559eaa0c0",
@@ -5688,7 +5787,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18135796876",
-    "website": "http://www.tampabayvets.net/location/pebble-creek/"
+    "website": "http://www.tampabayvets.net/location/pebble-creek/",
+    "description": "People come to Pebble Creek because they know they are going to receive compassionate care from our veterinary team."
   },
   {
     "id": "1d7e649941ea5b38",
@@ -5801,7 +5901,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18139493045",
-    "website": "https://vcahospitals.com/cypress-creek"
+    "website": "https://vcahospitals.com/cypress-creek",
+    "description": "VCA Cypress Creek Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "8b5d3de0d54c7304",
@@ -5824,7 +5925,8 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+18138771979",
-    "website": "http://wellswoodah.com/"
+    "website": "http://wellswoodah.com/",
+    "description": "Did You Search For \"Vet Near Me\"? We've Got You Covered. Wellswood Midtown Animal Hospital Has Quality Vet Care In Tampa."
   },
   {
     "id": "860599091a36856b",
@@ -5849,7 +5951,8 @@
       "osm": "way/384254398"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Experience worry-free dog daycare and boarding at Austin Dogtown. Our caring staff provides a safe, supervised, and comfortable atmosphere to play and stay."
   },
   {
     "id": "052ab035976ddd4f",
@@ -5924,7 +6027,8 @@
       "osm": "node/12228545449"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Countryside Pet Resort provides safe and quality care of your dogs and cats in a beautiful setting. Learn more."
   },
   {
     "id": "0c0e59c73ee9f550",
@@ -6024,7 +6128,8 @@
       "osm": "node/7094945933"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "We provide a supervised open play environment for your dog where they can socialize and a state of the art facility where they can play all day. Sign up now!"
   },
   {
     "id": "37120e858a0e6f97",
@@ -6149,7 +6254,8 @@
       "osm": "node/13610264389"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "For over 20 years, Starmark Animal Behavior Center, formerly known as Triple Crown Dog Academy, has taught people how to better communicate with their dogs."
   },
   {
     "id": "7842a7fcb91da405",
@@ -6174,7 +6280,8 @@
       "osm": "node/12988996702"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Taurus Academy provides quality boarding, daycare, grooming and training services for your dog at our location in Austin, TX."
   },
   {
     "id": "86fae270a8caad10",
@@ -6524,7 +6631,8 @@
       "osm": "node/12037802554"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Woof Gang Bakery & Grooming is the leader in professional pet grooming, & the leading retailer of pet food & supplies in the country, with more than 350 locations across the U.S."
   },
   {
     "id": "bb7dac0766d69b75",
@@ -6552,7 +6660,8 @@
       "storeId": "animal-care-clinic"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Animal Care Clinic offers primary care for cats and dogs in the Round Rock, Pflugerville, Hutto, and Georgetown, Texas areas."
   },
   {
     "id": "0943b94436bf191a",
@@ -6602,7 +6711,8 @@
       "osm": "node/1707744185"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Animal Hospital of Georgetown is a full-service veterinary clinic offering friendly, knowledgeable and experienced care for pets."
   },
   {
     "id": "e012644c48d4f154",
@@ -6677,7 +6787,8 @@
       "osm": "node/13027404038"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Austin Pets Alive! pioneers innovative lifesaving programs designed to save the animals most at risk of euthanasia."
   },
   {
     "id": "c9f00ea60c0fbdeb",
@@ -6702,7 +6813,8 @@
       "osm": "way/99868629"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Looking for a trusted veterinary and animal hospital in Austin, TX? Austin Urban Vet Center provides compassionate care, modern facilities, and expert vets for your pets."
   },
   {
     "id": "602d1a0bc5447339",
@@ -6730,7 +6842,8 @@
       "storeId": "austin-vet-care-metric"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Austin Vet Care @ Central Park is here to deliver quality veterinary care to pets in the greater Austin areas."
   },
   {
     "id": "7e11e0830319a1c5",
@@ -6762,7 +6875,7 @@
     "name": "Austin Wildlife Rescue Rehabilitation Center",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "111 Elbow Bend",
+    "address": "5401 East Martin Luther King Jr Boulevard",
     "city": "Elgin",
     "state": "TX",
     "zip": "78621",
@@ -6780,7 +6893,8 @@
       "osm": "way/1418576256"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Austin Wildlife Rescue rehabilitates and releases orphaned, sick, and injured wild animals and educates the public to coexist with wildlife."
   },
   {
     "id": "125f19509a3eb182",
@@ -6805,7 +6919,8 @@
       "osm": "way/382063118"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Avery Ranch Animal Hospital provides comprehensive pet care in Cedar Park, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "336e2fdfb38b477f",
@@ -6858,7 +6973,8 @@
       "storeId": "rou"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Banfield Pet Hospital\u00ae - Round Rock provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "684888df5c60889c",
@@ -6886,7 +7002,8 @@
       "storeId": "nea"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Banfield Pet Hospital\u00ae - Austin (NE) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "768b055374646a4d",
@@ -6939,7 +7056,8 @@
       "storeId": "bee"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Banfield Pet Hospital\u00ae - Bee Cave provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "bd94d50fa18130e6",
@@ -6992,7 +7110,8 @@
       "storeId": "cpk"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Banfield Pet Hospital\u00ae - Cedar Park provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "d6e44dbf1912cfaa",
@@ -7020,7 +7139,8 @@
       "storeId": "amr"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Banfield Pet Hospital\u00ae - Austin-Mueller provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "a42c250b900ed3c5",
@@ -7120,7 +7240,8 @@
       "osm": "node/13647869802"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Burnet Road Animal Hospital offers wellness exams, diagnostics, & comprehensive care for pets in North Austin. Call for veterinary services today."
   },
   {
     "id": "6d2e05e0a7a1bd5c",
@@ -7145,7 +7266,8 @@
       "osm": "node/13111665001"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Same day appointments may be available, please call to check!"
   },
   {
     "id": "794e86ceb9f8f91f",
@@ -7170,7 +7292,8 @@
       "osm": "way/72322061"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Cat Hospital of Austin - Visit our skilled Feline Veterinarian in Austin, TX. Accepting new appointments. Call today or request an appointment online."
   },
   {
     "id": "a74782954edab71c",
@@ -7220,7 +7343,8 @@
       "osm": "node/12594152151"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "At Circle C Animal Hospital, we treat every person and every pet with the gentle care and respect you'd expect for a member of your family."
   },
   {
     "id": "796e7c85b7f4d5c0",
@@ -7320,7 +7444,8 @@
       "osm": "node/13386605320"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Crestview Veterinary Clinic at Tech Ridge provides comprehensive pet care in Austin, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "3c287efaa8ddc092",
@@ -7373,7 +7498,8 @@
       "storeId": "cypress-creek-pet-care"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Cypress Creek Pet Care offers primary, emergency, and boarding services for cats and dogs in Cedar Park, Austin, and Leander, TX."
   },
   {
     "id": "ef7f2201c051b34c",
@@ -7448,7 +7574,8 @@
       "osm": "way/382723826"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Support Emancipet Central Texas Thank you for your support. It means the world to us and to the people and pets we serve."
   },
   {
     "id": "ae5b1a808efcdde1",
@@ -7473,7 +7600,8 @@
       "osm": "way/1189071182"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "For 24-hour pet care from an animal emergency hospital in Leander, TX, give us a call. Walk-ins are welcome. We offer pet surgery and illness treatment."
   },
   {
     "id": "c085e1385a066858",
@@ -7548,7 +7676,8 @@
       "osm": "node/9587284680"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "We combine elite medical care, innovative design, thoughtful communication, excellent client service and a focus on total wellness."
   },
   {
     "id": "ade7d97c1df7040d",
@@ -7598,7 +7727,8 @@
       "osm": "node/13734716474"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "At Founders Animal Hospital, our experienced Veterinarians offer compassionate, comprehensive services for your pets. Schedule a visit today!"
   },
   {
     "id": "6a53cd0fa27afccd",
@@ -7623,7 +7753,8 @@
       "osm": "way/926450221"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Georgetown Veterinary Hospital provides comprehensive pet care in Georgetown, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "14283d2d73ad4093",
@@ -7648,7 +7779,8 @@
       "osm": "node/13520157875"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Guardian Paws Animal Hospital is a woman-owned veterinary hospital in Georgetown, TX. We offer wellness care, advanced surgery, dentistry, and more for dogs and cats."
   },
   {
     "id": "a105d4c0eea935e6",
@@ -7773,7 +7905,8 @@
       "osm": "way/382797735"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Looking for compassionate veterinary care in Kyle, TX? Visit Kyle Animal Hospital for trusted, experienced pet care."
   },
   {
     "id": "35d8132c40b9f33c",
@@ -7848,7 +7981,8 @@
       "osm": "way/201931200"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Our dedicated team in Lakeway offers compassionate care for your beloved pets at Lakeway Veterinary Clinic. Experience our comprehensive services and expert attention firsthand."
   },
   {
     "id": "533b14761048ca2e",
@@ -7923,7 +8057,8 @@
       "osm": "node/561487613"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "We at Manchaca Vet Care have been service the community since 1975. Our professionalism and experience allow us to provide the best vet service for your needs."
   },
   {
     "id": "23a4503361999a90",
@@ -7973,7 +8108,8 @@
       "osm": "way/1293781424"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Mercy Veterinary Hospital is your trusted animal hospital in Leander, TX, featuring full-scale services, lodging, and grooming. Click here for compassionate pet care."
   },
   {
     "id": "16c67c72e925db8a",
@@ -8123,7 +8259,8 @@
       "osm": "way/384355791"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Parmer Lane Pet Hospital provides comprehensive pet care in Cedar Park, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "ca1336eff7265962",
@@ -8148,7 +8285,8 @@
       "osm": "way/1340572965"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Patriot Animal Hospital is a full-service veterinary hospital that provides exceptional and compassionate care. Book your appointment with an experienced veterinarian today."
   },
   {
     "id": "228e40daa1f990da",
@@ -8273,7 +8411,8 @@
       "osm": "node/13118621508"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Veterinarian Serving Austin, TX and Surrounding Areas - Visit our skilled Veterinarian Serving Austin, TX and Surrounding Areas. Accepting new appointments. Call today or request an appointment online."
   },
   {
     "id": "8bcb9c9fc0f0c44b",
@@ -8373,7 +8512,8 @@
       "osm": "node/8410329812"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "As a feline-exclusive veterinary practice, South Austin Cat Hospital offers a comfortable, quiet and low-stress environment for clients and patients. We are proud to provide superior medical care to our feline patients, as well as advocate for feline welfare throughout our community."
   },
   {
     "id": "662270d13abdc347",
@@ -8398,7 +8538,8 @@
       "osm": "way/382117539"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Located in Leander, the animal hospital offers unparalleled veterinary services designed to ensure optimal health for pets. With a focus on advanced diagnos..."
   },
   {
     "id": "7eb88e5bb6e74fd1",
@@ -8473,7 +8614,8 @@
       "osm": "node/7287247417"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Sunbury Veterinary Clinic is a skilled Veterinarian in Austin, TX. Accepting new appointments. Call today or request an appointment on our website."
   },
   {
     "id": "49f3ca9f38524c4f",
@@ -8573,7 +8715,8 @@
       "osm": "node/11930725201"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "UrgentVet Crestview pet clinic is an alternative emergency vet in Crestview, Austin, TX for non-life threatening same-day walk-in and after-hours emergency veterinarian services. Our top-rated urgent vet in Crestview Austin area provides veterinary urgent care for dogs and cats, open 365 days a year."
   },
   {
     "id": "0660afd7e650f61f",
@@ -8651,7 +8794,8 @@
       "storeId": "hometown"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "VCA Hometown Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "e118f058cc41f083",
@@ -8679,7 +8823,8 @@
       "storeId": "terrell"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "VCA Terrell Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "060fee0650f4f71a",
@@ -8729,7 +8874,8 @@
       "osm": "way/383196948"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Here at Pet and Bird Clinic in Austin, TX, we are dedicated to keeping your pets happy and healthy! From vaccinations to surgery, we\u2019re here to help! Call 512-339-8472 or 512-462-0002 today!"
   },
   {
     "id": "b4cf4aa4636e67ec",
@@ -8754,7 +8900,8 @@
       "osm": "node/5771447971"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Westgate Pet & Bird Hospital provides comprehensive pet care in Austin, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "e567a841e2f8e346",
@@ -8779,7 +8926,8 @@
       "osm": "node/13143276948"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Through our network of expert providers, you'll experience instant connection, continued support, exceptional care, and everlasting trust through every stage of your pet's life. That's the Thrive Pet Care difference."
   },
   {
     "id": "7f60def6aa6a83f6",
@@ -8879,7 +9027,8 @@
       "osm": "way/1216149288"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "description": "Zoot Pet Hospital and Luxury Boarding provides comprehensive pet care in Georgetown, TX. Call us today to schedule your pet's appointment with our veterinarians."
   },
   {
     "id": "34a4d31d95b75601",
@@ -9137,7 +9286,7 @@
     },
     "lastSeenAt": "2026-04-18T16:35:34Z",
     "hours": null,
-    "description": null,
+    "description": "Discover Bellevue Animal Hospital in Nashville, TN. We provide calm, caring veterinary services including surgery, dentistry, laser therapy, and exotic pet care.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -9224,7 +9373,7 @@
     },
     "lastSeenAt": "2026-04-18T16:35:34Z",
     "hours": null,
-    "description": null,
+    "description": "Cheatham County Animal Clinic - Visit our skilled Veterinarian in Ashland City, TN. Accepting new appointments. Call today or request an appointment online.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -9311,7 +9460,7 @@
     },
     "lastSeenAt": "2026-04-18T16:35:34Z",
     "hours": null,
-    "description": null,
+    "description": "Welcome to Grassmere Animal Hospital! We are a full service veterinary hospital located in south Nashville. We've been a part of this community for over 60 years and are proud to be able to offer...",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -9630,7 +9779,7 @@
     },
     "lastSeenAt": "2026-04-18T16:42:41Z",
     "hours": null,
-    "description": null,
+    "description": "Expert dog obedience training in WNC that gives you & your pup the knowledge, practice & confidence needed to live your happiest, most harmonious lives together.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -9690,7 +9839,7 @@
     "hours": {
       "raw": "Mo-Sa 08:00-18:00, Su 15:00-18:00"
     },
-    "description": null,
+    "description": "Our friendly kennel offers daycare, boarding, and grooming. Choose the trusted choice for your pet and call 828-686-3175.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -9779,7 +9928,7 @@
     "hours": {
       "raw": "Mo-Fr 07:30-17:30; Sa 08:30-12:30; Su off"
     },
-    "description": null,
+    "description": "Animal Hospital East & South are premier animal hospitals specializing in general medicine, surgery, and dental procedures for pets in east Asheville, NC.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -10042,7 +10191,7 @@
     "hours": {
       "raw": "Mo-Fr 07:30-17:30; Sa 8:00-13:00"
     },
-    "description": null,
+    "description": "We\u2019re a full-service animal hospital equipped with state-of-the-art technology & providing modern veterinary therapies to the Asheville, NC area.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -10073,7 +10222,7 @@
     "hours": {
       "raw": "Mo,We,Fr 07:30-17:00; Tu,Th 07:30-19:00; Sa 08:00-12:00"
     },
-    "description": null,
+    "description": "WNC Veterinary Hospital provides comprehensive pet care in Arden, NC. Call us today to schedule your pet's appointment with our veterinarians.",
     "tags": null,
     "claimed": false,
     "claimedAt": null
@@ -10102,7 +10251,8 @@
     "website": "https://stores.petco.com/tx/round-rock/pet-supplies-roundrock-tx-490.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in La Frontera Village. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "2036f06fa7acfd66",
@@ -10128,7 +10278,8 @@
     "website": "https://stores.petco.com/ga/buford/pet-supplies-buford-ga-1713.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Buford. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "562f23f62576bc04",
@@ -10154,7 +10305,8 @@
     "website": "https://stores.petco.com/ga/alpharetta/pet-supplies-alpharetta-ga-1718.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in State Bridge. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "321e479a427a96d2",
@@ -10180,7 +10332,8 @@
     "website": "https://stores.petco.com/ga/duluth/pet-supplies-duluth-ga-1722.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Duluth. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "2894c55df35c3e9f",
@@ -10206,7 +10359,8 @@
     "website": "https://stores.petco.com/ga/lithonia/pet-supplies-lithonia-ga-1730.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Lithonia. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "bc8e4f814eaf2d47",
@@ -10232,7 +10386,8 @@
     "website": "https://stores.petco.com/fl/wesley-chapel/pet-supplies-wesleychapel-fl-1733.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Wesley Chapel. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "7d9d41491234f0b9",
@@ -10258,7 +10413,8 @@
     "website": "https://stores.petco.com/fl/tampa/pet-supplies-tampa-fl-1737.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Carrollwood. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "32aab1ba4be685fc",
@@ -10284,7 +10440,8 @@
     "website": "https://stores.petco.com/fl/tampa/pet-supplies-tampa-fl-1738.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Westshore. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "41ae5b67cbb42dbb",
@@ -10310,7 +10467,8 @@
     "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-1747.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Marietta Barrett Parkway. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "b78d1747e06a48da",
@@ -10336,7 +10494,8 @@
     "website": "https://stores.petco.com/tn/franklin/pet-supplies-franklin-tn-1544.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Franklin. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "0d10cd4e341d0d70",
@@ -10362,7 +10521,8 @@
     "website": "https://stores.petco.com/tn/murfreesboro/pet-supplies-murfreesboro-tn-1667.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Murfreesboro. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "7331b5c6a13b5f1e",
@@ -10388,7 +10548,8 @@
     "website": "https://stores.petco.com/ga/decatur/pet-supplies-decatur-ga-1557.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Decatur. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "106c836ac938e333",
@@ -10414,7 +10575,8 @@
     "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-1558.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in East Cobb Marietta. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "8da89a656b5145c4",
@@ -10440,7 +10602,8 @@
     "website": "https://stores.petco.com/ga/sandy-springs/pet-supplies-sandysprings-ga-1729.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Sandy Springs. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "d4fcd2a65aba16e6",
@@ -10466,7 +10629,8 @@
     "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-2538.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in West Cobb. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "030c92e257ca1e0b",
@@ -10492,7 +10656,8 @@
     "website": "https://stores.petco.com/ga/dacula/pet-supplies-dacula-ga-5506.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Dacula. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "c4caab793fad42ba",
@@ -10518,7 +10683,8 @@
     "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-5504.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Spring Lake. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "1549690921fcefa1",
@@ -10544,7 +10710,8 @@
     "website": "https://stores.petco.com/ga/marietta/pet-supplies-marietta-ga-5507.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Marietta Delk Road. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "3c591ddffca5afab",
@@ -10570,7 +10737,8 @@
     "website": "https://stores.petco.com/ga/smyrna/pet-supplies-smyrna-ga-5508.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Smyrna. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "f6c7c66de1c8b5ae",
@@ -10596,7 +10764,8 @@
     "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-1402.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Austin. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "6ea93ad48d35f4e4",
@@ -10622,7 +10791,8 @@
     "website": "https://stores.petco.com/tn/hendersonville/pet-supplies-hendersonville-tn-1632.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Hendersonville. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "fb9039db6d24aa07",
@@ -10648,7 +10818,8 @@
     "website": "https://stores.petco.com/tn/antioch/pet-supplies-antioch-tn-1550.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Antioch. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "bfe482a432f5aa44",
@@ -10674,7 +10845,8 @@
     "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1554.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Atlanta. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "fdb91088d118e8f3",
@@ -10700,7 +10872,8 @@
     "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1567.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in East Chastain Park. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "f0479f7a818c3ad2",
@@ -10726,7 +10899,8 @@
     "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-2404.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Westlake. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "743aac99a79e9638",
@@ -10752,7 +10926,8 @@
     "website": "https://stores.petco.com/ga/milton/pet-supplies-milton-ga-1879.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Milton. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "ca57e3e9581c75fa",
@@ -10778,7 +10953,8 @@
     "website": "https://stores.petco.com/tx/cedar-park/pet-supplies-cedarpark-tx-2458.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Cedar Park. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "8e9fcadea6435411",
@@ -10804,7 +10980,8 @@
     "website": "https://stores.petco.com/tx/leander/pet-supplies-leander-tx-2460.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Leander. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "668b61d5334eb4c6",
@@ -10830,7 +11007,8 @@
     "website": "https://stores.petco.com/nc/asheville/pet-supplies-asheville-nc-2532.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Asheville Merrimon. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "889d012a06c17c28",
@@ -10856,7 +11034,8 @@
     "website": "https://stores.petco.com/fl/seminole/pet-supplies-seminole-fl-2541.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Seminole. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "fb2cea20f8240f84",
@@ -10882,7 +11061,8 @@
     "website": "https://stores.petco.com/ga/kennesaw/pet-supplies-kennesaw-ga-2542.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Kennesaw. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "b8b7f8883fa2d4a7",
@@ -10908,7 +11088,8 @@
     "website": "https://stores.petco.com/fl/brandon/pet-supplies-brandon-fl-2722.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Brandon. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "7d7ad7154ecc1266",
@@ -10934,7 +11115,8 @@
     "website": "https://stores.petco.com/ga/acworth/pet-supplies-acworth-ga-2727.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Acworth. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "8d59096ed10e7b87",
@@ -10960,7 +11142,8 @@
     "website": "https://stores.petco.com/ga/peachtree-city/pet-supplies-peachtreecity-ga-2729.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Peachtree City. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "7924ad74902d6540",
@@ -10986,7 +11169,8 @@
     "website": "https://stores.petco.com/fl/pinellas-park/pet-supplies-pinellaspark-fl-2788.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Pinellas Park. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "7aaa02fb1300bf35",
@@ -11012,7 +11196,8 @@
     "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-444.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Northwest Austin. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "0e7ef6ec4a2cb193",
@@ -11038,7 +11223,8 @@
     "website": "https://stores.petco.com/tx/sunset-valley/pet-supplies-sunsetvalley-tx-448.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Sunset Valley. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "b133c1df9efb0a1d",
@@ -11064,7 +11250,8 @@
     "website": "https://stores.petco.com/tx/pflugerville/pet-supplies-pflugerville-tx-1498.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Pflugerville. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "e2d34f6f112a04b6",
@@ -11090,7 +11277,8 @@
     "website": "https://stores.petco.com/tx/kyle/pet-supplies-kyle-tx-2402.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Kyle. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "bf1e176bc20a6d00",
@@ -11116,7 +11304,8 @@
     "website": "https://stores.petco.com/fl/palm-harbor/pet-supplies-palmharbor-fl-1525.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Palm Harbor. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "e9203a822898b9cd",
@@ -11142,7 +11331,8 @@
     "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-2740.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in West Oak Hill. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "1ec043d22667ae0a",
@@ -11168,7 +11358,8 @@
     "website": "https://stores.petco.com/nc/asheville/pet-supplies-asheville-nc-1533.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Asheville. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "1ebf2df11ea39e9f",
@@ -11194,7 +11385,8 @@
     "website": "https://stores.petco.com/tn/brentwood/pet-supplies-brentwood-tn-1541.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Brentwood. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "8b9b783ef25a3984",
@@ -11220,7 +11412,8 @@
     "website": "https://stores.petco.com/fl/tarpon-springs/pet-supplies-tarponsprings-fl-1577.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Tarpon Springs. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "f674a636a61bd15f",
@@ -11246,7 +11439,8 @@
     "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-482.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Hancock. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "e3af06d767665ccb",
@@ -11272,7 +11466,8 @@
     "website": "https://stores.petco.com/fl/port-richey/pet-supplies-portrichey-fl-3701.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Port Richey. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "44de9679af0fbb57",
@@ -11298,7 +11493,8 @@
     "website": "https://stores.petco.com/fl/clearwater/pet-supplies-clearwater-fl-2525.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Clearwater. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "e3c23ce6f8db0f70",
@@ -11324,7 +11520,8 @@
     "website": "https://stores.petco.com/tn/nashville/pet-supplies-nashville-tn-1609.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Nashville. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "4cf268508a36b44e",
@@ -11350,7 +11547,8 @@
     "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-2718.html",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Shop food, treats, and supplies at your Petco Pet Store in Edgewood. Where the pets go for toys, tanks, leashes, and everyday essentials."
   },
   {
     "id": "be0ba6f9d0dc9f80",
@@ -11373,7 +11571,8 @@
     "lastSeenAt": "2026-04-18T20:03:18Z",
     "claimed": false,
     "phone": "+15126492899",
-    "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/183a-toll-road"
+    "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/183a-toll-road",
+    "description": "Thrive Pet Healthcare - Cedar Park provides veterinary care to dogs and cats in Cedar Park, North Austin, Leander, and Georgetown."
   },
   {
     "id": "d581d141a87eb357",
@@ -11396,7 +11595,8 @@
     "lastSeenAt": "2026-04-18T20:03:19Z",
     "claimed": false,
     "phone": "+15123353937",
-    "website": "https://www.thrivepetcare.com/locations/texas/austin/eye-care-for-animals-austin"
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/eye-care-for-animals-austin",
+    "description": "Eye Care for Animals offers specialty veterinary ophthalmology services in Austin, TX. View more and learn about our veterinary ophthalmology services."
   },
   {
     "id": "737f19859e9e1c84",
@@ -11419,7 +11619,8 @@
     "lastSeenAt": "2026-04-18T20:03:23Z",
     "claimed": false,
     "phone": "+15129602671",
-    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/louis-henna"
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/louis-henna",
+    "description": "Thrive Pet Healthcare - Round Rock provides compassionate veterinary care for dogs and cats in Round Rock and surrounding areas."
   },
   {
     "id": "60c30082310f858e",
@@ -11442,7 +11643,8 @@
     "lastSeenAt": "2026-04-18T20:03:24Z",
     "claimed": false,
     "phone": "+15127444644",
-    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/heart-of-texas-veterinary-specialty-center/hot-emergency-care"
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/heart-of-texas-veterinary-specialty-center/hot-emergency-care",
+    "description": "Heart of Texas offers 24/7 emergency vet care for dogs and cats in Round Rock, Austin, and surrounding areas."
   },
   {
     "id": "92662fe81d003671",
@@ -11465,7 +11667,8 @@
     "lastSeenAt": "2026-04-18T20:03:26Z",
     "claimed": false,
     "phone": "+17379310546",
-    "website": "https://www.thrivepetcare.com/locations/texas/austin/w-slaughter"
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/w-slaughter",
+    "description": "Thrive Pet Healthcare's Manchaca location provides veterinary care to dogs and cats in the South Austin area. Learn more about Thrive Pet Healthcare."
   },
   {
     "id": "1ab19f8069be012f",
@@ -11488,7 +11691,8 @@
     "lastSeenAt": "2026-04-18T20:03:27Z",
     "claimed": false,
     "phone": "+15129003769",
-    "website": "https://www.thrivepetcare.com/locations/texas/austin/oltorf"
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/oltorf",
+    "description": "Compassionate vet care for cats & dogs in South Austin. Serving South Lamar, Zilker, Travis Heights & more. Wellness, surgery, dental & more."
   },
   {
     "id": "60a4aa47f89e1cc8",
@@ -11511,7 +11715,8 @@
     "lastSeenAt": "2026-04-18T20:04:30Z",
     "claimed": false,
     "phone": "+14048746393",
-    "website": "https://vcahospitals.com/briarcliff-atlanta"
+    "website": "https://vcahospitals.com/briarcliff-atlanta",
+    "description": "VCA Briarcliff Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "c528cc1df231800f",
@@ -11534,7 +11739,8 @@
     "lastSeenAt": "2026-04-18T20:04:31Z",
     "claimed": false,
     "phone": "+14048733771",
-    "website": "https://vcahospitals.com/buckhead"
+    "website": "https://vcahospitals.com/buckhead",
+    "description": "VCA Buckhead Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "f94844b7f3cc7b2d",
@@ -11557,7 +11763,8 @@
     "lastSeenAt": "2026-04-18T20:04:35Z",
     "claimed": false,
     "phone": "+14048351222",
-    "website": "https://vcahospitals.com/college-park"
+    "website": "https://vcahospitals.com/college-park",
+    "description": "VCA College Park Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "36a5d9fc13f48937",
@@ -11580,7 +11787,8 @@
     "lastSeenAt": "2026-04-18T20:04:38Z",
     "claimed": false,
     "phone": "+17703945004",
-    "website": "https://vcahospitals.com/dunwoody"
+    "website": "https://vcahospitals.com/dunwoody",
+    "description": "VCA Dunwoody Veterinary Center provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "7e5df8d8d832b59e",
@@ -11603,7 +11811,8 @@
     "lastSeenAt": "2026-04-18T20:04:38Z",
     "claimed": false,
     "phone": "+17709628326",
-    "website": "https://vcahospitals.com/falcon-village"
+    "website": "https://vcahospitals.com/falcon-village",
+    "description": "VCA Falcon Village Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "0ce5a24ae9655147",
@@ -11626,7 +11835,8 @@
     "lastSeenAt": "2026-04-18T20:04:40Z",
     "claimed": false,
     "phone": "+17709216766",
-    "website": "https://vcahospitals.com/lilburn"
+    "website": "https://vcahospitals.com/lilburn",
+    "description": "VCA Lilburn Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "5dc61303e5e2aefc",
@@ -11649,7 +11859,8 @@
     "lastSeenAt": "2026-04-18T20:04:42Z",
     "claimed": false,
     "phone": "+14048757387",
-    "website": "https://vcahospitals.com/midtown"
+    "website": "https://vcahospitals.com/midtown",
+    "description": "VCA Midtown Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "687bbda90e72b7d4",
@@ -11672,7 +11883,8 @@
     "lastSeenAt": "2026-04-18T20:04:43Z",
     "claimed": false,
     "phone": "+14042559345",
-    "website": "https://vcahospitals.com/north-atlanta"
+    "website": "https://vcahospitals.com/north-atlanta",
+    "description": "VCA North Atlanta Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "38b181de762b1eec",
@@ -11695,7 +11907,8 @@
     "lastSeenAt": "2026-04-18T20:04:43Z",
     "claimed": false,
     "phone": "+17704572591",
-    "website": "https://vcahospitals.com/peachtree"
+    "website": "https://vcahospitals.com/peachtree",
+    "description": "VCA Peachtree Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "7980e9cf87b9a870",
@@ -11718,7 +11931,8 @@
     "lastSeenAt": "2026-04-18T20:04:44Z",
     "claimed": false,
     "phone": "+17709933040",
-    "website": "https://vcahospitals.com/pets-are-people-too-roswell"
+    "website": "https://vcahospitals.com/pets-are-people-too-roswell",
+    "description": "VCA Pets Are People Too Roswell Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "59cf4e69843cbf83",
@@ -11741,7 +11955,8 @@
     "lastSeenAt": "2026-04-18T20:05:02Z",
     "claimed": false,
     "phone": "+18139636612",
-    "website": "https://vcahospitals.com/carrollwood-cat"
+    "website": "https://vcahospitals.com/carrollwood-cat",
+    "description": "VCA Carrollwood Cat Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "c38df3493251b8f0",
@@ -11764,7 +11979,8 @@
     "lastSeenAt": "2026-04-18T20:05:29Z",
     "claimed": false,
     "phone": "+17275226640",
-    "website": "https://vcahospitals.com/noahs-place"
+    "website": "https://vcahospitals.com/noahs-place",
+    "description": "VCA Noah's Place Animal Medical Center provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "0a158aeb3c5e552e",
@@ -11787,7 +12003,8 @@
     "lastSeenAt": "2026-04-18T20:05:54Z",
     "claimed": false,
     "phone": "+15122584163",
-    "website": "https://vcahospitals.com/anderson-mill"
+    "website": "https://vcahospitals.com/anderson-mill",
+    "description": "VCA Anderson Mill Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "919f7f3ea35fa01a",
@@ -11810,7 +12027,8 @@
     "lastSeenAt": "2026-04-18T20:06:01Z",
     "claimed": false,
     "phone": "+15127941040",
-    "website": "https://vcahospitals.com/arbor"
+    "website": "https://vcahospitals.com/arbor",
+    "description": "VCA Arbor Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "18c2626ddb54bcb7",
@@ -11833,7 +12051,8 @@
     "lastSeenAt": "2026-04-18T20:06:05Z",
     "claimed": false,
     "phone": "+15124447518",
-    "website": "https://vcahospitals.com/ben-white"
+    "website": "https://vcahospitals.com/ben-white",
+    "description": "VCA Ben White Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "c8bb01dd321f0cd0",
@@ -11856,7 +12075,8 @@
     "lastSeenAt": "2026-04-18T20:06:10Z",
     "claimed": false,
     "phone": "+15123880944",
-    "website": "https://vcahospitals.com/capital-area"
+    "website": "https://vcahospitals.com/capital-area",
+    "description": "VCA Capital Area Veterinary Specialists provides specialty veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "b8186ed8e97930f4",
@@ -11879,7 +12099,8 @@
     "lastSeenAt": "2026-04-18T20:06:32Z",
     "claimed": false,
     "phone": "+15122581155",
-    "website": "https://vcahospitals.com/lakeline"
+    "website": "https://vcahospitals.com/lakeline",
+    "description": "VCA Lakeline Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "702254ec900bb0fa",
@@ -11902,7 +12123,8 @@
     "lastSeenAt": "2026-04-18T20:06:43Z",
     "claimed": false,
     "phone": "+15123455067",
-    "website": "https://vcahospitals.com/northwest-hills"
+    "website": "https://vcahospitals.com/northwest-hills",
+    "description": "VCA Northwest Hills Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "2c47a66c9669f158",
@@ -11925,7 +12147,8 @@
     "lastSeenAt": "2026-04-18T20:06:49Z",
     "claimed": false,
     "phone": "+15122604000",
-    "website": "https://vcahospitals.com/premier"
+    "website": "https://vcahospitals.com/premier",
+    "description": "VCA Premier Animal Hospital and Pet Resort provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "2e031cfbf60160a8",
@@ -11948,7 +12171,8 @@
     "lastSeenAt": "2026-04-18T20:07:01Z",
     "claimed": false,
     "phone": "+15122800878",
-    "website": "https://vcahospitals.com/tanglewood"
+    "website": "https://vcahospitals.com/tanglewood",
+    "description": "VCA Tanglewood Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "13740de09d3ccce6",
@@ -11971,7 +12195,8 @@
     "lastSeenAt": "2026-04-18T20:07:55Z",
     "claimed": false,
     "phone": "+16155993783",
-    "website": "https://vcahospitals.com/mckays-mill"
+    "website": "https://vcahospitals.com/mckays-mill",
+    "description": "VCA McKay's Mill Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "d4e91a55809fb411",
@@ -11994,7 +12219,8 @@
     "lastSeenAt": "2026-04-18T20:08:01Z",
     "claimed": false,
     "phone": "+16157547387",
-    "website": "https://vcahospitals.com/mt-juliet"
+    "website": "https://vcahospitals.com/mt-juliet",
+    "description": "VCA Animal Care Center of Mt. Juliet provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "3481095a3e46c39e",
@@ -12017,7 +12243,8 @@
     "lastSeenAt": "2026-04-18T20:08:01Z",
     "claimed": false,
     "phone": "+16153834241",
-    "website": "https://vcahospitals.com/murphy-road"
+    "website": "https://vcahospitals.com/murphy-road",
+    "description": "VCA Murphy Road Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "49c33c31ecc8ce85",
@@ -12040,7 +12267,8 @@
     "lastSeenAt": "2026-04-18T20:08:04Z",
     "claimed": false,
     "phone": "+16157318074",
-    "website": "https://vcahospitals.com/petmed"
+    "website": "https://vcahospitals.com/petmed",
+    "description": "VCA PetMed Animal Hospital provides primary veterinary care for your pets. VCA is where your pet's health is our top priority and excellent service is our goal."
   },
   {
     "id": "20274fd32dc45abb",
@@ -12066,7 +12294,8 @@
     "website": "https://www.campbowwow.com/alpharetta/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Contact our Certified Camp Counselors at Camp Bow Wow today to learn more about our dog care services in Alpharetta & beyond. First day is free!"
   },
   {
     "id": "8feb45550f781374",
@@ -12092,7 +12321,8 @@
     "website": "https://www.campbowwow.com/austin/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Camp Bow Wow is proud to offer premier, all-inclusive dog services in Austin. Your dog is sure to have a ball while you\u2019re away; call today!"
   },
   {
     "id": "fb1a53c7f8a9a62d",
@@ -12118,7 +12348,8 @@
     "website": "https://www.campbowwow.com/duluth/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "At Camp Bow Wow, Campers get to romp & play all day long! Get in touch with us to learn more about our premier, all-inclusive dog care services in Duluth."
   },
   {
     "id": "7cde32133005a503",
@@ -12144,7 +12375,8 @@
     "website": "https://www.campbowwow.com/lawrenceville-ga/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Whether you\u2019re working overtime or taking a trip out of town, Camp Bow Wow can provide the dog care services you need. We offer day care and boarding in Lawrenceville. Contact us today."
   },
   {
     "id": "b6c8a46a56b824a9",
@@ -12170,7 +12402,8 @@
     "website": "https://www.campbowwow.com/mt-juliet/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Going away for a few days and need someone to watch your pup? Camp Bow Wow offers premier dog care services in Mt Juliet. Contact us to learn about our dog day care and overnight boarding."
   },
   {
     "id": "937b4ba4c9144c64",
@@ -12196,7 +12429,8 @@
     "website": "https://www.campbowwow.com/south-asheville/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Looking to get away but need someone to watch your pup? Camp Bow Wow offers premier dog care services in Arden. Contact us today to learn about our dog day care and boarding services."
   },
   {
     "id": "c62828fdb9c5d2dd",
@@ -12222,7 +12456,8 @@
     "website": "https://www.campbowwow.com/tampa/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "If you\u2019re seeking a trustworthy place to care for your pup while you\u2019re away, contact Camp Bow Wow. We offer day care and overnight boarding services in Tampa. Visit our website to learn more."
   },
   {
     "id": "06a23cd90011d8bb",
@@ -12248,7 +12483,8 @@
     "website": "https://www.campbowwow.com/tampa-south-shore/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "For dog day care and boarding services in Tampa South Shore, contact Camp Bow Wow. We offer premier dog care services to busy parents. Visit our website for more information."
   },
   {
     "id": "dd009799c884f4bd",
@@ -12274,7 +12510,8 @@
     "website": "https://www.campbowwow.com/woodstock/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "For dog day care and boarding services in Woodstock, contact Camp Bow Wow. We offer premier dog care that leaves both pup and parent satisfied. Contact us today to learn more about us."
   },
   {
     "id": "eb7e4d37d1034d76",
@@ -12300,7 +12537,8 @@
     "website": "https://www.campbowwow.com/leander/",
     "subcategories": [
       "boarding"
-    ]
+    ],
+    "description": "Leander . If you're looking for premier dog services, contact Camp Bow Wow Leander today. We are a premier dog care provider that offers trustworthy & reliable services."
   },
   {
     "id": "eeaa454d04bdc359",
@@ -12323,7 +12561,8 @@
     "lastSeenAt": "2026-04-18T20:34:21Z",
     "claimed": false,
     "phone": "+18136433652",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bbl"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bbl",
+    "description": "Banfield Brandon Bloomingdale is your go-to local vet clinic in Brandon, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "8ff99e266a4eaf4b",
@@ -12346,7 +12585,8 @@
     "lastSeenAt": "2026-04-18T20:34:22Z",
     "claimed": false,
     "phone": "+18136620949",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bdn"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bdn",
+    "description": "Banfield Pet Hospital\u00ae - Brandon Clayton Plaza provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "6b3969426a81c9ad",
@@ -12369,7 +12609,8 @@
     "lastSeenAt": "2026-04-18T20:34:24Z",
     "claimed": false,
     "phone": "+18136814010",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/brv"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/brv",
+    "description": "Banfield Pet Hospital\u00ae - Brandon-Riverview provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "859941645367ad66",
@@ -12392,7 +12633,8 @@
     "lastSeenAt": "2026-04-18T20:34:25Z",
     "claimed": false,
     "phone": "+17277916694",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cle"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cle",
+    "description": "Banfield Pet Hospital\u00ae - Clearwater provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "c4a6096b5b6ea731",
@@ -12415,7 +12657,8 @@
     "lastSeenAt": "2026-04-18T20:34:27Z",
     "claimed": false,
     "phone": "+17277241866",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cma"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cma",
+    "description": "Banfield Pet Hospital\u00ae - Clearwater (Mall) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "120c49aee8bff098",
@@ -12438,7 +12681,8 @@
     "lastSeenAt": "2026-04-18T20:34:28Z",
     "claimed": false,
     "phone": "+17275851006",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/largo/lar"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/largo/lar",
+    "description": "Banfield Pet Hospital\u00ae - Largo provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "6209a27a5ce76669",
@@ -12461,7 +12705,8 @@
     "lastSeenAt": "2026-04-18T20:34:30Z",
     "claimed": false,
     "phone": "+17277710048",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/palm-harbor/pah"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/palm-harbor/pah",
+    "description": "Banfield Palm Harbor is your go-to local vet clinic in Palm Harbor, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "bcd6828aea05a057",
@@ -12484,7 +12729,8 @@
     "lastSeenAt": "2026-04-18T20:34:31Z",
     "claimed": false,
     "phone": "+17273190971",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/seminole/sei"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/seminole/sei",
+    "description": "Banfield Seminole is your go-to local vet clinic in Seminole, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "032df098254889bf",
@@ -12507,7 +12753,8 @@
     "lastSeenAt": "2026-04-18T20:34:32Z",
     "claimed": false,
     "phone": "+17275783811",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/spb"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/spb",
+    "description": "Banfield Pet Hospital\u00ae - Saint Petersburg (NE) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "3efd613db565141a",
@@ -12530,7 +12777,8 @@
     "lastSeenAt": "2026-04-18T20:34:37Z",
     "claimed": false,
     "phone": "+17273029063",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/tyr"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/tyr",
+    "description": "Banfield Pet Hospital\u00ae - St Petersburg (Tyrone Sq) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "63c769e2d909f4a8",
@@ -12553,7 +12801,8 @@
     "lastSeenAt": "2026-04-18T20:34:38Z",
     "claimed": false,
     "phone": "+18137921227",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/csp"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/csp",
+    "description": "Banfield Pet Hospital\u00ae - Tampa (Citrus Park) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "33bbb5dd663b4004",
@@ -12576,7 +12825,8 @@
     "lastSeenAt": "2026-04-18T20:34:40Z",
     "claimed": false,
     "phone": "+18132645216",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/cvc"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/cvc",
+    "description": "Banfield Carrollwood Village Center is your go-to local vet clinic in Tampa, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "9b5195053d9b30ee",
@@ -12599,7 +12849,8 @@
     "lastSeenAt": "2026-04-18T20:34:41Z",
     "claimed": false,
     "phone": "+18139777940",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/ntp"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/ntp",
+    "description": "Banfield Pet Hospital\u00ae - N Tampa provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "a2bbd911248d8700",
@@ -12622,7 +12873,8 @@
     "lastSeenAt": "2026-04-18T20:34:42Z",
     "claimed": false,
     "phone": "+18138555322",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/old"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/old",
+    "description": "Banfield Pet Hospital\u00ae - Double Branch provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "76801d9c6134d7fd",
@@ -12645,7 +12897,8 @@
     "lastSeenAt": "2026-04-18T20:34:43Z",
     "claimed": false,
     "phone": "+18138756702",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/stm"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/stm",
+    "description": "Banfield Pet Hospital\u00ae - Tampa (S) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "c2022ab696abee4d",
@@ -12668,7 +12921,8 @@
     "lastSeenAt": "2026-04-18T20:34:45Z",
     "claimed": false,
     "phone": "+18136836002",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/thu"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/thu",
+    "description": "Banfield Tampa Hunters Green is your go-to local vet clinic in Tampa, Florida. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "33b9661a5cfabb69",
@@ -12691,7 +12945,8 @@
     "lastSeenAt": "2026-04-18T20:34:47Z",
     "claimed": false,
     "phone": "+18132391145",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/tvh"
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/tvh",
+    "description": "Banfield Pet Hospital\u00ae - Tampa (Tampa Harris) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "1113943bf60fa328",
@@ -12714,7 +12969,8 @@
     "lastSeenAt": "2026-04-18T20:34:51Z",
     "claimed": false,
     "phone": "+17705291781",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/acworth/awr"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/acworth/awr",
+    "description": "Banfield Pet Hospital\u00ae - Acworth provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "afc8d41975e23831",
@@ -12737,7 +12993,8 @@
     "lastSeenAt": "2026-04-18T20:34:52Z",
     "claimed": false,
     "phone": "+14048927277",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/ala"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/ala",
+    "description": "Banfield Pet Hospital\u00ae - Atlanta (Midtown) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "f471fd2ced1d4de1",
@@ -12760,7 +13017,8 @@
     "lastSeenAt": "2026-04-18T20:34:53Z",
     "claimed": false,
     "phone": "+14042377455",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/atl"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/atl",
+    "description": "Banfield Pet Hospital\u00ae - Atlanta (Buckhead) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "1a99d6cb0def18cc",
@@ -12783,7 +13041,8 @@
     "lastSeenAt": "2026-04-18T20:34:55Z",
     "claimed": false,
     "phone": "+14043511919",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/cag"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/cag",
+    "description": "Banfield Pet Hospital\u00ae - Atlanta (Castlegate) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "ebac79c0ee7b83da",
@@ -12806,7 +13065,8 @@
     "lastSeenAt": "2026-04-18T20:34:56Z",
     "claimed": false,
     "phone": "+17709449197",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/austell/asl"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/austell/asl",
+    "description": "Banfield Pet Hospital\u00ae - Austell provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "110320472b1e1ca9",
@@ -12829,7 +13089,8 @@
     "lastSeenAt": "2026-04-18T20:34:57Z",
     "claimed": false,
     "phone": "+17708315477",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/buford/ant"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/buford/ant",
+    "description": "Banfield Pet Hospital\u00ae - Buford (Mill Creek) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "8378798d8d461ba6",
@@ -12852,7 +13113,8 @@
     "lastSeenAt": "2026-04-18T20:35:00Z",
     "claimed": false,
     "phone": "+14702263869",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/decatur/dec"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/decatur/dec",
+    "description": "Banfield Decatur-Blackmon is your go-to local vet clinic in Decatur, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "beac777f161abdff",
@@ -12875,7 +13137,8 @@
     "lastSeenAt": "2026-04-18T20:35:01Z",
     "claimed": false,
     "phone": "+17705776607",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/douglasville/dgl"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/douglasville/dgl",
+    "description": "Banfield Pet Hospital\u00ae Douglasville provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "9cd7b80039a71709",
@@ -12898,7 +13161,8 @@
     "lastSeenAt": "2026-04-18T20:35:03Z",
     "claimed": false,
     "phone": "+17706235642",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dsm"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dsm",
+    "description": "Banfield Duluth Sugarloaf Marketplace is your go-to local vet clinic in Duluth, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "2e2ed5268c0cda84",
@@ -12921,7 +13185,8 @@
     "lastSeenAt": "2026-04-18T20:35:04Z",
     "claimed": false,
     "phone": "+17708138600",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dul"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dul",
+    "description": "Banfield Pet Hospital\u00ae - Duluth provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "30a01043c7408987",
@@ -12944,7 +13209,8 @@
     "lastSeenAt": "2026-04-18T20:35:06Z",
     "claimed": false,
     "phone": "+17706232705",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/pea"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/pea",
+    "description": "Banfield Peachtree Hill is your go-to local vet clinic in Duluth, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "9683656803cf72ae",
@@ -12967,7 +13233,8 @@
     "lastSeenAt": "2026-04-18T20:35:07Z",
     "claimed": false,
     "phone": "+14043490705",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/east-point/esp"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/east-point/esp",
+    "description": "Banfield Pet Hospital\u00ae - East Point provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "68b50ecc29f276af",
@@ -12990,7 +13257,8 @@
     "lastSeenAt": "2026-04-18T20:35:11Z",
     "claimed": false,
     "phone": "+17704610006",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/fayetteville/fay"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/fayetteville/fay",
+    "description": "Banfield Pet Hospital\u00ae - Fayetteville provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "ee9cb5704863eb1e",
@@ -13013,7 +13281,8 @@
     "lastSeenAt": "2026-04-18T20:35:12Z",
     "claimed": false,
     "phone": "+17704303109",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/agc"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/agc",
+    "description": "Banfield Pet Hospital offers affordable care and wellness plans for your dog or cat with veterinarians near you for the love, health and happiness of your pet."
   },
   {
     "id": "28c33028fe2e8204",
@@ -13036,7 +13305,8 @@
     "lastSeenAt": "2026-04-18T20:35:15Z",
     "claimed": false,
     "phone": "+17708222199",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/lawrenceville/law"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/lawrenceville/law",
+    "description": "Banfield Lawrenceville is your go-to local vet clinic in Lawrenceville, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "65b1cb7ab454692e",
@@ -13059,7 +13329,8 @@
     "lastSeenAt": "2026-04-18T20:35:16Z",
     "claimed": false,
     "phone": "+17705092580",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/marietta/mar"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/marietta/mar",
+    "description": "Banfield Pet Hospital\u00ae - Marietta provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "10f16ba373c60943",
@@ -13082,7 +13353,8 @@
     "lastSeenAt": "2026-04-18T20:35:18Z",
     "claimed": false,
     "phone": "+17709141280",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/mcdonough/mdn"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/mcdonough/mdn",
+    "description": "Banfield Pet Hospital\u00ae - McDonough provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "c6a99677d542e18e",
@@ -13105,7 +13377,8 @@
     "lastSeenAt": "2026-04-18T20:35:19Z",
     "claimed": false,
     "phone": "+17704729900",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/morrow/mor"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/morrow/mor",
+    "description": "Banfield Pet Hospital\u00ae - Morrow (Southlake) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "045e17625d814a18",
@@ -13128,7 +13401,8 @@
     "lastSeenAt": "2026-04-18T20:35:21Z",
     "claimed": false,
     "phone": "+17707989322",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/norcross/ncs"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/norcross/ncs",
+    "description": "Banfield Pet Hospital\u00ae - Norcross provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "f143d7a024dfc931",
@@ -13151,7 +13425,8 @@
     "lastSeenAt": "2026-04-18T20:35:23Z",
     "claimed": false,
     "phone": "+16784615007",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rsw"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rsw",
+    "description": "Banfield Pet Hospital\u00ae - Roswell provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "831edee38e1b4095",
@@ -13174,7 +13449,8 @@
     "lastSeenAt": "2026-04-18T20:35:25Z",
     "claimed": false,
     "phone": "+17709554173",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/smyrna/smy"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/smyrna/smy",
+    "description": "Banfield Smyrna is your go-to local vet clinic in Smyrna, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "3b24105b3cddb74d",
@@ -13197,7 +13473,8 @@
     "lastSeenAt": "2026-04-18T20:35:27Z",
     "claimed": false,
     "phone": "+17709799950",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/snellville/lil"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/snellville/lil",
+    "description": "Banfield Snellville is your go-to local vet clinic in Snellville, Georgia. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "02970309f30a59fe",
@@ -13220,7 +13497,8 @@
     "lastSeenAt": "2026-04-18T20:35:28Z",
     "claimed": false,
     "phone": "+17708142403",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/suwanee/joc"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/suwanee/joc",
+    "description": "Banfield Pet Hospital\u00ae - Johns Creek Proper provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "4b38488a20566a09",
@@ -13243,7 +13521,8 @@
     "lastSeenAt": "2026-04-18T20:35:29Z",
     "claimed": false,
     "phone": "+17704144330",
-    "website": "https://www.banfield.com/locations/veterinarians/ga/tucker/tkr"
+    "website": "https://www.banfield.com/locations/veterinarians/ga/tucker/tkr",
+    "description": "Banfield Pet Hospital\u00ae - Tucker provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "46bd50a6897cb9b0",
@@ -13266,7 +13545,8 @@
     "lastSeenAt": "2026-04-18T20:35:32Z",
     "claimed": false,
     "phone": "+18286810519",
-    "website": "https://www.banfield.com/locations/veterinarians/nc/arden/adn"
+    "website": "https://www.banfield.com/locations/veterinarians/nc/arden/adn",
+    "description": "Banfield Pet Hospital\u00ae Arden provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "1ca2bb335827c23f",
@@ -13289,7 +13569,8 @@
     "lastSeenAt": "2026-04-18T20:35:34Z",
     "claimed": false,
     "phone": "+18282981800",
-    "website": "https://www.banfield.com/locations/veterinarians/nc/asheville/ash"
+    "website": "https://www.banfield.com/locations/veterinarians/nc/asheville/ash",
+    "description": "Banfield Pet Hospital\u00ae Asheville provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "34e53c4e149554ad",
@@ -13312,7 +13593,8 @@
     "lastSeenAt": "2026-04-18T20:35:35Z",
     "claimed": false,
     "phone": "+16153734444",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/btw"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/btw",
+    "description": "Banfield Pet Hospital\u00ae - Brentwood provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "a4e23377282c266b",
@@ -13335,7 +13617,8 @@
     "lastSeenAt": "2026-04-18T20:35:40Z",
     "claimed": false,
     "phone": "+16156619931",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/bwo"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/bwo",
+    "description": "Banfield Brentwood Maryland Farms is your go-to local vet clinic in Brentwood, Tennessee. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "4051a4e94f173baf",
@@ -13358,7 +13641,8 @@
     "lastSeenAt": "2026-04-18T20:35:42Z",
     "claimed": false,
     "phone": "+16155916986",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/franklin/fkl"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/franklin/fkl",
+    "description": "Banfield Franklin is your go-to local vet clinic in Franklin, Tennessee. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "40a8295233221a79",
@@ -13381,7 +13665,8 @@
     "lastSeenAt": "2026-04-18T20:35:43Z",
     "claimed": false,
     "phone": "+16157732299",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/mount-juliet/mtj"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/mount-juliet/mtj",
+    "description": "Banfield Pet Hospital\u00ae - Mount Juliet provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "d205ab5d19bd0993",
@@ -13404,7 +13689,8 @@
     "lastSeenAt": "2026-04-18T20:35:44Z",
     "claimed": false,
     "phone": "+16158905490",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/murfreesboro/mfr"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/murfreesboro/mfr",
+    "description": "Banfield Pet Hospital\u00ae - Murfreesboro provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "96cd0c6d8962f220",
@@ -13427,7 +13713,8 @@
     "lastSeenAt": "2026-04-18T20:35:46Z",
     "claimed": false,
     "phone": "+16153859034",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/mzk"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/mzk",
+    "description": "Banfield Pet Hospital\u00ae - Nashville (Music City) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "ebd6179ef07dd743",
@@ -13450,7 +13737,8 @@
     "lastSeenAt": "2026-04-18T20:35:48Z",
     "claimed": false,
     "phone": "+16153533800",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/nsh"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/nsh",
+    "description": "Banfield Pet Hospital\u00ae - Nashville provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "b7cfb46e6378e4f7",
@@ -13473,7 +13761,8 @@
     "lastSeenAt": "2026-04-18T20:35:49Z",
     "claimed": false,
     "phone": "+16152203600",
-    "website": "https://www.banfield.com/locations/veterinarians/tn/smyrna/sma"
+    "website": "https://www.banfield.com/locations/veterinarians/tn/smyrna/sma",
+    "description": "Banfield Pet Hospital\u00ae - Smyrna provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "4824dffdc77bb068",
@@ -13496,7 +13785,8 @@
     "lastSeenAt": "2026-04-18T20:35:53Z",
     "claimed": false,
     "phone": "+15125279466",
-    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/bac"
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/bac",
+    "description": "Banfield Pet Hospital\u00ae - Austin (Balcones) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "831175f0497e6300",
@@ -13519,7 +13809,8 @@
     "lastSeenAt": "2026-04-18T20:35:57Z",
     "claimed": false,
     "phone": "+15122800121",
-    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/sea"
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/sea",
+    "description": "Banfield Pet Hospital\u00ae - Austin (SE) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "64ea846cf99b308a",
@@ -13542,7 +13833,8 @@
     "lastSeenAt": "2026-04-18T20:36:00Z",
     "claimed": false,
     "phone": "+15125280029",
-    "website": "https://www.banfield.com/locations/veterinarians/tx/cedar-park/cdp"
+    "website": "https://www.banfield.com/locations/veterinarians/tx/cedar-park/cdp",
+    "description": "Banfield Pet Hospital\u00ae - Cedar Park (N) provides quality and attentive healthcare for your pet. Make an appointment today!"
   },
   {
     "id": "6afbd7c94e0bdb28",
@@ -13565,7 +13857,8 @@
     "lastSeenAt": "2026-04-18T20:36:02Z",
     "claimed": false,
     "phone": "+15122185080",
-    "website": "https://www.banfield.com/locations/veterinarians/tx/round-rock/rhp"
+    "website": "https://www.banfield.com/locations/veterinarians/tx/round-rock/rhp",
+    "description": "Banfield Round Rock Palm Valley is your go-to local vet clinic in Round Rock, Texas. Our compassionate vet team is dedicated to your dog or cat\u2019s health."
   },
   {
     "id": "57fe6a58b22cf54f",
@@ -13591,7 +13884,8 @@
     "website": "https://stores.petsmart.com/ga/acworth/acworth",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "9376816317cb3dd1",
@@ -13617,7 +13911,8 @@
     "website": "https://stores.petsmart.com/ga/alpharetta/alpharetta",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "de66e5f25bc34fa0",
@@ -13643,7 +13938,8 @@
     "website": "https://stores.petsmart.com/ga/atlanta/buckhead",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "fb6f4ce815bbd009",
@@ -13669,7 +13965,8 @@
     "website": "https://stores.petsmart.com/ga/atlanta/castlegate",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "d1625e730a08e3f1",
@@ -13695,7 +13992,8 @@
     "website": "https://stores.petsmart.com/ga/atlanta/midtown-atlanta",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "661c516ffe3aa6ac",
@@ -13721,7 +14019,8 @@
     "website": "https://stores.petsmart.com/ga/atlanta/perimeter",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "6f664050f0972040",
@@ -13747,7 +14046,8 @@
     "website": "https://stores.petsmart.com/ga/austell/austell",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "ebcd3aa1da63baee",
@@ -13773,7 +14073,8 @@
     "website": "https://stores.petsmart.com/ga/buford/mall-of-georgia",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b70c6bafa75a55d0",
@@ -13799,7 +14100,8 @@
     "website": "https://stores.petsmart.com/ga/canton/canton",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "75d7d9ee54acb298",
@@ -13825,7 +14127,8 @@
     "website": "https://stores.petsmart.com/ga/cumming/cumming",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "855fbc31a2d96e36",
@@ -13851,7 +14154,8 @@
     "website": "https://stores.petsmart.com/ga/douglasville/douglasville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "f39db24b02e19fc6",
@@ -13877,7 +14181,8 @@
     "website": "https://stores.petsmart.com/ga/duluth/duluth",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b3c0f868d2925abe",
@@ -13903,7 +14208,8 @@
     "website": "https://stores.petsmart.com/ga/east-point/east-point",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "0f0f020befdca91c",
@@ -13929,7 +14235,8 @@
     "website": "https://stores.petsmart.com/ga/fayetteville/fayetteville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "fd190b3d3c0e4ee8",
@@ -13955,7 +14262,8 @@
     "website": "https://stores.petsmart.com/ga/hiram/hiram",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "8b5896a03cf55c31",
@@ -13981,7 +14289,8 @@
     "website": "https://stores.petsmart.com/ga/kennesaw/kennesaw",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "6722fe01c2cd979a",
@@ -14007,7 +14316,8 @@
     "website": "https://stores.petsmart.com/ga/lawrenceville/lawrenceville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "326751d5bd621165",
@@ -14033,7 +14343,8 @@
     "website": "https://stores.petsmart.com/ga/lilburn/stone-mountain",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "17718f62b6ec0151",
@@ -14059,7 +14370,8 @@
     "website": "https://stores.petsmart.com/ga/marietta/marietta",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "6fcc3a2bfd1dd0ce",
@@ -14085,7 +14397,8 @@
     "website": "https://stores.petsmart.com/ga/mcdonough/mcdonough",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "e39325c62c961009",
@@ -14111,7 +14424,8 @@
     "website": "https://stores.petsmart.com/ga/morrow/southlake",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "e65501330e14f3f7",
@@ -14137,7 +14451,8 @@
     "website": "https://stores.petsmart.com/ga/norcross/norcross",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "cf50a9871fdf7505",
@@ -14163,7 +14478,8 @@
     "website": "https://stores.petsmart.com/ga/roswell/north-roswell",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "ea7bd085b9029f5d",
@@ -14189,7 +14505,8 @@
     "website": "https://stores.petsmart.com/ga/smyrna/smyrna",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "bdfcdfe1c0eb6c2c",
@@ -14215,7 +14532,8 @@
     "website": "https://stores.petsmart.com/ga/snellville/snellville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "f2f6f5aff7534b48",
@@ -14241,7 +14559,8 @@
     "website": "https://stores.petsmart.com/ga/suwanee/johns-creek",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "6604787f8a3661a5",
@@ -14267,7 +14586,8 @@
     "website": "https://stores.petsmart.com/ga/tucker/tucker",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b0f46f843811c32a",
@@ -14293,7 +14613,8 @@
     "website": "https://stores.petsmart.com/ga/woodstock/woodstock",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "c009b637a1141a72",
@@ -14319,7 +14640,8 @@
     "website": "https://stores.petsmart.com/fl/brandon/brandon",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "1c5fd028b2ed6411",
@@ -14345,7 +14667,8 @@
     "website": "https://stores.petsmart.com/fl/brandon/brandon-causeway",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "a43e109d5bfb8ef5",
@@ -14371,7 +14694,8 @@
     "website": "https://stores.petsmart.com/fl/clearwater/north-clearwater",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "636767f944f51fe8",
@@ -14397,7 +14721,8 @@
     "website": "https://stores.petsmart.com/fl/clearwater/south-clearwater",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b365c3c9dc8383ac",
@@ -14423,7 +14748,8 @@
     "website": "https://stores.petsmart.com/fl/largo/largo",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "9a3d8cb1735e5ba0",
@@ -14449,7 +14775,8 @@
     "website": "https://stores.petsmart.com/fl/oldsmar/oldsmar",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "139dec42940bc56e",
@@ -14475,7 +14802,8 @@
     "website": "https://stores.petsmart.com/fl/plant-city/plant-city",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "52d75a09f5594be6",
@@ -14501,7 +14829,8 @@
     "website": "https://stores.petsmart.com/fl/st-petersburg/ne-st-petersburg-gateway",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "302913d0df430647",
@@ -14527,7 +14856,8 @@
     "website": "https://stores.petsmart.com/fl/tampa/citrus-park",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "33d059c866ebe355",
@@ -14553,7 +14883,8 @@
     "website": "https://stores.petsmart.com/fl/tampa/north-tampa",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "ce66b86245f2d570",
@@ -14579,7 +14910,8 @@
     "website": "https://stores.petsmart.com/fl/tampa/south-tampa",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "6d4e276764c4cef6",
@@ -14605,7 +14937,8 @@
     "website": "https://stores.petsmart.com/fl/tampa/westchase",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b5a535f7810c0bf1",
@@ -14631,7 +14964,8 @@
     "website": "https://stores.petsmart.com/fl/valrico/bloomingdale",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "be71b40bca47977f",
@@ -14657,7 +14991,8 @@
     "website": "https://stores.petsmart.com/fl/wesley-chapel/wesley-chapel-new-tampa",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "769f3f36b42bede7",
@@ -14683,7 +15018,8 @@
     "website": "https://stores.petsmart.com/tx/austin/austin-bee-cave",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "c1cfaab4ed90df1f",
@@ -14709,7 +15045,8 @@
     "website": "https://stores.petsmart.com/tx/austin/austin-mueller",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "00fb9ad4b927e4d3",
@@ -14735,7 +15072,8 @@
     "website": "https://stores.petsmart.com/tx/austin/north-austin-balcones",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "3d7068b7c4c74316",
@@ -14761,7 +15099,8 @@
     "website": "https://stores.petsmart.com/tx/austin/north-austin-ohlen",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "bbd16399e680c41c",
@@ -14787,7 +15126,8 @@
     "website": "https://stores.petsmart.com/tx/austin/north-austin-parmer",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "200a4f4459e3eb5c",
@@ -14813,7 +15153,8 @@
     "website": "https://stores.petsmart.com/tx/austin/se-austin",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "0f4c33e75d9a6eab",
@@ -14839,7 +15180,8 @@
     "website": "https://stores.petsmart.com/tx/cedar-park/austin-lakeline",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "7e867c3112a2317f",
@@ -14865,7 +15207,8 @@
     "website": "https://stores.petsmart.com/tx/cedar-park/cedar-park",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "3d1d8acc3ea9e96b",
@@ -14891,7 +15234,8 @@
     "website": "https://stores.petsmart.com/tx/georgetown/georgetown",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "7e229725f0d44aa0",
@@ -14917,7 +15261,8 @@
     "website": "https://stores.petsmart.com/tx/round-rock/north-round-rock",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "c8f9947b24a209aa",
@@ -14943,7 +15288,8 @@
     "website": "https://stores.petsmart.com/tx/round-rock/round-rock",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "a8cd83ea1969db35",
@@ -14969,7 +15315,8 @@
     "website": "https://stores.petsmart.com/tx/san-marcos/san-marcos",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "1510a53ed29581d3",
@@ -14995,7 +15342,8 @@
     "website": "https://stores.petsmart.com/tn/brentwood/brentwood",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b4d54f6cf4081f41",
@@ -15021,7 +15369,8 @@
     "website": "https://stores.petsmart.com/tn/hendersonville/hendersonville-tn",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "44a883f09206aa63",
@@ -15047,7 +15396,8 @@
     "website": "https://stores.petsmart.com/tn/mount-juliet/mt-juliet",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "dd3b58200cd70521",
@@ -15073,7 +15423,8 @@
     "website": "https://stores.petsmart.com/tn/murfreesboro/murfreesboro",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "5bcb0d9fbb212822",
@@ -15099,7 +15450,8 @@
     "website": "https://stores.petsmart.com/tn/nashville/nashville-100-oaks-mall",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "63e64b7f33b5f683",
@@ -15125,7 +15477,8 @@
     "website": "https://stores.petsmart.com/tn/nashville/west-nashville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "474237b69e5606ff",
@@ -15151,7 +15504,8 @@
     "website": "https://stores.petsmart.com/tn/smyrna/smyrna",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "631ee7dab7a9a3ed",
@@ -15177,7 +15531,8 @@
     "website": "https://stores.petsmart.com/tn/spring-hill/spring-hill",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b3b38bfff22cc110",
@@ -15203,7 +15558,8 @@
     "website": "https://stores.petsmart.com/nc/arden/arden",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "ff4050031783b46f",
@@ -15229,7 +15585,8 @@
     "website": "https://stores.petsmart.com/nc/asheville/asheville",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "be792c5939f79141",
@@ -15255,7 +15612,8 @@
     "website": "https://stores.petsmart.com/nc/hendersonville/hendersonville-nc",
     "subcategories": [
       "retail"
-    ]
+    ],
+    "description": "Visit us for the best pet groomers and trainers in the United States! Our United States pet store offers in-store pet services like Grooming, Training, Doggie Day Care, and overnight boarding!"
   },
   {
     "id": "b645a7d828797090",
@@ -15281,7 +15639,8 @@
     "email": "dbt@ourpalsplace.org",
     "hours": {
       "raw": "Mo-Fr 07:00-19:00; Sa 10:00-17:00; Su 12:00-17:00"
-    }
+    },
+    "description": "The mission of Our Pal\u2019s Place is to bring about a time when all animals are treated with Kindness and Compassion. Learn More"
   },
   {
     "id": "ed556de38cce4f50",
@@ -15422,7 +15781,8 @@
     },
     "lastSeenAt": "2026-04-18T19:32:25Z",
     "claimed": false,
-    "website": "https://www.petparadise.com/odessa.htm"
+    "website": "https://www.petparadise.com/odessa.htm",
+    "description": "Find convenience for you and paradise for your pet with the premium boarding suites, grooming services and doggy daycare at Pet Paradise Odessa, FL."
   },
   {
     "id": "f4a3f0bc3bb78938",
@@ -15530,7 +15890,8 @@
     "website": "https://averyimportantpet.com/",
     "hours": {
       "raw": "Mo-Th 06:30-19:30, Fr 6:30-19:30, Sa-Su 8:00-17:00"
-    }
+    },
+    "description": "Temukan MCDBOLA slot machines terbaik di Clearwater, FL yang wajib dimainkan. Rasakan sensasi bermain slot dengan peluang menang besar dan hiburan tanpa batas."
   },
   {
     "id": "00ec4dd6ae4d4f96",
@@ -15911,6 +16272,865 @@
     },
     "lastSeenAt": "2026-04-18T19:32:25Z",
     "claimed": false,
-    "website": "https://www.petparadise.com/wesley-chapel.htm"
+    "website": "https://www.petparadise.com/wesley-chapel.htm",
+    "description": "Leave your pet in expert hands at Pet Paradise Wesley Chapel, offering premium boarding suites, grooming, doggy daycare and 24/7 TLC from a caring staff."
+  },
+  {
+    "id": "86febc6fd18bb83c",
+    "name": "Paulding County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9448191,
+    "lng": -84.8175644,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/367914488"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "f359291455686d93",
+    "name": "Rockdale County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.6835,
+    "lng": -83.9997,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/367914502"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "6c117a87a9ef776c",
+    "name": "Our Pal's Place",
+    "category": "shelter",
+    "address": "4508 Canton Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066",
+    "metro": "atlanta",
+    "lat": 34.0611547,
+    "lng": -84.5212796,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7608047303"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+16783617623",
+    "website": "https://www.opp.ourpalsplace.org/",
+    "email": "helpanimals@ourpalsplace.org",
+    "hours": {
+      "raw": "Sa-Su 13:00-17:00 || \"by appointment\""
+    }
+  },
+  {
+    "id": "5431ab3b9d0d1135",
+    "name": "Bosley's Place",
+    "category": "shelter",
+    "address": "3485 South Cobb Drive",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8688121,
+    "lng": -84.5254649,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10619435286"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14045654025",
+    "website": "https://www.bosleysplace.com",
+    "email": "info@bosleysplace.com"
+  },
+  {
+    "id": "26e9696c3fc93ef0",
+    "name": "Papayago Rescue House",
+    "category": "shelter",
+    "address": "3778 Canton Road Northeast, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0439452,
+    "lng": -84.5291324,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10817221574"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14703082011",
+    "website": "https://papayagorescuehouse.org/",
+    "hours": {
+      "raw": "by appointment"
+    }
+  },
+  {
+    "id": "348a85ab978782d2",
+    "name": "Furkids Adoption Center - East Cobb",
+    "category": "shelter",
+    "address": "4001 Canton Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0471176,
+    "lng": -84.5292975,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11724822632"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "website": "https://furkids.org/"
+  },
+  {
+    "id": "7f36ec70834a635f",
+    "name": "Furkids Pet Adoption and Community Resource Center",
+    "category": "shelter",
+    "address": "4015 Holcomb Bridge Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9659452,
+    "lng": -84.2567639,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13158634427"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "0d6d1c78a3624c71",
+    "name": "Fulton County Animal Services",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7788928,
+    "lng": -84.4279774,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13228178496"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "cc3505255d3885d0",
+    "name": "Good Mews",
+    "category": "shelter",
+    "address": "3805 Robinson Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9775312,
+    "lng": -84.4418424,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/284701423"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17704992287",
+    "website": "https://www.goodmews.org/",
+    "hours": {
+      "raw": "Sa 10:00-16:00; Su[2-5] 13:00-16:00"
+    }
+  },
+  {
+    "id": "fae39e067b607ee6",
+    "name": "Humane Society of Cobb County",
+    "category": "shelter",
+    "address": "148 South Fairground Street Southeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "metro": "atlanta",
+    "lat": 33.948298,
+    "lng": -84.5362256,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/295295206"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "60dd297c7b139f51",
+    "name": "Gwinnett County Bill Atkinson Animal Welfare Center",
+    "category": "shelter",
+    "address": "884 Winder Highway",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30045",
+    "metro": "atlanta",
+    "lat": 33.9707168,
+    "lng": -83.9537931,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/364440309"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17703393200",
+    "website": "https://www.gwinnettcounty.com/portal/gwinnett/Departments/Police/AnimalWelfareandEnforcementNew",
+    "hours": {
+      "raw": "Mo-Sa 08:30-16:30"
+    }
+  },
+  {
+    "id": "59bbb77446159251",
+    "name": "Atlanta Humane Society - Mansell Campus",
+    "category": "shelter",
+    "address": "1565 Mansell Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30009",
+    "metro": "atlanta",
+    "lat": 34.0382611,
+    "lng": -84.3212185,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/364553299"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+14048755331",
+    "website": "http://atlantahumane.org/"
+  },
+  {
+    "id": "e915da0a39dcb3e4",
+    "name": "Royal Animal Refuge",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4938741,
+    "lng": -84.5769698,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/369312003"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "9d5a24535b489d27",
+    "name": "Georgia House Rabbit Society",
+    "category": "shelter",
+    "address": "3114 Cherokee Street Northwest",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30114",
+    "metro": "atlanta",
+    "lat": 34.0295782,
+    "lng": -84.6086779,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/753419368"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+16786537175",
+    "website": "https://www.houserabbitga.com/",
+    "hours": {
+      "raw": "Mo 11:00-18:00; Tu 11:00-17:00; We 11:00-18:00; Th-Fr 11:00-17:00; Sa 12:00-17:00"
+    }
+  },
+  {
+    "id": "4b3252d568c504ce",
+    "name": "Mostly Mutts Animal Rescue",
+    "category": "shelter",
+    "address": "3238 Cherokee Street Northwest",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0322214,
+    "lng": -84.6069509,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/755218133"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "phone": "+17702726888",
+    "website": "https://mostlymutts.org/",
+    "hours": {
+      "raw": "Mo-Sa 10:00-15:00; Su off"
+    }
+  },
+  {
+    "id": "c2d1d72e61fcda66",
+    "name": "Henry County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4346661,
+    "lng": -84.1628044,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/949450395"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "ed2a96f75231b79f",
+    "name": "Clayton County Animal Shelter",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.5380435,
+    "lng": -84.3453915,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/968164363"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "d79c44766a0a9b00",
+    "name": "The Dog House",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8554935,
+    "lng": -84.6010645,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1010580734"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false
+  },
+  {
+    "id": "af94169ba44e3a90",
+    "name": "Arthur M. Blank Family Animal Center",
+    "category": "shelter",
+    "address": "1551 Perry Boulevard Northwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.7897598,
+    "lng": -84.4383745,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1090404878"
+    },
+    "lastSeenAt": "2026-04-18T23:38:53Z",
+    "claimed": false,
+    "website": "https://atlantahumane.org"
+  },
+  {
+    "id": "c4a33c80c28de976",
+    "name": "Pet Pal Animal Shelter",
+    "category": "shelter",
+    "address": "405 22nd Street South",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33712",
+    "metro": "tampa",
+    "lat": 27.7671801,
+    "lng": -82.6632846,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/295556643"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+17273287738",
+    "email": "info@petpalanimalshelter.com",
+    "hours": {
+      "raw": "Tu-Fr 11:00-16:30, Sa 10:00-04:30"
+    }
+  },
+  {
+    "id": "137f0eb4100bdcb5",
+    "name": "Humane Society Tampa Bay",
+    "category": "shelter",
+    "address": "3607 North Armenia Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.9714866,
+    "lng": -82.4842267,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/524345111"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+18138767138",
+    "website": "https://humanesocietytampa.org/"
+  },
+  {
+    "id": "44e7a2efeec9a920",
+    "name": "Manatee County Animal Services",
+    "category": "shelter",
+    "address": "305 25th Street West",
+    "city": "Palmetto",
+    "state": "FL",
+    "zip": "34221",
+    "metro": "tampa",
+    "lat": 27.5336734,
+    "lng": -82.5662354,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "relation/14635720"
+    },
+    "lastSeenAt": "2026-04-18T23:39:10Z",
+    "claimed": false,
+    "phone": "+19417425933",
+    "website": "https://www.mymanatee.org/pets/",
+    "hours": {
+      "raw": "Mo-Sa 10:00-17:00; Su 13:00-16:00"
+    }
+  },
+  {
+    "id": "360a0b6d9936a4b0",
+    "name": "Texas Humane Heroes",
+    "category": "shelter",
+    "address": "10930 East Crystal Falls Parkway",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5658039,
+    "lng": -97.8081439,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1203890440"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15122603602",
+    "website": "https://humaneheroes.org/",
+    "email": "info@texashumaneheroes.org",
+    "hours": {
+      "raw": "Tu-Fr 12:00-18:00; Sa-Su 11:00-17:00"
+    }
+  },
+  {
+    "id": "7c2bf90244e9008d",
+    "name": "Williamson County Regional Animal Shelter",
+    "category": "shelter",
+    "address": "1855 Southeast Inner Loop",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6172992,
+    "lng": -97.6553985,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3660970520"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129433322",
+    "website": "https://pets.wilco.org/"
+  },
+  {
+    "id": "b957a67b34bd8da1",
+    "name": "APA! Tarrytown Dog Adoption Center Play Yard & Gift Shop",
+    "category": "shelter",
+    "address": "3118 Windsor Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.2967742,
+    "lng": -97.7679341,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295814522"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Su 12:00-19:00"
+    }
+  },
+  {
+    "id": "c4b24f00d585f48a",
+    "name": "Austin Pets Alive! Town Lake Animal Center",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.269672,
+    "lng": -97.7597722,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295844535"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Su 11:30-19:00"
+    }
+  },
+  {
+    "id": "ffa42bec62ab18dd",
+    "name": "Austin Pets Alive! Town Lake Animal Adoption Cetner",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.2698608,
+    "lng": -97.759685,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7295844536"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129616519",
+    "website": "https://www.austinpetsalive.org/",
+    "hours": {
+      "raw": "Mo-Su 12:00-18:00"
+    }
+  },
+  {
+    "id": "fff49a4ee8595e43",
+    "name": "House Rabbit Resource Network",
+    "category": "shelter",
+    "address": "110 West Pflugerville Parkway, Unit Suite E",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660",
+    "metro": "austin",
+    "lat": 30.4656626,
+    "lng": -97.6259774,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11406200510"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "website": "https://rabbitresource.org/",
+    "email": "hrrn@rabbitresource.org"
+  },
+  {
+    "id": "98a483299ada597e",
+    "name": "Canine Headquarters",
+    "category": "shelter",
+    "address": "1350 County Road 130",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.623266,
+    "lng": -97.5650357,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12219346696"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "47a62d4a08dbd6b9",
+    "name": "City of Georgetown Animal Shelter",
+    "category": "shelter",
+    "address": "110 West L Walden Drive",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.649755,
+    "lng": -97.6643117,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12286708838"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "a4559dc2852136f4",
+    "name": "Austin Humane Society",
+    "category": "shelter",
+    "address": "124 West Anderson Lane",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.344704,
+    "lng": -97.705244,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/379203995"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "website": "https://www.austinhumanesociety.org/"
+  },
+  {
+    "id": "3cc0f57cf4b634b1",
+    "name": "Austin Animal Center",
+    "category": "shelter",
+    "address": "7201 Levander Loop, Unit Bldg A",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.2514663,
+    "lng": -97.6896802,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382724204"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false,
+    "phone": "+15129742000",
+    "website": "https://www.austintexas.gov/content/austin-animal-center"
+  },
+  {
+    "id": "8d1ed184d3436c82",
+    "name": "Deer Pens",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2450118,
+    "lng": -97.4445384,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576267"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "e887432d9ffffbe4",
+    "name": "Bird Cages",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2448503,
+    "lng": -97.4434282,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576268"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "2b95ad913c1673be",
+    "name": "Opossum Cages",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2448809,
+    "lng": -97.4435414,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576269"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "5d1c4a7b14f3e7b6",
+    "name": "Austin Pets Alive!",
+    "category": "shelter",
+    "address": "1156 West Cesar Chavez Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78703",
+    "metro": "austin",
+    "lat": 30.269871,
+    "lng": -97.7592895,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "relation/5691105"
+    },
+    "lastSeenAt": "2026-04-18T23:39:23Z",
+    "claimed": false
+  },
+  {
+    "id": "42bb02912cea44f8",
+    "name": "Friends of Madison Co.",
+    "category": "shelter",
+    "address": "107 South Main Street",
+    "city": "Marshall",
+    "state": "NC",
+    "zip": "28753",
+    "metro": "asheville",
+    "lat": 35.7969269,
+    "lng": -82.6821916,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6439976190"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false
+  },
+  {
+    "id": "ca2c129329cdfe47",
+    "name": "Brother Wolf",
+    "category": "shelter",
+    "address": "",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.5724532,
+    "lng": -82.5252393,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11181502441"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false
+  },
+  {
+    "id": "3822cd049a77c51e",
+    "name": "Buncombe County Animal Shelter",
+    "category": "shelter",
+    "address": "16 Forever Friend Lane",
+    "city": "",
+    "state": "NC",
+    "zip": "28806",
+    "metro": "asheville",
+    "lat": 35.5477011,
+    "lng": -82.6013865,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/943676272"
+    },
+    "lastSeenAt": "2026-04-18T23:40:17Z",
+    "claimed": false,
+    "phone": "+18282506430",
+    "hours": {
+      "raw": "Mo-Fr 10:00-16:00; Sa 12:00-16:00"
+    }
   }
 ]

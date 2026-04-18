@@ -1,8 +1,10 @@
 """Merge per-metro + enrichment listing JSONs into canonical outputs.
 
 Inputs:
-  data/by-metro/{metro}.json    (seed per-metro data)
-  data/enrichment/*.json        (chains, osm_wider, yelp, etc.)
+  data/by-metro/{metro}.json         (seed per-metro data)
+  data/enrichment/*.json             (chains, osm_wider, shelters_*, etc.)
+  data/enrichment/descriptions.json  (special: lookup keyed by listing id,
+                                      injected into each listing's description)
 
 Outputs:
   data/listings.json   (flat array, cross-source deduped)
@@ -31,7 +33,7 @@ LISTINGS_OUT = REPO / "data" / "listings.json"
 STATS_OUT = REPO / "data" / "stats.json"
 
 METROS = ["atlanta", "tampa", "austin", "nashville", "asheville"]
-CATEGORIES = ["veterinarian", "groomer", "boarder", "daycare", "sitter"]
+CATEGORIES = ["veterinarian", "groomer", "boarder", "daycare", "sitter", "shelter"]
 
 NAME_THRESHOLD = 0.88
 GEO_THRESHOLD_M = 100.0
@@ -110,6 +112,9 @@ def find_dup(incoming: dict, pool: list[dict]) -> int | None:
     return None
 
 
+DESCRIPTIONS_FILE = "descriptions.json"
+
+
 def load_source_files() -> list[tuple[str, list[dict]]]:
     sources: list[tuple[str, list[dict]]] = []
     for metro in METROS:
@@ -118,8 +123,18 @@ def load_source_files() -> list[tuple[str, list[dict]]]:
             sources.append((f"by-metro/{metro}", json.loads(p.read_text())))
     if ENRICHMENT_DIR.exists():
         for p in sorted(ENRICHMENT_DIR.glob("*.json")):
+            if p.name == DESCRIPTIONS_FILE:
+                continue  # handled separately, not a listing array
             sources.append((f"enrichment/{p.stem}", json.loads(p.read_text())))
     return sources
+
+
+def load_descriptions() -> dict[str, str]:
+    p = ENRICHMENT_DIR / DESCRIPTIONS_FILE
+    if not p.exists():
+        return {}
+    raw = json.loads(p.read_text())
+    return {k: v["description"] for k, v in raw.items() if v.get("description")}
 
 
 def main() -> None:
@@ -136,6 +151,14 @@ def main() -> None:
             else:
                 pool[idx] = merge_one(pool[idx], item)
                 by_source_count[source_label]["merged"] += 1
+
+    # Inject scraped descriptions (keyed by listing id) into each listing.
+    descriptions = load_descriptions()
+    desc_injected = 0
+    for r in pool:
+        if not r.get("description") and r["id"] in descriptions:
+            r["description"] = descriptions[r["id"]]
+            desc_injected += 1
 
     by_metro_cat: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     for r in pool:
@@ -169,6 +192,8 @@ def main() -> None:
     print(f"{'source':<30} {'raw':>6} {'added':>7} {'merged':>7}")
     for source_label, counts in by_source_count.items():
         print(f"{source_label:<30} {counts['raw']:>6} {counts['added']:>7} {counts['merged']:>7}")
+    print()
+    print(f"descriptions injected: {desc_injected}")
 
 
 if __name__ == "__main__":

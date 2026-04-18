@@ -13,8 +13,12 @@ import {
 import {
   getAllListings,
   getListingById,
+  getRelatedListings,
+  getNearbyServices,
 } from "@/lib/data";
 import { FetchFilesCTA } from "@/components/FetchFilesCTA";
+import { CategoryGuide } from "@/components/CategoryGuide";
+import { ListingTile } from "@/components/ListingTile";
 import {
   MapPin,
   Phone,
@@ -22,6 +26,7 @@ import {
   Mail,
   Clock,
   BadgeCheck,
+  Navigation,
 } from "lucide-react";
 
 export function generateStaticParams() {
@@ -60,6 +65,9 @@ export default function ListingPage({
   const l = getListingById(params.id);
   if (!l || l.metro !== metro || l.category !== category) notFound();
 
+  const related = getRelatedListings(l, 6);
+  const nearby = getNearbyServices(l, 6);
+
   const mLabel = METRO_LABELS[metro];
   const cLabel = CATEGORY_LABELS[category];
 
@@ -71,6 +79,12 @@ export default function ListingPage({
   const bottom = l.lat - bboxDelta;
   const mapSrc = `https://www.openstreetmap.org/export/embed.html?bbox=${left}%2C${bottom}%2C${right}%2C${top}&layer=mapnik&marker=${l.lat}%2C${l.lng}`;
   const mapLink = `https://www.openstreetmap.org/?mlat=${l.lat}&mlon=${l.lng}#map=16/${l.lat}/${l.lng}`;
+
+  const directionsQuery = encodeURIComponent(
+    `${l.name}, ${l.address}, ${l.city}, ${l.state} ${l.zip}`,
+  );
+  const googleDirections = `https://www.google.com/maps/dir/?api=1&destination=${directionsQuery}`;
+  const appleDirections = `https://maps.apple.com/?q=${directionsQuery}`;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -92,6 +106,7 @@ export default function ListingPage({
     ...(l.phone ? { telephone: l.phone } : {}),
     ...(l.website ? { url: l.website } : {}),
     ...(l.email ? { email: l.email } : {}),
+    ...(l.description ? { description: l.description } : {}),
   };
 
   const days = [
@@ -133,8 +148,11 @@ export default function ListingPage({
               {l.name}
             </h1>
             <div className="mt-2 text-ink-500 flex items-center gap-2 text-sm flex-wrap">
-              <span className="inline-block px-2 py-0.5 rounded-full bg-ink-100 text-ink-700">
+              <span className="inline-block px-2 py-0.5 rounded-full bg-warm-100 text-warm-700">
                 {CATEGORY_LABELS_SINGULAR[l.category]}
+              </span>
+              <span className="text-ink-500">
+                in {l.city}, {l.state}
               </span>
               {l.subcategories?.map((s) => (
                 <span
@@ -157,14 +175,14 @@ export default function ListingPage({
       <section className="mx-auto max-w-6xl px-4 pb-10 grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div className="lg:col-span-2 space-y-6">
           {l.description && (
-            <div className="rounded-lg border border-ink-100 bg-white p-5">
+            <div className="rounded-xl border border-ink-100 bg-white p-5">
               <div className="text-sm text-ink-700 leading-relaxed">
                 {l.description}
               </div>
             </div>
           )}
 
-          <div className="rounded-lg border border-ink-100 bg-white p-5">
+          <div className="rounded-xl border border-ink-100 bg-white p-5">
             <h2 className="font-semibold text-ink-900 mb-3">Contact</h2>
             <dl className="space-y-2 text-sm text-ink-700">
               <div className="flex items-start gap-2">
@@ -211,10 +229,29 @@ export default function ListingPage({
                 </div>
               )}
             </dl>
+            <div className="mt-4 pt-3 border-t border-ink-100 flex flex-wrap gap-2 text-sm">
+              <a
+                href={googleDirections}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md bg-accent-600 text-white hover:bg-accent-700"
+              >
+                <Navigation className="w-4 h-4" />
+                Get directions
+              </a>
+              <a
+                href={appleDirections}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-md border border-ink-100 text-ink-700 hover:bg-ink-50"
+              >
+                Apple Maps
+              </a>
+            </div>
           </div>
 
           {l.hours && Object.keys(l.hours).length > 0 && (
-            <div className="rounded-lg border border-ink-100 bg-white p-5">
+            <div className="rounded-xl border border-ink-100 bg-white p-5">
               <h2 className="font-semibold text-ink-900 mb-3 flex items-center gap-2">
                 <Clock className="w-4 h-4 text-ink-500" /> Hours
               </h2>
@@ -229,7 +266,7 @@ export default function ListingPage({
             </div>
           )}
 
-          <div className="rounded-lg border border-ink-100 bg-white overflow-hidden">
+          <div className="rounded-xl border border-ink-100 bg-white overflow-hidden">
             <iframe
               src={mapSrc}
               className="w-full h-64"
@@ -247,13 +284,47 @@ export default function ListingPage({
               </a>
             </div>
           </div>
+
+          <CategoryGuide category={l.category} />
+
+          {related.length > 0 && (
+            <div>
+              <h2 className="font-semibold text-ink-900 mb-3">
+                Other {cLabel.toLowerCase()} in {mLabel}
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {related.map((r) => (
+                  <ListingTile key={r.id} listing={r} />
+                ))}
+              </div>
+              <Link
+                href={`/${metro}/${category}`}
+                className="mt-3 inline-block text-sm text-accent-700 font-medium hover:text-accent-800"
+              >
+                See all {cLabel.toLowerCase()} in {mLabel} &rarr;
+              </Link>
+            </div>
+          )}
+
+          {nearby.length > 0 && (
+            <div>
+              <h2 className="font-semibold text-ink-900 mb-3">
+                Nearby services
+              </h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {nearby.map((r) => (
+                  <ListingTile key={r.id} listing={r} />
+                ))}
+              </div>
+            </div>
+          )}
         </div>
 
         <aside className="space-y-4">
           <FetchFilesCTA variant="card" />
           <Link
             href={`/claim/${l.id}`}
-            className="block rounded-lg border border-ink-100 bg-white p-4 hover:border-accent-600 transition"
+            className="block rounded-xl border border-ink-100 bg-white p-4 hover:border-accent-600 transition"
           >
             <div className="font-semibold text-ink-900">Claim this listing</div>
             <div className="text-sm text-ink-500 mt-1">

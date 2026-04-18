@@ -5,7 +5,8 @@ export type Category =
   | "groomer"
   | "boarder"
   | "daycare"
-  | "sitter";
+  | "sitter"
+  | "shelter";
 
 export type Metro =
   | "atlanta"
@@ -72,6 +73,7 @@ export const CATEGORIES: Category[] = [
   "boarder",
   "daycare",
   "sitter",
+  "shelter",
 ];
 
 export const METRO_LABELS: Record<Metro, string> = {
@@ -96,6 +98,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   boarder: "Boarders",
   daycare: "Daycares",
   sitter: "Sitters",
+  shelter: "Shelters",
 };
 
 export const CATEGORY_LABELS_SINGULAR: Record<Category, string> = {
@@ -104,4 +107,5 @@ export const CATEGORY_LABELS_SINGULAR: Record<Category, string> = {
   boarder: "Boarder",
   daycare: "Daycare",
   sitter: "Sitter",
+  shelter: "Shelter",
 };

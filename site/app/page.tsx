@@ -15,6 +15,7 @@ import {
   HeartHandshake,
   MapPin,
   PawPrint,
+  Heart,
 } from "lucide-react";
 
 const CATEGORY_ICONS = {
@@ -23,6 +24,7 @@ const CATEGORY_ICONS = {
   boarder: House,
   daycare: Sparkles,
   sitter: HeartHandshake,
+  shelter: Heart,
 } as const;
 
 export default function HomePage() {

@@ -46,7 +46,8 @@ type Category =
   | "groomer"
   | "boarder"
   | "daycare"
-  | "sitter";
+  | "sitter"
+  | "shelter";
 
 type Metro =
   | "atlanta"

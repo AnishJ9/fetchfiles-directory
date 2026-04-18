@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T20:41:15.164209+00:00",
-  "totalListings": 651,
+  "generatedAt": "2026-04-18T23:41:28.548929+00:00",
+  "totalListings": 690,
   "byMetro": {
     "atlanta": {
       "veterinarian": 171,
@@ -8,7 +8,8 @@
       "boarder": 24,
       "daycare": 4,
       "sitter": 0,
-      "_total": 283
+      "shelter": 19,
+      "_total": 302
     },
     "tampa": {
       "veterinarian": 78,
@@ -16,7 +17,8 @@
       "boarder": 7,
       "daycare": 2,
       "sitter": 0,
-      "_total": 128
+      "shelter": 3,
+      "_total": 131
     },
     "austin": {
       "veterinarian": 111,
@@ -24,7 +26,8 @@
       "boarder": 14,
       "daycare": 2,
       "sitter": 0,
-      "_total": 164
+      "shelter": 14,
+      "_total": 178
     },
     "nashville": {
       "veterinarian": 30,
@@ -32,6 +35,7 @@
       "boarder": 2,
       "daycare": 1,
       "sitter": 0,
+      "shelter": 0,
       "_total": 50
     },
     "asheville": {
@@ -40,7 +44,8 @@
       "boarder": 3,
       "daycare": 1,
       "sitter": 0,
-      "_total": 26
+      "shelter": 3,
+      "_total": 29
     }
   },
   "bySource": {
@@ -78,6 +83,11 @@
       "raw": 447,
       "added": 32,
       "merged": 415
+    },
+    "enrichment/shelters_osm": {
+      "raw": 40,
+      "added": 39,
+      "merged": 1
     }
   }
 }
