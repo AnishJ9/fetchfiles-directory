@@ -14,6 +14,7 @@ site/.env*.local
 
 # Data (large/generated — keep source-of-truth in data/, ignore caches)
 pipeline/.cache/
+data/enrichment/.cache/
 
 # OS
 .DS_Store

@@ -11,7 +11,8 @@
     "lat": 34.0288063,
     "lng": -84.3574096,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/368997626"
@@ -36,7 +37,8 @@
     "lat": 33.7789309,
     "lng": -84.2946427,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/567189395"
@@ -57,7 +59,8 @@
     "lat": 33.7757546,
     "lng": -84.2997745,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1138279814"
@@ -77,7 +80,8 @@
     "lat": 33.7413871,
     "lng": -84.3468944,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1253884705"
@@ -98,7 +102,8 @@
     "lat": 33.7887849,
     "lng": -84.3072888,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1672098662"
@@ -124,7 +129,8 @@
     "lat": 33.9001823,
     "lng": -84.4902691,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2714354618"
@@ -149,7 +155,8 @@
     "lat": 34.0842226,
     "lng": -84.5588324,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2715934561"
@@ -174,7 +181,8 @@
     "lat": 33.8831817,
     "lng": -84.4991413,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2983918695"
@@ -199,7 +207,8 @@
     "lat": 33.791647,
     "lng": -84.367696,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3337103593"
@@ -225,7 +234,8 @@
     "lat": 34.0084761,
     "lng": -84.3605638,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3524645789"
@@ -250,7 +260,8 @@
     "lat": 33.7336688,
     "lng": -84.3497515,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3564217653"
@@ -270,7 +281,8 @@
     "lat": 33.7821296,
     "lng": -84.4100226,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3650904863"
@@ -295,7 +307,8 @@
     "lat": 34.1130277,
     "lng": -84.0737116,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3980476536"
@@ -315,7 +328,8 @@
     "lat": 34.070297,
     "lng": -84.2035611,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/4331011289"
@@ -343,7 +357,8 @@
     "lat": 33.9696814,
     "lng": -84.2065117,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/4594502281"
@@ -363,7 +378,8 @@
     "lat": 33.9689857,
     "lng": -84.488279,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/4705873580"
@@ -388,7 +404,8 @@
     "lat": 33.8251909,
     "lng": -84.2921336,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/4792625853"
@@ -408,7 +425,8 @@
     "lat": 33.955303,
     "lng": -84.6602485,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5107357084"
@@ -433,7 +451,8 @@
     "lat": 33.9505863,
     "lng": -84.333177,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5222537866"
@@ -454,7 +473,8 @@
     "lat": 34.0349475,
     "lng": -83.9090501,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5267726383"
@@ -474,7 +494,8 @@
     "lat": 34.0062028,
     "lng": -84.1347139,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5410221519"
@@ -499,7 +520,8 @@
     "lat": 33.7930573,
     "lng": -84.6699054,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5866348209"
@@ -519,7 +541,8 @@
     "lat": 33.7808692,
     "lng": -84.7029822,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5869003345"
@@ -539,7 +562,8 @@
     "lat": 33.8870083,
     "lng": -84.2550953,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5949728613"
@@ -564,7 +588,8 @@
     "lat": 34.1016734,
     "lng": -84.1395547,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6429659346"
@@ -584,7 +609,8 @@
     "lat": 34.0860983,
     "lng": -84.546068,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6567526894"
@@ -609,7 +635,8 @@
     "lat": 33.6649011,
     "lng": -84.0345761,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7346203332"
@@ -629,7 +656,8 @@
     "lat": 34.0337242,
     "lng": -84.4632849,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7860016563"
@@ -654,7 +682,8 @@
     "lat": 34.0197701,
     "lng": -84.279213,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7986482224"
@@ -674,7 +703,8 @@
     "lat": 33.7550648,
     "lng": -84.3570848,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8573537122"
@@ -700,7 +730,8 @@
     "lat": 34.0654577,
     "lng": -84.7235486,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9172706464"
@@ -724,7 +755,8 @@
     "lat": 34.0339355,
     "lng": -84.6771877,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9174483716"
@@ -744,7 +776,8 @@
     "lat": 34.0601886,
     "lng": -84.3255829,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9757426791"
@@ -770,7 +803,8 @@
     "lat": 33.8125941,
     "lng": -84.2420042,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9951792128"
@@ -792,7 +826,8 @@
     "lat": 33.807627,
     "lng": -84.3665052,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10138529676"
@@ -812,7 +847,8 @@
     "lat": 33.4465814,
     "lng": -84.3226366,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10753344721"
@@ -832,7 +868,8 @@
     "lat": 33.8926015,
     "lng": -84.5199879,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10775553985"
@@ -859,7 +896,8 @@
     "lat": 33.8800265,
     "lng": -84.5160149,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11070245606"
@@ -883,7 +921,8 @@
     "lat": 33.7798973,
     "lng": -84.3676936,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11261587613"
@@ -908,7 +947,8 @@
     "lat": 33.7454588,
     "lng": -84.3579937,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11264952982"
@@ -928,7 +968,8 @@
     "lat": 33.7825986,
     "lng": -84.2746372,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11294843612"
@@ -948,7 +989,8 @@
     "lat": 34.0381738,
     "lng": -84.5311007,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11764904277"
@@ -969,7 +1011,8 @@
     "lat": 33.8592092,
     "lng": -84.5158393,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11840214978"
@@ -989,7 +1032,8 @@
     "lat": 34.0356357,
     "lng": -84.5730594,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12054021100"
@@ -1014,7 +1058,8 @@
     "lat": 34.0723198,
     "lng": -84.5224251,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12074193015"
@@ -1039,7 +1084,8 @@
     "lat": 34.0138836,
     "lng": -84.5628728,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12078838126"
@@ -1064,7 +1110,8 @@
     "lat": 34.0190171,
     "lng": -84.6186787,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12084095949"
@@ -1090,7 +1137,8 @@
     "lat": 34.0764981,
     "lng": -84.2463271,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12102929210"
@@ -1116,7 +1164,8 @@
     "lat": 33.9919964,
     "lng": -84.5994633,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12117654909"
@@ -1137,7 +1186,8 @@
     "lat": 34.0427281,
     "lng": -84.4827128,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12160720542"
@@ -1162,7 +1212,8 @@
     "lat": 34.0114814,
     "lng": -84.4929397,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12189335087"
@@ -1187,7 +1238,8 @@
     "lat": 34.0284745,
     "lng": -84.4220701,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12289110887"
@@ -1212,7 +1264,8 @@
     "lat": 34.0245444,
     "lng": -84.424364,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12305883197"
@@ -1238,7 +1291,8 @@
     "lat": 33.8628203,
     "lng": -84.2885444,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12349541532"
@@ -1264,7 +1318,8 @@
     "lat": 33.9882519,
     "lng": -84.4204051,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12479704561"
@@ -1289,7 +1344,8 @@
     "lat": 33.9864852,
     "lng": -84.4239293,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12480678950"
@@ -1314,7 +1370,8 @@
     "lat": 33.9655513,
     "lng": -84.4087387,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12573379951"
@@ -1334,7 +1391,8 @@
     "lat": 34.0003127,
     "lng": -84.5830249,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12613553227"
@@ -1359,7 +1417,8 @@
     "lat": 34.0557149,
     "lng": -84.5542825,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12646030441"
@@ -1382,7 +1441,8 @@
     "lat": 34.0585341,
     "lng": -84.5912462,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12686006047"
@@ -1402,7 +1462,8 @@
     "lat": 33.8010137,
     "lng": -84.4179009,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12911163203"
@@ -1422,7 +1483,8 @@
     "lat": 33.8870929,
     "lng": -84.2590452,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12999106965"
@@ -1444,7 +1506,8 @@
     "lat": 34.0069181,
     "lng": -83.9148709,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13019585535"
@@ -1464,7 +1527,8 @@
     "lat": 33.7882591,
     "lng": -84.3880173,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13019884474"
@@ -1490,7 +1554,8 @@
     "lat": 33.8520662,
     "lng": -84.5102727,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13029835769"
@@ -1510,7 +1575,8 @@
     "lat": 33.7772312,
     "lng": -84.3840857,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13070138149"
@@ -1530,7 +1596,8 @@
     "lat": 33.9794086,
     "lng": -84.1546045,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13085611694"
@@ -1550,7 +1617,8 @@
     "lat": 34.0192368,
     "lng": -84.3160269,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13136743070"
@@ -1570,7 +1638,8 @@
     "lat": 33.9672139,
     "lng": -84.2556761,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13179151988"
@@ -1590,7 +1659,8 @@
     "lat": 33.7387429,
     "lng": -84.4269909,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13228144487"
@@ -1610,7 +1680,8 @@
     "lat": 34.0073469,
     "lng": -83.9862279,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13233579589"
@@ -1635,7 +1706,8 @@
     "lat": 33.9559498,
     "lng": -84.786361,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13235350992"
@@ -1655,7 +1727,8 @@
     "lat": 33.96606,
     "lng": -84.4157977,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13372912706"
@@ -1681,7 +1754,8 @@
     "lat": 34.1109235,
     "lng": -84.559115,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13458584880"
@@ -1704,7 +1778,8 @@
     "lat": 33.8669516,
     "lng": -84.0918177,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/97045168"
@@ -1724,7 +1799,8 @@
     "lat": 33.8885667,
     "lng": -84.0569325,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/97046752"
@@ -1747,7 +1823,8 @@
     "lat": 33.8397945,
     "lng": -84.1320718,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/97189433"
@@ -1773,7 +1850,8 @@
     "lat": 33.8041896,
     "lng": -84.1701611,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/102639622"
@@ -1794,7 +1872,8 @@
     "lat": 33.8108566,
     "lng": -84.1713155,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/102639667"
@@ -1814,7 +1893,8 @@
     "lat": 33.9809971,
     "lng": -84.4244994,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/106651065"
@@ -1837,7 +1917,8 @@
     "lat": 33.9197971,
     "lng": -84.4666936,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/265990820"
@@ -1862,7 +1943,8 @@
     "lat": 33.9672519,
     "lng": -84.5349906,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/265998181"
@@ -1887,7 +1969,8 @@
     "lat": 33.8483641,
     "lng": -84.4302994,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/267556214"
@@ -1907,7 +1990,8 @@
     "lat": 34.0645132,
     "lng": -84.4225608,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/271072501"
@@ -1933,7 +2017,8 @@
     "lat": 33.6250255,
     "lng": -84.4721513,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/281367326"
@@ -1953,7 +2038,8 @@
     "lat": 34.0153033,
     "lng": -84.6139685,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/283028747"
@@ -1978,7 +2064,8 @@
     "lat": 33.9222361,
     "lng": -84.469162,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/284264734"
@@ -2003,7 +2090,8 @@
     "lat": 33.9507881,
     "lng": -84.536856,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/294277591"
@@ -2028,7 +2116,8 @@
     "lat": 33.9074247,
     "lng": -84.4290004,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/295514751"
@@ -2053,7 +2142,8 @@
     "lat": 33.9464511,
     "lng": -84.3350282,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/307386818"
@@ -2078,7 +2168,8 @@
     "lat": 33.8110493,
     "lng": -84.1715271,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/312679228"
@@ -2098,7 +2189,8 @@
     "lat": 33.7150561,
     "lng": -84.7672156,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/318944586"
@@ -2118,7 +2210,8 @@
     "lat": 33.9773498,
     "lng": -84.4396001,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/326243997"
@@ -2143,7 +2236,8 @@
     "lat": 33.9590796,
     "lng": -84.5133177,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/326303171"
@@ -2168,7 +2262,8 @@
     "lat": 33.9361458,
     "lng": -84.373169,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/326558512"
@@ -2193,7 +2288,8 @@
     "lat": 33.9203488,
     "lng": -84.3796176,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/328671601"
@@ -2215,7 +2311,8 @@
     "lat": 33.9906046,
     "lng": -84.2790881,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/352451712"
@@ -2235,7 +2332,8 @@
     "lat": 33.960867,
     "lng": -83.9864659,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/387854325"
@@ -2255,7 +2353,8 @@
     "lat": 34.109189,
     "lng": -84.0010713,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/387897502"
@@ -2277,7 +2376,8 @@
     "lat": 33.9731085,
     "lng": -83.9870179,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/388525975"
@@ -2297,7 +2397,8 @@
     "lat": 33.862093,
     "lng": -84.0174516,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/388758001"
@@ -2317,7 +2418,8 @@
     "lat": 33.8561722,
     "lng": -84.0125515,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/388763181"
@@ -2337,7 +2439,8 @@
     "lat": 34.060525,
     "lng": -84.4204283,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/389330427"
@@ -2363,7 +2466,8 @@
     "lat": 34.0573377,
     "lng": -84.0804635,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/390307182"
@@ -2383,7 +2487,8 @@
     "lat": 33.8997667,
     "lng": -83.9631304,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/390975761"
@@ -2403,7 +2508,8 @@
     "lat": 34.0613643,
     "lng": -84.0604955,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/400421435"
@@ -2423,7 +2529,8 @@
     "lat": 34.0742179,
     "lng": -84.1645522,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/413040650"
@@ -2443,7 +2550,8 @@
     "lat": 34.0614003,
     "lng": -84.1560257,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/413041420"
@@ -2463,7 +2571,8 @@
     "lat": 34.1493711,
     "lng": -84.8246902,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/420651832"
@@ -2488,7 +2597,8 @@
     "lat": 33.9536305,
     "lng": -84.4408333,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/441995163"
@@ -2516,7 +2626,8 @@
     "lat": 34.04142,
     "lng": -84.695285,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/533908925"
@@ -2541,7 +2652,8 @@
     "lat": 33.5847068,
     "lng": -83.9119089,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/543574866"
@@ -2566,7 +2678,8 @@
     "lat": 33.8772858,
     "lng": -84.7609825,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/554169261"
@@ -2586,7 +2699,8 @@
     "lat": 34.1152179,
     "lng": -84.2687256,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/584730961"
@@ -2609,7 +2723,8 @@
     "lat": 34.0873101,
     "lng": -84.4871443,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/603557113"
@@ -2630,7 +2745,8 @@
     "lat": 34.1011195,
     "lng": -84.5227234,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/642646791"
@@ -2650,7 +2766,8 @@
     "lat": 33.9190862,
     "lng": -84.0053476,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/702601120"
@@ -2673,7 +2790,8 @@
     "lat": 33.8128354,
     "lng": -84.546121,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/704145901"
@@ -2696,7 +2814,8 @@
     "lat": 34.1281712,
     "lng": -84.2565455,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/741683783"
@@ -2721,7 +2840,8 @@
     "lat": 34.1268125,
     "lng": -84.2585721,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/741683786"
@@ -2746,7 +2866,8 @@
     "lat": 33.8349387,
     "lng": -84.3393849,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/769051985"
@@ -2766,7 +2887,8 @@
     "lat": 34.0281433,
     "lng": -84.2508959,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/846843675"
@@ -2791,7 +2913,8 @@
     "lat": 33.4128652,
     "lng": -84.6018558,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/865976252"
@@ -2811,7 +2934,8 @@
     "lat": 34.0097455,
     "lng": -84.4965798,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/924042046"
@@ -2831,7 +2955,8 @@
     "lat": 34.0277761,
     "lng": -84.4244378,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/930465597"
@@ -2857,7 +2982,8 @@
     "lat": 34.0221195,
     "lng": -84.4259166,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/930753886"
@@ -2882,7 +3008,8 @@
     "lat": 33.9582905,
     "lng": -84.500293,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/933017623"
@@ -2908,7 +3035,8 @@
     "lat": 33.8508649,
     "lng": -84.2155649,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/972518034"
@@ -2928,7 +3056,8 @@
     "lat": 33.9950805,
     "lng": -84.5191455,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/992848219"
@@ -2953,7 +3082,8 @@
     "lat": 34.0448425,
     "lng": -84.6015295,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/992883653"
@@ -2978,7 +3108,8 @@
     "lat": 33.9708815,
     "lng": -84.017379,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/999110722"
@@ -2998,7 +3129,8 @@
     "lat": 33.9333072,
     "lng": -84.0375844,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/999112548"
@@ -3018,7 +3150,8 @@
     "lat": 33.9186235,
     "lng": -83.973863,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/999161786"
@@ -3038,7 +3171,8 @@
     "lat": 34.087716,
     "lng": -84.519934,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/999782405"
@@ -3063,7 +3197,8 @@
     "lat": 33.9008385,
     "lng": -84.7715265,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1010628079"
@@ -3083,7 +3218,8 @@
     "lat": 33.8757635,
     "lng": -84.5241135,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1022018548"
@@ -3108,7 +3244,8 @@
     "lat": 34.0709673,
     "lng": -83.9005036,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1061894918"
@@ -3128,7 +3265,8 @@
     "lat": 33.7516639,
     "lng": -84.3985619,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2755107984"
@@ -3149,7 +3287,8 @@
     "lat": 33.9233401,
     "lng": -84.4706466,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5695701952"
@@ -3175,7 +3314,8 @@
     "lat": 33.9379969,
     "lng": -84.3810474,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5900467460"
@@ -3200,7 +3340,8 @@
     "lat": 33.775721,
     "lng": -84.2731431,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7105460738"
@@ -3220,7 +3361,8 @@
     "lat": 33.86888,
     "lng": -84.0913658,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7551804357"
@@ -3240,7 +3382,8 @@
     "lat": 33.9876248,
     "lng": -84.2697788,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7947152361"
@@ -3265,7 +3408,8 @@
     "lat": 34.0535899,
     "lng": -84.0882745,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9374450051"
@@ -3285,7 +3429,8 @@
     "lat": 33.761689,
     "lng": -84.7256775,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9710730673"
@@ -3310,7 +3455,8 @@
     "lat": 33.9213675,
     "lng": -84.0086453,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10131672175"
@@ -3330,7 +3476,8 @@
     "lat": 34.113201,
     "lng": -84.1550158,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10540232589"
@@ -3355,7 +3502,8 @@
     "lat": 34.0382296,
     "lng": -84.5307109,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11699277530"
@@ -3379,7 +3527,8 @@
     "lat": 33.7455571,
     "lng": -84.4053261,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11747136661"
@@ -3399,7 +3548,8 @@
     "lat": 34.0212231,
     "lng": -84.3156071,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11851041039"
@@ -3424,7 +3574,8 @@
     "lat": 33.856538,
     "lng": -84.4926201,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11851132036"
@@ -3444,7 +3595,8 @@
     "lat": 34.048967,
     "lng": -84.6013811,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11902001174"
@@ -3464,7 +3616,8 @@
     "lat": 33.6191345,
     "lng": -84.849362,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12012628569"
@@ -3489,7 +3642,8 @@
     "lat": 34.0217294,
     "lng": -84.6265136,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12083816362"
@@ -3514,7 +3668,8 @@
     "lat": 34.0427459,
     "lng": -84.4824221,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12160720547"
@@ -3539,7 +3694,8 @@
     "lat": 34.0425585,
     "lng": -84.4835795,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12161206755"
@@ -3565,7 +3721,8 @@
     "lat": 34.0118116,
     "lng": -84.4920716,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12189333508"
@@ -3591,7 +3748,8 @@
     "lat": 34.0661955,
     "lng": -84.4232874,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12207854836"
@@ -3615,7 +3773,8 @@
     "lat": 34.0253208,
     "lng": -84.4223888,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12292410786"
@@ -3640,7 +3799,8 @@
     "lat": 34.0220163,
     "lng": -84.427977,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12316041696"
@@ -3665,7 +3825,8 @@
     "lat": 33.8840626,
     "lng": -84.0089167,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12806128702"
@@ -3689,7 +3850,8 @@
     "lat": 34.0868025,
     "lng": -84.5012157,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13092813610"
@@ -3709,7 +3871,8 @@
     "lat": 33.8088831,
     "lng": -84.4126875,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13104648419"
@@ -3735,7 +3898,8 @@
     "lat": 33.9688216,
     "lng": -84.2571057,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13179159604"
@@ -3761,7 +3925,8 @@
     "lat": 33.9660507,
     "lng": -84.4149217,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13375025423"
@@ -3787,7 +3952,8 @@
     "lat": 33.8832378,
     "lng": -84.498983,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13388994635"
@@ -3807,7 +3973,8 @@
     "lat": 33.9513548,
     "lng": -84.4132016,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13393652213"
@@ -3833,7 +4000,8 @@
     "lat": 33.9217041,
     "lng": -84.3147458,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13596938622"
@@ -3853,7 +4021,8 @@
     "lat": 34.0185092,
     "lng": -84.5248255,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13680393628"
@@ -3873,7 +4042,8 @@
     "lat": 33.7812656,
     "lng": -84.380877,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/234934493"
@@ -3899,7 +4069,8 @@
     "lat": 34.0133569,
     "lng": -84.494215,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/352102798"
@@ -3923,7 +4094,8 @@
     "lat": 33.8584163,
     "lng": -84.6774137,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/923616303"
@@ -3943,7 +4115,8 @@
     "lat": 33.932498,
     "lng": -84.7294015,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1010622765"
@@ -3963,7 +4136,8 @@
     "lat": 33.868284,
     "lng": -84.5672727,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2993464631"
@@ -3984,7 +4158,8 @@
     "lat": 33.9000233,
     "lng": -84.4901572,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3314723663"
@@ -4009,7 +4184,8 @@
     "lat": 33.774957,
     "lng": -84.364396,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3396660793"
@@ -4029,7 +4205,8 @@
     "lat": 34.1427764,
     "lng": -84.1044824,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/4574615167"
@@ -4051,7 +4228,8 @@
     "lat": 34.052982,
     "lng": -84.1223389,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8340194604"
@@ -4071,7 +4249,8 @@
     "lat": 33.9614849,
     "lng": -84.009291,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10604205729"
@@ -4091,7 +4270,8 @@
     "lat": 34.034208,
     "lng": -84.3495587,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11583013403"
@@ -4115,7 +4295,8 @@
     "lat": 34.034271,
     "lng": -84.5263477,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11699326205"
@@ -4140,7 +4321,8 @@
     "lat": 33.8263716,
     "lng": -84.3333029,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12030020205"
@@ -4160,7 +4342,8 @@
     "lat": 34.0634746,
     "lng": -84.6507396,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12120908799"
@@ -4180,7 +4363,8 @@
     "lat": 34.0156869,
     "lng": -84.5772865,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13162288185"
@@ -4201,7 +4385,8 @@
     "lat": 33.7879569,
     "lng": -84.3701937,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13472583662"
@@ -4227,7 +4412,8 @@
     "lat": 33.9741809,
     "lng": -84.4147244,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/106709214"
@@ -4252,7 +4438,8 @@
     "lat": 33.8104128,
     "lng": -84.3602555,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/226576095"
@@ -4272,14 +4459,15 @@
     "lat": 33.9908333,
     "lng": -84.2779044,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/352451762"
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
     "claimed": false,
-    "phone": "+11770609733",
+    "phone": "+1-404-885-8788;+1-770-609-7483",
     "website": "http://www.puppyhavenatl.com/"
   },
   {
@@ -4294,7 +4482,8 @@
     "lat": 34.0398495,
     "lng": -84.512594,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/386888528"
@@ -4317,7 +4506,8 @@
     "lat": 33.8911598,
     "lng": -84.1266211,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/808601446"
@@ -4337,7 +4527,8 @@
     "lat": 33.7457572,
     "lng": -84.3597927,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/812914217"
@@ -4357,7 +4548,8 @@
     "lat": 33.8357764,
     "lng": -84.4726089,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/846914205"
@@ -4379,7 +4571,8 @@
     "lat": 34.136551,
     "lng": -84.2847992,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/974492742"
@@ -4404,7 +4597,8 @@
     "lat": 34.0058138,
     "lng": -84.6051109,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/992856962"
@@ -4430,7 +4624,8 @@
     "lat": 33.9897655,
     "lng": -84.4287116,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1422945051"
@@ -4452,7 +4647,8 @@
     "lat": 33.408854,
     "lng": -84.6755701,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1472501025"
@@ -4476,7 +4672,8 @@
     "lat": 28.2617369,
     "lng": -82.3478076,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1068272845"
@@ -4497,7 +4694,8 @@
     "lat": 28.0792591,
     "lng": -82.5662446,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1094770988"
@@ -4518,7 +4716,8 @@
     "lat": 28.0046395,
     "lng": -82.5969411,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11146508454"
@@ -4538,7 +4737,8 @@
     "lat": 27.770789,
     "lng": -82.6744644,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9290629323"
@@ -4550,7 +4750,7 @@
     "id": "6698b9301034935e",
     "name": "Dandy's Pet Grooming",
     "category": "groomer",
-    "address": "2150 1st Avenue South",
+    "address": "2150 1st Avenue South, Unit 1",
     "city": "Saint Petersburg",
     "state": "FL",
     "zip": "",
@@ -4558,7 +4758,8 @@
     "lat": 27.7700215,
     "lng": -82.6628277,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6955110879"
@@ -4570,7 +4771,7 @@
     "id": "4a95cccf13b61ee7",
     "name": "Dirty Dog Self Serve Dog Wash",
     "category": "groomer",
-    "address": "14100 Walsingham Road",
+    "address": "14100 Walsingham Road, Unit 31",
     "city": "Largo",
     "state": "FL",
     "zip": "33774",
@@ -4578,7 +4779,8 @@
     "lat": 27.8799238,
     "lng": -82.8345306,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13421902711"
@@ -4599,7 +4801,8 @@
     "lat": 27.7739587,
     "lng": -82.6333998,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6857706675"
@@ -4621,7 +4824,8 @@
     "lat": 28.0696638,
     "lng": -82.4438727,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/821888936"
@@ -4641,7 +4845,8 @@
     "lat": 28.1948448,
     "lng": -82.39976,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1188146597"
@@ -4663,7 +4868,8 @@
     "lat": 27.939647,
     "lng": -82.451778,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2098621366"
@@ -4676,7 +4882,7 @@
     "id": "0bd29be086f22f05",
     "name": "Sit Stay Splash!",
     "category": "groomer",
-    "address": "Collier Parkway",
+    "address": "Collier Parkway, Unit 1930",
     "city": "Lutz",
     "state": "FL",
     "zip": "33549",
@@ -4684,7 +4890,8 @@
     "lat": 28.183713,
     "lng": -82.4373676,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9567134441"
@@ -4706,7 +4913,8 @@
     "lat": 27.7161749,
     "lng": -82.4344469,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1044777047"
@@ -4726,7 +4934,8 @@
     "lat": 28.0888006,
     "lng": -82.4052445,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9925312480"
@@ -4747,7 +4956,8 @@
     "lat": 27.8574727,
     "lng": -82.8463184,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5987978017"
@@ -4769,7 +4979,8 @@
     "lat": 28.141928,
     "lng": -82.461804,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2006393945"
@@ -4789,7 +5000,8 @@
     "lat": 27.9905616,
     "lng": -82.7267966,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/523873674"
@@ -4809,7 +5021,8 @@
     "lat": 27.9683464,
     "lng": -82.7500089,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/547137824"
@@ -4831,7 +5044,8 @@
     "lat": 27.8430655,
     "lng": -82.7965099,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/524265997"
@@ -4853,7 +5067,8 @@
     "lat": 28.196063,
     "lng": -82.3550144,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/821626505"
@@ -4873,7 +5088,8 @@
     "lat": 28.0661031,
     "lng": -82.5061394,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6580014869"
@@ -4893,7 +5109,8 @@
     "lat": 28.0170443,
     "lng": -82.6145799,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7610517841"
@@ -4913,7 +5130,8 @@
     "lat": 27.893057,
     "lng": -82.2713023,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9316602516"
@@ -4933,7 +5151,8 @@
     "lat": 28.2362775,
     "lng": -82.3469806,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12198087742"
@@ -4955,7 +5174,8 @@
     "lat": 28.0415962,
     "lng": -82.5264545,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/398374202"
@@ -4977,7 +5197,8 @@
     "lat": 27.983771,
     "lng": -82.567992,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/523042333"
@@ -4999,7 +5220,8 @@
     "lat": 27.945175,
     "lng": -82.517697,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2136837022"
@@ -5019,7 +5241,8 @@
     "lat": 27.9235542,
     "lng": -82.2922112,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9923076925"
@@ -5039,7 +5262,8 @@
     "lat": 28.0354502,
     "lng": -82.4920512,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/311061595"
@@ -5061,7 +5285,8 @@
     "lat": 27.8560149,
     "lng": -82.3210807,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/263299507"
@@ -5083,7 +5308,8 @@
     "lat": 27.8558907,
     "lng": -82.321905,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7118280767"
@@ -5103,7 +5329,8 @@
     "lat": 27.8920369,
     "lng": -82.2751902,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/680663440"
@@ -5125,7 +5352,8 @@
     "lat": 27.8931976,
     "lng": -82.2756809,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/680645584"
@@ -5147,7 +5375,8 @@
     "lat": 27.867539,
     "lng": -82.622259,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2210282586"
@@ -5167,7 +5396,8 @@
     "lat": 27.8160912,
     "lng": -82.6381566,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/165477498"
@@ -5187,7 +5417,8 @@
     "lat": 28.081305,
     "lng": -82.7470979,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/522686474"
@@ -5207,7 +5438,8 @@
     "lat": 27.926809,
     "lng": -82.4532356,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7185557318"
@@ -5229,7 +5461,8 @@
     "lat": 27.8931134,
     "lng": -82.5256064,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/211032893"
@@ -5249,7 +5482,8 @@
     "lat": 27.9729855,
     "lng": -82.4844858,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/296880712"
@@ -5271,7 +5505,8 @@
     "lat": 27.9374785,
     "lng": -82.4715167,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1034672827"
@@ -5292,7 +5527,8 @@
     "lat": 27.925605,
     "lng": -82.2730761,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/466981710"
@@ -5312,7 +5548,8 @@
     "lat": 28.0028144,
     "lng": -82.5953626,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1103200000"
@@ -5332,7 +5569,8 @@
     "lat": 27.7860733,
     "lng": -82.6381246,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/251522491"
@@ -5354,7 +5592,8 @@
     "lat": 27.845166,
     "lng": -82.728139,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/532401182"
@@ -5374,7 +5613,8 @@
     "lat": 27.835299,
     "lng": -82.639025,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5388221405"
@@ -5396,7 +5636,8 @@
     "lat": 27.7705735,
     "lng": -82.7355374,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/192532723"
@@ -5417,7 +5658,8 @@
     "lat": 28.1510878,
     "lng": -82.3540679,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/547132156"
@@ -5439,7 +5681,8 @@
     "lat": 27.8426677,
     "lng": -82.7037232,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10224946347"
@@ -5460,7 +5703,8 @@
     "lat": 27.8826756,
     "lng": -82.7879495,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2846173066"
@@ -5480,7 +5724,8 @@
     "lat": 27.9602127,
     "lng": -82.7212444,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1772767809"
@@ -5502,7 +5747,8 @@
     "lat": 27.827941,
     "lng": -82.661148,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2015039339"
@@ -5522,7 +5768,8 @@
     "lat": 28.194967,
     "lng": -82.3998464,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1188146596"
@@ -5544,7 +5791,8 @@
     "lat": 27.978073,
     "lng": -82.4844485,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/372265312"
@@ -5570,7 +5818,8 @@
     "website": "https://www.dogtownaustin.com/",
     "email": "info@dogtownaustin.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/384254398"
@@ -5594,7 +5843,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/699065073"
@@ -5618,7 +5868,8 @@
     "website": "https://bhvaustin.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/881151017"
@@ -5642,7 +5893,8 @@
     "website": "https://countrysidepetresort.com/",
     "email": "countrysidepetresort103@gmail.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12228545449"
@@ -5655,7 +5907,7 @@
     "name": "Crackerdog",
     "category": "boarder",
     "subcategories": null,
-    "address": "8907 Bee Caves Road Bldg F",
+    "address": "8907 Bee Caves Road, Unit Bldg F",
     "city": "Austin",
     "state": "TX",
     "zip": "78746",
@@ -5666,7 +5918,8 @@
     "website": "http://www.crackerdogcare.com/",
     "email": "reserve@crackerdogcare.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1022777836"
@@ -5690,7 +5943,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1453965277"
@@ -5714,7 +5968,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1225968038"
@@ -5727,7 +5982,7 @@
     "name": "Dogtopia",
     "category": "boarder",
     "subcategories": null,
-    "address": "13945 North Highway 183 C-4",
+    "address": "13945 North Highway 183, Unit C-4",
     "city": "Austin",
     "state": "TX",
     "zip": "78717",
@@ -5738,7 +5993,8 @@
     "website": "https://www.dogtopia.com/austin/",
     "email": "northaustin@dogtopia.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7094945933"
@@ -5762,7 +6018,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11984383107"
@@ -5786,7 +6043,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6080106844"
@@ -5810,7 +6068,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1382654788"
@@ -5834,7 +6093,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382444387"
@@ -5858,7 +6118,8 @@
     "website": "https://www.dogtrainingandboardingaustin.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13610264389"
@@ -5878,11 +6139,12 @@
     "metro": "austin",
     "lat": 30.4114377,
     "lng": -97.6916485,
-    "phone": "+1737242238118559555185",
+    "phone": "+1-737-242-2381; +1-855-955-5185",
     "website": "https://www.taurusacademy.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12988996702"
@@ -5906,7 +6168,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383784210"
@@ -5919,7 +6182,7 @@
     "name": "Dirty Dog",
     "category": "groomer",
     "subcategories": null,
-    "address": "3016 Guadalupe Street B495",
+    "address": "3016 Guadalupe Street, Unit B495",
     "city": "Austin",
     "state": "TX",
     "zip": "78705",
@@ -5930,7 +6193,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12433956490"
@@ -5954,7 +6218,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13356440067"
@@ -5967,7 +6232,7 @@
     "name": "Fur Oak Professional Pet Grooming",
     "category": "groomer",
     "subcategories": null,
-    "address": "1904 South Bagdad Road 1",
+    "address": "1904 South Bagdad Road, Unit 1",
     "city": "Leander",
     "state": "TX",
     "zip": "78641",
@@ -5978,7 +6243,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10697498960"
@@ -6002,7 +6268,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13110850001"
@@ -6015,7 +6282,7 @@
     "name": "Happy Hounds Grooming",
     "category": "groomer",
     "subcategories": null,
-    "address": "560 US-79 #950",
+    "address": "560 US-79, Unit #950",
     "city": "Hutto",
     "state": "TX",
     "zip": "78634",
@@ -6026,7 +6293,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6347934282"
@@ -6039,7 +6307,7 @@
     "name": "Judy's Grooming",
     "category": "groomer",
     "subcategories": null,
-    "address": "2405 South Highway 183 101",
+    "address": "2405 South Highway 183, Unit 101",
     "city": "Leander",
     "state": "TX",
     "zip": "78641",
@@ -6050,7 +6318,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9785913740"
@@ -6074,7 +6343,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11366611986"
@@ -6098,7 +6368,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382115283"
@@ -6111,7 +6382,7 @@
     "name": "Sydnees Pet Groomin",
     "category": "groomer",
     "subcategories": null,
-    "address": "2300 Lohmans Spur 192",
+    "address": "2300 Lohmans Spur, Unit 192",
     "city": "Lakeway",
     "state": "TX",
     "zip": "78738",
@@ -6122,7 +6393,8 @@
     "website": "https://sydneespetgrooming.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10738032841"
@@ -6146,7 +6418,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5465247249"
@@ -6170,7 +6443,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8861433733"
@@ -6183,7 +6457,7 @@
     "name": "Woof Gang Bakery & Grooming",
     "category": "groomer",
     "subcategories": null,
-    "address": "1900 University Boulevard 230",
+    "address": "1900 University Boulevard, Unit 230",
     "city": "Round Rock",
     "state": "TX",
     "zip": "78665",
@@ -6194,7 +6468,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12943348061"
@@ -6207,7 +6482,7 @@
     "name": "Woofgang Bakery and Grooming",
     "category": "groomer",
     "subcategories": null,
-    "address": "5401 South FM 1626 365",
+    "address": "5401 South FM 1626, Unit 365",
     "city": "Kyle",
     "state": "TX",
     "zip": "78640",
@@ -6218,7 +6493,8 @@
     "website": "https://woofgangbakery.com",
     "email": "kyletx@woofgangbakery.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12037802554"
@@ -6231,7 +6507,7 @@
     "name": "Animal Care Clinic",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "2000 North Mays Street 112",
+    "address": "2000 North Mays Street, Unit 112",
     "city": "Round Rock",
     "state": "TX",
     "zip": "78664",
@@ -6242,7 +6518,8 @@
     "website": "https://www.thrivepetcare.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11863099065"
@@ -6266,7 +6543,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5330270627"
@@ -6290,7 +6568,8 @@
     "website": "https://animalhospitalgeorgetown.com/",
     "email": "info@ahgtx.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/1707744185"
@@ -6314,7 +6593,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2724700541"
@@ -6338,7 +6618,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11557820559"
@@ -6362,7 +6643,8 @@
     "website": "https://www.austinpetsalive.org/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13027404038"
@@ -6386,7 +6668,8 @@
     "website": "https://austinurbanvet.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/99868629"
@@ -6410,7 +6693,8 @@
     "website": "https://www.thrivepetcare.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12988996703"
@@ -6434,7 +6718,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/381788468"
@@ -6458,7 +6743,8 @@
     "website": "https://www.austinwildliferescue.org/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1418576256"
@@ -6482,7 +6768,8 @@
     "website": "https://averyranchvet.com/",
     "email": "info@averyranchvet.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382063118"
@@ -6495,7 +6782,7 @@
     "name": "Banfield Pet Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "1211 East 5th Street 140",
+    "address": "1211 East 5th Street, Unit 140",
     "city": "Austin",
     "state": "TX",
     "zip": "78702",
@@ -6506,7 +6793,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9604359116"
@@ -6530,7 +6818,8 @@
     "website": "https://www.banfield.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10782559759"
@@ -6543,7 +6832,7 @@
     "name": "Banfield Pet Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "12901 North Interstate 35 700",
+    "address": "12901 North Interstate 35, Unit 700",
     "city": "Austin",
     "state": "TX",
     "zip": "78753",
@@ -6554,7 +6843,8 @@
     "website": "https://www.banfield.com/veterinarians/tx/austin/nea?cid=yext_local",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8083162517"
@@ -6567,7 +6857,7 @@
     "name": "Banfield Pet Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "11150 Research Boulevard 100",
+    "address": "11150 Research Boulevard, Unit 100",
     "city": "Austin",
     "state": "TX",
     "zip": "78759",
@@ -6578,7 +6868,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7297515282"
@@ -6602,7 +6893,8 @@
     "website": "https://www.banfield.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10738390715"
@@ -6626,7 +6918,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9736049147"
@@ -6639,7 +6932,7 @@
     "name": "Banfield Pet Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "11066 Pecan Park Boulevard 315",
+    "address": "11066 Pecan Park Boulevard, Unit 315",
     "city": "Cedar Park",
     "state": "TX",
     "zip": "78613",
@@ -6650,7 +6943,8 @@
     "website": "https://www.banfield.com/veterinarians/tx/cedar-park/cpk",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7091792917"
@@ -6674,7 +6968,8 @@
     "website": "https://www.banfield.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11369882863"
@@ -6698,7 +6993,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8371448610"
@@ -6722,7 +7018,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/29275803"
@@ -6735,7 +7032,7 @@
     "name": "Brodie Animal Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "3421 West William Cannon Drive 110",
+    "address": "3421 West William Cannon Drive, Unit 110",
     "city": "Austin",
     "state": "TX",
     "zip": "78745",
@@ -6746,7 +7043,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10656055069"
@@ -6770,7 +7068,8 @@
     "website": "https://burnetroadanimalhospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13647869802"
@@ -6794,7 +7093,8 @@
     "website": "https://capitalvet.com",
     "email": "capitalvetclinic@yahoo.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13111665001"
@@ -6818,7 +7118,8 @@
     "website": "https://www.cathospitalofaustin.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/72322061"
@@ -6842,7 +7143,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383002601"
@@ -6855,7 +7157,7 @@
     "name": "Circle C Animal Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "9600 H Escarpment Boulevard 950",
+    "address": "9600 H Escarpment Boulevard, Unit 950",
     "city": "Austin",
     "state": "TX",
     "zip": "78749",
@@ -6866,7 +7168,8 @@
     "website": "https://circlecanimalhospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12594152151"
@@ -6890,7 +7193,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10728966429"
@@ -6914,7 +7218,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8371362751"
@@ -6938,7 +7243,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382811104"
@@ -6951,7 +7257,7 @@
     "name": "Crestview Veterinary Clinic at Tech Ridge",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "500 West Canyon Ridge Drive F306",
+    "address": "500 West Canyon Ridge Drive, Unit F306",
     "city": "Austin",
     "state": "TX",
     "zip": "",
@@ -6962,7 +7268,8 @@
     "website": "https://www.crestviewveterinaryclinictechridge.com/",
     "email": "mailto:info@crestviewvctechridge.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13386605320"
@@ -6975,7 +7282,7 @@
     "name": "Crystal Falls Animal Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "2906 South Bagdad Road 290",
+    "address": "2906 South Bagdad Road, Unit 290",
     "city": "Leander",
     "state": "TX",
     "zip": "78641",
@@ -6986,7 +7293,8 @@
     "website": "https://crystalfallsvet.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9598858321"
@@ -7010,7 +7318,8 @@
     "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/cypress-creek-pet-care",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11801652618"
@@ -7034,7 +7343,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382369169"
@@ -7047,7 +7357,7 @@
     "name": "Emancipet East Clinic",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "7201 Levander Loop Bldg K",
+    "address": "7201 Levander Loop, Unit Bldg K",
     "city": "Austin",
     "state": "TX",
     "zip": "78702",
@@ -7058,7 +7368,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382724159"
@@ -7082,7 +7393,8 @@
     "website": "https://emancipet.org/austin/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382723826"
@@ -7106,7 +7418,8 @@
     "website": "https://www.eahofcrystalfalls.com/",
     "email": "info@eahofcrystalfalls.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1189071182"
@@ -7130,7 +7443,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12988996705"
@@ -7154,7 +7468,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383008528"
@@ -7167,7 +7482,7 @@
     "name": "Firehouse Animal Health Center",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "3501 North Lakeline Boulevard 150",
+    "address": "3501 North Lakeline Boulevard, Unit 150",
     "city": "Leander",
     "state": "TX",
     "zip": "78641",
@@ -7178,7 +7493,8 @@
     "website": "https://firehouseleander.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9587284680"
@@ -7202,7 +7518,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/521662483"
@@ -7226,7 +7543,8 @@
     "website": "https://foundersanimalhospital.com/",
     "email": "info@foundersanimalhospital.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13734716474"
@@ -7250,7 +7568,8 @@
     "website": "https://gtvet.com/",
     "email": "recep@gtvet.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/926450221"
@@ -7263,7 +7582,7 @@
     "name": "Guardian Paws Animal Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "2025 Kauffman Loop Suite 200",
+    "address": "2025 Kauffman Loop, Unit Suite 200",
     "city": "Georgetown",
     "state": "TX",
     "zip": "78628",
@@ -7274,7 +7593,8 @@
     "website": "https://guardianpawsah.com/",
     "email": "info@guardianpawsah.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13520157875"
@@ -7298,7 +7618,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383133734"
@@ -7322,7 +7643,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/72893932"
@@ -7346,7 +7668,8 @@
     "website": "www.honnas.vet",
     "email": "info@honnas.vet",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12771163891"
@@ -7370,7 +7693,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/381764304"
@@ -7394,7 +7718,8 @@
     "website": "https://www.kylevet.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382797735"
@@ -7418,7 +7743,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13112636526"
@@ -7442,7 +7768,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/131451091"
@@ -7466,7 +7793,8 @@
     "website": "https://lakewayvet.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/201931200"
@@ -7490,7 +7818,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1159563162"
@@ -7514,7 +7843,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5771772953"
@@ -7538,7 +7868,8 @@
     "website": "https://manchacavet.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/561487613"
@@ -7562,7 +7893,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382832160"
@@ -7575,7 +7907,7 @@
     "name": "Mercy Veterinary Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "18109 Ronald W Reagan Boulevard Suite 1",
+    "address": "18109 Ronald W Reagan Boulevard, Unit Suite 1",
     "city": "Leander",
     "state": "TX",
     "zip": "78641",
@@ -7586,7 +7918,8 @@
     "website": "https://www.mercyveterinaryhospitaltx.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1293781424"
@@ -7599,7 +7932,7 @@
     "name": "Modern Animal Veterinary Care",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "1105",
+    "address": "Unit 1105",
     "city": "Austin",
     "state": "TX",
     "zip": "",
@@ -7610,7 +7943,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12708385749"
@@ -7634,7 +7968,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/555259418"
@@ -7658,7 +7993,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/381838356"
@@ -7682,7 +8018,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11680165430"
@@ -7706,7 +8043,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382444388"
@@ -7730,7 +8068,8 @@
     "website": "https://parmerlanepethospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/384355791"
@@ -7754,7 +8093,8 @@
     "website": "https://patriotah.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1340572965"
@@ -7778,7 +8118,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12550243492"
@@ -7802,7 +8143,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/72378684"
@@ -7826,7 +8168,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11385928595"
@@ -7850,7 +8193,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1211276629"
@@ -7863,7 +8207,7 @@
     "name": "Prickly Pear Pet Vaccines, PLLC",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "9900 South Interstate 35 P-480",
+    "address": "9900 South Interstate 35, Unit P-480",
     "city": "Austin",
     "state": "TX",
     "zip": "78748",
@@ -7874,7 +8218,8 @@
     "website": "https://pricklypearvetaustin.com",
     "email": "frontdesk@pricklypearvetaustin.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13118621508"
@@ -7887,7 +8232,7 @@
     "name": "Rosedale Veterinary Clinic",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "4800 Burnet Road E500",
+    "address": "4800 Burnet Road, Unit E500",
     "city": "Austin",
     "state": "TX",
     "zip": "78756",
@@ -7898,7 +8243,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/381812058"
@@ -7922,7 +8268,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1228707651"
@@ -7946,7 +8293,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1228707652"
@@ -7959,7 +8307,7 @@
     "name": "South Austin Cat Hospital",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "11215 South Interstate 35 109",
+    "address": "11215 South Interstate 35, Unit 109",
     "city": "Austin",
     "state": "TX",
     "zip": "78747",
@@ -7970,7 +8318,8 @@
     "website": "https://southaustincathospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8410329812"
@@ -7994,7 +8343,8 @@
     "website": "https://south-animal-clinic.edan.io/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382117539"
@@ -8018,7 +8368,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9735974275"
@@ -8042,7 +8393,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383199748"
@@ -8055,7 +8407,7 @@
     "name": "Sunbury Vet Clinic",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "12407 North MoPac Expressway 400-B",
+    "address": "12407 North MoPac Expressway, Unit 400-B",
     "city": "Austin",
     "state": "TX",
     "zip": "78758",
@@ -8066,7 +8418,8 @@
     "website": "https://sunburyvet.com/",
     "email": "sunburyvetclinic@austin.rr.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7287247417"
@@ -8090,7 +8443,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/886375875"
@@ -8114,7 +8468,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8064257663"
@@ -8138,7 +8493,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5003857121"
@@ -8162,7 +8518,8 @@
     "website": "https://urgentvet.com/location/cedar-park-tx/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11930725201"
@@ -8186,7 +8543,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383904116"
@@ -8210,7 +8568,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8067353597"
@@ -8234,7 +8593,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/382998711"
@@ -8258,7 +8618,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/675203499"
@@ -8282,7 +8643,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/3930556075"
@@ -8306,7 +8668,8 @@
     "website": "https://www.petandbirdclinic.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/383196948"
@@ -8330,7 +8693,8 @@
     "website": "https://www.westgatepetandbird.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5771447971"
@@ -8354,7 +8718,8 @@
     "website": "https://www.thrivepetcare.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13143276948"
@@ -8378,7 +8743,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1158966678"
@@ -8402,7 +8768,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9736049131"
@@ -8415,7 +8782,7 @@
     "name": "ZippiVet",
     "category": "veterinarian",
     "subcategories": null,
-    "address": "5896 Kyle Parkway 400",
+    "address": "5896 Kyle Parkway, Unit 400",
     "city": "Kyle",
     "state": "TX",
     "zip": "78640",
@@ -8426,7 +8793,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/13399225772"
@@ -8450,7 +8818,8 @@
     "website": "https://zootpets.com",
     "email": "hospital.zoot@svp.vet",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1216149288"
@@ -8474,7 +8843,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8560946115"
@@ -8502,7 +8872,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11283500941"
@@ -8530,7 +8901,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12705532349"
@@ -8558,7 +8930,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10217216827"
@@ -8586,7 +8959,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1478674329"
@@ -8614,7 +8988,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8779097318"
@@ -8642,10 +9017,40 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/838019585"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "bd94d50fa18130e6",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9638345,
+    "lng": -86.8029926,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm",
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/13012937187"
     },
     "lastSeenAt": "2026-04-18T16:35:34Z",
     "hours": null,
@@ -8670,7 +9075,8 @@
     "website": "https://www.bahnashville.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12587625537"
@@ -8698,7 +9104,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/684196324"
@@ -8726,7 +9133,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9480213378"
@@ -8754,7 +9162,8 @@
     "website": "https://www.cheathamcountyanimalclinictn.com/",
     "email": "ccac09@gmail.com",
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1194602088"
@@ -8782,7 +9191,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/8542904000"
@@ -8810,7 +9220,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11283500959"
@@ -8838,7 +9249,8 @@
     "website": "https://www.grassmereanimalhospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/2045046530"
@@ -8866,7 +9278,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1131961350"
@@ -8894,7 +9307,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/9842458517"
@@ -8922,7 +9336,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/987386111"
@@ -8950,7 +9365,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/924591187"
@@ -8978,7 +9394,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11283573445"
@@ -9006,7 +9423,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/7039962980"
@@ -9034,7 +9452,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/598260350"
@@ -9062,7 +9481,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/517967282"
@@ -9090,7 +9510,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/604317539"
@@ -9118,7 +9539,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/12742154088"
@@ -9146,7 +9568,8 @@
     "website": "https://www.rufflifeavl.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1215496182"
@@ -9174,7 +9597,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/5761064577"
@@ -9202,7 +9626,8 @@
     "website": "https://ashevillekennel.com",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/11222309476"
@@ -9232,7 +9657,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1327400825"
@@ -9260,7 +9686,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/685988193"
@@ -9288,7 +9715,8 @@
     "website": "http://animalhospitaleast.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/913637491"
@@ -9318,7 +9746,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/684487531"
@@ -9346,7 +9775,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/683257442"
@@ -9374,7 +9804,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10640795475"
@@ -9402,7 +9833,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/6670337105"
@@ -9430,7 +9862,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/764138939"
@@ -9458,7 +9891,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10284637849"
@@ -9486,7 +9920,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "node/10925174762"
@@ -9514,7 +9949,8 @@
     "website": null,
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1231070967"
@@ -9542,7 +9978,8 @@
     "website": "https://westashevillefamilyvet.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/1084449300"
@@ -9572,7 +10009,8 @@
     "website": "https://www.wncveterinaryhospital.com/",
     "email": null,
     "sources": [
-      "osm"
+      "osm",
+      "osm_wider"
     ],
     "sourceIds": {
       "osm": "way/616192817"
@@ -9585,5 +10023,661 @@
     "tags": null,
     "claimed": false,
     "claimedAt": null
+  },
+  {
+    "id": "b645a7d828797090",
+    "name": "Our Pal's Place",
+    "category": "boarder",
+    "address": "9533 Main Street",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0871443,
+    "lng": -84.5186524,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/13687745686"
+    },
+    "lastSeenAt": "2026-04-18T19:32:16Z",
+    "claimed": false,
+    "phone": "+16784028351",
+    "website": "https://www.dbt.ourpalsplace.org",
+    "email": "dbt@ourpalsplace.org",
+    "hours": {
+      "raw": "Mo-Fr 07:00-19:00; Sa 10:00-17:00; Su 12:00-17:00"
+    }
+  },
+  {
+    "id": "ed556de38cce4f50",
+    "name": "Safari Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0548014,
+    "lng": -82.3791202,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/825342641"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "e9e9ea1fb91d85a7",
+    "name": "Pet Grooming",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.950684,
+    "lng": -82.7755445,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/2698548341"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "3117a175125ba256",
+    "name": "Pet Point",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1850832,
+    "lng": -82.4127632,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/5568018673"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "f3e7950a394e9b17",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1400858,
+    "lng": -82.3573514,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/7715228382"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "b11e48252a683f80",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9358707,
+    "lng": -82.3008017,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/8713044760"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "f3f9c611ab8f7d6e",
+    "name": "Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0853968,
+    "lng": -82.5388626,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/9380996677"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "06512f529721c084",
+    "name": "Pet Paradise Odessa",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1851458,
+    "lng": -82.5507419,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/10197360427"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false,
+    "website": "https://www.petparadise.com/odessa.htm"
+  },
+  {
+    "id": "f4a3f0bc3bb78938",
+    "name": "Coastal Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9654412,
+    "lng": -82.5038068,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/11002406082"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "177ff45b6c3dfd1a",
+    "name": "Royal Pets",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9529205,
+    "lng": -82.5017532,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/11087809946"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-We 08:00-18:00; Th-Su 08:00-19:00"
+    }
+  },
+  {
+    "id": "27d94cbbd89cc4bd",
+    "name": "Dogtopia",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0096505,
+    "lng": -82.609679,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/11131460619"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "6c3a56c94e928b12",
+    "name": "Ruskin Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.7123619,
+    "lng": -82.43459,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/11520463284"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "29c7ef34b716effd",
+    "name": "A Very Important Pet",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9658747,
+    "lng": -82.7857791,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/11812517348"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false,
+    "phone": "+17274466700",
+    "website": "https://averyimportantpet.com/",
+    "hours": {
+      "raw": "Mo-Th 06:30-19:30, Fr 6:30-19:30, Sa-Su 8:00-17:00"
+    }
+  },
+  {
+    "id": "00ec4dd6ae4d4f96",
+    "name": "Onyva Dog Spa",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9368767,
+    "lng": -82.4828339,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "node/13673451581"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "958d31d4d9b4eaa6",
+    "name": "VCA Riviera Bay",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.7927011,
+    "lng": -82.647001,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/206134050"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "0a4660f0f1ff048e",
+    "name": "Saint Pete Beach Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "6605 Gulf Boulevard",
+    "city": "Saint Pete Beach",
+    "state": "FL",
+    "zip": "33706",
+    "metro": "tampa",
+    "lat": 27.7366297,
+    "lng": -82.747471,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/237309957"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "9b07eff892e6078a",
+    "name": "Animal Hospital Of Dunedin",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0225897,
+    "lng": -82.7713181,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/523157180"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "baad4e27c6d2afad",
+    "name": "Lake Seminole Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.8388868,
+    "lng": -82.7576073,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/523584004"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "23b5009241e6ed5f",
+    "name": "Pet Resort & Grooming Salon",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9901512,
+    "lng": -82.7267386,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/523873985"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "849667853bc525c9",
+    "name": "Pet Kennel",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.034811,
+    "lng": -82.4158536,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/524038911"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "9e7b6200434fda3f",
+    "name": "Woodlands Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.040749,
+    "lng": -82.6709484,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/558870768"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "6370cd3ddcb48a88",
+    "name": "Pet First Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1896975,
+    "lng": -82.6982689,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/669805285"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "7dbed80dbe15adea",
+    "name": "Pet Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0986363,
+    "lng": -82.7730189,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/672152528"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "59611c05a4e14b8f",
+    "name": "Animal Care Center",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.2182914,
+    "lng": -82.6667707,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/823322510"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "64c353356bd5e0ff",
+    "name": "Central Pasco Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.19545,
+    "lng": -82.5184944,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/905526732"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "4315cf24db86997b",
+    "name": "Odessa Equine Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1746038,
+    "lng": -82.5890818,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1051591108"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "5eddd48c99798f26",
+    "name": "All Pets Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.216752,
+    "lng": -82.6973002,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1053787627"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "f52ea5ef67df5806",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0289371,
+    "lng": -82.6384899,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1099374223"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "8848ea70c89b3590",
+    "name": "Embassy Veterinary Center & Pet Retreat",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.2069132,
+    "lng": -82.5395962,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1107516393"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "6d28c0d4b59445a9",
+    "name": "The Ranch Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1971007,
+    "lng": -82.5916874,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1114943193"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "2f1843f6ece924b3",
+    "name": "Bay Paws Pet Resort - Trinity",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1885466,
+    "lng": -82.6262186,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "way/1464118689"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false
+  },
+  {
+    "id": "33c8acf2527f296a",
+    "name": "Pet Paradise Wesley Chapel",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1885371,
+    "lng": -82.372796,
+    "sources": [
+      "osm_wider"
+    ],
+    "sourceIds": {
+      "osm": "relation/12751880"
+    },
+    "lastSeenAt": "2026-04-18T19:32:25Z",
+    "claimed": false,
+    "website": "https://www.petparadise.com/wesley-chapel.htm"
   }
 ]

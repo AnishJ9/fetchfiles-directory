@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getListingById } from "@/lib/data";
+import { getAllListings, getListingById } from "@/lib/data";
 import { ClaimForm } from "./ClaimForm";
 
 export const metadata: Metadata = {
@@ -9,10 +9,11 @@ export const metadata: Metadata = {
     "Own your business listing on Fetch Directory. Keep hours, contact info, and services current.",
 };
 
-// Note: claim/[id] is not statically pre-rendered — the id may reference a
-// listing that doesn't exist yet (e.g. "new") or one added after build.
-// Rendering is per-request here.
-export const dynamic = "force-dynamic";
+export const dynamicParams = false;
+
+export function generateStaticParams(): { id: string }[] {
+  return [{ id: "new" }, ...getAllListings().map((l) => ({ id: l.id }))];
+}
 
 export default function ClaimPage({ params }: { params: { id: string } }) {
   const listing =

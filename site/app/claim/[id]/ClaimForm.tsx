@@ -9,41 +9,51 @@ interface Prefill {
   state: string;
 }
 
+const DEST_EMAIL = "anish.joseph58@gmail.com";
+
 export function ClaimForm({ prefill }: { prefill: Prefill }) {
-  const [status, setStatus] = useState<
-    "idle" | "submitting" | "success" | "error"
-  >("idle");
-  const [error, setError] = useState<string>("");
+  const [sent, setSent] = useState(false);
 
-  async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
+  function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
-    setStatus("submitting");
-    setError("");
-
     const form = e.currentTarget;
-    const data = Object.fromEntries(new FormData(form).entries());
-    data.listingId = prefill.listingId;
+    const data = Object.fromEntries(
+      new FormData(form).entries(),
+    ) as Record<string, string>;
 
-    try {
-      const res = await fetch("/api/claim", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(data),
-      });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      setStatus("success");
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Unknown error");
-      setStatus("error");
-    }
+    const subject = prefill.businessName
+      ? `Claim listing: ${prefill.businessName}`
+      : `New listing submission: ${data.businessName ?? "(no name)"}`;
+
+    const lines = [
+      `Listing ID: ${prefill.listingId}`,
+      `Business: ${data.businessName ?? ""}`,
+      `Owner: ${data.ownerName ?? ""}`,
+      `Email: ${data.email ?? ""}`,
+      `Phone: ${data.phone ?? ""}`,
+      `Role: ${data.relationship ?? ""}`,
+      `Notes: ${data.notes ?? ""}`,
+    ];
+
+    const mailto =
+      `mailto:${DEST_EMAIL}` +
+      `?subject=${encodeURIComponent(subject)}` +
+      `&body=${encodeURIComponent(lines.join("\n"))}`;
+
+    window.location.href = mailto;
+    setSent(true);
   }
 
-  if (status === "success") {
+  if (sent) {
     return (
       <div className="rounded-lg border border-accent-600 bg-accent-50 p-5 text-accent-800">
-        <div className="font-semibold">Thanks — we got it.</div>
+        <div className="font-semibold">Your email client should have opened.</div>
         <div className="text-sm mt-1">
-          We&apos;ll review your claim and reach out at the email you gave us.
+          Send the draft and we&apos;ll get in touch. If nothing opened, email{" "}
+          <a className="underline" href={`mailto:${DEST_EMAIL}`}>
+            {DEST_EMAIL}
+          </a>{" "}
+          directly.
         </div>
       </div>
     );
@@ -78,18 +88,11 @@ export function ClaimForm({ prefill }: { prefill: Prefill }) {
         />
       </div>
 
-      {status === "error" && (
-        <div className="text-sm text-red-700">
-          Sorry — something went wrong submitting that. {error}
-        </div>
-      )}
-
       <button
         type="submit"
-        disabled={status === "submitting"}
-        className="px-4 py-2 rounded-md bg-accent-600 text-white text-sm font-medium hover:bg-accent-700 disabled:opacity-60"
+        className="px-4 py-2 rounded-md bg-accent-600 text-white text-sm font-medium hover:bg-accent-700"
       >
-        {status === "submitting" ? "Submitting..." : "Submit claim"}
+        Submit claim
       </button>
     </form>
   );
