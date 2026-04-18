@@ -1,978 +1,5 @@
 [
   {
-    "id": "41194a1fe23427bb",
-    "name": "Clearwater",
-    "category": "veterinarian",
-    "address": "26277 US Hwy 19 N",
-    "city": "Clearwater",
-    "state": "FL",
-    "zip": "33761",
-    "metro": "tampa",
-    "lat": 28.01129,
-    "lng": -82.731906,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "banfield",
-      "storeId": "cle"
-    },
-    "lastSeenAt": "2026-04-18T19:45:56Z",
-    "claimed": false,
-    "phone": "+17277916694",
-    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cle"
-  },
-  {
-    "id": "83716636a188167e",
-    "name": "Austin SE",
-    "category": "veterinarian",
-    "address": "9300 South IH 35",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78748",
-    "metro": "austin",
-    "lat": 30.163374,
-    "lng": -97.790599,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "banfield",
-      "storeId": "sea"
-    },
-    "lastSeenAt": "2026-04-18T19:47:05Z",
-    "claimed": false,
-    "phone": "+15122800121",
-    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/sea"
-  },
-  {
-    "id": "60a4aa47f89e1cc8",
-    "name": "VCA Briarcliff Animal Hospital",
-    "category": "veterinarian",
-    "address": "1850 Johnson Road NE",
-    "city": "Atlanta",
-    "state": "",
-    "zip": "30306",
-    "metro": "atlanta",
-    "lat": 33.8046226,
-    "lng": -84.3382149,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "briarcliff-atlanta"
-    },
-    "lastSeenAt": "2026-04-18T19:47:20Z",
-    "claimed": false,
-    "phone": "+14048746393",
-    "website": "https://vcahospitals.com/briarcliff-atlanta"
-  },
-  {
-    "id": "c528cc1df231800f",
-    "name": "VCA Buckhead Animal Hospital",
-    "category": "veterinarian",
-    "address": "1911 Piedmont Circle NE",
-    "city": "Atlanta",
-    "state": "",
-    "zip": "30324",
-    "metro": "atlanta",
-    "lat": 33.809079,
-    "lng": -84.3669,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "buckhead"
-    },
-    "lastSeenAt": "2026-04-18T19:47:22Z",
-    "claimed": false,
-    "phone": "+14048733771",
-    "website": "https://vcahospitals.com/buckhead"
-  },
-  {
-    "id": "f94844b7f3cc7b2d",
-    "name": "VCA College Park Animal Hospital",
-    "category": "veterinarian",
-    "address": "1203 Cleveland Avenue, Suite 2",
-    "city": "East Point",
-    "state": "",
-    "zip": "30344",
-    "metro": "atlanta",
-    "lat": 33.68198489168967,
-    "lng": -84.42859644603021,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "college-park"
-    },
-    "lastSeenAt": "2026-04-18T19:47:25Z",
-    "claimed": false,
-    "phone": "+14048351222",
-    "website": "https://vcahospitals.com/college-park"
-  },
-  {
-    "id": "36a5d9fc13f48937",
-    "name": "VCA Dunwoody Veterinary Center",
-    "category": "veterinarian",
-    "address": "1660 Mt. Vernon Road",
-    "city": "Dunwoody",
-    "state": "",
-    "zip": "30338",
-    "metro": "atlanta",
-    "lat": 33.947509952743374,
-    "lng": -84.3320637288349,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "dunwoody"
-    },
-    "lastSeenAt": "2026-04-18T19:47:26Z",
-    "claimed": false,
-    "phone": "+17703945004",
-    "website": "https://vcahospitals.com/dunwoody"
-  },
-  {
-    "id": "7e5df8d8d832b59e",
-    "name": "VCA Falcon Village Animal Hospital",
-    "category": "veterinarian",
-    "address": "2030 Lawrenceville Suwanee Road",
-    "city": "Suwanee",
-    "state": "",
-    "zip": "30024",
-    "metro": "atlanta",
-    "lat": 34.000053,
-    "lng": -84.038647,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "falcon-village"
-    },
-    "lastSeenAt": "2026-04-18T19:47:27Z",
-    "claimed": false,
-    "phone": "+17709628326",
-    "website": "https://vcahospitals.com/falcon-village"
-  },
-  {
-    "id": "0ce5a24ae9655147",
-    "name": "VCA Lilburn Animal Hospital",
-    "category": "veterinarian",
-    "address": "4985 Lawrenceville Highway",
-    "city": "Lilburn",
-    "state": "",
-    "zip": "30047",
-    "metro": "atlanta",
-    "lat": 33.889708,
-    "lng": -84.144818,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "lilburn"
-    },
-    "lastSeenAt": "2026-04-18T19:47:29Z",
-    "claimed": false,
-    "phone": "+17709216766",
-    "website": "https://vcahospitals.com/lilburn"
-  },
-  {
-    "id": "5dc61303e5e2aefc",
-    "name": "VCA Midtown Animal Hospital",
-    "category": "veterinarian",
-    "address": "1510 Piedmont Avenue NE",
-    "city": "Atlanta",
-    "state": "",
-    "zip": "30324",
-    "metro": "atlanta",
-    "lat": 33.795601,
-    "lng": -84.370645,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "midtown"
-    },
-    "lastSeenAt": "2026-04-18T19:47:30Z",
-    "claimed": false,
-    "phone": "+14048757387",
-    "website": "https://vcahospitals.com/midtown"
-  },
-  {
-    "id": "687bbda90e72b7d4",
-    "name": "VCA North Atlanta Animal Hospital",
-    "category": "veterinarian",
-    "address": "227 Sandy Springs Place, Suite 210",
-    "city": "Sandy Springs",
-    "state": "",
-    "zip": "30328",
-    "metro": "atlanta",
-    "lat": 33.919657,
-    "lng": -84.381019,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "north-atlanta"
-    },
-    "lastSeenAt": "2026-04-18T19:47:32Z",
-    "claimed": false,
-    "phone": "+14042559345",
-    "website": "https://vcahospitals.com/north-atlanta"
-  },
-  {
-    "id": "38b181de762b1eec",
-    "name": "VCA Peachtree Animal Hospital",
-    "category": "veterinarian",
-    "address": "4839 Peachtree Road",
-    "city": "Chamblee",
-    "state": "",
-    "zip": "30341",
-    "metro": "atlanta",
-    "lat": 33.88143325998055,
-    "lng": -84.3194138615896,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "peachtree"
-    },
-    "lastSeenAt": "2026-04-18T19:47:33Z",
-    "claimed": false,
-    "phone": "+17704572591",
-    "website": "https://vcahospitals.com/peachtree"
-  },
-  {
-    "id": "7980e9cf87b9a870",
-    "name": "VCA Pets Are People Too Roswell Animal Hospital",
-    "category": "veterinarian",
-    "address": "535 Sun Valley Drive",
-    "city": "Roswell",
-    "state": "",
-    "zip": "30076",
-    "metro": "atlanta",
-    "lat": 34.051867,
-    "lng": -84.338994,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "pets-are-people-too-roswell"
-    },
-    "lastSeenAt": "2026-04-18T19:47:34Z",
-    "claimed": false,
-    "phone": "+17709933040",
-    "website": "https://vcahospitals.com/pets-are-people-too-roswell"
-  },
-  {
-    "id": "c271a654372d1bd2",
-    "name": "VCA Roswell Animal Hospital",
-    "category": "veterinarian",
-    "address": "1112 Alpharetta Street",
-    "city": "Roswell",
-    "state": "",
-    "zip": "30075",
-    "metro": "atlanta",
-    "lat": 34.028846,
-    "lng": -84.357157,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "roswell"
-    },
-    "lastSeenAt": "2026-04-18T19:47:34Z",
-    "claimed": false,
-    "phone": "+17709939031",
-    "website": "https://vcahospitals.com/roswell"
-  },
-  {
-    "id": "2891b9410887baf9",
-    "name": "VCA Terrell Mill Animal Hospital",
-    "category": "veterinarian",
-    "address": "1315 Powers Ferry Road SE",
-    "city": "Marietta",
-    "state": "",
-    "zip": "30067",
-    "metro": "atlanta",
-    "lat": 33.919795,
-    "lng": -84.466659,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "terrell-mill"
-    },
-    "lastSeenAt": "2026-04-18T19:47:36Z",
-    "claimed": false,
-    "phone": "+17709529300",
-    "website": "https://vcahospitals.com/terrell-mill"
-  },
-  {
-    "id": "59cf4e69843cbf83",
-    "name": "VCA Carrollwood Cat Hospital",
-    "category": "veterinarian",
-    "address": "13305 Orange Grove Drive",
-    "city": "Tampa",
-    "state": "",
-    "zip": "33618",
-    "metro": "tampa",
-    "lat": 28.066883,
-    "lng": -82.500311,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "carrollwood-cat"
-    },
-    "lastSeenAt": "2026-04-18T19:47:50Z",
-    "claimed": false,
-    "phone": "+18139636612",
-    "website": "https://vcahospitals.com/carrollwood-cat"
-  },
-  {
-    "id": "a663991b0226a6cb",
-    "name": "VCA Cypress Creek Animal Hospital",
-    "category": "veterinarian",
-    "address": "25227 Wesley Chapel Blvd.",
-    "city": "Lutz",
-    "state": "",
-    "zip": "33559",
-    "metro": "tampa",
-    "lat": 28.1949388,
-    "lng": -82.3998431,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "cypress-creek"
-    },
-    "lastSeenAt": "2026-04-18T19:47:57Z",
-    "claimed": false,
-    "phone": "+18139493045",
-    "website": "https://vcahospitals.com/cypress-creek"
-  },
-  {
-    "id": "c38df3493251b8f0",
-    "name": "VCA Noah&#39;s Place Animal Medical Center",
-    "category": "veterinarian",
-    "address": "2050 62nd Avenue North",
-    "city": "St. Petersburg",
-    "state": "",
-    "zip": "33702",
-    "metro": "tampa",
-    "lat": 27.82929,
-    "lng": -82.66014,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "noahs-place"
-    },
-    "lastSeenAt": "2026-04-18T19:48:14Z",
-    "claimed": false,
-    "phone": "+17275226640",
-    "website": "https://vcahospitals.com/noahs-place"
-  },
-  {
-    "id": "0a158aeb3c5e552e",
-    "name": "VCA Anderson Mill Animal Hospital",
-    "category": "veterinarian",
-    "address": "13542 North Highway 183",
-    "city": "Austin",
-    "state": "",
-    "zip": "78750",
-    "metro": "austin",
-    "lat": 30.4508582,
-    "lng": -97.7940863,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "anderson-mill"
-    },
-    "lastSeenAt": "2026-04-18T19:48:36Z",
-    "claimed": false,
-    "phone": "+15122584163",
-    "website": "https://vcahospitals.com/anderson-mill"
-  },
-  {
-    "id": "919f7f3ea35fa01a",
-    "name": "VCA Arbor Animal Hospital",
-    "category": "veterinarian",
-    "address": "8820 Burnet Road, Suite 400",
-    "city": "Austin",
-    "state": "",
-    "zip": "78757",
-    "metro": "austin",
-    "lat": 30.37180573192472,
-    "lng": -97.7277093463929,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "arbor"
-    },
-    "lastSeenAt": "2026-04-18T19:48:43Z",
-    "claimed": false,
-    "phone": "+15127941040",
-    "website": "https://vcahospitals.com/arbor"
-  },
-  {
-    "id": "18c2626ddb54bcb7",
-    "name": "VCA Ben White Animal Hospital",
-    "category": "veterinarian",
-    "address": "2417 W. Ben White Blvd.",
-    "city": "Austin",
-    "state": "",
-    "zip": "78704",
-    "metro": "austin",
-    "lat": 30.232254,
-    "lng": -97.794265,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "ben-white"
-    },
-    "lastSeenAt": "2026-04-18T19:48:46Z",
-    "claimed": false,
-    "phone": "+15124447518",
-    "website": "https://vcahospitals.com/ben-white"
-  },
-  {
-    "id": "c8bb01dd321f0cd0",
-    "name": "VCA Capital Area Veterinary Specialists",
-    "category": "veterinarian",
-    "address": "7958 Shoal Creek Blvd.",
-    "city": "Austin",
-    "state": "",
-    "zip": "78757",
-    "metro": "austin",
-    "lat": 30.363133,
-    "lng": -97.740287,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "capital-area"
-    },
-    "lastSeenAt": "2026-04-18T19:48:51Z",
-    "claimed": false,
-    "phone": "+15123880944",
-    "website": "https://vcahospitals.com/capital-area"
-  },
-  {
-    "id": "2c3e2e833f8f03fd",
-    "name": "VCA Hometown Animal Hospital",
-    "category": "veterinarian",
-    "address": "1001 FM 685",
-    "city": "Pflugerville",
-    "state": "",
-    "zip": "78660",
-    "metro": "austin",
-    "lat": 30.443894,
-    "lng": -97.607882,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "hometown"
-    },
-    "lastSeenAt": "2026-04-18T19:49:10Z",
-    "claimed": false,
-    "phone": "+15122512242",
-    "website": "https://vcahospitals.com/hometown"
-  },
-  {
-    "id": "b8186ed8e97930f4",
-    "name": "VCA Lakeline Animal Hospital",
-    "category": "veterinarian",
-    "address": "12010 Ranch Road 620 North",
-    "city": "Austin",
-    "state": "",
-    "zip": "78750",
-    "metro": "austin",
-    "lat": 30.460415,
-    "lng": -97.821428,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "lakeline"
-    },
-    "lastSeenAt": "2026-04-18T19:49:16Z",
-    "claimed": false,
-    "phone": "+15122581155",
-    "website": "https://vcahospitals.com/lakeline"
-  },
-  {
-    "id": "702254ec900bb0fa",
-    "name": "VCA Northwest Hills Animal Hospital",
-    "category": "veterinarian",
-    "address": "3426 Greystone Drive",
-    "city": "Austin",
-    "state": "",
-    "zip": "78731",
-    "metro": "austin",
-    "lat": 30.357315,
-    "lng": -97.747418,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "northwest-hills"
-    },
-    "lastSeenAt": "2026-04-18T19:49:26Z",
-    "claimed": false,
-    "phone": "+15123455067",
-    "website": "https://vcahospitals.com/northwest-hills"
-  },
-  {
-    "id": "2c47a66c9669f158",
-    "name": "VCA Premier Animal Hospital and Pet Resort",
-    "category": "veterinarian",
-    "address": "3651 E Whitestone Blvd.",
-    "city": "Cedar Park",
-    "state": "",
-    "zip": "78613",
-    "metro": "austin",
-    "lat": 30.539543,
-    "lng": -97.774563,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "premier"
-    },
-    "lastSeenAt": "2026-04-18T19:49:32Z",
-    "claimed": false,
-    "phone": "+15122604000",
-    "website": "https://vcahospitals.com/premier"
-  },
-  {
-    "id": "2e031cfbf60160a8",
-    "name": "VCA Tanglewood Animal Hospital",
-    "category": "veterinarian",
-    "address": "9125 Menchaca Road",
-    "city": "Austin",
-    "state": "",
-    "zip": "78748",
-    "metro": "austin",
-    "lat": 30.180607,
-    "lng": -97.8189956,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "tanglewood"
-    },
-    "lastSeenAt": "2026-04-18T19:49:43Z",
-    "claimed": false,
-    "phone": "+15122800878",
-    "website": "https://vcahospitals.com/tanglewood"
-  },
-  {
-    "id": "b084e372c408dd4d",
-    "name": "VCA Terrell Animal Hospital",
-    "category": "veterinarian",
-    "address": "2 Lakeway Centre Court",
-    "city": "Lakeway",
-    "state": "",
-    "zip": "78734",
-    "metro": "austin",
-    "lat": 30.346729,
-    "lng": -97.96325,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "terrell"
-    },
-    "lastSeenAt": "2026-04-18T19:49:47Z",
-    "claimed": false,
-    "phone": "+15122635517",
-    "website": "https://vcahospitals.com/terrell"
-  },
-  {
-    "id": "13740de09d3ccce6",
-    "name": "VCA McKay&#39;s Mill Animal Hospital",
-    "category": "veterinarian",
-    "address": "1000 Longpoint Way",
-    "city": "Franklin",
-    "state": "",
-    "zip": "37064",
-    "metro": "nashville",
-    "lat": 35.885870750749284,
-    "lng": -86.81822610383209,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "mckays-mill"
-    },
-    "lastSeenAt": "2026-04-18T19:49:55Z",
-    "claimed": false,
-    "phone": "+16155993783",
-    "website": "https://vcahospitals.com/mckays-mill"
-  },
-  {
-    "id": "d4e91a55809fb411",
-    "name": "VCA Animal Care Center of Mt. Juliet",
-    "category": "veterinarian",
-    "address": "2701 N. Mt. Juliet Road",
-    "city": "Mt. Juliet",
-    "state": "",
-    "zip": "37122",
-    "metro": "nashville",
-    "lat": 36.20866,
-    "lng": -86.51608,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "mt-juliet"
-    },
-    "lastSeenAt": "2026-04-18T19:49:56Z",
-    "claimed": false,
-    "phone": "+16157547387",
-    "website": "https://vcahospitals.com/mt-juliet"
-  },
-  {
-    "id": "3481095a3e46c39e",
-    "name": "VCA Murphy Road Animal Hospital",
-    "category": "veterinarian",
-    "address": "4408 Murphy Road",
-    "city": "Nashville",
-    "state": "",
-    "zip": "37209",
-    "metro": "nashville",
-    "lat": 36.141277,
-    "lng": -86.839877,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "murphy-road"
-    },
-    "lastSeenAt": "2026-04-18T19:49:58Z",
-    "claimed": false,
-    "phone": "+16153834241",
-    "website": "https://vcahospitals.com/murphy-road"
-  },
-  {
-    "id": "49c33c31ecc8ce85",
-    "name": "VCA PetMed Animal Hospital",
-    "category": "veterinarian",
-    "address": "1120 Bell Road",
-    "city": "Antioch",
-    "state": "",
-    "zip": "37013",
-    "metro": "nashville",
-    "lat": 36.0443197,
-    "lng": -86.6658513,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "vca",
-      "storeId": "petmed"
-    },
-    "lastSeenAt": "2026-04-18T19:50:00Z",
-    "claimed": false,
-    "phone": "+16157318074",
-    "website": "https://vcahospitals.com/petmed"
-  },
-  {
-    "id": "20274fd32dc45abb",
-    "name": "Camp Bow Wow Alpharetta",
-    "category": "daycare",
-    "address": "1755 Grassland Pkwy, Suite E",
-    "city": "Alpharetta",
-    "state": "GA",
-    "zip": "30004",
-    "metro": "atlanta",
-    "lat": 34.0754,
-    "lng": -84.2941,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "alpharetta"
-    },
-    "lastSeenAt": "2026-04-18T19:50:21Z",
-    "claimed": false,
-    "phone": "+16786791964",
-    "website": "https://www.campbowwow.com/alpharetta/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "8feb45550f781374",
-    "name": "Camp Bow Wow Austin",
-    "category": "daycare",
-    "address": "13900 IH-35,",
-    "city": "Austin",
-    "state": "TX",
-    "zip": "78728",
-    "metro": "austin",
-    "lat": 30.2672,
-    "lng": -97.7431,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "austin"
-    },
-    "lastSeenAt": "2026-04-18T19:50:24Z",
-    "claimed": false,
-    "phone": "+17372589027",
-    "website": "https://www.campbowwow.com/austin/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "fb1a53c7f8a9a62d",
-    "name": "Camp Bow Wow Duluth",
-    "category": "daycare",
-    "address": "1795 Buford Hwy,",
-    "city": "Duluth",
-    "state": "GA",
-    "zip": "30097",
-    "metro": "atlanta",
-    "lat": 34.0029,
-    "lng": -84.1446,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "duluth"
-    },
-    "lastSeenAt": "2026-04-18T19:51:03Z",
-    "claimed": false,
-    "phone": "+17703349810",
-    "website": "https://www.campbowwow.com/duluth/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "7cde32133005a503",
-    "name": "Camp Bow Wow Lawrenceville GA",
-    "category": "daycare",
-    "address": "585 Old Norcross Rd,",
-    "city": "Lawrenceville",
-    "state": "GA",
-    "zip": "30046",
-    "metro": "atlanta",
-    "lat": 33.9562,
-    "lng": -83.988,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "lawrenceville-ga"
-    },
-    "lastSeenAt": "2026-04-18T19:51:38Z",
-    "claimed": false,
-    "phone": "+17708726185",
-    "website": "https://www.campbowwow.com/lawrenceville-ga/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "b6c8a46a56b824a9",
-    "name": "Camp Bow Wow Mt Juliet",
-    "category": "daycare",
-    "address": "3085 N. Mt Juliet Rd,",
-    "city": "Mt. Juliet",
-    "state": "TN",
-    "zip": "37122",
-    "metro": "nashville",
-    "lat": 36.1998,
-    "lng": -86.5186,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "mt-juliet"
-    },
-    "lastSeenAt": "2026-04-18T19:51:56Z",
-    "claimed": false,
-    "phone": "+16159082439",
-    "website": "https://www.campbowwow.com/mt-juliet/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "937b4ba4c9144c64",
-    "name": "Camp Bow Wow South Asheville",
-    "category": "daycare",
-    "address": "5 Airport Rd,",
-    "city": "Arden",
-    "state": "NC",
-    "zip": "28704",
-    "metro": "asheville",
-    "lat": 35.4767,
-    "lng": -82.5165,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "south-asheville"
-    },
-    "lastSeenAt": "2026-04-18T19:52:33Z",
-    "claimed": false,
-    "phone": "+18286242780",
-    "website": "https://www.campbowwow.com/south-asheville/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "c62828fdb9c5d2dd",
-    "name": "Camp Bow Wow Tampa Airport",
-    "category": "daycare",
-    "address": "4624 N Grady Ave,",
-    "city": "Tampa",
-    "state": "FL",
-    "zip": "33614",
-    "metro": "tampa",
-    "lat": 27.9506,
-    "lng": -82.4572,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "tampa"
-    },
-    "lastSeenAt": "2026-04-18T19:52:46Z",
-    "claimed": false,
-    "phone": "+18136802944",
-    "website": "https://www.campbowwow.com/tampa/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "06a23cd90011d8bb",
-    "name": "Camp Bow Wow Tampa South Shore",
-    "category": "daycare",
-    "address": "12218 Balm Riverview Rd,",
-    "city": "Riverview",
-    "state": "FL",
-    "zip": "33579",
-    "metro": "tampa",
-    "lat": 27.8659,
-    "lng": -82.3265,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "tampa-south-shore"
-    },
-    "lastSeenAt": "2026-04-18T19:52:47Z",
-    "claimed": false,
-    "phone": "+18135365982",
-    "website": "https://www.campbowwow.com/tampa-south-shore/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "dd009799c884f4bd",
-    "name": "Camp Bow Wow Woodstock",
-    "category": "daycare",
-    "address": "12916 Hwy 92,",
-    "city": "Woodstock",
-    "state": "GA",
-    "zip": "30188",
-    "metro": "atlanta",
-    "lat": 34.1015,
-    "lng": -84.5194,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "woodstock"
-    },
-    "lastSeenAt": "2026-04-18T19:53:02Z",
-    "claimed": false,
-    "phone": "+14706641293",
-    "website": "https://www.campbowwow.com/woodstock/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
-    "id": "eb7e4d37d1034d76",
-    "name": "Camp Bow Wow Leander",
-    "category": "daycare",
-    "address": "607 Leander Dr, Building 10",
-    "city": "Leander",
-    "state": "TX",
-    "zip": "78641",
-    "metro": "austin",
-    "lat": 30.5788,
-    "lng": -97.8531,
-    "sources": [
-      "chain_locator"
-    ],
-    "sourceIds": {
-      "chain": "camp_bow_wow",
-      "storeId": "leander"
-    },
-    "lastSeenAt": "2026-04-18T19:54:04Z",
-    "claimed": false,
-    "phone": "+17372587924",
-    "website": "https://www.campbowwow.com/leander/",
-    "subcategories": [
-      "boarding"
-    ]
-  },
-  {
     "id": "9493d3f1e928c08d",
     "name": "Petco",
     "category": "groomer",
@@ -2273,6 +1300,2635 @@
     ]
   },
   {
+    "id": "5c74c7aecbe5e686",
+    "name": "Animal Care Clinic",
+    "category": "veterinarian",
+    "address": "2000 N Mays St",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.528204,
+    "lng": -97.688622,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "animal-care-clinic"
+    },
+    "lastSeenAt": "2026-04-18T20:03:18Z",
+    "claimed": false,
+    "phone": "+15123882222",
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/animal-care-clinic"
+  },
+  {
+    "id": "e55dc5f0de27de46",
+    "name": "Cypress Creek Pet Care",
+    "category": "veterinarian",
+    "address": "2105 Cypress Creek Rd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.475304,
+    "lng": -97.842115,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "cypress-creek-pet-care"
+    },
+    "lastSeenAt": "2026-04-18T20:03:18Z",
+    "claimed": false,
+    "phone": "+15123318555",
+    "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/cypress-creek-pet-care"
+  },
+  {
+    "id": "be0ba6f9d0dc9f80",
+    "name": "Thrive Pet Healthcare Cedar Park",
+    "category": "veterinarian",
+    "address": "4807 183A",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.529734,
+    "lng": -97.818139,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "183a-toll-road"
+    },
+    "lastSeenAt": "2026-04-18T20:03:18Z",
+    "claimed": false,
+    "phone": "+15126492899",
+    "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/183a-toll-road"
+  },
+  {
+    "id": "d581d141a87eb357",
+    "name": "Eye Care for Animals - Austin",
+    "category": "veterinarian",
+    "address": "12419 Metric Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.411445,
+    "lng": -97.691556,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "eye-care-for-animals-austin"
+    },
+    "lastSeenAt": "2026-04-18T20:03:19Z",
+    "claimed": false,
+    "phone": "+15123353937",
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/eye-care-for-animals-austin"
+  },
+  {
+    "id": "737f19859e9e1c84",
+    "name": "Thrive Pet Healthcare Round Rock",
+    "category": "veterinarian",
+    "address": "603 Louis Henna Blvd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.48,
+    "lng": -97.66,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "louis-henna"
+    },
+    "lastSeenAt": "2026-04-18T20:03:23Z",
+    "claimed": false,
+    "phone": "+15129602671",
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/louis-henna"
+  },
+  {
+    "id": "60c30082310f858e",
+    "name": "Heart of Texas Veterinary Specialty Center",
+    "category": "veterinarian",
+    "address": "3675 Gattis School Rd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.49698,
+    "lng": -97.6181,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "heart-of-texas-veterinary-specialty-center"
+    },
+    "lastSeenAt": "2026-04-18T20:03:24Z",
+    "claimed": false,
+    "phone": "+15127444644",
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/heart-of-texas-veterinary-specialty-center"
+  },
+  {
+    "id": "edc4338507722512",
+    "name": "Emergency Care",
+    "category": "veterinarian",
+    "address": "3675 Gattis School Rd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.49698,
+    "lng": -97.6181,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "hot-emergency-care"
+    },
+    "lastSeenAt": "2026-04-18T20:03:24Z",
+    "claimed": false,
+    "phone": "+15127444644",
+    "website": "https://www.thrivepetcare.com/locations/texas/round-rock/heart-of-texas-veterinary-specialty-center/hot-emergency-care"
+  },
+  {
+    "id": "92662fe81d003671",
+    "name": "Thrive Pet Healthcare Manchaca",
+    "category": "veterinarian",
+    "address": "1824 W Slaughter Ln",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.174154,
+    "lng": -97.822167,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "w-slaughter"
+    },
+    "lastSeenAt": "2026-04-18T20:03:26Z",
+    "claimed": false,
+    "phone": "+17379310546",
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/w-slaughter"
+  },
+  {
+    "id": "aedb8ddd2cb7b77a",
+    "name": "Austin Vet Care - Metric",
+    "category": "veterinarian",
+    "address": "12419 Metric Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.411445,
+    "lng": -97.691556,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "austin-vet-care-metric"
+    },
+    "lastSeenAt": "2026-04-18T20:03:27Z",
+    "claimed": false,
+    "phone": "+15128321088",
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/austin-vet-care-metric"
+  },
+  {
+    "id": "1ab19f8069be012f",
+    "name": "Thrive Pet Healthcare - South Lamar",
+    "category": "veterinarian",
+    "address": "3318 S Lamar Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.241178,
+    "lng": -97.786313,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "thrive",
+      "storeId": "oltorf"
+    },
+    "lastSeenAt": "2026-04-18T20:03:27Z",
+    "claimed": false,
+    "phone": "+15129003769",
+    "website": "https://www.thrivepetcare.com/locations/texas/austin/oltorf"
+  },
+  {
+    "id": "60a4aa47f89e1cc8",
+    "name": "VCA Briarcliff Animal Hospital",
+    "category": "veterinarian",
+    "address": "1850 Johnson Road NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30306",
+    "metro": "atlanta",
+    "lat": 33.8046226,
+    "lng": -84.3382149,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "briarcliff-atlanta"
+    },
+    "lastSeenAt": "2026-04-18T20:04:30Z",
+    "claimed": false,
+    "phone": "+14048746393",
+    "website": "https://vcahospitals.com/briarcliff-atlanta"
+  },
+  {
+    "id": "c528cc1df231800f",
+    "name": "VCA Buckhead Animal Hospital",
+    "category": "veterinarian",
+    "address": "1911 Piedmont Circle NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30324",
+    "metro": "atlanta",
+    "lat": 33.809079,
+    "lng": -84.3669,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "buckhead"
+    },
+    "lastSeenAt": "2026-04-18T20:04:31Z",
+    "claimed": false,
+    "phone": "+14048733771",
+    "website": "https://vcahospitals.com/buckhead"
+  },
+  {
+    "id": "f94844b7f3cc7b2d",
+    "name": "VCA College Park Animal Hospital",
+    "category": "veterinarian",
+    "address": "1203 Cleveland Avenue, Suite 2",
+    "city": "East Point",
+    "state": "GA",
+    "zip": "30344",
+    "metro": "atlanta",
+    "lat": 33.68198489168967,
+    "lng": -84.42859644603021,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "college-park"
+    },
+    "lastSeenAt": "2026-04-18T20:04:35Z",
+    "claimed": false,
+    "phone": "+14048351222",
+    "website": "https://vcahospitals.com/college-park"
+  },
+  {
+    "id": "36a5d9fc13f48937",
+    "name": "VCA Dunwoody Veterinary Center",
+    "category": "veterinarian",
+    "address": "1660 Mt. Vernon Road",
+    "city": "Dunwoody",
+    "state": "GA",
+    "zip": "30338",
+    "metro": "atlanta",
+    "lat": 33.947509952743374,
+    "lng": -84.3320637288349,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "dunwoody"
+    },
+    "lastSeenAt": "2026-04-18T20:04:38Z",
+    "claimed": false,
+    "phone": "+17703945004",
+    "website": "https://vcahospitals.com/dunwoody"
+  },
+  {
+    "id": "7e5df8d8d832b59e",
+    "name": "VCA Falcon Village Animal Hospital",
+    "category": "veterinarian",
+    "address": "2030 Lawrenceville Suwanee Road",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.000053,
+    "lng": -84.038647,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "falcon-village"
+    },
+    "lastSeenAt": "2026-04-18T20:04:38Z",
+    "claimed": false,
+    "phone": "+17709628326",
+    "website": "https://vcahospitals.com/falcon-village"
+  },
+  {
+    "id": "0ce5a24ae9655147",
+    "name": "VCA Lilburn Animal Hospital",
+    "category": "veterinarian",
+    "address": "4985 Lawrenceville Highway",
+    "city": "Lilburn",
+    "state": "GA",
+    "zip": "30047",
+    "metro": "atlanta",
+    "lat": 33.889708,
+    "lng": -84.144818,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "lilburn"
+    },
+    "lastSeenAt": "2026-04-18T20:04:40Z",
+    "claimed": false,
+    "phone": "+17709216766",
+    "website": "https://vcahospitals.com/lilburn"
+  },
+  {
+    "id": "5dc61303e5e2aefc",
+    "name": "VCA Midtown Animal Hospital",
+    "category": "veterinarian",
+    "address": "1510 Piedmont Avenue NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30324",
+    "metro": "atlanta",
+    "lat": 33.795601,
+    "lng": -84.370645,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "midtown"
+    },
+    "lastSeenAt": "2026-04-18T20:04:42Z",
+    "claimed": false,
+    "phone": "+14048757387",
+    "website": "https://vcahospitals.com/midtown"
+  },
+  {
+    "id": "687bbda90e72b7d4",
+    "name": "VCA North Atlanta Animal Hospital",
+    "category": "veterinarian",
+    "address": "227 Sandy Springs Place, Suite 210",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30328",
+    "metro": "atlanta",
+    "lat": 33.919657,
+    "lng": -84.381019,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "north-atlanta"
+    },
+    "lastSeenAt": "2026-04-18T20:04:43Z",
+    "claimed": false,
+    "phone": "+14042559345",
+    "website": "https://vcahospitals.com/north-atlanta"
+  },
+  {
+    "id": "38b181de762b1eec",
+    "name": "VCA Peachtree Animal Hospital",
+    "category": "veterinarian",
+    "address": "4839 Peachtree Road",
+    "city": "Chamblee",
+    "state": "GA",
+    "zip": "30341",
+    "metro": "atlanta",
+    "lat": 33.88143325998055,
+    "lng": -84.3194138615896,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "peachtree"
+    },
+    "lastSeenAt": "2026-04-18T20:04:43Z",
+    "claimed": false,
+    "phone": "+17704572591",
+    "website": "https://vcahospitals.com/peachtree"
+  },
+  {
+    "id": "7980e9cf87b9a870",
+    "name": "VCA Pets Are People Too Roswell Animal Hospital",
+    "category": "veterinarian",
+    "address": "535 Sun Valley Drive",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30076",
+    "metro": "atlanta",
+    "lat": 34.051867,
+    "lng": -84.338994,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "pets-are-people-too-roswell"
+    },
+    "lastSeenAt": "2026-04-18T20:04:44Z",
+    "claimed": false,
+    "phone": "+17709933040",
+    "website": "https://vcahospitals.com/pets-are-people-too-roswell"
+  },
+  {
+    "id": "c271a654372d1bd2",
+    "name": "VCA Roswell Animal Hospital",
+    "category": "veterinarian",
+    "address": "1112 Alpharetta Street",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.028846,
+    "lng": -84.357157,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "roswell"
+    },
+    "lastSeenAt": "2026-04-18T20:04:45Z",
+    "claimed": false,
+    "phone": "+17709939031",
+    "website": "https://vcahospitals.com/roswell"
+  },
+  {
+    "id": "2891b9410887baf9",
+    "name": "VCA Terrell Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "1315 Powers Ferry Road SE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.919795,
+    "lng": -84.466659,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "terrell-mill"
+    },
+    "lastSeenAt": "2026-04-18T20:04:46Z",
+    "claimed": false,
+    "phone": "+17709529300",
+    "website": "https://vcahospitals.com/terrell-mill"
+  },
+  {
+    "id": "59cf4e69843cbf83",
+    "name": "VCA Carrollwood Cat Hospital",
+    "category": "veterinarian",
+    "address": "13305 Orange Grove Drive",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618",
+    "metro": "tampa",
+    "lat": 28.066883,
+    "lng": -82.500311,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "carrollwood-cat"
+    },
+    "lastSeenAt": "2026-04-18T20:05:02Z",
+    "claimed": false,
+    "phone": "+18139636612",
+    "website": "https://vcahospitals.com/carrollwood-cat"
+  },
+  {
+    "id": "a663991b0226a6cb",
+    "name": "VCA Cypress Creek Animal Hospital",
+    "category": "veterinarian",
+    "address": "25227 Wesley Chapel Blvd.",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33559",
+    "metro": "tampa",
+    "lat": 28.1949388,
+    "lng": -82.3998431,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "cypress-creek"
+    },
+    "lastSeenAt": "2026-04-18T20:05:08Z",
+    "claimed": false,
+    "phone": "+18139493045",
+    "website": "https://vcahospitals.com/cypress-creek"
+  },
+  {
+    "id": "c38df3493251b8f0",
+    "name": "VCA Noah&#39;s Place Animal Medical Center",
+    "category": "veterinarian",
+    "address": "2050 62nd Avenue North",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33702",
+    "metro": "tampa",
+    "lat": 27.82929,
+    "lng": -82.66014,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "noahs-place"
+    },
+    "lastSeenAt": "2026-04-18T20:05:29Z",
+    "claimed": false,
+    "phone": "+17275226640",
+    "website": "https://vcahospitals.com/noahs-place"
+  },
+  {
+    "id": "0a158aeb3c5e552e",
+    "name": "VCA Anderson Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "13542 North Highway 183",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78750",
+    "metro": "austin",
+    "lat": 30.4508582,
+    "lng": -97.7940863,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "anderson-mill"
+    },
+    "lastSeenAt": "2026-04-18T20:05:54Z",
+    "claimed": false,
+    "phone": "+15122584163",
+    "website": "https://vcahospitals.com/anderson-mill"
+  },
+  {
+    "id": "919f7f3ea35fa01a",
+    "name": "VCA Arbor Animal Hospital",
+    "category": "veterinarian",
+    "address": "8820 Burnet Road, Suite 400",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78757",
+    "metro": "austin",
+    "lat": 30.37180573192472,
+    "lng": -97.7277093463929,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "arbor"
+    },
+    "lastSeenAt": "2026-04-18T20:06:01Z",
+    "claimed": false,
+    "phone": "+15127941040",
+    "website": "https://vcahospitals.com/arbor"
+  },
+  {
+    "id": "18c2626ddb54bcb7",
+    "name": "VCA Ben White Animal Hospital",
+    "category": "veterinarian",
+    "address": "2417 W. Ben White Blvd.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.232254,
+    "lng": -97.794265,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "ben-white"
+    },
+    "lastSeenAt": "2026-04-18T20:06:05Z",
+    "claimed": false,
+    "phone": "+15124447518",
+    "website": "https://vcahospitals.com/ben-white"
+  },
+  {
+    "id": "c8bb01dd321f0cd0",
+    "name": "VCA Capital Area Veterinary Specialists",
+    "category": "veterinarian",
+    "address": "7958 Shoal Creek Blvd.",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78757",
+    "metro": "austin",
+    "lat": 30.363133,
+    "lng": -97.740287,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "capital-area"
+    },
+    "lastSeenAt": "2026-04-18T20:06:10Z",
+    "claimed": false,
+    "phone": "+15123880944",
+    "website": "https://vcahospitals.com/capital-area"
+  },
+  {
+    "id": "2c3e2e833f8f03fd",
+    "name": "VCA Hometown Animal Hospital",
+    "category": "veterinarian",
+    "address": "1001 FM 685",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660",
+    "metro": "austin",
+    "lat": 30.443894,
+    "lng": -97.607882,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "hometown"
+    },
+    "lastSeenAt": "2026-04-18T20:06:26Z",
+    "claimed": false,
+    "phone": "+15122512242",
+    "website": "https://vcahospitals.com/hometown"
+  },
+  {
+    "id": "b8186ed8e97930f4",
+    "name": "VCA Lakeline Animal Hospital",
+    "category": "veterinarian",
+    "address": "12010 Ranch Road 620 North",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78750",
+    "metro": "austin",
+    "lat": 30.460415,
+    "lng": -97.821428,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "lakeline"
+    },
+    "lastSeenAt": "2026-04-18T20:06:32Z",
+    "claimed": false,
+    "phone": "+15122581155",
+    "website": "https://vcahospitals.com/lakeline"
+  },
+  {
+    "id": "702254ec900bb0fa",
+    "name": "VCA Northwest Hills Animal Hospital",
+    "category": "veterinarian",
+    "address": "3426 Greystone Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78731",
+    "metro": "austin",
+    "lat": 30.357315,
+    "lng": -97.747418,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "northwest-hills"
+    },
+    "lastSeenAt": "2026-04-18T20:06:43Z",
+    "claimed": false,
+    "phone": "+15123455067",
+    "website": "https://vcahospitals.com/northwest-hills"
+  },
+  {
+    "id": "2c47a66c9669f158",
+    "name": "VCA Premier Animal Hospital and Pet Resort",
+    "category": "veterinarian",
+    "address": "3651 E Whitestone Blvd.",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.539543,
+    "lng": -97.774563,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "premier"
+    },
+    "lastSeenAt": "2026-04-18T20:06:49Z",
+    "claimed": false,
+    "phone": "+15122604000",
+    "website": "https://vcahospitals.com/premier"
+  },
+  {
+    "id": "2e031cfbf60160a8",
+    "name": "VCA Tanglewood Animal Hospital",
+    "category": "veterinarian",
+    "address": "9125 Menchaca Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.180607,
+    "lng": -97.8189956,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "tanglewood"
+    },
+    "lastSeenAt": "2026-04-18T20:07:01Z",
+    "claimed": false,
+    "phone": "+15122800878",
+    "website": "https://vcahospitals.com/tanglewood"
+  },
+  {
+    "id": "b084e372c408dd4d",
+    "name": "VCA Terrell Animal Hospital",
+    "category": "veterinarian",
+    "address": "2 Lakeway Centre Court",
+    "city": "Lakeway",
+    "state": "TX",
+    "zip": "78734",
+    "metro": "austin",
+    "lat": 30.346729,
+    "lng": -97.96325,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "terrell"
+    },
+    "lastSeenAt": "2026-04-18T20:07:03Z",
+    "claimed": false,
+    "phone": "+15122635517",
+    "website": "https://vcahospitals.com/terrell"
+  },
+  {
+    "id": "13740de09d3ccce6",
+    "name": "VCA McKay&#39;s Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "1000 Longpoint Way",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37064",
+    "metro": "nashville",
+    "lat": 35.885870750749284,
+    "lng": -86.81822610383209,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "mckays-mill"
+    },
+    "lastSeenAt": "2026-04-18T20:07:55Z",
+    "claimed": false,
+    "phone": "+16155993783",
+    "website": "https://vcahospitals.com/mckays-mill"
+  },
+  {
+    "id": "d4e91a55809fb411",
+    "name": "VCA Animal Care Center of Mt. Juliet",
+    "category": "veterinarian",
+    "address": "2701 N. Mt. Juliet Road",
+    "city": "Mt. Juliet",
+    "state": "TN",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.20866,
+    "lng": -86.51608,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "mt-juliet"
+    },
+    "lastSeenAt": "2026-04-18T20:08:01Z",
+    "claimed": false,
+    "phone": "+16157547387",
+    "website": "https://vcahospitals.com/mt-juliet"
+  },
+  {
+    "id": "3481095a3e46c39e",
+    "name": "VCA Murphy Road Animal Hospital",
+    "category": "veterinarian",
+    "address": "4408 Murphy Road",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209",
+    "metro": "nashville",
+    "lat": 36.141277,
+    "lng": -86.839877,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "murphy-road"
+    },
+    "lastSeenAt": "2026-04-18T20:08:01Z",
+    "claimed": false,
+    "phone": "+16153834241",
+    "website": "https://vcahospitals.com/murphy-road"
+  },
+  {
+    "id": "49c33c31ecc8ce85",
+    "name": "VCA PetMed Animal Hospital",
+    "category": "veterinarian",
+    "address": "1120 Bell Road",
+    "city": "Antioch",
+    "state": "TN",
+    "zip": "37013",
+    "metro": "nashville",
+    "lat": 36.0443197,
+    "lng": -86.6658513,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "vca",
+      "storeId": "petmed"
+    },
+    "lastSeenAt": "2026-04-18T20:08:04Z",
+    "claimed": false,
+    "phone": "+16157318074",
+    "website": "https://vcahospitals.com/petmed"
+  },
+  {
+    "id": "20274fd32dc45abb",
+    "name": "Camp Bow Wow Alpharetta",
+    "category": "daycare",
+    "address": "1755 Grassland Pkwy, Suite E",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.0754,
+    "lng": -84.2941,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "alpharetta"
+    },
+    "lastSeenAt": "2026-04-18T20:10:01Z",
+    "claimed": false,
+    "phone": "+16786791964",
+    "website": "https://www.campbowwow.com/alpharetta/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "8feb45550f781374",
+    "name": "Camp Bow Wow Austin",
+    "category": "daycare",
+    "address": "13900 IH-35,",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78728",
+    "metro": "austin",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "austin"
+    },
+    "lastSeenAt": "2026-04-18T20:10:15Z",
+    "claimed": false,
+    "phone": "+17372589027",
+    "website": "https://www.campbowwow.com/austin/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "fb1a53c7f8a9a62d",
+    "name": "Camp Bow Wow Duluth",
+    "category": "daycare",
+    "address": "1795 Buford Hwy,",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30097",
+    "metro": "atlanta",
+    "lat": 34.0029,
+    "lng": -84.1446,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "duluth"
+    },
+    "lastSeenAt": "2026-04-18T20:13:03Z",
+    "claimed": false,
+    "phone": "+17703349810",
+    "website": "https://www.campbowwow.com/duluth/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "7cde32133005a503",
+    "name": "Camp Bow Wow Lawrenceville GA",
+    "category": "daycare",
+    "address": "585 Old Norcross Rd,",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30046",
+    "metro": "atlanta",
+    "lat": 33.9562,
+    "lng": -83.988,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "lawrenceville-ga"
+    },
+    "lastSeenAt": "2026-04-18T20:13:42Z",
+    "claimed": false,
+    "phone": "+17708726185",
+    "website": "https://www.campbowwow.com/lawrenceville-ga/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "b6c8a46a56b824a9",
+    "name": "Camp Bow Wow Mt Juliet",
+    "category": "daycare",
+    "address": "3085 N. Mt Juliet Rd,",
+    "city": "Mt. Juliet",
+    "state": "TN",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.1998,
+    "lng": -86.5186,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "mt-juliet"
+    },
+    "lastSeenAt": "2026-04-18T20:14:34Z",
+    "claimed": false,
+    "phone": "+16159082439",
+    "website": "https://www.campbowwow.com/mt-juliet/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "937b4ba4c9144c64",
+    "name": "Camp Bow Wow South Asheville",
+    "category": "daycare",
+    "address": "5 Airport Rd,",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "metro": "asheville",
+    "lat": 35.4767,
+    "lng": -82.5165,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "south-asheville"
+    },
+    "lastSeenAt": "2026-04-18T20:16:23Z",
+    "claimed": false,
+    "phone": "+18286242780",
+    "website": "https://www.campbowwow.com/south-asheville/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "c62828fdb9c5d2dd",
+    "name": "Camp Bow Wow Tampa Airport",
+    "category": "daycare",
+    "address": "4624 N Grady Ave,",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33614",
+    "metro": "tampa",
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "tampa"
+    },
+    "lastSeenAt": "2026-04-18T20:16:56Z",
+    "claimed": false,
+    "phone": "+18136802944",
+    "website": "https://www.campbowwow.com/tampa/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "06a23cd90011d8bb",
+    "name": "Camp Bow Wow Tampa South Shore",
+    "category": "daycare",
+    "address": "12218 Balm Riverview Rd,",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33579",
+    "metro": "tampa",
+    "lat": 27.8659,
+    "lng": -82.3265,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "tampa-south-shore"
+    },
+    "lastSeenAt": "2026-04-18T20:16:57Z",
+    "claimed": false,
+    "phone": "+18135365982",
+    "website": "https://www.campbowwow.com/tampa-south-shore/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "dd009799c884f4bd",
+    "name": "Camp Bow Wow Woodstock",
+    "category": "daycare",
+    "address": "12916 Hwy 92,",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "metro": "atlanta",
+    "lat": 34.1015,
+    "lng": -84.5194,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "woodstock"
+    },
+    "lastSeenAt": "2026-04-18T20:17:13Z",
+    "claimed": false,
+    "phone": "+14706641293",
+    "website": "https://www.campbowwow.com/woodstock/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "eb7e4d37d1034d76",
+    "name": "Camp Bow Wow Leander",
+    "category": "daycare",
+    "address": "607 Leander Dr, Building 10",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5788,
+    "lng": -97.8531,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "camp_bow_wow",
+      "storeId": "leander"
+    },
+    "lastSeenAt": "2026-04-18T20:18:17Z",
+    "claimed": false,
+    "phone": "+17372587924",
+    "website": "https://www.campbowwow.com/leander/",
+    "subcategories": [
+      "boarding"
+    ]
+  },
+  {
+    "id": "eeaa454d04bdc359",
+    "name": "Banfield Pet Hospital Brandon Bloomingdale",
+    "category": "veterinarian",
+    "address": "973 E Bloomingdale Ave",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.892984,
+    "lng": -82.271237,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "bbl"
+    },
+    "lastSeenAt": "2026-04-18T20:34:21Z",
+    "claimed": false,
+    "phone": "+18136433652",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bbl"
+  },
+  {
+    "id": "8ff99e266a4eaf4b",
+    "name": "Banfield Pet Hospital Brandon Clayton Plaza",
+    "category": "veterinarian",
+    "address": "663 W Brandon Blvd",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.936947,
+    "lng": -82.29351,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "bdn"
+    },
+    "lastSeenAt": "2026-04-18T20:34:22Z",
+    "claimed": false,
+    "phone": "+18136620949",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/bdn"
+  },
+  {
+    "id": "6b3969426a81c9ad",
+    "name": "Banfield Pet Hospital Brandon-Riverview",
+    "category": "veterinarian",
+    "address": "11331 Causeway Blvd",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.921301,
+    "lng": -82.322176,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "brv"
+    },
+    "lastSeenAt": "2026-04-18T20:34:24Z",
+    "claimed": false,
+    "phone": "+18136814010",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/brandon/brv"
+  },
+  {
+    "id": "859941645367ad66",
+    "name": "Banfield Pet Hospital Clearwater",
+    "category": "veterinarian",
+    "address": "26277 US Hwy 19 N",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33761",
+    "metro": "tampa",
+    "lat": 28.01129,
+    "lng": -82.731906,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cle"
+    },
+    "lastSeenAt": "2026-04-18T20:34:25Z",
+    "claimed": false,
+    "phone": "+17277916694",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cle"
+  },
+  {
+    "id": "c4a6096b5b6ea731",
+    "name": "Banfield Pet Hospital Clearwater Mall",
+    "category": "veterinarian",
+    "address": "2625 Gulf to Bay Blvd",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33759",
+    "metro": "tampa",
+    "lat": 27.958023,
+    "lng": -82.728479,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cma"
+    },
+    "lastSeenAt": "2026-04-18T20:34:27Z",
+    "claimed": false,
+    "phone": "+17277241866",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/clearwater/cma"
+  },
+  {
+    "id": "120c49aee8bff098",
+    "name": "Banfield Pet Hospital Largo, FL",
+    "category": "veterinarian",
+    "address": "10500 Ulmerton Rd",
+    "city": "Largo",
+    "state": "FL",
+    "zip": "33771",
+    "metro": "tampa",
+    "lat": 27.891006,
+    "lng": -82.785202,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "lar"
+    },
+    "lastSeenAt": "2026-04-18T20:34:28Z",
+    "claimed": false,
+    "phone": "+17275851006",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/largo/lar"
+  },
+  {
+    "id": "6209a27a5ce76669",
+    "name": "Banfield Pet Hospital Palm Harbor",
+    "category": "veterinarian",
+    "address": "33255 US Hwy 19 N",
+    "city": "Palm Harbor",
+    "state": "FL",
+    "zip": "34684",
+    "metro": "tampa",
+    "lat": 28.074418,
+    "lng": -82.737457,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "pah"
+    },
+    "lastSeenAt": "2026-04-18T20:34:30Z",
+    "claimed": false,
+    "phone": "+17277710048",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/palm-harbor/pah"
+  },
+  {
+    "id": "bcd6828aea05a057",
+    "name": "Banfield Pet Hospital Seminole",
+    "category": "veterinarian",
+    "address": "7756 113th St",
+    "city": "Seminole",
+    "state": "FL",
+    "zip": "33772",
+    "metro": "tampa",
+    "lat": 27.843157,
+    "lng": -82.793545,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "sei"
+    },
+    "lastSeenAt": "2026-04-18T20:34:31Z",
+    "claimed": false,
+    "phone": "+17273190971",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/seminole/sei"
+  },
+  {
+    "id": "032df098254889bf",
+    "name": "Banfield Pet Hospital St. Petersburg NE",
+    "category": "veterinarian",
+    "address": "7777 Dr Martin Luther King St N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33702",
+    "metro": "tampa",
+    "lat": 27.843854,
+    "lng": -82.64448,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "spb"
+    },
+    "lastSeenAt": "2026-04-18T20:34:32Z",
+    "claimed": false,
+    "phone": "+17275783811",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/spb"
+  },
+  {
+    "id": "3efd613db565141a",
+    "name": "Banfield Pet Hospital St. Petersburg Tyrone Sq",
+    "category": "veterinarian",
+    "address": "6701 22nd Ave N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33710",
+    "metro": "tampa",
+    "lat": 27.79339,
+    "lng": -82.731459,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "tyr"
+    },
+    "lastSeenAt": "2026-04-18T20:34:37Z",
+    "claimed": false,
+    "phone": "+17273029063",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/st-petersburg/tyr"
+  },
+  {
+    "id": "63c769e2d909f4a8",
+    "name": "Banfield Pet Hospital Citrus Park",
+    "category": "veterinarian",
+    "address": "12835 Citrus Plaza Dr",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33625",
+    "metro": "tampa",
+    "lat": 28.064122,
+    "lng": -82.573455,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "csp"
+    },
+    "lastSeenAt": "2026-04-18T20:34:38Z",
+    "claimed": false,
+    "phone": "+18137921227",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/csp"
+  },
+  {
+    "id": "33bbb5dd663b4004",
+    "name": "Banfield Pet Hospital Carrollwood Village Center",
+    "category": "veterinarian",
+    "address": "13112 N Dale Mabry Hwy",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618",
+    "metro": "tampa",
+    "lat": 28.06613,
+    "lng": -82.50616,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cvc"
+    },
+    "lastSeenAt": "2026-04-18T20:34:40Z",
+    "claimed": false,
+    "phone": "+18132645216",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/cvc"
+  },
+  {
+    "id": "9b5195053d9b30ee",
+    "name": "Banfield Pet Hospital N Tampa",
+    "category": "veterinarian",
+    "address": "6248 Commerce Palms Dr",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": 28.117667,
+    "lng": -82.375186,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ntp"
+    },
+    "lastSeenAt": "2026-04-18T20:34:41Z",
+    "claimed": false,
+    "phone": "+18139777940",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/ntp"
+  },
+  {
+    "id": "a2bbd911248d8700",
+    "name": "Banfield Pet Hospital Double Branch, FL",
+    "category": "veterinarian",
+    "address": "12820 W Hillsborough Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33635",
+    "metro": "tampa",
+    "lat": 28.02895,
+    "lng": -82.63843,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "old"
+    },
+    "lastSeenAt": "2026-04-18T20:34:42Z",
+    "claimed": false,
+    "phone": "+18138555322",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/old"
+  },
+  {
+    "id": "76801d9c6134d7fd",
+    "name": "Banfield Pet Hospital Tampa S",
+    "category": "veterinarian",
+    "address": "1540 N Dale Mabry Hwy",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.956541,
+    "lng": -82.508388,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "stm"
+    },
+    "lastSeenAt": "2026-04-18T20:34:43Z",
+    "claimed": false,
+    "phone": "+18138756702",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/stm"
+  },
+  {
+    "id": "c2022ab696abee4d",
+    "name": "Banfield Pet Hospital Tampa Hunters Green",
+    "category": "veterinarian",
+    "address": "8642 Hunters Village Rd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": 28.14007,
+    "lng": -82.35746,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "thu"
+    },
+    "lastSeenAt": "2026-04-18T20:34:45Z",
+    "claimed": false,
+    "phone": "+18136836002",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/thu"
+  },
+  {
+    "id": "33b9661a5cfabb69",
+    "name": "Banfield Pet Hospital Tampa Harris",
+    "category": "veterinarian",
+    "address": "1510 E Hillsborough Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33610",
+    "metro": "tampa",
+    "lat": 27.996433,
+    "lng": -82.442168,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "tvh"
+    },
+    "lastSeenAt": "2026-04-18T20:34:47Z",
+    "claimed": false,
+    "phone": "+18132391145",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/tampa/tvh"
+  },
+  {
+    "id": "36c34d98aa419e73",
+    "name": "Banfield Pet Hospital Wesley Chapel",
+    "category": "veterinarian",
+    "address": "5424 Bruce B Downs Blvd",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544",
+    "metro": "tampa",
+    "lat": 28.235856,
+    "lng": -82.347223,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "wyc"
+    },
+    "lastSeenAt": "2026-04-18T20:34:49Z",
+    "claimed": false,
+    "phone": "+18139919408",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/wesley-chapel/wyc"
+  },
+  {
+    "id": "1113943bf60fa328",
+    "name": "Banfield Pet Hospital Acworth",
+    "category": "veterinarian",
+    "address": "3335 Cobb Parkway NW",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "metro": "atlanta",
+    "lat": 34.033647,
+    "lng": -84.682622,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "awr"
+    },
+    "lastSeenAt": "2026-04-18T20:34:51Z",
+    "claimed": false,
+    "phone": "+17705291781",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/acworth/awr"
+  },
+  {
+    "id": "afc8d41975e23831",
+    "name": "Banfield Pet Hospital Midtown",
+    "category": "veterinarian",
+    "address": "650 Ponce de Leon Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308",
+    "metro": "atlanta",
+    "lat": 33.775888,
+    "lng": -84.366311,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ala"
+    },
+    "lastSeenAt": "2026-04-18T20:34:52Z",
+    "claimed": false,
+    "phone": "+14048927277",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/ala"
+  },
+  {
+    "id": "f471fd2ced1d4de1",
+    "name": "Banfield Pet Hospital Buckhead",
+    "category": "veterinarian",
+    "address": "3221 Peachtree Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30305",
+    "metro": "atlanta",
+    "lat": 33.841107,
+    "lng": -84.372702,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "atl"
+    },
+    "lastSeenAt": "2026-04-18T20:34:53Z",
+    "claimed": false,
+    "phone": "+14042377455",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/atl"
+  },
+  {
+    "id": "1a99d6cb0def18cc",
+    "name": "Banfield Pet Hospital Castlegate",
+    "category": "veterinarian",
+    "address": "1801 Howell Mill Rd NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.80327,
+    "lng": -84.411434,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cag"
+    },
+    "lastSeenAt": "2026-04-18T20:34:55Z",
+    "claimed": false,
+    "phone": "+14043511919",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/atlanta/cag"
+  },
+  {
+    "id": "ebac79c0ee7b83da",
+    "name": "Banfield Pet Hospital Austell",
+    "category": "veterinarian",
+    "address": "4155 Austell Rd",
+    "city": "Austell",
+    "state": "GA",
+    "zip": "30106",
+    "metro": "atlanta",
+    "lat": 33.851571,
+    "lng": -84.603556,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "asl"
+    },
+    "lastSeenAt": "2026-04-18T20:34:56Z",
+    "claimed": false,
+    "phone": "+17709449197",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/austell/asl"
+  },
+  {
+    "id": "110320472b1e1ca9",
+    "name": "Banfield Pet Hospital Mill Creek",
+    "category": "veterinarian",
+    "address": "1705 Mall of Georgia Blvd",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519",
+    "metro": "atlanta",
+    "lat": 34.060747,
+    "lng": -83.994411,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ant"
+    },
+    "lastSeenAt": "2026-04-18T20:34:57Z",
+    "claimed": false,
+    "phone": "+17708315477",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/buford/ant"
+  },
+  {
+    "id": "8378798d8d461ba6",
+    "name": "Banfield Pet Hospital Decatur-Blackmon",
+    "category": "veterinarian",
+    "address": "2571 Blackmon Dr",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30033",
+    "metro": "atlanta",
+    "lat": 33.79318,
+    "lng": -84.288086,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "dec"
+    },
+    "lastSeenAt": "2026-04-18T20:35:00Z",
+    "claimed": false,
+    "phone": "+14702263869",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/decatur/dec"
+  },
+  {
+    "id": "beac777f161abdff",
+    "name": "Banfield Pet Hospital Douglasville",
+    "category": "veterinarian",
+    "address": "2940 Chapel Hill Rd",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30135",
+    "metro": "atlanta",
+    "lat": 33.726506,
+    "lng": -84.7342,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "dgl"
+    },
+    "lastSeenAt": "2026-04-18T20:35:01Z",
+    "claimed": false,
+    "phone": "+17705776607",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/douglasville/dgl"
+  },
+  {
+    "id": "9cd7b80039a71709",
+    "name": "Banfield Pet Hospital Duluth Sugarloaf Marketplace",
+    "category": "veterinarian",
+    "address": "2220 Peachtree Industrial Blvd",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30097",
+    "metro": "atlanta",
+    "lat": 34.020094,
+    "lng": -84.119675,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "dsm"
+    },
+    "lastSeenAt": "2026-04-18T20:35:03Z",
+    "claimed": false,
+    "phone": "+17706235642",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dsm"
+  },
+  {
+    "id": "2e2ed5268c0cda84",
+    "name": "Banfield Pet Hospital Duluth",
+    "category": "veterinarian",
+    "address": "3803 Venture Dr",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "metro": "atlanta",
+    "lat": 33.952774,
+    "lng": -84.137153,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "dul"
+    },
+    "lastSeenAt": "2026-04-18T20:35:04Z",
+    "claimed": false,
+    "phone": "+17708138600",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/dul"
+  },
+  {
+    "id": "30a01043c7408987",
+    "name": "Banfield Pet Hospital Peachtree Hill",
+    "category": "veterinarian",
+    "address": "3455 Peachtree Industrial Blvd",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "metro": "atlanta",
+    "lat": 34.005607,
+    "lng": -84.173907,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "pea"
+    },
+    "lastSeenAt": "2026-04-18T20:35:06Z",
+    "claimed": false,
+    "phone": "+17706232705",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/duluth/pea"
+  },
+  {
+    "id": "9683656803cf72ae",
+    "name": "Banfield Pet Hospital East Point (Camp Creek)",
+    "category": "veterinarian",
+    "address": "3665 Marketplace Blvd",
+    "city": "East Point",
+    "state": "GA",
+    "zip": "30344",
+    "metro": "atlanta",
+    "lat": 33.657661,
+    "lng": -84.503126,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "esp"
+    },
+    "lastSeenAt": "2026-04-18T20:35:07Z",
+    "claimed": false,
+    "phone": "+14043490705",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/east-point/esp"
+  },
+  {
+    "id": "68b50ecc29f276af",
+    "name": "Banfield Pet Hospital Fayetteville, GA",
+    "category": "veterinarian",
+    "address": "101 Pavillion Pkwy",
+    "city": "Fayetteville",
+    "state": "GA",
+    "zip": "30214",
+    "metro": "atlanta",
+    "lat": 33.482158,
+    "lng": -84.436197,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "fay"
+    },
+    "lastSeenAt": "2026-04-18T20:35:11Z",
+    "claimed": false,
+    "phone": "+17704610006",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/fayetteville/fay"
+  },
+  {
+    "id": "ee9cb5704863eb1e",
+    "name": "Banfield Pet Hospital Kennesaw",
+    "category": "veterinarian",
+    "address": "860 Cobb Place Blvd NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "metro": "atlanta",
+    "lat": 34.010419,
+    "lng": -84.57087,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "agc"
+    },
+    "lastSeenAt": "2026-04-18T20:35:12Z",
+    "claimed": false,
+    "phone": "+17704303109",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/agc"
+  },
+  {
+    "id": "a355032c998d694b",
+    "name": "Banfield Pet Hospital Kennesaw Main",
+    "category": "veterinarian",
+    "address": "440 Ernest W Barrett Pkwy NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "metro": "atlanta",
+    "lat": 34.013962,
+    "lng": -84.562887,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ksw"
+    },
+    "lastSeenAt": "2026-04-18T20:35:14Z",
+    "claimed": false,
+    "phone": "+17704990908",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/ksw"
+  },
+  {
+    "id": "28c33028fe2e8204",
+    "name": "Banfield Pet Hospital Lawrenceville",
+    "category": "veterinarian",
+    "address": "860 Duluth Hwy",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30043",
+    "metro": "atlanta",
+    "lat": 33.966886,
+    "lng": -84.021262,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "law"
+    },
+    "lastSeenAt": "2026-04-18T20:35:15Z",
+    "claimed": false,
+    "phone": "+17708222199",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/lawrenceville/law"
+  },
+  {
+    "id": "65b1cb7ab454692e",
+    "name": "Banfield Pet Hospital Marietta",
+    "category": "veterinarian",
+    "address": "1285 Johnson Ferry Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.979051,
+    "lng": -84.424869,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mar"
+    },
+    "lastSeenAt": "2026-04-18T20:35:16Z",
+    "claimed": false,
+    "phone": "+17705092580",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/marietta/mar"
+  },
+  {
+    "id": "10f16ba373c60943",
+    "name": "Banfield Pet Hospital McDonough",
+    "category": "veterinarian",
+    "address": "1950 Jonesboro Rd",
+    "city": "Mcdonough",
+    "state": "GA",
+    "zip": "30253",
+    "metro": "atlanta",
+    "lat": 33.466298,
+    "lng": -84.220302,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mdn"
+    },
+    "lastSeenAt": "2026-04-18T20:35:18Z",
+    "claimed": false,
+    "phone": "+17709141280",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/mcdonough/mdn"
+  },
+  {
+    "id": "c6a99677d542e18e",
+    "name": "Banfield Pet Hospital Southlake, GA",
+    "category": "veterinarian",
+    "address": "1986 Mount Zion Rd",
+    "city": "Morrow",
+    "state": "GA",
+    "zip": "30260",
+    "metro": "atlanta",
+    "lat": 33.565197,
+    "lng": -84.323545,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mor"
+    },
+    "lastSeenAt": "2026-04-18T20:35:19Z",
+    "claimed": false,
+    "phone": "+17704729900",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/morrow/mor"
+  },
+  {
+    "id": "045e17625d814a18",
+    "name": "Banfield Pet Hospital Norcross",
+    "category": "veterinarian",
+    "address": "6050 Peachtree Pkwy",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30092",
+    "metro": "atlanta",
+    "lat": 33.953636,
+    "lng": -84.232063,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ncs"
+    },
+    "lastSeenAt": "2026-04-18T20:35:21Z",
+    "claimed": false,
+    "phone": "+17707989322",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/norcross/ncs"
+  },
+  {
+    "id": "8db6492e7099d52e",
+    "name": "Banfield Pet Hospital Roswell S",
+    "category": "veterinarian",
+    "address": "4401 Shallowford Rd",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.028452,
+    "lng": -84.422056,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "rss"
+    },
+    "lastSeenAt": "2026-04-18T20:35:22Z",
+    "claimed": false,
+    "phone": "+17706422084",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rss"
+  },
+  {
+    "id": "f143d7a024dfc931",
+    "name": "Banfield Pet Hospital Roswell",
+    "category": "veterinarian",
+    "address": "625 Crossville Rd",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.059434,
+    "lng": -84.380212,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "rsw"
+    },
+    "lastSeenAt": "2026-04-18T20:35:23Z",
+    "claimed": false,
+    "phone": "+16784615007",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rsw"
+  },
+  {
+    "id": "831edee38e1b4095",
+    "name": "Banfield Pet Hospital Smyrna, GA",
+    "category": "veterinarian",
+    "address": "2630 Cobb Pkwy SE",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.888202,
+    "lng": -84.474475,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "smy"
+    },
+    "lastSeenAt": "2026-04-18T20:35:25Z",
+    "claimed": false,
+    "phone": "+17709554173",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/smyrna/smy"
+  },
+  {
+    "id": "3b24105b3cddb74d",
+    "name": "Banfield Pet Hospital Snellville",
+    "category": "veterinarian",
+    "address": "2160 Scenic Hwy N",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078",
+    "metro": "atlanta",
+    "lat": 33.862079,
+    "lng": -84.017451,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "lil"
+    },
+    "lastSeenAt": "2026-04-18T20:35:27Z",
+    "claimed": false,
+    "phone": "+17709799950",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/snellville/lil"
+  },
+  {
+    "id": "02970309f30a59fe",
+    "name": "Banfield Pet Hospital Johns Creek",
+    "category": "veterinarian",
+    "address": "3490 Claiborne Farm Rd",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.077728,
+    "lng": -84.163409,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "joc"
+    },
+    "lastSeenAt": "2026-04-18T20:35:28Z",
+    "claimed": false,
+    "phone": "+17708142403",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/suwanee/joc"
+  },
+  {
+    "id": "4b38488a20566a09",
+    "name": "Banfield Pet Hospital Tucker",
+    "category": "veterinarian",
+    "address": "4023 Lavista Rd",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "metro": "atlanta",
+    "lat": 33.84314,
+    "lng": -84.253142,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "tkr"
+    },
+    "lastSeenAt": "2026-04-18T20:35:29Z",
+    "claimed": false,
+    "phone": "+17704144330",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/tucker/tkr"
+  },
+  {
+    "id": "6882269d051f06eb",
+    "name": "Banfield Pet Hospital Woodstock",
+    "category": "veterinarian",
+    "address": "142 Woodstock Square Ave",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189",
+    "metro": "atlanta",
+    "lat": 34.086205,
+    "lng": -84.54606,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "wsk"
+    },
+    "lastSeenAt": "2026-04-18T20:35:31Z",
+    "claimed": false,
+    "phone": "+17705920424",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/woodstock/wsk"
+  },
+  {
+    "id": "46bd50a6897cb9b0",
+    "name": "Banfield Pet Hospital Asheville Airport Rd",
+    "category": "veterinarian",
+    "address": "3 McKenna Rd",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "metro": "asheville",
+    "lat": 35.448966,
+    "lng": -82.533183,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "adn"
+    },
+    "lastSeenAt": "2026-04-18T20:35:32Z",
+    "claimed": false,
+    "phone": "+18286810519",
+    "website": "https://www.banfield.com/locations/veterinarians/nc/arden/adn"
+  },
+  {
+    "id": "1ca2bb335827c23f",
+    "name": "Banfield Pet Hospital Asheville N",
+    "category": "veterinarian",
+    "address": "150 Bleachery Blvd",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28805",
+    "metro": "asheville",
+    "lat": 35.575238,
+    "lng": -82.512545,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "ash"
+    },
+    "lastSeenAt": "2026-04-18T20:35:34Z",
+    "claimed": false,
+    "phone": "+18282981800",
+    "website": "https://www.banfield.com/locations/veterinarians/nc/asheville/ash"
+  },
+  {
+    "id": "34e53c4e149554ad",
+    "name": "Banfield Pet Hospital Brentwood",
+    "category": "veterinarian",
+    "address": "8105 Moores Lane",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027",
+    "metro": "nashville",
+    "lat": 35.963887,
+    "lng": -86.802849,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "btw"
+    },
+    "lastSeenAt": "2026-04-18T20:35:35Z",
+    "claimed": false,
+    "phone": "+16153734444",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/btw"
+  },
+  {
+    "id": "a4e23377282c266b",
+    "name": "Banfield Pet Hospital Brentwood Maryland Farms",
+    "category": "veterinarian",
+    "address": "4900 Thoroughbred Lane",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027",
+    "metro": "nashville",
+    "lat": 36.036725,
+    "lng": -86.788458,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "bwo"
+    },
+    "lastSeenAt": "2026-04-18T20:35:40Z",
+    "claimed": false,
+    "phone": "+16156619931",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/brentwood/bwo"
+  },
+  {
+    "id": "4051a4e94f173baf",
+    "name": "Banfield Pet Hospital Franklin",
+    "category": "veterinarian",
+    "address": "1010 Murfreesboro Rd",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37064",
+    "metro": "nashville",
+    "lat": 35.915578,
+    "lng": -86.83946,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "fkl"
+    },
+    "lastSeenAt": "2026-04-18T20:35:42Z",
+    "claimed": false,
+    "phone": "+16155916986",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/franklin/fkl"
+  },
+  {
+    "id": "40a8295233221a79",
+    "name": "Banfield Pet Hospital Mt Juliet",
+    "category": "veterinarian",
+    "address": "401 South Mount Juliet Rd",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "zip": "37122",
+    "metro": "nashville",
+    "lat": 36.164255,
+    "lng": -86.508196,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mtj"
+    },
+    "lastSeenAt": "2026-04-18T20:35:43Z",
+    "claimed": false,
+    "phone": "+16157732299",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/mount-juliet/mtj"
+  },
+  {
+    "id": "d205ab5d19bd0993",
+    "name": "Banfield Pet Hospital Murfreesboro",
+    "category": "veterinarian",
+    "address": "1734 Old Fort Parkway",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129",
+    "metro": "nashville",
+    "lat": 35.847922,
+    "lng": -86.422107,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mfr"
+    },
+    "lastSeenAt": "2026-04-18T20:35:44Z",
+    "claimed": false,
+    "phone": "+16158905490",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/murfreesboro/mfr"
+  },
+  {
+    "id": "96cd0c6d8962f220",
+    "name": "Banfield Pet Hospital Music City",
+    "category": "veterinarian",
+    "address": "719 Thompson Lane",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37204",
+    "metro": "nashville",
+    "lat": 36.108029,
+    "lng": -86.764082,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "mzk"
+    },
+    "lastSeenAt": "2026-04-18T20:35:46Z",
+    "claimed": false,
+    "phone": "+16153859034",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/mzk"
+  },
+  {
+    "id": "ebd6179ef07dd743",
+    "name": "Banfield Pet Hospital Nashville W",
+    "category": "veterinarian",
+    "address": "6622 Charlotte Pike",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209",
+    "metro": "nashville",
+    "lat": 36.1389,
+    "lng": -86.883735,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "nsh"
+    },
+    "lastSeenAt": "2026-04-18T20:35:48Z",
+    "claimed": false,
+    "phone": "+16153533800",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/nashville/nsh"
+  },
+  {
+    "id": "b7cfb46e6378e4f7",
+    "name": "Banfield Pet Hospital Smyrna",
+    "category": "veterinarian",
+    "address": "807 Industrial Blvd",
+    "city": "Smyrna",
+    "state": "TN",
+    "zip": "37167",
+    "metro": "nashville",
+    "lat": 35.979289,
+    "lng": -86.569676,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "sma"
+    },
+    "lastSeenAt": "2026-04-18T20:35:49Z",
+    "claimed": false,
+    "phone": "+16152203600",
+    "website": "https://www.banfield.com/locations/veterinarians/tn/smyrna/sma"
+  },
+  {
+    "id": "c9fd2104606285f2",
+    "name": "Banfield Pet Hospital Austin-Mueller",
+    "category": "veterinarian",
+    "address": "1201 Barbara Jordan Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78723",
+    "metro": "austin",
+    "lat": 30.304425,
+    "lng": -97.709237,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "amr"
+    },
+    "lastSeenAt": "2026-04-18T20:35:51Z",
+    "claimed": false,
+    "phone": "+15124690103",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/amr"
+  },
+  {
+    "id": "4824dffdc77bb068",
+    "name": "Banfield Pet Hospital Balcones",
+    "category": "veterinarian",
+    "address": "11150 Research Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759",
+    "metro": "austin",
+    "lat": 30.407473,
+    "lng": -97.746923,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "bac"
+    },
+    "lastSeenAt": "2026-04-18T20:35:53Z",
+    "claimed": false,
+    "phone": "+15125279466",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/bac"
+  },
+  {
+    "id": "2d15923f304ea16f",
+    "name": "Banfield Pet Hospital Austin NE",
+    "category": "veterinarian",
+    "address": "12901 N Interstate Hwy 35",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "metro": "austin",
+    "lat": 30.413418,
+    "lng": -97.670605,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "nea"
+    },
+    "lastSeenAt": "2026-04-18T20:35:55Z",
+    "claimed": false,
+    "phone": "+15122527070",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/nea"
+  },
+  {
+    "id": "831175f0497e6300",
+    "name": "Banfield Pet Hospital Austin SE",
+    "category": "veterinarian",
+    "address": "9300 South IH 35",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.163374,
+    "lng": -97.790599,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "sea"
+    },
+    "lastSeenAt": "2026-04-18T20:35:57Z",
+    "claimed": false,
+    "phone": "+15122800121",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/austin/sea"
+  },
+  {
+    "id": "c4135b8ce82ddacf",
+    "name": "Banfield Pet Hospital Bee Cave",
+    "category": "veterinarian",
+    "address": "12812 Shops Parkway",
+    "city": "Bee Cave",
+    "state": "TX",
+    "zip": "78738",
+    "metro": "austin",
+    "lat": 30.306146,
+    "lng": -97.941654,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "bee"
+    },
+    "lastSeenAt": "2026-04-18T20:35:58Z",
+    "claimed": false,
+    "phone": "+15122636077",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/bee-cave/bee"
+  },
+  {
+    "id": "64ea846cf99b308a",
+    "name": "Banfield Pet Hospital Cedar Park N",
+    "category": "veterinarian",
+    "address": "1335 E Whitestone Blvd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.527694,
+    "lng": -97.815205,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cdp"
+    },
+    "lastSeenAt": "2026-04-18T20:36:00Z",
+    "claimed": false,
+    "phone": "+15125280029",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/cedar-park/cdp"
+  },
+  {
+    "id": "213f4247c2c71d99",
+    "name": "Banfield Pet Hospital Cedar Park",
+    "category": "veterinarian",
+    "address": "11066 Pecan Park Blvd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.468291,
+    "lng": -97.802237,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "cpk"
+    },
+    "lastSeenAt": "2026-04-18T20:36:01Z",
+    "claimed": false,
+    "phone": "+15122509700",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/cedar-park/cpk"
+  },
+  {
+    "id": "6afbd7c94e0bdb28",
+    "name": "Banfield Pet Hospital Round Rock Palm Valley",
+    "category": "veterinarian",
+    "address": "1700 E Palm Valley Blvd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.518674,
+    "lng": -97.660743,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "rhp"
+    },
+    "lastSeenAt": "2026-04-18T20:36:02Z",
+    "claimed": false,
+    "phone": "+15122185080",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/round-rock/rhp"
+  },
+  {
+    "id": "e031604b25efc988",
+    "name": "Banfield Pet Hospital Round Rock",
+    "category": "veterinarian",
+    "address": "2601 S Interstate 35",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.484503,
+    "lng": -97.670782,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "banfield",
+      "storeId": "rou"
+    },
+    "lastSeenAt": "2026-04-18T20:36:04Z",
+    "claimed": false,
+    "phone": "+15122387116",
+    "website": "https://www.banfield.com/locations/veterinarians/tx/round-rock/rou"
+  },
+  {
     "id": "57fe6a58b22cf54f",
     "name": "PetSmart",
     "category": "groomer",
@@ -2290,7 +3946,7 @@
       "chain": "petsmart",
       "storeId": "ga/acworth/acworth"
     },
-    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "lastSeenAt": "2026-04-18T20:36:35Z",
     "claimed": false,
     "phone": "+17705290748",
     "website": "https://stores.petsmart.com/ga/acworth/acworth",
@@ -2316,7 +3972,7 @@
       "chain": "petsmart",
       "storeId": "ga/alpharetta/alpharetta"
     },
-    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "lastSeenAt": "2026-04-18T20:36:36Z",
     "claimed": false,
     "phone": "+17703438511",
     "website": "https://stores.petsmart.com/ga/alpharetta/alpharetta",
@@ -2342,7 +3998,7 @@
       "chain": "petsmart",
       "storeId": "ga/atlanta/buckhead"
     },
-    "lastSeenAt": "2026-04-18T19:55:51Z",
+    "lastSeenAt": "2026-04-18T20:36:37Z",
     "claimed": false,
     "phone": "+14042660402",
     "website": "https://stores.petsmart.com/ga/atlanta/buckhead",
@@ -2368,7 +4024,7 @@
       "chain": "petsmart",
       "storeId": "ga/atlanta/castlegate"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:37Z",
     "claimed": false,
     "phone": "+14043529746",
     "website": "https://stores.petsmart.com/ga/atlanta/castlegate",
@@ -2394,7 +4050,7 @@
       "chain": "petsmart",
       "storeId": "ga/atlanta/midtown-atlanta"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:37Z",
     "claimed": false,
     "phone": "+14048722363",
     "website": "https://stores.petsmart.com/ga/atlanta/midtown-atlanta",
@@ -2420,7 +4076,7 @@
       "chain": "petsmart",
       "storeId": "ga/atlanta/perimeter"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:37Z",
     "claimed": false,
     "phone": "+17704810043",
     "website": "https://stores.petsmart.com/ga/atlanta/perimeter",
@@ -2446,7 +4102,7 @@
       "chain": "petsmart",
       "storeId": "ga/austell/austell"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:37Z",
     "claimed": false,
     "phone": "+16789451081",
     "website": "https://stores.petsmart.com/ga/austell/austell",
@@ -2472,7 +4128,7 @@
       "chain": "petsmart",
       "storeId": "ga/buford/mall-of-georgia"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:38Z",
     "claimed": false,
     "phone": "+16784827449",
     "website": "https://stores.petsmart.com/ga/buford/mall-of-georgia",
@@ -2498,7 +4154,7 @@
       "chain": "petsmart",
       "storeId": "ga/canton/canton"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:38Z",
     "claimed": false,
     "phone": "+17707047400",
     "website": "https://stores.petsmart.com/ga/canton/canton",
@@ -2524,7 +4180,7 @@
       "chain": "petsmart",
       "storeId": "ga/cumming/cumming"
     },
-    "lastSeenAt": "2026-04-18T19:55:52Z",
+    "lastSeenAt": "2026-04-18T20:36:38Z",
     "claimed": false,
     "phone": "+16785131689",
     "website": "https://stores.petsmart.com/ga/cumming/cumming",
@@ -2550,7 +4206,7 @@
       "chain": "petsmart",
       "storeId": "ga/douglasville/douglasville"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:38Z",
     "claimed": false,
     "phone": "+17709423326",
     "website": "https://stores.petsmart.com/ga/douglasville/douglasville",
@@ -2576,7 +4232,7 @@
       "chain": "petsmart",
       "storeId": "ga/duluth/duluth"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:38Z",
     "claimed": false,
     "phone": "+17708138400",
     "website": "https://stores.petsmart.com/ga/duluth/duluth",
@@ -2602,7 +4258,7 @@
       "chain": "petsmart",
       "storeId": "ga/east-point/east-point"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:39Z",
     "claimed": false,
     "phone": "+14043440773",
     "website": "https://stores.petsmart.com/ga/east-point/east-point",
@@ -2628,7 +4284,7 @@
       "chain": "petsmart",
       "storeId": "ga/fayetteville/fayetteville"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:39Z",
     "claimed": false,
     "phone": "+17707194444",
     "website": "https://stores.petsmart.com/ga/fayetteville/fayetteville",
@@ -2654,7 +4310,7 @@
       "chain": "petsmart",
       "storeId": "ga/hiram/hiram"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:39Z",
     "claimed": false,
     "phone": "+16785670583",
     "website": "https://stores.petsmart.com/ga/hiram/hiram",
@@ -2680,7 +4336,7 @@
       "chain": "petsmart",
       "storeId": "ga/kennesaw/kennesaw"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:39Z",
     "claimed": false,
     "phone": "+17704245226",
     "website": "https://stores.petsmart.com/ga/kennesaw/kennesaw",
@@ -2706,7 +4362,7 @@
       "chain": "petsmart",
       "storeId": "ga/lawrenceville/lawrenceville"
     },
-    "lastSeenAt": "2026-04-18T19:55:53Z",
+    "lastSeenAt": "2026-04-18T20:36:39Z",
     "claimed": false,
     "phone": "+17709952449",
     "website": "https://stores.petsmart.com/ga/lawrenceville/lawrenceville",
@@ -2732,7 +4388,7 @@
       "chain": "petsmart",
       "storeId": "ga/lilburn/stone-mountain"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:40Z",
     "claimed": false,
     "phone": "+17709850469",
     "website": "https://stores.petsmart.com/ga/lilburn/stone-mountain",
@@ -2758,7 +4414,7 @@
       "chain": "petsmart",
       "storeId": "ga/marietta/marietta"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:40Z",
     "claimed": false,
     "phone": "+17709713010",
     "website": "https://stores.petsmart.com/ga/marietta/marietta",
@@ -2784,7 +4440,7 @@
       "chain": "petsmart",
       "storeId": "ga/mcdonough/mcdonough"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:40Z",
     "claimed": false,
     "phone": "+16785830287",
     "website": "https://stores.petsmart.com/ga/mcdonough/mcdonough",
@@ -2810,7 +4466,7 @@
       "chain": "petsmart",
       "storeId": "ga/morrow/southlake"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:40Z",
     "claimed": false,
     "phone": "+17704780860",
     "website": "https://stores.petsmart.com/ga/morrow/southlake",
@@ -2836,7 +4492,7 @@
       "chain": "petsmart",
       "storeId": "ga/norcross/norcross"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:40Z",
     "claimed": false,
     "phone": "+17703000926",
     "website": "https://stores.petsmart.com/ga/norcross/norcross",
@@ -2862,7 +4518,7 @@
       "chain": "petsmart",
       "storeId": "ga/roswell/north-roswell"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:41Z",
     "claimed": false,
     "phone": "+16783528138",
     "website": "https://stores.petsmart.com/ga/roswell/north-roswell",
@@ -2888,7 +4544,7 @@
       "chain": "petsmart",
       "storeId": "ga/smyrna/smyrna"
     },
-    "lastSeenAt": "2026-04-18T19:55:54Z",
+    "lastSeenAt": "2026-04-18T20:36:41Z",
     "claimed": false,
     "phone": "+17704328250",
     "website": "https://stores.petsmart.com/ga/smyrna/smyrna",
@@ -2914,7 +4570,7 @@
       "chain": "petsmart",
       "storeId": "ga/snellville/snellville"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:41Z",
     "claimed": false,
     "phone": "+17702250382",
     "website": "https://stores.petsmart.com/ga/snellville/snellville",
@@ -2940,7 +4596,7 @@
       "chain": "petsmart",
       "storeId": "ga/suwanee/johns-creek"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:41Z",
     "claimed": false,
     "phone": "+17708148723",
     "website": "https://stores.petsmart.com/ga/suwanee/johns-creek",
@@ -2966,7 +4622,7 @@
       "chain": "petsmart",
       "storeId": "ga/tucker/tucker"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:41Z",
     "claimed": false,
     "phone": "+17704145126",
     "website": "https://stores.petsmart.com/ga/tucker/tucker",
@@ -2992,7 +4648,7 @@
       "chain": "petsmart",
       "storeId": "ga/woodstock/woodstock"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:42Z",
     "claimed": false,
     "phone": "+16784452741",
     "website": "https://stores.petsmart.com/ga/woodstock/woodstock",
@@ -3018,7 +4674,7 @@
       "chain": "petsmart",
       "storeId": "fl/brandon/brandon"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:42Z",
     "claimed": false,
     "phone": "+18136894814",
     "website": "https://stores.petsmart.com/fl/brandon/brandon",
@@ -3044,7 +4700,7 @@
       "chain": "petsmart",
       "storeId": "fl/brandon/brandon-causeway"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+18136893378",
     "website": "https://stores.petsmart.com/fl/brandon/brandon-causeway",
@@ -3070,7 +4726,7 @@
       "chain": "petsmart",
       "storeId": "fl/clearwater/north-clearwater"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+17277993311",
     "website": "https://stores.petsmart.com/fl/clearwater/north-clearwater",
@@ -3096,7 +4752,7 @@
       "chain": "petsmart",
       "storeId": "fl/clearwater/south-clearwater"
     },
-    "lastSeenAt": "2026-04-18T19:55:55Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+17277253755",
     "website": "https://stores.petsmart.com/fl/clearwater/south-clearwater",
@@ -3122,7 +4778,7 @@
       "chain": "petsmart",
       "storeId": "fl/largo/largo"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+17275182600",
     "website": "https://stores.petsmart.com/fl/largo/largo",
@@ -3148,7 +4804,7 @@
       "chain": "petsmart",
       "storeId": "fl/oldsmar/oldsmar"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+17274311991",
     "website": "https://stores.petsmart.com/fl/oldsmar/oldsmar",
@@ -3174,7 +4830,7 @@
       "chain": "petsmart",
       "storeId": "fl/plant-city/plant-city"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:43Z",
     "claimed": false,
     "phone": "+18137036961",
     "website": "https://stores.petsmart.com/fl/plant-city/plant-city",
@@ -3200,7 +4856,7 @@
       "chain": "petsmart",
       "storeId": "fl/st-petersburg/ne-st-petersburg-gateway"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:44Z",
     "claimed": false,
     "phone": "+17275779935",
     "website": "https://stores.petsmart.com/fl/st-petersburg/ne-st-petersburg-gateway",
@@ -3226,7 +4882,7 @@
       "chain": "petsmart",
       "storeId": "fl/tampa/citrus-park"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:44Z",
     "claimed": false,
     "phone": "+18139267488",
     "website": "https://stores.petsmart.com/fl/tampa/citrus-park",
@@ -3252,7 +4908,7 @@
       "chain": "petsmart",
       "storeId": "fl/tampa/north-tampa"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:44Z",
     "claimed": false,
     "phone": "+18135588160",
     "website": "https://stores.petsmart.com/fl/tampa/north-tampa",
@@ -3278,7 +4934,7 @@
       "chain": "petsmart",
       "storeId": "fl/tampa/south-tampa"
     },
-    "lastSeenAt": "2026-04-18T19:55:56Z",
+    "lastSeenAt": "2026-04-18T20:36:44Z",
     "claimed": false,
     "phone": "+18138759721",
     "website": "https://stores.petsmart.com/fl/tampa/south-tampa",
@@ -3304,7 +4960,7 @@
       "chain": "petsmart",
       "storeId": "fl/tampa/westchase"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:44Z",
     "claimed": false,
     "phone": "+18138916371",
     "website": "https://stores.petsmart.com/fl/tampa/westchase",
@@ -3330,7 +4986,7 @@
       "chain": "petsmart",
       "storeId": "fl/valrico/bloomingdale"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+18132629912",
     "website": "https://stores.petsmart.com/fl/valrico/bloomingdale",
@@ -3356,7 +5012,7 @@
       "chain": "petsmart",
       "storeId": "fl/wesley-chapel/wesley-chapel-new-tampa"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+18139947010",
     "website": "https://stores.petsmart.com/fl/wesley-chapel/wesley-chapel-new-tampa",
@@ -3382,7 +5038,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/austin-bee-cave"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+15122635790",
     "website": "https://stores.petsmart.com/tx/austin/austin-bee-cave",
@@ -3408,7 +5064,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/austin-mueller"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+15124690501",
     "website": "https://stores.petsmart.com/tx/austin/austin-mueller",
@@ -3434,7 +5090,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/north-austin-balcones"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+15125279644",
     "website": "https://stores.petsmart.com/tx/austin/north-austin-balcones",
@@ -3460,7 +5116,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/north-austin-ohlen"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:45Z",
     "claimed": false,
     "phone": "+15128357221",
     "website": "https://stores.petsmart.com/tx/austin/north-austin-ohlen",
@@ -3486,7 +5142,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/north-austin-parmer"
     },
-    "lastSeenAt": "2026-04-18T19:55:57Z",
+    "lastSeenAt": "2026-04-18T20:36:46Z",
     "claimed": false,
     "phone": "+15129900365",
     "website": "https://stores.petsmart.com/tx/austin/north-austin-parmer",
@@ -3512,7 +5168,7 @@
       "chain": "petsmart",
       "storeId": "tx/austin/se-austin"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:46Z",
     "claimed": false,
     "phone": "+15122800404",
     "website": "https://stores.petsmart.com/tx/austin/se-austin",
@@ -3538,7 +5194,7 @@
       "chain": "petsmart",
       "storeId": "tx/cedar-park/austin-lakeline"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:46Z",
     "claimed": false,
     "phone": "+15129968605",
     "website": "https://stores.petsmart.com/tx/cedar-park/austin-lakeline",
@@ -3564,7 +5220,7 @@
       "chain": "petsmart",
       "storeId": "tx/cedar-park/cedar-park"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:46Z",
     "claimed": false,
     "phone": "+15125281683",
     "website": "https://stores.petsmart.com/tx/cedar-park/cedar-park",
@@ -3590,7 +5246,7 @@
       "chain": "petsmart",
       "storeId": "tx/georgetown/georgetown"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:46Z",
     "claimed": false,
     "phone": "+15128682288",
     "website": "https://stores.petsmart.com/tx/georgetown/georgetown",
@@ -3616,7 +5272,7 @@
       "chain": "petsmart",
       "storeId": "tx/round-rock/north-round-rock"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:47Z",
     "claimed": false,
     "phone": "+15122388859",
     "website": "https://stores.petsmart.com/tx/round-rock/north-round-rock",
@@ -3642,7 +5298,7 @@
       "chain": "petsmart",
       "storeId": "tx/round-rock/round-rock"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:47Z",
     "claimed": false,
     "phone": "+15122181816",
     "website": "https://stores.petsmart.com/tx/round-rock/round-rock",
@@ -3668,7 +5324,7 @@
       "chain": "petsmart",
       "storeId": "tx/san-marcos/san-marcos"
     },
-    "lastSeenAt": "2026-04-18T19:55:58Z",
+    "lastSeenAt": "2026-04-18T20:36:47Z",
     "claimed": false,
     "phone": "+15123925959",
     "website": "https://stores.petsmart.com/tx/san-marcos/san-marcos",
@@ -3694,7 +5350,7 @@
       "chain": "petsmart",
       "storeId": "tn/brentwood/brentwood"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:48Z",
     "claimed": false,
     "phone": "+16153718890",
     "website": "https://stores.petsmart.com/tn/brentwood/brentwood",
@@ -3720,7 +5376,7 @@
       "chain": "petsmart",
       "storeId": "tn/hendersonville/hendersonville-tn"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:48Z",
     "claimed": false,
     "phone": "+16154313963",
     "website": "https://stores.petsmart.com/tn/hendersonville/hendersonville-tn",
@@ -3746,7 +5402,7 @@
       "chain": "petsmart",
       "storeId": "tn/mount-juliet/mt-juliet"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:48Z",
     "claimed": false,
     "phone": "+16157732175",
     "website": "https://stores.petsmart.com/tn/mount-juliet/mt-juliet",
@@ -3772,7 +5428,7 @@
       "chain": "petsmart",
       "storeId": "tn/murfreesboro/murfreesboro"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:48Z",
     "claimed": false,
     "phone": "+16158904344",
     "website": "https://stores.petsmart.com/tn/murfreesboro/murfreesboro",
@@ -3798,7 +5454,7 @@
       "chain": "petsmart",
       "storeId": "tn/nashville/nashville-100-oaks-mall"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:48Z",
     "claimed": false,
     "phone": "+16153860105",
     "website": "https://stores.petsmart.com/tn/nashville/nashville-100-oaks-mall",
@@ -3824,7 +5480,7 @@
       "chain": "petsmart",
       "storeId": "tn/nashville/west-nashville"
     },
-    "lastSeenAt": "2026-04-18T19:55:59Z",
+    "lastSeenAt": "2026-04-18T20:36:49Z",
     "claimed": false,
     "phone": "+16153529386",
     "website": "https://stores.petsmart.com/tn/nashville/west-nashville",
@@ -3850,7 +5506,7 @@
       "chain": "petsmart",
       "storeId": "tn/smyrna/smyrna"
     },
-    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "lastSeenAt": "2026-04-18T20:36:49Z",
     "claimed": false,
     "phone": "+16152208487",
     "website": "https://stores.petsmart.com/tn/smyrna/smyrna",
@@ -3876,7 +5532,7 @@
       "chain": "petsmart",
       "storeId": "tn/spring-hill/spring-hill"
     },
-    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "lastSeenAt": "2026-04-18T20:36:49Z",
     "claimed": false,
     "phone": "+19314862727",
     "website": "https://stores.petsmart.com/tn/spring-hill/spring-hill",
@@ -3902,7 +5558,7 @@
       "chain": "petsmart",
       "storeId": "nc/arden/arden"
     },
-    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "lastSeenAt": "2026-04-18T20:36:49Z",
     "claimed": false,
     "phone": "+18286815343",
     "website": "https://stores.petsmart.com/nc/arden/arden",
@@ -3928,7 +5584,7 @@
       "chain": "petsmart",
       "storeId": "nc/asheville/asheville"
     },
-    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "lastSeenAt": "2026-04-18T20:36:49Z",
     "claimed": false,
     "phone": "+18282985670",
     "website": "https://stores.petsmart.com/nc/asheville/asheville",
@@ -3954,7 +5610,7 @@
       "chain": "petsmart",
       "storeId": "nc/hendersonville/hendersonville-nc"
     },
-    "lastSeenAt": "2026-04-18T19:56:00Z",
+    "lastSeenAt": "2026-04-18T20:36:50Z",
     "claimed": false,
     "phone": "+18283933206",
     "website": "https://stores.petsmart.com/nc/hendersonville/hendersonville-nc",

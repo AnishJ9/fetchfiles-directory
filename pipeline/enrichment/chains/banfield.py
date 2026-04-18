@@ -119,8 +119,12 @@ def fetch() -> list[dict]:
         # store ID from URL path (last slug)
         store_id = url.rstrip("/").rsplit("/", 1)[-1]
         state = two_letter(parts["state"]) or parts["state"]
+        # Normalize name: JSON-LD often just has "City" — prefix "Banfield Pet Hospital"
+        bf_name = parts["name"].strip()
+        if "banfield" not in bf_name.lower():
+            bf_name = f"Banfield Pet Hospital {bf_name}".strip()
         listing = common.build_listing(
-            name=parts["name"],
+            name=bf_name,
             category="veterinarian",
             address=parts["street"],
             city=parts["city"],

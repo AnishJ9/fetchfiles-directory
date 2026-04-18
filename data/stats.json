@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-04-18T19:58:29.287667+00:00",
-  "totalListings": 592,
+  "generatedAt": "2026-04-18T20:41:15.164209+00:00",
+  "totalListings": 651,
   "byMetro": {
     "atlanta": {
-      "veterinarian": 147,
+      "veterinarian": 171,
       "groomer": 84,
       "boarder": 24,
       "daycare": 4,
       "sitter": 0,
-      "_total": 259
+      "_total": 283
     },
     "tampa": {
-      "veterinarian": 62,
+      "veterinarian": 78,
       "groomer": 41,
       "boarder": 7,
       "daycare": 2,
       "sitter": 0,
-      "_total": 112
+      "_total": 128
     },
     "austin": {
-      "veterinarian": 102,
+      "veterinarian": 111,
       "groomer": 37,
       "boarder": 14,
       "daycare": 2,
       "sitter": 0,
-      "_total": 155
+      "_total": 164
     },
     "nashville": {
-      "veterinarian": 22,
+      "veterinarian": 30,
       "groomer": 17,
       "boarder": 2,
       "daycare": 1,
       "sitter": 0,
-      "_total": 42
+      "_total": 50
     },
     "asheville": {
-      "veterinarian": 13,
+      "veterinarian": 15,
       "groomer": 7,
       "boarder": 3,
       "daycare": 1,
       "sitter": 0,
-      "_total": 24
+      "_total": 26
     }
   },
   "bySource": {
@@ -70,9 +70,9 @@
       "merged": 0
     },
     "enrichment/chains": {
-      "raw": 156,
-      "added": 150,
-      "merged": 6
+      "raw": 228,
+      "added": 209,
+      "merged": 19
     },
     "enrichment/osm_wider": {
       "raw": 447,

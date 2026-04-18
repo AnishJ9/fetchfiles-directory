@@ -11,20 +11,51 @@ LD_RE = re.compile(
 )
 
 
+def _sanitize_json(blob: str) -> str:
+    """Escape raw control chars (newlines/tabs) that appear inside JSON strings."""
+    out = []
+    in_str = False
+    esc = False
+    for ch in blob:
+        if not in_str:
+            if ch == '"':
+                in_str = True
+            out.append(ch)
+        else:
+            if esc:
+                out.append(ch)
+                esc = False
+            elif ch == "\\":
+                out.append(ch)
+                esc = True
+            elif ch == '"':
+                in_str = False
+                out.append(ch)
+            elif ch in ("\n", "\r"):
+                out.append("\\n")
+            elif ch == "\t":
+                out.append("\\t")
+            else:
+                out.append(ch)
+    return "".join(out)
+
+
 def extract_ld_json(html: str) -> list:
     """Return list of parsed JSON-LD objects from HTML."""
     out: list = []
     for m in LD_RE.finditer(html or ""):
         blob = m.group(1).strip()
-        # clean trailing commas / stray HTML entities
+        obj = None
         try:
             obj = json.loads(blob)
         except Exception:
-            # try to salvage: replace single quotes, trim
             try:
-                obj = json.loads(blob.strip().rstrip(","))
+                obj = json.loads(_sanitize_json(blob))
             except Exception:
-                continue
+                try:
+                    obj = json.loads(_sanitize_json(blob).strip().rstrip(","))
+                except Exception:
+                    continue
         if isinstance(obj, list):
             out.extend(obj)
         else:

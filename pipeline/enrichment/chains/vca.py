@@ -17,19 +17,20 @@ from ._states import two_letter
 
 CHAIN = "vca"
 STATE_SITEMAPS = [
-    ("georgia", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-georgia.xml"),
-    ("florida", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-florida.xml"),
-    ("texas", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-texas.xml"),
-    ("tennessee", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-tennessee.xml"),
-    ("north-carolina", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-north-carolina.xml"),
+    ("GA", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-georgia.xml"),
+    ("FL", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-florida.xml"),
+    ("TX", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-texas.xml"),
+    ("TN", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-tennessee.xml"),
+    ("NC", "https://vcahospitals.com/-/sitemap/sitemap-hospitals-north-carolina.xml"),
 ]
 
 # Only hospital root pages — one slug after domain
 HOSP_RE = re.compile(r"<loc>https://vcahospitals\.com/([a-z0-9-]+)</loc>")
 
 
-def _enumerate_hospitals() -> list[str]:
-    out: list[str] = []
+def _enumerate_hospitals() -> list[tuple[str, str]]:
+    """Return list of (url, state_2letter) tuples."""
+    out: list[tuple[str, str]] = []
     seen: set[str] = set()
     for state, sm_url in STATE_SITEMAPS:
         txt = get(sm_url, timeout=30)
@@ -41,17 +42,17 @@ def _enumerate_hospitals() -> list[str]:
             if slug in seen:
                 continue
             seen.add(slug)
-            out.append(f"https://vcahospitals.com/{slug}")
+            out.append((f"https://vcahospitals.com/{slug}", state))
     return out
 
 
 def fetch() -> list[dict]:
-    urls = _enumerate_hospitals()
-    print(f"[{CHAIN}] {len(urls)} hospital pages in target states")
-    common.cache_write(CHAIN, {"urls": urls})
+    entries = _enumerate_hospitals()
+    print(f"[{CHAIN}] {len(entries)} hospital pages in target states")
+    common.cache_write(CHAIN, {"urls": [u for u, _ in entries]})
     listings: list[dict] = []
     seen_ids: set[str] = set()
-    for i, url in enumerate(urls):
+    for i, (url, state_hint) in enumerate(entries):
         html = get(url, timeout=15)
         if not html:
             continue
@@ -64,7 +65,7 @@ def fetch() -> list[dict]:
         if not metro:
             continue
         store_id = url.rstrip("/").rsplit("/", 1)[-1]
-        state = two_letter(parts["state"]) or parts["state"]
+        state = two_letter(parts["state"]) or parts["state"] or state_hint
         listing = common.build_listing(
             name=parts["name"],
             category="veterinarian",
