@@ -1,0 +1,19 @@
+# Python
+pipeline/.venv/
+pipeline/__pycache__/
+pipeline/**/__pycache__/
+pipeline/*.egg-info/
+*.pyc
+
+# Node / Next.js
+site/node_modules/
+site/.next/
+site/out/
+site/.env*.local
+
+# Data (large/generated — keep source-of-truth in data/, ignore caches)
+pipeline/.cache/
+
+# OS
+.DS_Store
+Thumbs.db
