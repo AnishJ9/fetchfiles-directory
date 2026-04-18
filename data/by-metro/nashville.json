@@ -1,0 +1,646 @@
+[
+  {
+    "id": "34a4d31d95b75601",
+    "name": "Custom Kare Kennel, Inc",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.8513211,
+    "lng": -86.429404,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8560946115"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "40d0a6412ecec982",
+    "name": "Happy Paws Retreat",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.3824918,
+    "lng": -86.4654358,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11283500941"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "822a03de7b6df8ff",
+    "name": "Heron Pointe Pet Care",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.1181496,
+    "lng": -86.6299101,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12705532349"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "25b4e6d80b123af5",
+    "name": "Lilah Belle Pet Spa & Boutique",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9605559,
+    "lng": -86.5199016,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10217216827"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "c63e8a97602930a9",
+    "name": "Zoom Room Dog Training - Madison",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "1504 Gallatin Pike",
+    "city": "Madison",
+    "state": "TN",
+    "zip": "37115",
+    "metro": "nashville",
+    "lat": 36.2383987,
+    "lng": -86.7266597,
+    "phone": "+16158527477",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1478674329"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "a1d2cff028096396",
+    "name": "Animal Care Vetinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.8109137,
+    "lng": -86.4613075,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8779097318"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "a772a8e9ef6683c5",
+    "name": "Apache Trail Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.068124,
+    "lng": -86.6939749,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/838019585"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "bd94d50fa18130e6",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9638345,
+    "lng": -86.8029926,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13012937187"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "b7082122fdf358e5",
+    "name": "Bellevue Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "7098 Old Harding Pike",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221",
+    "metro": "nashville",
+    "lat": 36.0731717,
+    "lng": -86.9260766,
+    "phone": "+16156464545",
+    "website": "https://www.bahnashville.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12587625537"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "0212bb9af8b70e66",
+    "name": "Belmont Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.1165376,
+    "lng": -86.7975031,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/684196324"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "fca2d305293a81be",
+    "name": "Carothers Parkway Vet Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9611297,
+    "lng": -86.8010505,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9480213378"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "06a7ecc0b7331a72",
+    "name": "Cheatham County Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "358 Frey Street",
+    "city": "Ashland City",
+    "state": "TN",
+    "zip": "37015",
+    "metro": "nashville",
+    "lat": 36.2986138,
+    "lng": -87.0474122,
+    "phone": "+16157924829",
+    "website": "https://www.cheathamcountyanimalclinictn.com/",
+    "email": "ccac09@gmail.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1194602088"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "8a70e66dde6bf6f0",
+    "name": "CreekWood Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.8467636,
+    "lng": -86.4926514,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8542904000"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "f1f371a7bf812844",
+    "name": "Critter Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.384692,
+    "lng": -86.4582508,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11283500959"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "5bccef6185a47f18",
+    "name": "Grassmere Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3926 Nolensville Pike",
+    "city": "",
+    "state": "TN",
+    "zip": "37211",
+    "metro": "nashville",
+    "lat": 36.0851525,
+    "lng": -86.727828,
+    "phone": null,
+    "website": "https://www.grassmereanimalhospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2045046530"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "b5b9445bc144c7e8",
+    "name": "Mobley Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.2309279,
+    "lng": -86.725419,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1131961350"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "e8bff48d7b9bd068",
+    "name": "New Shackle Island Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.3353462,
+    "lng": -86.6167396,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9842458517"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "b4f24a6da29d3fed",
+    "name": "PetsR Us Veterinary",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9341147,
+    "lng": -86.5334326,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/987386111"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "b811a2735b901cf4",
+    "name": "Premier Vetcare",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9759549,
+    "lng": -86.5385299,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/924591187"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "1c7d7b9bad44dae5",
+    "name": "South Water Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.3863654,
+    "lng": -86.4453702,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11283573445"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "f19d211e0709d571",
+    "name": "VCA PetMed Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 36.0443208,
+    "lng": -86.6636716,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7039962980"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "2220822b8677ce26",
+    "name": "White Oak Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "TN",
+    "zip": "",
+    "metro": "nashville",
+    "lat": 35.9993256,
+    "lng": -87.0689828,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/598260350"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "bb376d3a92ee0b2e",
+    "name": "Williams Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "198 Chaffin Place",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129",
+    "metro": "nashville",
+    "lat": 35.8428212,
+    "lng": -86.4291745,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/517967282"
+    },
+    "lastSeenAt": "2026-04-18T16:35:34Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  }
+]

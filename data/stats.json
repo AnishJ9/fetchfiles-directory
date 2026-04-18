@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-04-18T16:43:52.860925+00:00",
+  "totalListings": 409,
+  "byMetro": {
+    "atlanta": {
+      "veterinarian": 137,
+      "groomer": 36,
+      "boarder": 23,
+      "daycare": 0,
+      "sitter": 0,
+      "_total": 196
+    },
+    "tampa": {
+      "veterinarian": 38,
+      "groomer": 11,
+      "boarder": 3,
+      "daycare": 0,
+      "sitter": 0,
+      "_total": 52
+    },
+    "austin": {
+      "veterinarian": 93,
+      "groomer": 14,
+      "boarder": 14,
+      "daycare": 0,
+      "sitter": 0,
+      "_total": 121
+    },
+    "nashville": {
+      "veterinarian": 17,
+      "groomer": 3,
+      "boarder": 2,
+      "daycare": 0,
+      "sitter": 0,
+      "_total": 22
+    },
+    "asheville": {
+      "veterinarian": 13,
+      "groomer": 2,
+      "boarder": 3,
+      "daycare": 0,
+      "sitter": 0,
+      "_total": 18
+    }
+  }
+}

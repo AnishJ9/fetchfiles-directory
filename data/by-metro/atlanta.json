@@ -1,0 +1,4467 @@
+[
+  {
+    "id": "c271a654372d1bd2",
+    "name": "VCA Roswell Animal Hospital",
+    "category": "veterinarian",
+    "address": "1112 Alpharetta Street",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.0288063,
+    "lng": -84.3574096,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/368997626"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709939031",
+    "website": "https://vcahospitals.com/roswell",
+    "hours": {
+      "raw": "Mo-Th 07:30-19:00; Fr 07:30-18:00; Sa 08:00-16:00"
+    }
+  },
+  {
+    "id": "bce917c6be402638",
+    "name": "Church Street Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7789309,
+    "lng": -84.2946427,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/567189395"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://churchstanimalhospital.com/"
+  },
+  {
+    "id": "53876a9584d12a9c",
+    "name": "The Village Vets",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7757546,
+    "lng": -84.2997745,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1138279814"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "b3a4c338144e9477",
+    "name": "East Atlanta Animal Clinic",
+    "category": "veterinarian",
+    "address": "461 Flat Shoals Avenue Southeast",
+    "city": "",
+    "state": "GA",
+    "zip": "30316",
+    "metro": "atlanta",
+    "lat": 33.7413871,
+    "lng": -84.3468944,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1253884705"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://eastatlantaanimalclinic.com/"
+  },
+  {
+    "id": "cb4fdd0433017fd1",
+    "name": "Clairmont Animal Hospital",
+    "category": "veterinarian",
+    "address": "1226 Clairmont Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7887849,
+    "lng": -84.3072888,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1672098662"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14046336163",
+    "website": "http://www.clairmontanimalhospital.net/",
+    "email": "clairmont@clairmontvets.com",
+    "hours": {
+      "raw": "Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 13:00-17:00"
+    }
+  },
+  {
+    "id": "b88bc12a71521b1c",
+    "name": "Windy Hill Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "2170 Windy Hill Road Southeast",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.9001823,
+    "lng": -84.4902691,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2714354618"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17703339030",
+    "website": "http://www.windyhillvet.com/",
+    "hours": {
+      "raw": "Mo-We 8:00-18:00; Th 9:00-12:00; Fr 8:00-18:00; Sa 9:00-12:00"
+    }
+  },
+  {
+    "id": "8e36247c73385bb2",
+    "name": "Cherokee Emergency Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "7800 Highway 92",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189",
+    "metro": "atlanta",
+    "lat": 34.0842226,
+    "lng": -84.5588324,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2715934561"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16782380700",
+    "website": "http://www.cobbevc.com/",
+    "hours": {
+      "raw": "Mo-Th 16:00-09:00; Fr 16:00-24:00; Sa-Su 00:00-24:00"
+    }
+  },
+  {
+    "id": "140a3ee015ea998a",
+    "name": "Cumberland Animal Clinic",
+    "category": "veterinarian",
+    "address": "1860 Spring Road Southeast",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8831817,
+    "lng": -84.4991413,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2983918695"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704331414",
+    "website": "http://cumberlandanimalclinic.com/",
+    "hours": {
+      "raw": "Mo 08:00-18:00; Tu-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-13:00"
+    }
+  },
+  {
+    "id": "a8fa53746549294a",
+    "name": "Ansley Animal Clinic",
+    "category": "veterinarian",
+    "address": "593 Dutch Valley Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.791647,
+    "lng": -84.367696,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3337103593"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14048731786",
+    "website": "https://www.ansleyanimalclinic.com/",
+    "email": "info@ansleyanimalclinic.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:30"
+    }
+  },
+  {
+    "id": "bd35acc57ea93724",
+    "name": "Rose Animal Hospital",
+    "category": "veterinarian",
+    "address": "362 South Atlanta Street",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30075",
+    "metro": "atlanta",
+    "lat": 34.0084761,
+    "lng": -84.3605638,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3524645789"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705949731",
+    "website": "http://www.roseanimalhospital.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+    }
+  },
+  {
+    "id": "90890b6cf3b99b42",
+    "name": "Ormewood Animal Hospital",
+    "category": "veterinarian",
+    "address": "749 Moreland Avenue Southeast",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316",
+    "metro": "atlanta",
+    "lat": 33.7336688,
+    "lng": -84.3497515,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3564217653"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "5cb86038eba285e6",
+    "name": "Atlanta Humane Society Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "981 Howell Mill Road Northwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.7821296,
+    "lng": -84.4100226,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3650904863"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14048756420",
+    "website": "http://atlantahumane.org/clinic/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-12:00, 13:00-17:00"
+    }
+  },
+  {
+    "id": "163f3e382167ea6b",
+    "name": "Lanier Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.1130277,
+    "lng": -84.0737116,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3980476536"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "87c97238f2c5e5a4",
+    "name": "Windward Animal Hospital",
+    "category": "veterinarian",
+    "address": "11895 Jones Bridge Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30005",
+    "metro": "atlanta",
+    "lat": 34.070297,
+    "lng": -84.2035611,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4331011289"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705697298",
+    "website": "https://windwardanimalhospital.com/",
+    "hours": {
+      "raw": "Mo-Tu 08:00-18:00; We 08:00-17:00; Th-Fr 08:00-18:00; Sa 08:00-12:00"
+    },
+    "subcategories": [
+      "cat-only"
+    ]
+  },
+  {
+    "id": "5f99947ac89c4195",
+    "name": "Medlock Bridge Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "5155 South Old Peachtree Road",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30092",
+    "metro": "atlanta",
+    "lat": 33.9696814,
+    "lng": -84.2065117,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4594502281"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "43175e8ba75e4f54",
+    "name": "Miller Mobile Veterinary Services & Animal Hospital",
+    "category": "veterinarian",
+    "address": "2100 Roswell Road, Unit 1100",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9689857,
+    "lng": -84.488279,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4705873580"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14045385448",
+    "website": "http://www.millermobilevet.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+    }
+  },
+  {
+    "id": "50b396c6c4e87645",
+    "name": "LaVista Animal Hospital",
+    "category": "veterinarian",
+    "address": "2804 Lavista Road",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30033",
+    "metro": "atlanta",
+    "lat": 33.8251909,
+    "lng": -84.2921336,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4792625853"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "d4b9d77ed4fd13b2",
+    "name": "Marietta Vet Clinic",
+    "category": "veterinarian",
+    "address": "3696 Largent Way NW, Unit 200",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30064",
+    "metro": "atlanta",
+    "lat": 33.955303,
+    "lng": -84.6602485,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5107357084"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14049195150",
+    "website": "https://www.mariettavetclinic.com/",
+    "hours": {
+      "raw": "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+    }
+  },
+  {
+    "id": "27cf7fd25c8538d9",
+    "name": "Animal Hospital of Dunwoody Village",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9505863,
+    "lng": -84.333177,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5222537866"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17703938936"
+  },
+  {
+    "id": "33af9e2f87561021",
+    "name": "Apallachee Ridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0349475,
+    "lng": -83.9090501,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5267726383"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "e86421154f8634d5",
+    "name": "Planned PEThood",
+    "category": "veterinarian",
+    "address": "2860 Buford Highway",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096",
+    "metro": "atlanta",
+    "lat": 34.0062028,
+    "lng": -84.1347139,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5410221519"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785613491",
+    "website": "https://pethoodga.org/",
+    "hours": {
+      "raw": "Mo-Th 07:30-17:00"
+    }
+  },
+  {
+    "id": "20b2cb4ffb3e1c6a",
+    "name": "Low Cost Animal Hospital",
+    "category": "veterinarian",
+    "address": "10781 Veterans Memorial Highway",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "zip": "30122",
+    "metro": "atlanta",
+    "lat": 33.7930573,
+    "lng": -84.6699054,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5866348209"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "0a3861fe4f5b2508",
+    "name": "Bankhead Animal Hospital",
+    "category": "veterinarian",
+    "address": "11417 Veterans Memorial Highway",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30134",
+    "metro": "atlanta",
+    "lat": 33.7808692,
+    "lng": -84.7029822,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5869003345"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "bc39936d5e4611b9",
+    "name": "North Hills Animal Hospital",
+    "category": "veterinarian",
+    "address": "3362 Chamblee Tucker Road",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30341",
+    "metro": "atlanta",
+    "lat": 33.8870083,
+    "lng": -84.2550953,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5949728613"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704516740",
+    "website": "https://www.northhillsatlantavet.com/",
+    "hours": {
+      "raw": "Mo-Fr 11:00-20:00; Sa 08:00-13:00"
+    }
+  },
+  {
+    "id": "9ea2e3f83028ee4e",
+    "name": "Laurel Springs Animal Hospital",
+    "category": "veterinarian",
+    "address": "3592 Old Atlanta Road, Unit 103",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.1016734,
+    "lng": -84.1395547,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6429659346"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "7474f691d113871a",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "142 Woodstock Square Avenue",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0860983,
+    "lng": -84.546068,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6567526894"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705920424",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/woodstock/wsk",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00; Su 08:00-17:00"
+    }
+  },
+  {
+    "id": "9486401d09e22df3",
+    "name": "Conyers Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.6649011,
+    "lng": -84.0345761,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7346203332"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "0fa8dc9fb784d817",
+    "name": "Thrive Pet Healthcare Marietta",
+    "category": "veterinarian",
+    "address": "3460 Sandy Plains Road, Unit 630",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0337242,
+    "lng": -84.4632849,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7860016563"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14706328316",
+    "website": "https://www.thrivepetcare.com/locations/georgia/marietta/sandy-plains-road",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00"
+    }
+  },
+  {
+    "id": "6469d40d24452c17",
+    "name": "Animal Hospital of Nesbit Ferry Crossing",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0197701,
+    "lng": -84.279213,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7986482224"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "ba0d06b12cf06bea",
+    "name": "Inman Park Animal Hospital",
+    "category": "veterinarian",
+    "address": "926 Dekalb Avenue Northeast",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30307",
+    "metro": "atlanta",
+    "lat": 33.7550648,
+    "lng": -84.3570848,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8573537122"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14045848761",
+    "website": "https://inmanparkanimalhospital.com/",
+    "email": "frontdesk@inmanparkanimalhospital.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+    }
+  },
+  {
+    "id": "b8ec8d09847e06ae",
+    "name": "Mills Animal Hospital",
+    "category": "veterinarian",
+    "address": "4514 Cobb Parkway",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "metro": "atlanta",
+    "lat": 34.0654577,
+    "lng": -84.7235486,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9172706464"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://www.millsanimalhospital.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:30-18:00; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "50a531deebf7c49f",
+    "name": "Shari & Marie's Heavenly Puppy & Cat Resort",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0339355,
+    "lng": -84.6771877,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9174483716"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "61ff214396e92749",
+    "name": "North Roswell Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "11490 Alpharetta Highway, Unit Suite 800",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30076",
+    "metro": "atlanta",
+    "lat": 34.0601886,
+    "lng": -84.3255829,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9757426791"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704428733",
+    "website": "https://northroswellvetclinic.com",
+    "email": "northroswellveterinaryclinic@gmail.com",
+    "hours": {
+      "raw": "Mo 07:30-18:30; Tu,We,Fr 07:30-18:00; Th,Sa 07:00-18:00; Su closed"
+    }
+  },
+  {
+    "id": "77f0e90ba5914a31",
+    "name": "Northlake Veterinary Surgery",
+    "category": "veterinarian",
+    "address": "935 Montreal Road",
+    "city": "Clarkston",
+    "state": "GA",
+    "zip": "30021",
+    "metro": "atlanta",
+    "lat": 33.8125941,
+    "lng": -84.2420042,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9951792128"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14042923281",
+    "website": "https://nvsatlanta.com/"
+  },
+  {
+    "id": "abeba984185b11a9",
+    "name": "Soft Paws Urgent Care Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.807627,
+    "lng": -84.3665052,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10138529676"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "c5a55b7209fdabf8",
+    "name": "Jazzy Paw",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4465814,
+    "lng": -84.3226366,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10753344721"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "5a8734d6a5b4a05d",
+    "name": "Santa Marietta Animal Hospital",
+    "category": "veterinarian",
+    "address": "2450 Atlanta Road Southeast, Unit 100",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "metro": "atlanta",
+    "lat": 33.8926015,
+    "lng": -84.5199879,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10775553985"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785814055",
+    "website": "http://veterinaryservicesmariettaga.com/",
+    "email": null,
+    "description": null,
+    "hours": {
+      "raw": "Mo-Fr 07:00-19:00"
+    }
+  },
+  {
+    "id": "ab930d99a7223c55",
+    "name": "Good Dog Veterinary Care",
+    "category": "veterinarian",
+    "address": "1302 Concord Road Southeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8800265,
+    "lng": -84.5160149,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11070245606"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17708638712",
+    "hours": {
+      "raw": "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "60f73d8caf6fbaae",
+    "name": "Intown Animal Hospital",
+    "category": "veterinarian",
+    "address": "931 Monroe Drive Northeast, Unit 113C",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7798973,
+    "lng": -84.3676936,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11261587613"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14048811805",
+    "website": "https://intownanimalhospital.com/",
+    "hours": {
+      "raw": "Mo-Fr 07:30-17:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "bf9ae36b59de2405",
+    "name": "Common Companion Vet Co.",
+    "category": "veterinarian",
+    "address": "907 Memorial Drive Southeast, Unit 110",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316",
+    "metro": "atlanta",
+    "lat": 33.7454588,
+    "lng": -84.3579937,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11264952982"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "20b3035f87ce93b7",
+    "name": "Wag-A-Lot Decatur",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7825986,
+    "lng": -84.2746372,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11294843612"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "7f501228deb5ef10",
+    "name": "Express Vets - Primary Care For Pets",
+    "category": "veterinarian",
+    "address": "3595 Canton Road, Unit 1",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0381738,
+    "lng": -84.5311007,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11764904277"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://www.expressvetsmarietta.com/"
+  },
+  {
+    "id": "b5523b3f1922c9bf",
+    "name": "Apex Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8592092,
+    "lng": -84.5158393,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11840214978"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "12712d750e030c00",
+    "name": "UrgentVet",
+    "category": "veterinarian",
+    "address": "777 Townpark Lane Northwest, Unit 116",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0356357,
+    "lng": -84.5730594,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12054021100"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14705230200",
+    "website": "https://urgentvet.com/location/kennesaw-ga/",
+    "hours": {
+      "raw": "Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00"
+    }
+  },
+  {
+    "id": "0b9e8f209d325774",
+    "name": "Etowah Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "4953 Canton Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0723198,
+    "lng": -84.5224251,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12074193015"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709268888",
+    "website": "https://www.etowahvets.com/",
+    "hours": {
+      "raw": "Mo-Fr 07:30-13:00,15:00-18:00; Sa off; Su off"
+    }
+  },
+  {
+    "id": "46257ee252fe4d25",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "440 Ernest W. Barrett Parkway Northwest, Unit 21",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0138836,
+    "lng": -84.5628728,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12078838126"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704990908",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/kennesaw/ksw",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+    }
+  },
+  {
+    "id": "5c7c3900cb54a4d3",
+    "name": "North Cobb Animal Hospital",
+    "category": "veterinarian",
+    "address": "2680 Cobb Parkway",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0190171,
+    "lng": -84.6186787,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12084095949"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704220112",
+    "website": "https://www.northcobbanimalhospital.com",
+    "email": "bgreenberg@northcobbanimal.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "841ec6e75be41841",
+    "name": "Webb Bridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "3593 Webb Bridge Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0764981,
+    "lng": -84.2463271,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12102929210"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17707510524",
+    "website": "https://webbbridgeanimalhospital.com/",
+    "email": "mailto:staff@webbbridgevet.com",
+    "hours": {
+      "raw": "Mo 08:00-18:00; Tu 08:30-17:00; We 08:00-18:00; Fr 08:30-17:00; Sa 08:30-16:00; Su off"
+    }
+  },
+  {
+    "id": "19358a5d3fc81c27",
+    "name": "Total Veterinary Care",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9919964,
+    "lng": -84.5994633,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12117654909"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://www.totalveterinarycare.com/kennesaw-ga/"
+  },
+  {
+    "id": "b87ffaf056f84419",
+    "name": "Shallowford Animal Hospital",
+    "category": "veterinarian",
+    "address": "2323 Shallowford Road Northeast, Unit 105B",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066",
+    "metro": "atlanta",
+    "lat": 34.0427281,
+    "lng": -84.4827128,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12160720542"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709260926",
+    "website": "https://shallowford-animal-hospital.hub.biz/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "0478b1b99f65952b",
+    "name": "Sandy Paws Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "2550 Sandy Plains Road Northeast, Unit 215",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0114814,
+    "lng": -84.4929397,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12189335087"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14044551189",
+    "website": "https://sandypawsveterinaryclinic.com/",
+    "hours": {
+      "raw": "Mo-Tu,Th-Fr 08:00-17:00; We 12:00-19:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "eaed46ef91569e48",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "4401 Shallowford Road Northeast, Unit 162",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0284745,
+    "lng": -84.4220701,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12289110887"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17706422084",
+    "website": "https://www.banfield.com/locations/veterinarians/ga/roswell/rss",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+    }
+  },
+  {
+    "id": "2fa0adb35a7e63c0",
+    "name": "Kent Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "3140 Johnson Ferry Road Northeast, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0245444,
+    "lng": -84.424364,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12305883197"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705761775",
+    "website": "https://www.kentvet.com/",
+    "email": "team@kentvet.com",
+    "hours": {
+      "raw": "Mo-Tu,Th-Fr 09:00-18:00; We 09:00-12:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "e972b57a52c17373",
+    "name": "Briarlake Animal Hospital",
+    "category": "veterinarian",
+    "address": "2566 Shallowford Road Northeast, Unit 109",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8628203,
+    "lng": -84.2885444,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12349541532"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14049639901",
+    "website": "https://www.briarlakevet.com/",
+    "email": "info@briarlakevet.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00"
+    }
+  },
+  {
+    "id": "29cb21174d598131",
+    "name": "Petfolk Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "4475 Roswell Road, Unit 1420",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9882519,
+    "lng": -84.4204051,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12479704561"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785398841",
+    "website": "https://avenueeastcobb.com/directory/petfolk/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
+    }
+  },
+  {
+    "id": "892caf96eb81a80f",
+    "name": "UrgentVet",
+    "category": "veterinarian",
+    "address": "4363 Roswell Road, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9864852,
+    "lng": -84.4239293,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12480678950"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17707901700",
+    "website": "https://urgentvet.com/location/east-cobb-marietta-ga/",
+    "hours": {
+      "raw": "Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00; PH 12:00-20:00"
+    }
+  },
+  {
+    "id": "c221ab9ed3ab8b67",
+    "name": "PetVet 365",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9655513,
+    "lng": -84.4087387,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12573379951"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "a86323b919365ade",
+    "name": "Petfolk Veterinary & Urgent Care",
+    "category": "veterinarian",
+    "address": "1155 Ernest W. Barrett Parkway Northwest, Unit 204",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0003127,
+    "lng": -84.5830249,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12613553227"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704048937",
+    "website": "https://petfolk.com/locations/atlanta-ga/vet-clinics/kennesaw",
+    "hours": {
+      "raw": "08:00-18:00"
+    }
+  },
+  {
+    "id": "381a8d5f6d6edef4",
+    "name": "Suburban Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "4290 Bells Ferry Road Northwest, Unit 140",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0557149,
+    "lng": -84.5542825,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12646030441"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-We,Fr 08:30-17:30; Th,Su off; Sa 08:30-12:00"
+    }
+  },
+  {
+    "id": "c34b125016699cc1",
+    "name": "Express Vets",
+    "category": "veterinarian",
+    "address": "4200 Wade Green Road Northwest, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0585341,
+    "lng": -84.5912462,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12686006047"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "ca3793a406acf002",
+    "name": "Collier Animal Hospital",
+    "category": "veterinarian",
+    "address": "1669 Defoor Avenue Northwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": 33.8010137,
+    "lng": -84.4179009,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12911163203"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "6b2728742b6d80d2",
+    "name": "LifeLine Animal Project Community Animal Center",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8870929,
+    "lng": -84.2590452,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12999106965"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14042928800",
+    "website": "https://lifelineanimal.org/pet-care/"
+  },
+  {
+    "id": "34a77d293559a64d",
+    "name": "Apalachee River Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0069181,
+    "lng": -83.9148709,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13019585535"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "2ae37ba2fa5dee40",
+    "name": "CityVet",
+    "category": "veterinarian",
+    "address": "1230 West Peachtree Street Northwest, Unit 100",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7882591,
+    "lng": -84.3880173,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13019884474"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14703612043",
+    "website": "https://www.cityvet.com/location/midtown/",
+    "email": "midtown@cityvet.com",
+    "hours": {
+      "raw": "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su off"
+    }
+  },
+  {
+    "id": "c5afdf0d7485e1d5",
+    "name": "Animal Care Center",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8520662,
+    "lng": -84.5102727,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13029835769"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "fda7741109dd89f6",
+    "name": "Chewy Vet Care",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7772312,
+    "lng": -84.3840857,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13070138149"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "51c50ac98532c3e8",
+    "name": "Pleasant Hill Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9794086,
+    "lng": -84.1546045,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13085611694"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "4cdf3774b00205ea",
+    "name": "Holcomb Bridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0192368,
+    "lng": -84.3160269,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13136743070"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "5076755b104c00ea",
+    "name": "Peachtree Corners Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9672139,
+    "lng": -84.2556761,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13179151988"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "229781a65a020d72",
+    "name": "West End Animal Wellness Center",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7387429,
+    "lng": -84.4269909,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13228144487"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "8593e2258323f250",
+    "name": "Russel Ridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "783 Ridge Road",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30043",
+    "metro": "atlanta",
+    "lat": 34.0073469,
+    "lng": -83.9862279,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13233579589"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16789403087",
+    "website": "https://www.mygavet.com/",
+    "hours": {
+      "raw": "Mo-Su 07:30-18:00"
+    }
+  },
+  {
+    "id": "2e3979dcdc609b17",
+    "name": "New Hope Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9559498,
+    "lng": -84.786361,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13235350992"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "65359b42ad7c1aa6",
+    "name": "Paws Whiskers & Claws",
+    "category": "veterinarian",
+    "address": "4719 Lower Roswell Road Northeast, Unit 220",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.96606,
+    "lng": -84.4157977,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13372912706"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705796001",
+    "website": "https://pawswhiskersandclaws.com/",
+    "email": "catspwc@pawswhiskersandclaws.com",
+    "hours": {
+      "raw": "Mo-Fr 09:00-17:30; We off; Sa 09:00-13:00"
+    }
+  },
+  {
+    "id": "14f8ec8afbd00408",
+    "name": "Animal Hospital of Towne Lake",
+    "category": "veterinarian",
+    "address": "3105 Parkbrooke Circle",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189",
+    "metro": "atlanta",
+    "lat": 34.1109235,
+    "lng": -84.559115,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13458584880"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "60913190986cf8e8",
+    "name": "Killian Hill Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8669516,
+    "lng": -84.0918177,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/97045168"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "57a91750e055f552",
+    "name": "Brookwood Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8885667,
+    "lng": -84.0569325,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/97046752"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "0d017a44c6ee69dc",
+    "name": "The Village Vets",
+    "category": "veterinarian",
+    "address": "5460 Five Forks Trickum Road",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30087",
+    "metro": "atlanta",
+    "lat": 33.8397945,
+    "lng": -84.1320718,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/97189433"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17707171650",
+    "website": "https://www.thevillagevets.com/stone-mountain/",
+    "email": "sm@thevillagevets.com",
+    "hours": {
+      "raw": "Mo-Fr 07:00-18:00; Sa 07:30-14:00"
+    }
+  },
+  {
+    "id": "a7b69c107b259836",
+    "name": "Main Street Veterinarians of Stone Mountain",
+    "category": "veterinarian",
+    "address": "868 Main Street",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30083",
+    "metro": "atlanta",
+    "lat": 33.8041896,
+    "lng": -84.1701611,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/102639622"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704984620"
+  },
+  {
+    "id": "b5d509cd53733ac1",
+    "name": "Paws in Paradise Pet Salon",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8108566,
+    "lng": -84.1713155,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/102639667"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "74dc0e7f51cf338a",
+    "name": "Veterinary Emergency Group",
+    "category": "veterinarian",
+    "address": "1290 Johnson Ferry Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9809971,
+    "lng": -84.4244994,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/106651065"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "closed"
+    }
+  },
+  {
+    "id": "7b0c3876205019c7",
+    "name": "VCA Terrell Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "1315 Powers Ferry Road Southeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.9197971,
+    "lng": -84.4666936,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/265990820"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709529300",
+    "website": "https://www.vcahospitals.com/terrell-mill",
+    "hours": {
+      "raw": "Mo-Fr 07:30-18:00; Sa-Su off"
+    }
+  },
+  {
+    "id": "a3c43c01de13ef31",
+    "name": "Cobb Emergency Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "630 Cobb Parkway North",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9672519,
+    "lng": -84.5349906,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/265998181"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704249157",
+    "website": "http://www.cobbevc.com/",
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "1248350f570118d2",
+    "name": "The Village Vets",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8483641,
+    "lng": -84.4302994,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/267556214"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "c9e1e4c7b38d851a",
+    "name": "Mountain Park Plaza Animal Hospital",
+    "category": "veterinarian",
+    "address": "4708 Woodstock Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0645132,
+    "lng": -84.4225608,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/271072501"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705874800",
+    "website": "https://www.mppah.com/",
+    "email": "mppah4708@gmail.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "b6aa2fbc4e3ac9c2",
+    "name": "LifeLine",
+    "category": "veterinarian",
+    "address": "2533 Sullivan Road",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30337",
+    "metro": "atlanta",
+    "lat": 33.6250255,
+    "lng": -84.4721513,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/281367326"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "2dad8e53af0ed8f6",
+    "name": "Kennesaw Mountain Veterinary Services",
+    "category": "veterinarian",
+    "address": "2500 Cobb Parkway, Unit A4",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0153033,
+    "lng": -84.6139685,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/283028747"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704473927",
+    "website": "https://us.vetstoria.com/booking/63939860d879c/",
+    "hours": {
+      "raw": "Mo-Sa 08:00-12:00,13:00-17:30; Su 09:00-12:00"
+    }
+  },
+  {
+    "id": "aa08772e606c3cd3",
+    "name": "Dogwood Veterinary Specialty & Emergency",
+    "category": "veterinarian",
+    "address": "1234 Powers Ferry Commons Southeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.9222361,
+    "lng": -84.469162,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/284264734"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14046091234",
+    "website": "https://www.dogwood.vet/",
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "3de521b7e1036932",
+    "name": "The Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "530 Roswell Street",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "metro": "atlanta",
+    "lat": 33.9507881,
+    "lng": -84.536856,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/294277591"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704283381",
+    "website": "https://www.theveterinaryclinic.net/",
+    "hours": {
+      "raw": "Mo 07:30-12:00, 13:30-21:00; Tu 08:30-12:00, 13:30-17:30; We 08:30-12:00, 13:30-21:00; Th 08:30-12:00, 13:30-17:30; Fr 08:30-12:00, 13:30-17:30; Sa 08:30-12:00"
+    }
+  },
+  {
+    "id": "68b191be5335fdc4",
+    "name": "Powers Ferry Animal Hospital",
+    "category": "veterinarian",
+    "address": "5565 New Northside Drive Northwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30339",
+    "metro": "atlanta",
+    "lat": 33.9074247,
+    "lng": -84.4290004,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/295514751"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709551291",
+    "website": "https://www.powersferryanimalhospital.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "3b37a8608671f457",
+    "name": "Dunwoody Animal Hospital",
+    "category": "veterinarian",
+    "address": "5450 Chamblee Dunwoody Road",
+    "city": "Dunwoody",
+    "state": "GA",
+    "zip": "30338",
+    "metro": "atlanta",
+    "lat": 33.9464511,
+    "lng": -84.3350282,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/307386818"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17703944030",
+    "website": "http://www.dunwoodyanimal.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+    }
+  },
+  {
+    "id": "d44b7d184bcf4c36",
+    "name": "Paws in Paradise",
+    "category": "veterinarian",
+    "address": "1054 E Main Street",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30083",
+    "metro": "atlanta",
+    "lat": 33.8110493,
+    "lng": -84.1715271,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/312679228"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "cb772a53e2749021",
+    "name": "Hwy 5 Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7150561,
+    "lng": -84.7672156,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/318944586"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "aa8d645f5fbf777a",
+    "name": "Town & Country East Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "1100 Mount Bethel Drive Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9773498,
+    "lng": -84.4396001,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/326243997"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705657175",
+    "website": "https://docsue.org/",
+    "hours": {
+      "raw": "Mo 08:00-20:00;Tu-We 08:00-18:00;Th 08:00-20:00;Fr 08:00-18:00;Sa 20:00-15:00"
+    }
+  },
+  {
+    "id": "b1b463ae8b33df59",
+    "name": "Beyond Pets Animal Hospital",
+    "category": "veterinarian",
+    "address": "1343 Gresham Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9590796,
+    "lng": -84.5133177,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/326303171"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709711556",
+    "website": "https://beyondpets.com/",
+    "hours": {
+      "raw": "Mo-Th 07:30-18:30; Fr 07:30-18:00; Sa 08:00-15:00; Su off"
+    }
+  },
+  {
+    "id": "2b786385902fb3b7",
+    "name": "BluePearl",
+    "category": "veterinarian",
+    "address": "455 Abernathy Road Northeast",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30328",
+    "metro": "atlanta",
+    "lat": 33.9361458,
+    "lng": -84.373169,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/326558512"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14044590903",
+    "website": "https://bluepearlvet.com/georgia/overview/sandysprings/",
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "5fcd418bb7245d5f",
+    "name": "Animal Emergency Center of Sandy Springs",
+    "category": "veterinarian",
+    "address": "228 Sandy Springs Place Northeast",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30328",
+    "metro": "atlanta",
+    "lat": 33.9203488,
+    "lng": -84.3796176,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/328671601"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14042527881",
+    "website": "https://www.aecsandysprings.com/"
+  },
+  {
+    "id": "1150ad857850993a",
+    "name": "Pet MedPlus",
+    "category": "veterinarian",
+    "address": "2848 Holcomb Bridge Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 33.9906046,
+    "lng": -84.2790881,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/352451712"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "1d09ea62db66770b",
+    "name": "Gwinnett Animal Clinic",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.960867,
+    "lng": -83.9864659,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/387854325"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "26e4c16ffd66479f",
+    "name": "Animal Hospital of North Gwinnett",
+    "category": "veterinarian",
+    "address": "2040 Buford Highway North East",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30518",
+    "metro": "atlanta",
+    "lat": 34.109189,
+    "lng": -84.0010713,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/387897502"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709459555",
+    "website": "https://animalhospitalofng.com/"
+  },
+  {
+    "id": "cabae880da080020",
+    "name": "Animal Medical Center of Lawrenceville",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9731085,
+    "lng": -83.9870179,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/388525975"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "96699be86b720bb7",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.862093,
+    "lng": -84.0174516,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/388758001"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "84f1abc564f26c09",
+    "name": "Snellville Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8561722,
+    "lng": -84.0125515,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/388763181"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "e9f5e7efae15977e",
+    "name": "Mabry Animal Hospital",
+    "category": "veterinarian",
+    "address": "4540 Mabry Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.060525,
+    "lng": -84.4204283,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/389330427"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705584216",
+    "website": "https://mabryvet.com/",
+    "email": "care@mabryvet.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00"
+    }
+  },
+  {
+    "id": "b235aa6a2e81d80f",
+    "name": "Heart of Suwanee Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0573377,
+    "lng": -84.0804635,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/390307182"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "12076e63cf76e0c5",
+    "name": "Eastside Animal Medical Center",
+    "category": "veterinarian",
+    "address": "1835 Grayson Highway",
+    "city": "Grayson",
+    "state": "GA",
+    "zip": "30017",
+    "metro": "atlanta",
+    "lat": 33.8997667,
+    "lng": -83.9631304,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/390975761"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "832c622eaa5aff81",
+    "name": "Suwanee Animal Hospital",
+    "category": "veterinarian",
+    "address": "85 Buford Highway North West",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.0613643,
+    "lng": -84.0604955,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/400421435"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "f73b3112d26787a0",
+    "name": "Four Paws Animal Hospital",
+    "category": "veterinarian",
+    "address": "3571 Peachtree Parkway",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0742179,
+    "lng": -84.1645522,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/413040650"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "6f5bcced9ef3d62f",
+    "name": "Atlanta Vetinary Specialists",
+    "category": "veterinarian",
+    "address": "7350 McGinnis Ferry Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0614003,
+    "lng": -84.1560257,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/413041420"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "acec9baa5a11f7ca",
+    "name": "Westside Animal Hospital",
+    "category": "veterinarian",
+    "address": "201 Douthit Ferry Road",
+    "city": "Cartersville",
+    "state": "GA",
+    "zip": "30120",
+    "metro": "atlanta",
+    "lat": 34.1493711,
+    "lng": -84.8246902,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/420651832"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17706073055",
+    "website": "https://www.cartersvillewestsideanimalhospital.com/westside-animal-hospital/",
+    "hours": {
+      "raw": "Mo-Fr 07:30-12:00, 13:00-17:30; Sa 07:30-12:00"
+    }
+  },
+  {
+    "id": "76e3b85f5d6c2d60",
+    "name": "Animal Hospital of East Cobb",
+    "category": "veterinarian",
+    "address": "3770 Lower Roswell Road Southeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9536305,
+    "lng": -84.4408333,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/441995163"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705788522",
+    "website": "https://www.ahecobb.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+    },
+    "subcategories": [
+      "cat-only"
+    ]
+  },
+  {
+    "id": "615adc1a0e842df9",
+    "name": "Lake City Animal Hospital",
+    "category": "veterinarian",
+    "address": "3671 Cobb Parkway",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "metro": "atlanta",
+    "lat": 34.04142,
+    "lng": -84.695285,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/533908925"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709743536",
+    "website": "http://thelakecityanimalhospital.com/",
+    "hours": {
+      "raw": "Mo 07:30-19:00; Tu-We 07:30-18:00; Th 07:30-19:00; Fr 07:30-18:00; Sa 09:00-14:00"
+    }
+  },
+  {
+    "id": "97fa644344909d31",
+    "name": "Wellspring Animal Hospital",
+    "category": "veterinarian",
+    "address": "11340 Brown Bridge Road",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30016",
+    "metro": "atlanta",
+    "lat": 33.5847068,
+    "lng": -83.9119089,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/543574866"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17703858181",
+    "website": "wellspringvet.net",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00, Sa 8:00-12:00"
+    }
+  },
+  {
+    "id": "2c51fb11ca7f2fab",
+    "name": "Hiram Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8772858,
+    "lng": -84.7609825,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/554169261"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "3192e3233f9c3bc2",
+    "name": "Loving Hands Animal Clinic",
+    "category": "veterinarian",
+    "address": "13775 Alpharetta Highway",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.1152179,
+    "lng": -84.2687256,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/584730961"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo 07:30-21:00; Tu-Fr 07:30-19:00; Sa 08:00-14:00; Su 11:00-17:00"
+    }
+  },
+  {
+    "id": "d4aa26143a3770da",
+    "name": "Trickum Ridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "11990 GA-92",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "metro": "atlanta",
+    "lat": 34.0873101,
+    "lng": -84.4871443,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/603557113"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705161111"
+  },
+  {
+    "id": "981496aa4fbd3fae",
+    "name": "Old Towne Animal Hospital",
+    "category": "veterinarian",
+    "address": "121 Mill Street",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "metro": "atlanta",
+    "lat": 34.1011195,
+    "lng": -84.5227234,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/642646791"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "b68c0cfebf36316a",
+    "name": "Sugarloaf Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9190862,
+    "lng": -84.0053476,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/702601120"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "b068497a8c67ea30",
+    "name": "Leland Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "290 Veterans Memorial Highway SE",
+    "city": "Mableton",
+    "state": "GA",
+    "zip": "30126",
+    "metro": "atlanta",
+    "lat": 33.8128354,
+    "lng": -84.546121,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/704145901"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "hours": {
+      "raw": "Mo-Fr 08:30-17:00"
+    }
+  },
+  {
+    "id": "66b1cbf278f85301",
+    "name": "All Pets Emergency & Referral Center",
+    "category": "veterinarian",
+    "address": "6460 Atlanta Highway",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.1281712,
+    "lng": -84.2565455,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/741683783"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16783662500",
+    "website": "https://aperc.com/",
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "2ae547bf6c0c46e3",
+    "name": "Midway Animal Hospital",
+    "category": "veterinarian",
+    "address": "6785 Atlanta Highway",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.1268125,
+    "lng": -84.2585721,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/741683786"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704752003",
+    "website": "https://midwayvets.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+    }
+  },
+  {
+    "id": "5db08223ec9e3720",
+    "name": "Lawrence Animal Hospital",
+    "category": "veterinarian",
+    "address": "2962 Buford Highway Northeast",
+    "city": "Brookhaven",
+    "state": "GA",
+    "zip": "30329",
+    "metro": "atlanta",
+    "lat": 33.8349387,
+    "lng": -84.3393849,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/769051985"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "0734b58919120ad2",
+    "name": "Mill Creek Animal Hospital",
+    "category": "veterinarian",
+    "address": "10100 Jones Bridge Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 34.0281433,
+    "lng": -84.2508959,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/846843675"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17707400330",
+    "website": "https://www.millcreekvet.net/",
+    "hours": {
+      "raw": "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:30-12:30; PH unknown"
+    }
+  },
+  {
+    "id": "a5935ee460f11d32",
+    "name": "Animal Medical",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.4128652,
+    "lng": -84.6018558,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/865976252"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "b344484f95ff238b",
+    "name": "Cat and Dog Clinic of Cobb",
+    "category": "veterinarian",
+    "address": "2440 Sandy Plains Road Northeast, Unit 16",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 34.0097455,
+    "lng": -84.4965798,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/924042046"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "2f57d670385e5b5e",
+    "name": "Tritt Animal Hospital",
+    "category": "veterinarian",
+    "address": "4349 Shallowford Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0277761,
+    "lng": -84.4244378,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/930465597"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709928787",
+    "website": "https://trittanimalhospital.com/",
+    "email": "trittanimalhospital@yahoo.com",
+    "hours": {
+      "raw": "Mo-Fr 08:30-18:00; Sa 08:30-12:00; Su off"
+    }
+  },
+  {
+    "id": "defebd6b907b3e00",
+    "name": "Lassiter Animal Hospital",
+    "category": "veterinarian",
+    "address": "2960 Johnson Ferry Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0221195,
+    "lng": -84.4259166,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/930753886"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709985100",
+    "website": "https://lassiteranimalhospital.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "d70b90ca8e36b5e9",
+    "name": "East Marietta Animal Hospital",
+    "category": "veterinarian",
+    "address": "1799 Roswell Road",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9582905,
+    "lng": -84.500293,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/933017623"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709734830",
+    "website": "http://eastmariettaanimalhospital.com/",
+    "email": "eastmariettaanimalhospital@gmail.com",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 07:30-12:00; Su off"
+    }
+  },
+  {
+    "id": "e7521398cf37851e",
+    "name": "DeKalb Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8508649,
+    "lng": -84.2155649,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/972518034"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "1b80cd295ce56852",
+    "name": "Greater Atlanta Veterinary Medical Group",
+    "category": "veterinarian",
+    "address": "1093 Sandy Plains Road Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9950805,
+    "lng": -84.5191455,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/992848219"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704246303",
+    "website": "https://www.gavmg.com/",
+    "hours": {
+      "raw": "Mo-Fr 07:30-18:00; Sa 08:30-12:00; Su off"
+    }
+  },
+  {
+    "id": "1e26e5138416ebb5",
+    "name": "Shiloh Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "3725 Cherokee Street Northwest",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "metro": "atlanta",
+    "lat": 34.0448425,
+    "lng": -84.6015295,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/992883653"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704266900",
+    "website": "https://shilohvet.net/",
+    "hours": {
+      "raw": "Mo-Fr 08:30-18:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "ba183b14a44ceae2",
+    "name": "Lawrenceville-Suwanee Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9708815,
+    "lng": -84.017379,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/999110722"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "da756cb67d07e281",
+    "name": "Lawrenceville Animal Care Center",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9333072,
+    "lng": -84.0375844,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/999112548"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "625829fa281da5b8",
+    "name": "Dogwood Animal Hospital",
+    "category": "veterinarian",
+    "address": "2050 Sugarloaf Parkway",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9186235,
+    "lng": -83.973863,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/999161786"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "58e8ec93ccb0cd4f",
+    "name": "Crossroads Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "9500 Main Street",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.087716,
+    "lng": -84.519934,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/999782405"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705915474",
+    "website": "https://www.mycrossvethospital.com/",
+    "hours": {
+      "raw": "Mo-Tu,Th-Fr 07:00-18:30; We 07:00-13:00; Sa 08:00-13:00; Su off"
+    }
+  },
+  {
+    "id": "9daa9d5036195a0a",
+    "name": "The Ark Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9008385,
+    "lng": -84.7715265,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1010628079"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "aafda7c908c61532",
+    "name": "Arkle Veterinary Care",
+    "category": "veterinarian",
+    "address": "1020 Concord Road Southeast",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8757635,
+    "lng": -84.5241135,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1022018548"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704356700",
+    "website": "https://www.arklevetcare.com/",
+    "hours": {
+      "raw": "Mo-Th 07:30-17:30; Fr 08:00-12:00"
+    }
+  },
+  {
+    "id": "216f90d841addc5e",
+    "name": "Hamilton Mill Animal Hospital",
+    "category": "veterinarian",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0709673,
+    "lng": -83.9005036,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1061894918"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "e289f1147df14dd3",
+    "name": "Happy Hearts Pet Care Services",
+    "category": "groomer",
+    "address": "327 Nelson Street Southwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30313",
+    "metro": "atlanta",
+    "lat": 33.7516639,
+    "lng": -84.3985619,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2755107984"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://happyheartspcs.wixsite.com"
+  },
+  {
+    "id": "ba35247dd47d1368",
+    "name": "Taxi Doggy Pet Grooming",
+    "category": "groomer",
+    "address": "2856 Delk Road Southeast, Unit 308",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.9233401,
+    "lng": -84.4706466,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5695701952"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16783248329",
+    "website": "https://taxidoggypetgroomingllc.setmore.com/",
+    "email": "rodispetspa@yahoo.com",
+    "hours": {
+      "raw": "Mo,Su off; Tu-Sa 08:00-16:00"
+    }
+  },
+  {
+    "id": "c0d07560384dca87",
+    "name": "Perk n Pooch",
+    "category": "groomer",
+    "address": "6690 Roswell Road",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30328",
+    "metro": "atlanta",
+    "lat": 33.9379969,
+    "lng": -84.3810474,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5900467460"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785009237",
+    "website": "http://www.perk-n-pooch.com/",
+    "hours": {
+      "raw": "Mo-Th 10:00-17:00; Fr 10:00-18:00, Sa 09:00-18:00; Su 10:00-18:00"
+    }
+  },
+  {
+    "id": "a94e5426de1325ce",
+    "name": "The Yankee Clipper",
+    "category": "groomer",
+    "address": "2 Pine Street",
+    "city": "Avondale Estates",
+    "state": "GA",
+    "zip": "30002",
+    "metro": "atlanta",
+    "lat": 33.775721,
+    "lng": -84.2731431,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7105460738"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "d44013ceecfab40f",
+    "name": "Pet Laundry",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.86888,
+    "lng": -84.0913658,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7551804357"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "c7e16148375716d6",
+    "name": "The Fuzzy Dawg Pet Salon",
+    "category": "groomer",
+    "address": "8465 Holcomb Bridge Road, Unit 160",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 33.9876248,
+    "lng": -84.2697788,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7947152361"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709933294",
+    "website": "https://www.thefuzzydawg.com/",
+    "hours": {
+      "raw": "Mo-Fr \"by appointment\"; Sa-Su closed; PH unknown"
+    }
+  },
+  {
+    "id": "39bd098168edd0b4",
+    "name": "Woof Gang Bakery & Grooming",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0535899,
+    "lng": -84.0882745,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9374450051"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "e97aa4de734fc7ab",
+    "name": "Rover Makeover Grooming",
+    "category": "groomer",
+    "address": "11955 Veterans Memorial Hwy, Unit #C",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30134",
+    "metro": "atlanta",
+    "lat": 33.761689,
+    "lng": -84.7256775,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9710730673"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709470001",
+    "website": "https://rovermakeover.biz",
+    "hours": {
+      "raw": "Mo,Tu, Th-Sa 10:00-17:00"
+    }
+  },
+  {
+    "id": "7347f33ff1a532bb",
+    "name": "Doggie-Do's",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9213675,
+    "lng": -84.0086453,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10131672175"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "225d29e1d884cd9e",
+    "name": "Paws N Tails",
+    "category": "groomer",
+    "address": "3020 Old Atlanta Road, Unit Ste 500",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041",
+    "metro": "atlanta",
+    "lat": 34.113201,
+    "lng": -84.1550158,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10540232589"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17702929100",
+    "website": "https://pawsntailsga.com",
+    "hours": {
+      "raw": "Tu-Sa 08:00-17:00"
+    }
+  },
+  {
+    "id": "6ec0d55e313802b3",
+    "name": "Dirty Doggy Self-Serve Grooming",
+    "category": "groomer",
+    "address": "3595 Canton Road, Unit 110",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0382296,
+    "lng": -84.5307109,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11699277530"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://dirtydoggywash.com/",
+    "hours": {
+      "raw": "Mo off; Tu-Th 10:00-16:00; Fr-Su 10:00-18:00"
+    }
+  },
+  {
+    "id": "e3142c6750673c80",
+    "name": "AMG: Atlanta Meet The Groomers",
+    "category": "groomer",
+    "address": "340 McDaniel Street Southwest",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30313",
+    "metro": "atlanta",
+    "lat": 33.7455571,
+    "lng": -84.4053261,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11747136661"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "21715c9f0667b50c",
+    "name": "Tsuru Pet Spa",
+    "category": "groomer",
+    "address": "1575 Old Alabama Road",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30076",
+    "metro": "atlanta",
+    "lat": 34.0212231,
+    "lng": -84.3156071,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11851041039"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17708800008",
+    "website": "https://tsurupets.com",
+    "hours": {
+      "raw": "Tu-Sa 09:00-17:00"
+    }
+  },
+  {
+    "id": "400e71f12dbdd474",
+    "name": "Dandy Dogs",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.856538,
+    "lng": -84.4926201,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11851132036"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "b176d01a4398a118",
+    "name": "Scenthound",
+    "category": "groomer",
+    "address": "3895 Cherokee Street Northwest, Unit 280",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "metro": "atlanta",
+    "lat": 34.048967,
+    "lng": -84.6013811,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11902001174"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "9a0269993edb45de",
+    "name": "Amy's Pet Grooming",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "30135",
+    "metro": "atlanta",
+    "lat": 33.6191345,
+    "lng": -84.849362,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12012628569"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14044539043",
+    "email": "AmyBullington61@yahoo.com",
+    "hours": {
+      "raw": "We, Fr-Su 09:00-17:00"
+    }
+  },
+  {
+    "id": "60ee26f3e9f62eb3",
+    "name": "Furrever Fluffy Grooming",
+    "category": "groomer",
+    "address": "2851 Cobb Parkway, Unit 102",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0217294,
+    "lng": -84.6265136,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12083816362"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17068790888",
+    "website": "https://furreverfluffy.com/",
+    "hours": {
+      "raw": "Mo-Sa 08:00-17:00; Su off"
+    }
+  },
+  {
+    "id": "67f49ea67dc2564b",
+    "name": "Furs Gonna Fly",
+    "category": "groomer",
+    "address": "2323 Shallowford Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066",
+    "metro": "atlanta",
+    "lat": 34.0427459,
+    "lng": -84.4824221,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12160720547"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709284433",
+    "website": "http://www.fursgonnafly.com/",
+    "hours": {
+      "raw": "Mo 09:00-16:00; Tu-Sa 08:00-16:00; Su off"
+    }
+  },
+  {
+    "id": "6aa972b2ea0448b5",
+    "name": "JP's Top Dog Professional Grooming",
+    "category": "groomer",
+    "address": "2300 Shallowford Road Northeast, Unit 10",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0425585,
+    "lng": -84.4835795,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12161206755"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17705166558",
+    "website": "https://jpstopdog.weebly.com/",
+    "email": "jpstopdog@gmail.com",
+    "hours": {
+      "raw": "Mo 08:00-17:00; Tu-Fr 08:00-17:30; Sa 08:00-15:00; Su off"
+    }
+  },
+  {
+    "id": "419b542497dac2f0",
+    "name": "The Dirty Paw Dog Spa",
+    "category": "groomer",
+    "address": "2550 Sandy Plains Road Northeast, Unit 350",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0118116,
+    "lng": -84.4920716,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12189333508"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709777199",
+    "website": "https://thedirtypawdogspa.com/",
+    "email": "thedirtypawdogspa@gmail.com",
+    "hours": {
+      "raw": "Mo,Su off; Tu-Th,Sa 09:00-17:00; Fr 09:00-19:00"
+    }
+  },
+  {
+    "id": "68b34dbfd353558c",
+    "name": "Nicole's Dog Gone Cute Grooming",
+    "category": "groomer",
+    "address": "4750 Alabama Road, Unit 105",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0661955,
+    "lng": -84.4232874,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12207854836"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17706745608",
+    "hours": {
+      "raw": "Mo-Sa 09:00-14:00"
+    }
+  },
+  {
+    "id": "31d545ffccdee015",
+    "name": "Scenthound Routine Care & Grooming",
+    "category": "groomer",
+    "address": "3162 Johnson Ferry Road, Unit 200",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0253208,
+    "lng": -84.4223888,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12292410786"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14702501316",
+    "website": "https://www.scenthound.com/east-cobb",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00"
+    }
+  },
+  {
+    "id": "aa38eb04a39e5f9a",
+    "name": "Pet Boutique Grooming",
+    "category": "groomer",
+    "address": "2995 Johnson Ferry Road, Unit 450",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0220163,
+    "lng": -84.427977,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12316041696"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709985525",
+    "website": "https://petboutique-grooming.com/",
+    "hours": {
+      "raw": "Tu-Sa 07:30-18:00"
+    }
+  },
+  {
+    "id": "e08cb5fd565d445d",
+    "name": "Petco",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8840626,
+    "lng": -84.0089167,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12806128702"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "description": null
+  },
+  {
+    "id": "d7e1f55be21fca6f",
+    "name": "Angela's Grooming",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0868025,
+    "lng": -84.5012157,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13092813610"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "708d608502b58881",
+    "name": "Coatly Bath & Groom",
+    "category": "groomer",
+    "address": "1985 Howell Mill Road Northwest",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8088831,
+    "lng": -84.4126875,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13104648419"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14702311465",
+    "website": "https://coatly.com/",
+    "email": "info@coatly.com",
+    "hours": {
+      "raw": "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su off"
+    }
+  },
+  {
+    "id": "289c3d4763257339",
+    "name": "Lux Dog Grooming",
+    "category": "groomer",
+    "address": "6365 Spalding Drive",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9688216,
+    "lng": -84.2571057,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13179159604"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14707701843",
+    "website": "https://www.lux-dogroomer.com/",
+    "email": "Theluxdoggrooming@gmail.com",
+    "hours": {
+      "raw": "Mo-Sa 09:00-20:00; Su 10:00-19:00"
+    }
+  },
+  {
+    "id": "3d93963cf8fc16af",
+    "name": "Haven The Dog Spot",
+    "category": "groomer",
+    "address": "4719 Lower Roswell Road Northeast, Unit 160",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9660507,
+    "lng": -84.4149217,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13375025423"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17706727343",
+    "website": "https://www.havendog.com/",
+    "email": "concierge@havendog.com",
+    "hours": {
+      "raw": "Mo-Fr 07:30-18:00; Sa 09:00-17:00; Su 12:00-16:00; PH off"
+    }
+  },
+  {
+    "id": "b88307ec47b6f1ec",
+    "name": "Dee's Grooming Gallery",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8832378,
+    "lng": -84.498983,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13388994635"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "73f68763e4d86f2a",
+    "name": "Hot Dogs and Cool Cats Dog Grooming Spa",
+    "category": "groomer",
+    "address": "255 Village Parkway Northeast, Unit 730",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "metro": "atlanta",
+    "lat": 33.9513548,
+    "lng": -84.4132016,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13393652213"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17708581000",
+    "website": "https://hotdogscoolcats.net/",
+    "email": "reception@hotdogscoolcats.net",
+    "hours": {
+      "raw": "Mo-Fr 09:00-18:00"
+    }
+  },
+  {
+    "id": "4253bb53c382fa11",
+    "name": "Country Dog Market & Groomer",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9217041,
+    "lng": -84.3147458,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13596938622"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "4c903af3b8e48cc0",
+    "name": "Before & After Pet Grooming & Spa",
+    "category": "groomer",
+    "address": "2800 Canton Road, Unit 1200",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0185092,
+    "lng": -84.5248255,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13680393628"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "63ec2f694a949e4c",
+    "name": "Puppy United",
+    "category": "groomer",
+    "address": "976 Piedmont Avenue Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7812656,
+    "lng": -84.380877,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/234934493"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14044016634",
+    "website": "http://www.puppyunited.com/",
+    "email": "Puppyunitedmidtown@gmail.com",
+    "hours": {
+      "raw": "Tu-Sa 08:00-17:00"
+    }
+  },
+  {
+    "id": "c9d686829bc7ab6b",
+    "name": "Barking Hound Village Marietta",
+    "category": "groomer",
+    "address": "2566 East Piedmont Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 34.0133569,
+    "lng": -84.494215,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/352102798"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "description": null
+  },
+  {
+    "id": "e25b1d6ebc5311e9",
+    "name": "Spa Wags",
+    "category": "groomer",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8584163,
+    "lng": -84.6774137,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/923616303"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "537ec655b8e7ed38",
+    "name": "The Regal Beagle",
+    "category": "groomer",
+    "address": "27 Eastside Trail",
+    "city": "Dallas",
+    "state": "GA",
+    "zip": "30157",
+    "metro": "atlanta",
+    "lat": 33.932498,
+    "lng": -84.7294015,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1010622765"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "3d81e6f17b140651",
+    "name": "GB's Stables",
+    "category": "boarder",
+    "address": "448 Hurt Road Southwest",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30082",
+    "metro": "atlanta",
+    "lat": 33.868284,
+    "lng": -84.5672727,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2993464631"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://www.gbstable.com/"
+  },
+  {
+    "id": "ca5abacc6c285e9e",
+    "name": "Sleepy Hollow Kennels",
+    "category": "boarder",
+    "address": "2170 Windy Hill Road Southeast",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.9000233,
+    "lng": -84.4901572,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3314723663"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704355781",
+    "website": "http://www.sleepyhollowkennels.com/",
+    "hours": {
+      "raw": "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+    }
+  },
+  {
+    "id": "a610ef2a9cfefc8d",
+    "name": "Spot for Dogs Atlanta",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.774957,
+    "lng": -84.364396,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3396660793"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "9b73d6c50cf994b8",
+    "name": "Paw Spa Resort",
+    "category": "boarder",
+    "address": "2771 Buford Hwy",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041",
+    "metro": "atlanta",
+    "lat": 34.1427764,
+    "lng": -84.1044824,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4574615167"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17708869936",
+    "website": "http://pawsparesort.org"
+  },
+  {
+    "id": "73be0dad18fc0b95",
+    "name": "PetSuites",
+    "category": "boarder",
+    "address": "8030 McGinnis Ferry Road",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.052982,
+    "lng": -84.1223389,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8340194604"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "aa1118d292673366",
+    "name": "Camp Bow Wow",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.9614849,
+    "lng": -84.009291,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10604205729"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "6650baaf6833c4ef",
+    "name": "Cage Free Doggy Boarding, Roswell Atlanta",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.034208,
+    "lng": -84.3495587,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11583013403"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://snugglepupz.com",
+    "hours": {
+      "raw": "24/7"
+    }
+  },
+  {
+    "id": "1178ee73b1bda936",
+    "name": "The Pup Hub Doggy Daycare And Training",
+    "category": "boarder",
+    "address": "3372 Canton Road Northeast, Unit 130",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.034271,
+    "lng": -84.5263477,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11699326205"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17709109311",
+    "website": "https://thepuphub.com/",
+    "hours": {
+      "raw": "Mo-Fr 07:00-11:30,14:00-19:00; Sa-Su 09:00-10:00,17:00-19:00"
+    }
+  },
+  {
+    "id": "5ddfb943630a9fd5",
+    "name": "The Pet Set",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8263716,
+    "lng": -84.3333029,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12030020205"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "da1c050cef34f947",
+    "name": "The Dog House Pet Resort",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0634746,
+    "lng": -84.6507396,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12120908799"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "ed6dfb398809bd06",
+    "name": "Pet Play Plaxe",
+    "category": "boarder",
+    "address": "2685 Barrett Lakes Boulevard Northwest",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0156869,
+    "lng": -84.5772865,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13162288185"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "website": "https://petplayplace.com/kennesaw/"
+  },
+  {
+    "id": "91d2c658cbcb9701",
+    "name": "Piedmont Bark Doggie Daycare",
+    "category": "boarder",
+    "address": "501 Amsterdam Avenue Northeast",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.7879569,
+    "lng": -84.3701937,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13472583662"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14048735400",
+    "website": "http://www.piedmontbark.com/",
+    "email": "info@piedmontbark.com",
+    "hours": {
+      "raw": "Mo-Fr 07:00-19:30; Sa 08:00-17:00; Su 15:00-18:00"
+    }
+  },
+  {
+    "id": "32ef2f2e3da9a857",
+    "name": "Best Friends Pet Hotel",
+    "category": "boarder",
+    "address": "1087 Johnson Ferry Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9741809,
+    "lng": -84.4147244,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/106709214"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785600880",
+    "website": "https://www.bestfriendspetcare.com/location/marietta-ga",
+    "hours": {
+      "raw": "Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 08:00-17:00; PH off"
+    }
+  },
+  {
+    "id": "157adfc2a3988f64",
+    "name": "Barking Hound Village",
+    "category": "boarder",
+    "address": "1918 Cheshire Bridge Road",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30324",
+    "metro": "atlanta",
+    "lat": 33.8104128,
+    "lng": -84.3602555,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/226576095"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "903d1034be9123bb",
+    "name": "Puppy Haven",
+    "category": "boarder",
+    "address": "2854 Holcomb Bridge Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 33.9908333,
+    "lng": -84.2779044,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/352451762"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+11770609733",
+    "website": "http://www.puppyhavenatl.com/"
+  },
+  {
+    "id": "26f8378329e94426",
+    "name": "Jennifer L. Buck Stables",
+    "category": "boarder",
+    "address": "1323 Blackwell Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066",
+    "metro": "atlanta",
+    "lat": 34.0398495,
+    "lng": -84.512594,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/386888528"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+13027503309",
+    "website": "https://www.mariettariding.com/",
+    "email": "JenniferLBuckStables@gmail.com"
+  },
+  {
+    "id": "00497ab491a459d8",
+    "name": "Funnybones",
+    "category": "boarder",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 33.8911598,
+    "lng": -84.1266211,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/808601446"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "0f9c9b14b39b93fb",
+    "name": "WAG-A-LOT Downtown",
+    "category": "boarder",
+    "address": "840 Old Flat Shoals Road Southeast",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316",
+    "metro": "atlanta",
+    "lat": 33.7457572,
+    "lng": -84.3597927,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/812914217"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false
+  },
+  {
+    "id": "aa7921b77b31b17e",
+    "name": "K-9 Coach",
+    "category": "boarder",
+    "address": "4870 South Atlanta Road",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30339",
+    "metro": "atlanta",
+    "lat": 33.8357764,
+    "lng": -84.4726089,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/846914205"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+14046039744",
+    "website": "https://www.k-9coach.com/"
+  },
+  {
+    "id": "5e8b1ac1bf8d3129",
+    "name": "Countryside Pet Estates",
+    "category": "boarder",
+    "address": "2540 Hopewell Road",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.136551,
+    "lng": -84.2847992,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/974492742"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17708641020",
+    "website": "https://countrysidepetestates.com/",
+    "hours": {
+      "raw": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00; Jan 1 closed; May Mo[-1] closed; Jul 4 closed; Sep Mo[1] closed; Nov Th[4] closed; Dec 25 closed"
+    }
+  },
+  {
+    "id": "6c7acfe208d8afda",
+    "name": "Kennesaw Pet Center",
+    "category": "boarder",
+    "address": "2139 Cobb Parkway",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0058138,
+    "lng": -84.6051109,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/992856962"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+17704285454",
+    "website": "https://kennesawpetcenter.com",
+    "email": "4kennesawpetcenter@gmail.com",
+    "hours": {
+      "raw": "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
+    }
+  },
+  {
+    "id": "06723bd42337e42c",
+    "name": "East Cobb Stables",
+    "category": "boarder",
+    "address": "1649 Johnson Ferry Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062",
+    "metro": "atlanta",
+    "lat": 33.9897655,
+    "lng": -84.4287116,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1422945051"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": "+16785609154",
+    "website": "https://eastcobbstables.com/"
+  },
+  {
+    "id": "253d150d95dcb560",
+    "name": "Pet Paradise Peachtree City",
+    "category": "boarder",
+    "address": "35 Bailey Station Circle",
+    "city": "Sharpsburg",
+    "state": "GA",
+    "zip": "30277",
+    "metro": "atlanta",
+    "lat": 33.408854,
+    "lng": -84.6755701,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1472501025"
+    },
+    "lastSeenAt": "2026-04-18T16:33:19Z",
+    "claimed": false,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "description": null
+  }
+]

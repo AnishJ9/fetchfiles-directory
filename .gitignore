@@ -1,5 +1,6 @@
 # Python
 pipeline/.venv/
+pipeline/**/.venv/
 pipeline/__pycache__/
 pipeline/**/__pycache__/
 pipeline/*.egg-info/

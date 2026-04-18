@@ -1,0 +1,2906 @@
+[
+  {
+    "id": "860599091a36856b",
+    "name": "Austin Dogtown Boarding & Daycare",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "537 Woodward Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.2261641,
+    "lng": -97.7536515,
+    "phone": "+15125354244",
+    "website": "https://www.dogtownaustin.com/",
+    "email": "info@dogtownaustin.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/384254398"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "052ab035976ddd4f",
+    "name": "Bark & Zoom",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "2601 Cardinal Loop",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78617",
+    "metro": "austin",
+    "lat": 30.2133781,
+    "lng": -97.6570438,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/699065073"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "24746680c9503f4b",
+    "name": "Barking Hound Village",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "412 Josephine Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.2617361,
+    "lng": -97.7591302,
+    "phone": "+15124773647",
+    "website": "https://bhvaustin.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/881151017"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "bf35d6052f00f935",
+    "name": "Countryside Pet Resort",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "455 County Road 103",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6494033,
+    "lng": -97.613413,
+    "phone": "+15129305365",
+    "website": "https://countrysidepetresort.com/",
+    "email": "countrysidepetresort103@gmail.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12228545449"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0c0e59c73ee9f550",
+    "name": "Crackerdog",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "8907 Bee Caves Road Bldg F",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78746",
+    "metro": "austin",
+    "lat": 30.3173273,
+    "lng": -97.8624098,
+    "phone": "+15122631114",
+    "website": "http://www.crackerdogcare.com/",
+    "email": "reserve@crackerdogcare.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1022777836"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ecc24c0a1ac22be9",
+    "name": "Doggie Howser Pet Social Club",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "2611 East 5th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.2570921,
+    "lng": -97.7130804,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1453965277"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "6b1e85d4492fe06a",
+    "name": "Doggy Day Out Kennel & Daycare",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "17808 Wilke Ridge Lane",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660",
+    "metro": "austin",
+    "lat": 30.4676488,
+    "lng": -97.6245261,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1225968038"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "78a731464f01836f",
+    "name": "Dogtopia",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "13945 North Highway 183 C-4",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78717",
+    "metro": "austin",
+    "lat": 30.4724092,
+    "lng": -97.79697,
+    "phone": "+15123331111",
+    "website": "https://www.dogtopia.com/austin/",
+    "email": "northaustin@dogtopia.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7094945933"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "37120e858a0e6f97",
+    "name": "Pet Paradise",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "716 South Interstate 35",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6433605,
+    "lng": -97.6893845,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11984383107"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "b3b839d93d463dbd",
+    "name": "Pups And Pals",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2301041,
+    "lng": -97.8923576,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6080106844"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "bc07370f96b6f5cc",
+    "name": "Remington Pet Ranch",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "14025 Turnersville Road South",
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78610",
+    "metro": "austin",
+    "lat": 30.0868825,
+    "lng": -97.7809275,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1382654788"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "48746612c5a4a197",
+    "name": "Southpaws Playschool",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "2235 South Lamar Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.247005,
+    "lng": -97.774184,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382444387"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "d2ecedca8358d56e",
+    "name": "Starmark Training & Behavior Solutions",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "200 County Road 197",
+    "city": "Hutto",
+    "state": "TX",
+    "zip": "78634",
+    "metro": "austin",
+    "lat": 30.5082493,
+    "lng": -97.5530512,
+    "phone": "+15127592275",
+    "website": "https://www.dogtrainingandboardingaustin.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13610264389"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "7842a7fcb91da405",
+    "name": "Taurus Academy",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "12419 Metric Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.4114377,
+    "lng": -97.6916485,
+    "phone": "+1737242238118559555185",
+    "website": "https://www.taurusacademy.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12988996702"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "86fae270a8caad10",
+    "name": "All God's Creatures Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "106 East Pecan Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4399838,
+    "lng": -97.6204326,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383784210"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "fa0303b142197831",
+    "name": "Dirty Dog",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "3016 Guadalupe Street B495",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78705",
+    "metro": "austin",
+    "lat": 30.2976746,
+    "lng": -97.7415504,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12433956490"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "05d3a23f66f019d3",
+    "name": "EarthWise Pet",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2475094,
+    "lng": -97.7762662,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13356440067"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "9e84b3619aef0ca0",
+    "name": "Fur Oak Professional Pet Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "1904 South Bagdad Road 1",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5502113,
+    "lng": -97.8534688,
+    "phone": "+15129758066",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10697498960"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "9273bb6b8085c6a6",
+    "name": "Happy Hound pet salon",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "Sportsplex Drive",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "zip": "78620",
+    "metro": "austin",
+    "lat": 30.1958366,
+    "lng": -98.0976373,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13110850001"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "58a7ce5929fc0558",
+    "name": "Happy Hounds Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "560 US-79 #950",
+    "city": "Hutto",
+    "state": "TX",
+    "zip": "78634",
+    "metro": "austin",
+    "lat": 30.5428337,
+    "lng": -97.5565709,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6347934282"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "1455c55a16391984",
+    "name": "Judy's Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "2405 South Highway 183 101",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5468738,
+    "lng": -97.8419686,
+    "phone": "+15122591444",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9785913740"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "452da9f99395df6a",
+    "name": "K&A Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4429168,
+    "lng": -97.6112477,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11366611986"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "3e8b570c92dfa497",
+    "name": "Kanine Koiffures Dog & Cat Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.5300655,
+    "lng": -97.6883045,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382115283"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "fc6bc476786ac63d",
+    "name": "Sydnees Pet Groomin",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "2300 Lohmans Spur 192",
+    "city": "Lakeway",
+    "state": "TX",
+    "zip": "78738",
+    "metro": "austin",
+    "lat": 30.3376831,
+    "lng": -97.9704155,
+    "phone": "+17373001001",
+    "website": "https://sydneespetgrooming.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10738032841"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0a0126fb8d53797f",
+    "name": "Woof Gang Bakery & Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2909776,
+    "lng": -97.8255249,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5465247249"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "3b3c73f3f21540d9",
+    "name": "Woof Gang Bakery & Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "1911 Aldrich Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78723",
+    "metro": "austin",
+    "lat": 30.2989636,
+    "lng": -97.7043192,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8861433733"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "a94fa9227363f451",
+    "name": "Woof Gang Bakery & Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "1900 University Boulevard 230",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78665",
+    "metro": "austin",
+    "lat": 30.5724609,
+    "lng": -97.6530118,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12943348061"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "d31912e0f3acfe41",
+    "name": "Woofgang Bakery and Grooming",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "5401 South FM 1626 365",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640",
+    "metro": "austin",
+    "lat": 30.016332,
+    "lng": -97.8642524,
+    "phone": "+15122565038",
+    "website": "https://woofgangbakery.com",
+    "email": "kyletx@woofgangbakery.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12037802554"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "bb7dac0766d69b75",
+    "name": "Animal Care Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2000 North Mays Street 112",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.5275569,
+    "lng": -97.6888264,
+    "phone": "+15123882222",
+    "website": "https://www.thrivepetcare.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11863099065"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0943b94436bf191a",
+    "name": "Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3879174,
+    "lng": -97.885063,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5330270627"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "167c46be262e6ebb",
+    "name": "Animal Hospital of Georgetown",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "108 Woodmont Drive",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6194631,
+    "lng": -97.6930912,
+    "phone": "+15128630470",
+    "website": "https://animalhospitalgeorgetown.com/",
+    "email": "info@ahgtx.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1707744185"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e012644c48d4f154",
+    "name": "Arbor Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4082416,
+    "lng": -97.7474067,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2724700541"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e88db951323f573a",
+    "name": "Austin Avenue Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2201 South Austin Avenue",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6234509,
+    "lng": -97.6793332,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11557820559"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "318c56e898a72bb6",
+    "name": "Austin Pets Alive! Medical Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4900 West US 290 Frontage Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78735",
+    "metro": "austin",
+    "lat": 30.2340169,
+    "lng": -97.816271,
+    "phone": null,
+    "website": "https://www.austinpetsalive.org/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13027404038"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "c9f00ea60c0fbdeb",
+    "name": "Austin Urban Veterinary Center",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "701 West 5th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "metro": "austin",
+    "lat": 30.2694317,
+    "lng": -97.7502825,
+    "phone": "+15124762882",
+    "website": "https://austinurbanvet.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/99868629"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "602d1a0bc5447339",
+    "name": "Austin Vet Care @ Metric",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12419 Metric Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.4114285,
+    "lng": -97.6916129,
+    "phone": "+15128321088",
+    "website": "https://www.thrivepetcare.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12988996703"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "7e11e0830319a1c5",
+    "name": "Austin Vet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4701 North Interstate Highway 35 Service Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.304995,
+    "lng": -97.712561,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/381788468"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "09d8ff70b09889e3",
+    "name": "Austin Wildlife Rescue Rehabilitation Center",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "111 Elbow Bend",
+    "city": "Elgin",
+    "state": "TX",
+    "zip": "78621",
+    "metro": "austin",
+    "lat": 30.245242,
+    "lng": -97.443652,
+    "phone": "+15124729453",
+    "website": "https://www.austinwildliferescue.org/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1418576256"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "125f19509a3eb182",
+    "name": "Avery Ranch Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12720 Avery Ranch Road",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.4859485,
+    "lng": -97.8080212,
+    "phone": "+15122551388",
+    "website": "https://averyranchvet.com/",
+    "email": "info@averyranchvet.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382063118"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "336e2fdfb38b477f",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1211 East 5th Street 140",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.2631349,
+    "lng": -97.7303066,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9604359116"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "6614c6f4a60c75b9",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2601 South Interstate 35",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.4843901,
+    "lng": -97.6705913,
+    "phone": "+15122387116",
+    "website": "https://www.banfield.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10782559759"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "684888df5c60889c",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12901 North Interstate 35 700",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "metro": "austin",
+    "lat": 30.4133,
+    "lng": -97.6702644,
+    "phone": "+15122527070",
+    "website": "https://www.banfield.com/veterinarians/tx/austin/nea?cid=yext_local",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8083162517"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "768b055374646a4d",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11150 Research Boulevard 100",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759",
+    "metro": "austin",
+    "lat": 30.4073978,
+    "lng": -97.7472331,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7297515282"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "97fd722e7469d32d",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12812 Shops Parkway",
+    "city": "Bee Cave",
+    "state": "TX",
+    "zip": "78738",
+    "metro": "austin",
+    "lat": 30.3064125,
+    "lng": -97.9414674,
+    "phone": "+15122636077",
+    "website": "https://www.banfield.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10738390715"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "bd94d50fa18130e6",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.5041194,
+    "lng": -97.5818697,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9736049147"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ceab9dd4ab477966",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11066 Pecan Park Boulevard 315",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.4679492,
+    "lng": -97.8021997,
+    "phone": "+15122509700",
+    "website": "https://www.banfield.com/veterinarians/tx/cedar-park/cpk",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7091792917"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "d6e44dbf1912cfaa",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1201 Barbara Jordan Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78723",
+    "metro": "austin",
+    "lat": 30.3044616,
+    "lng": -97.709184,
+    "phone": "+15124690103",
+    "website": "https://www.banfield.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11369882863"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "a42c250b900ed3c5",
+    "name": "Barton Creek Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2755822,
+    "lng": -97.8165058,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8371448610"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "81f2c1419c382f43",
+    "name": "Block House Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.5362016,
+    "lng": -97.835869,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/29275803"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "f64ceb12cbff9ef1",
+    "name": "Brodie Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3421 West William Cannon Drive 110",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745",
+    "metro": "austin",
+    "lat": 30.2127395,
+    "lng": -97.8300738,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10656055069"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "673985874de1f893",
+    "name": "Burnet Road Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "8511 Burnet Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78757",
+    "metro": "austin",
+    "lat": 30.3668297,
+    "lng": -97.7276394,
+    "phone": "+15123421710",
+    "website": "https://burnetroadanimalhospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13647869802"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "6d2e05e0a7a1bd5c",
+    "name": "Capital Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4800 South Congress Avenue",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745",
+    "metro": "austin",
+    "lat": 30.213876,
+    "lng": -97.770034,
+    "phone": "+15124421496",
+    "website": "https://capitalvet.com",
+    "email": "capitalvetclinic@yahoo.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13111665001"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "794e86ceb9f8f91f",
+    "name": "Cat Hospital Austin'",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "13264 Pond Springs Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78729",
+    "metro": "austin",
+    "lat": 30.4466356,
+    "lng": -97.7806996,
+    "phone": null,
+    "website": "https://www.cathospitalofaustin.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/72322061"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "a74782954edab71c",
+    "name": "Central Texas Veterinary Specialty & Emergency Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "301 Chisholm Trail",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78681",
+    "metro": "austin",
+    "lat": 30.5091328,
+    "lng": -97.6891906,
+    "phone": "+15128929038",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383002601"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "9e3ec7b6271386d8",
+    "name": "Circle C Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "9600 H Escarpment Boulevard 950",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78749",
+    "metro": "austin",
+    "lat": 30.2039838,
+    "lng": -97.8793497,
+    "phone": null,
+    "website": "https://circlecanimalhospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12594152151"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "796e7c85b7f4d5c0",
+    "name": "City Limits Vet Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4694295,
+    "lng": -97.7629098,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10728966429"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "787efbf36e400166",
+    "name": "Companion Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2359564,
+    "lng": -97.8768343,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8371362751"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e2e3bbdff6b44040",
+    "name": "Cornerstone Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3200 Ranch Road 967",
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78610",
+    "metro": "austin",
+    "lat": 30.0974936,
+    "lng": -97.8764283,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382811104"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "1772c015f8f56a95",
+    "name": "Crestview Veterinary Clinic at Tech Ridge",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "500 West Canyon Ridge Drive F306",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4044872,
+    "lng": -97.6733441,
+    "phone": "+15125726777",
+    "website": "https://www.crestviewveterinaryclinictechridge.com/",
+    "email": "mailto:info@crestviewvctechridge.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13386605320"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "3c287efaa8ddc092",
+    "name": "Crystal Falls Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2906 South Bagdad Road 290",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5389038,
+    "lng": -97.8474497,
+    "phone": "+15124568985",
+    "website": "https://crystalfallsvet.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9598858321"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "11f79bdda6472046",
+    "name": "Cypress Creek Pet Care",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2105 Cypress Creek Road",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.4753998,
+    "lng": -97.8421482,
+    "phone": "+15123318555",
+    "website": "https://www.thrivepetcare.com/locations/texas/cedar-park/cypress-creek-pet-care",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11801652618"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ef7f2201c051b34c",
+    "name": "Dessau Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12315 Dessau Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3883449,
+    "lng": -97.6472744,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382369169"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "64b1e1e3030e3055",
+    "name": "Emancipet East Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "7201 Levander Loop Bldg K",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.2530796,
+    "lng": -97.6888133,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382724159"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "42f55d9ab338eeb6",
+    "name": "Emancipet North Austin",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1030 Suite 316 Norwood Park Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "metro": "austin",
+    "lat": 30.340542,
+    "lng": -97.692601,
+    "phone": "+15125877729",
+    "website": "https://emancipet.org/austin/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382723826"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ae5b1a808efcdde1",
+    "name": "Emergency Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1660 Raider Way",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5646826,
+    "lng": -97.8193289,
+    "phone": "+15128173474",
+    "website": "https://www.eahofcrystalfalls.com/",
+    "email": "info@eahofcrystalfalls.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1189071182"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "c085e1385a066858",
+    "name": "Eye Care for Animals",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12419 Metric Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.4113973,
+    "lng": -97.691598,
+    "phone": "+15125226920",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12988996705"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "92f844ea09e93b7a",
+    "name": "Firehouse Animal Health Center",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "541 Louis Henna Boulevard",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664",
+    "metro": "austin",
+    "lat": 30.4817688,
+    "lng": -97.6615959,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383008528"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "d1c2074aca8a7a9a",
+    "name": "Firehouse Animal Health Center",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3501 North Lakeline Boulevard 150",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5435071,
+    "lng": -97.8656406,
+    "phone": "+15129802080",
+    "website": "https://firehouseleander.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9587284680"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ade7d97c1df7040d",
+    "name": "FM 685 Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "695 Chris Kelley Boulevard",
+    "city": "Hutto",
+    "state": "TX",
+    "zip": "78634",
+    "metro": "austin",
+    "lat": 30.5292455,
+    "lng": -97.5646049,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/521662483"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "2d761eedbc9ba782",
+    "name": "Founders Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "161 Cortaro Drive",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "zip": "78620",
+    "metro": "austin",
+    "lat": 30.2107576,
+    "lng": -98.0887388,
+    "phone": "+15128819987",
+    "website": "https://foundersanimalhospital.com/",
+    "email": "info@foundersanimalhospital.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13734716474"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "6a53cd0fa27afccd",
+    "name": "Georgetown Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2707 South Austin Avenue",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6195506,
+    "lng": -97.6800761,
+    "phone": "+15128633563",
+    "website": "https://gtvet.com/",
+    "email": "recep@gtvet.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/926450221"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "14283d2d73ad4093",
+    "name": "Guardian Paws Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2025 Kauffman Loop Suite 200",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6388483,
+    "lng": -97.8179509,
+    "phone": "+15126888661",
+    "website": "https://guardianpawsah.com/",
+    "email": "info@guardianpawsah.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13520157875"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "a105d4c0eea935e6",
+    "name": "Hill Country Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3019245,
+    "lng": -97.8401575,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383133734"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "c36c594c986eb5e2",
+    "name": "Hill Country Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1409 West Whitestone Boulevard",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.5153565,
+    "lng": -97.8497328,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/72893932"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "99d08f324c2af106",
+    "name": "Honnas Veterinary",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1615 South Lamar Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2508531,
+    "lng": -97.7650834,
+    "phone": "+15125185674",
+    "website": "www.honnas.vet",
+    "email": "info@honnas.vet",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12771163891"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "079e0511da05a81c",
+    "name": "Hyde Park Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.314623,
+    "lng": -97.7201625,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/381764304"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "df5e5391b9ced506",
+    "name": "Kyle Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "100 Hall Professional Center",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640",
+    "metro": "austin",
+    "lat": 30.0149511,
+    "lng": -97.8907508,
+    "phone": "+15122685003",
+    "website": "https://www.kylevet.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382797735"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "35d8132c40b9f33c",
+    "name": "Lake Travis Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3974846,
+    "lng": -97.928711,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13112636526"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "30912f44529b2e3e",
+    "name": "Lakeline Animal Care",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12010 RM 620",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78750",
+    "metro": "austin",
+    "lat": 30.4604368,
+    "lng": -97.8215893,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/131451091"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0194a3652210fdf1",
+    "name": "Lakeway Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1003 Ranch Road 620",
+    "city": "Lakeway",
+    "state": "TX",
+    "zip": "78734",
+    "metro": "austin",
+    "lat": 30.3532115,
+    "lng": -97.961301,
+    "phone": "+15122632134",
+    "website": "https://lakewayvet.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/201931200"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "533b14761048ca2e",
+    "name": "Leander Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1300 South Bagdad Road",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5573218,
+    "lng": -97.8590691,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1159563162"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "4650295cd52b134f",
+    "name": "Manchaca Road Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "5720 Manchaca Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745",
+    "metro": "austin",
+    "lat": 30.2147116,
+    "lng": -97.799724,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5771772953"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e0d7e75c7853d513",
+    "name": "Manchaca Village Veterinary Care",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12117 Manchaca Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.1414271,
+    "lng": -97.8327855,
+    "phone": "+15122821326",
+    "website": "https://manchacavet.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/561487613"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "23a4503361999a90",
+    "name": "Manor Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11311 US Highway 290",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3482693,
+    "lng": -97.5533607,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382832160"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "9ad8ae0053b54504",
+    "name": "Mercy Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "18109 Ronald W Reagan Boulevard Suite 1",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.6128019,
+    "lng": -97.8204943,
+    "phone": "+15128902000",
+    "website": "https://www.mercyveterinaryhospitaltx.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1293781424"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "16c67c72e925db8a",
+    "name": "Modern Animal Veterinary Care",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1105",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2549935,
+    "lng": -97.7623897,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12708385749"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "1b52c80022f18d2d",
+    "name": "New Hope Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1210 East New Hope Drive",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.5371265,
+    "lng": -97.8188195,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/555259418"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "fe0240f3db8ddaca",
+    "name": "Northwest Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3817 Dry Creek Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3429325,
+    "lng": -97.76427,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/381838356"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e3c2f6cff669dabd",
+    "name": "Old Town Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "701 East University Avenue",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6335506,
+    "lng": -97.6706539,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11680165430"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "8b6d1c8c3f489127",
+    "name": "Parker Animal Care",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2239 South Lamar Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.247108,
+    "lng": -97.774442,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382444388"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "19c9c45a7f3105d0",
+    "name": "Parmer Lane Pet Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11951 West Parmer Lane",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.5201346,
+    "lng": -97.7747452,
+    "phone": "+15122605443",
+    "website": "https://parmerlanepethospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/384355791"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "ca1336eff7265962",
+    "name": "Patriot Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4910 TX 29 West",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6341173,
+    "lng": -97.7734607,
+    "phone": "+15128829994",
+    "website": "https://patriotah.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1340572965"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "228e40daa1f990da",
+    "name": "PAZ Veterinary East",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2579334,
+    "lng": -97.7041225,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12550243492"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "62b35b190098a8f7",
+    "name": "Pet & Bird Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11679 Research Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759",
+    "metro": "austin",
+    "lat": 30.4180003,
+    "lng": -97.7458999,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/72378684"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "c9584b35fd7d59a4",
+    "name": "Pflugerville Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4650865,
+    "lng": -97.6258972,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11385928595"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "f2f09f95d3c39387",
+    "name": "Prairie Creek Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2521559,
+    "lng": -97.5961218,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1211276629"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "70a385db866e2fb0",
+    "name": "Prickly Pear Pet Vaccines, PLLC",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "9900 South Interstate 35 P-480",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78748",
+    "metro": "austin",
+    "lat": 30.1555928,
+    "lng": -97.792722,
+    "phone": "+17372024836",
+    "website": "https://pricklypearvetaustin.com",
+    "email": "frontdesk@pricklypearvetaustin.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13118621508"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "8bcb9c9fc0f0c44b",
+    "name": "Rosedale Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4800 Burnet Road E500",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78756",
+    "metro": "austin",
+    "lat": 30.3192105,
+    "lng": -97.7394584,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/381812058"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "7d6aa4c85b12d1a3",
+    "name": "Round Rock Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1250 McNeil Road",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78681",
+    "metro": "austin",
+    "lat": 30.4926064,
+    "lng": -97.6943531,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1228707651"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e10b165705a6c89b",
+    "name": "SAGE Veterinary Imaging",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1220 McNeil Road",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78681",
+    "metro": "austin",
+    "lat": 30.4928808,
+    "lng": -97.6947974,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1228707652"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "149120479d590c2c",
+    "name": "South Austin Cat Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "11215 South Interstate 35 109",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78747",
+    "metro": "austin",
+    "lat": 30.1377967,
+    "lng": -97.7960432,
+    "phone": "+15129102287",
+    "website": "https://southaustincathospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8410329812"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "662270d13abdc347",
+    "name": "South San Gabriel Animal Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4181 North Highway 183",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5956248,
+    "lng": -97.8614275,
+    "phone": "+15122595980",
+    "website": "https://south-animal-clinic.edan.io/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382117539"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "7eb88e5bb6e74fd1",
+    "name": "Southwest Vet",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.2506078,
+    "lng": -97.8966697,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9735974275"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "4e3e28134f08119c",
+    "name": "Spicewood Springs Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4606 Spicewood Springs Road",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.375513,
+    "lng": -97.760529,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383199748"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0ab9c4004fa1ed8c",
+    "name": "Sunbury Vet Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12407 North MoPac Expressway 400-B",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758",
+    "metro": "austin",
+    "lat": 30.4170041,
+    "lng": -97.7036114,
+    "phone": "+15122558387",
+    "website": "https://sunburyvet.com/",
+    "email": "sunburyvetclinic@austin.rr.com",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7287247417"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "49f3ca9f38524c4f",
+    "name": "Sunset Canyon Veterinary Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3710 East US Highway 290",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "zip": "78620",
+    "metro": "austin",
+    "lat": 30.1956924,
+    "lng": -98.0237618,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/886375875"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "dad93f868ed9e362",
+    "name": "Thrive",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.5298031,
+    "lng": -97.818385,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8064257663"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "fa08df6c9cfe992d",
+    "name": "Thrive Pet Healthcare",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2795 East 7th Street",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78702",
+    "metro": "austin",
+    "lat": 30.259563,
+    "lng": -97.709922,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5003857121"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "13becda8404533e7",
+    "name": "UrgentVet - Cedar Park",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1310 East Whitestone Boulevard",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.5240369,
+    "lng": -97.814687,
+    "phone": "+17375878000",
+    "website": "https://urgentvet.com/location/cedar-park-tx/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11930725201"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "0660afd7e650f61f",
+    "name": "VCA Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2417 West Ben White Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704",
+    "metro": "austin",
+    "lat": 30.232015,
+    "lng": -97.794355,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383904116"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "3902a3598ee0e95a",
+    "name": "VCA Arbor Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4082065,
+    "lng": -97.7475023,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8067353597"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "eb124776ca67c59d",
+    "name": "VCA Hometown Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4438475,
+    "lng": -97.6086575,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/382998711"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e118f058cc41f083",
+    "name": "VCA Terrell Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2 Lakeway Centre Court",
+    "city": "Lakeway",
+    "state": "TX",
+    "zip": "78734",
+    "metro": "austin",
+    "lat": 30.3465094,
+    "lng": -97.963188,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/675203499"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "060fee0650f4f71a",
+    "name": "Veterinary Surgical Solutions",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.3767131,
+    "lng": -97.7251189,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/3930556075"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "6b19f094f2a60f40",
+    "name": "Wells Branch Pet & Bird Clinic",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "12200 North MoPac Expressway",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4145825,
+    "lng": -97.7081825,
+    "phone": "+15123398472",
+    "website": "https://www.petandbirdclinic.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/383196948"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "b4cf4aa4636e67ec",
+    "name": "Westgate Pet & Bird Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "4534 West Gate Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745",
+    "metro": "austin",
+    "lat": 30.2313033,
+    "lng": -97.801288,
+    "phone": null,
+    "website": "https://www.westgatepetandbird.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5771447971"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "e567a841e2f8e346",
+    "name": "Westlake Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3930 Westlake Drive",
+    "city": "West Lake Hills",
+    "state": "TX",
+    "zip": "78746",
+    "metro": "austin",
+    "lat": 30.2824611,
+    "lng": -97.809409,
+    "phone": "+15123271703",
+    "website": "https://www.thrivepetcare.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13143276948"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "7f60def6aa6a83f6",
+    "name": "Whitestone Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3300 Woodall Drive",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613",
+    "metro": "austin",
+    "lat": 30.5135622,
+    "lng": -97.8786463,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1158966678"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "3e76065bbadf3d50",
+    "name": "ZippiVet",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "",
+    "metro": "austin",
+    "lat": 30.4970992,
+    "lng": -97.5838927,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9736049131"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "c2fc992ea6d010ff",
+    "name": "ZippiVet",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "5896 Kyle Parkway 400",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640",
+    "metro": "austin",
+    "lat": 30.0101434,
+    "lng": -97.8570813,
+    "phone": "+15125484041",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13399225772"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  },
+  {
+    "id": "960d2e209315c9de",
+    "name": "Zoot Pet Hospital and Luxury Boarding",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "3981 TX 29",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78628",
+    "metro": "austin",
+    "lat": 30.6312904,
+    "lng": -97.7558841,
+    "phone": "+15128649668",
+    "website": "https://zootpets.com",
+    "email": "hospital.zoot@svp.vet",
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1216149288"
+    },
+    "lastSeenAt": "2026-04-18T16:33:48Z",
+    "claimed": false
+  }
+]

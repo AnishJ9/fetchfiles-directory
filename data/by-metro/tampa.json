@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "f83ad0cac65ad49f",
+    "name": "Dear Madison Pet Services",
+    "category": "boarder",
+    "address": "7180 Frances Drive",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544",
+    "metro": "tampa",
+    "lat": 28.2617369,
+    "lng": -82.3478076,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1068272845"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17272487874"
+  },
+  {
+    "id": "19179e7b9a96ffcf",
+    "name": "Petsville Citrus Park",
+    "category": "boarder",
+    "address": "7302 Altaloma Street",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33625",
+    "metro": "tampa",
+    "lat": 28.0792591,
+    "lng": -82.5662446,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1094770988"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "website": "https://petsvillecitruspark.com/"
+  },
+  {
+    "id": "7aff8ae19be48264",
+    "name": "Purple Pawz Pet Resort, LLC",
+    "category": "boarder",
+    "address": "10037 West Hillsborough Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33615",
+    "metro": "tampa",
+    "lat": 28.0046395,
+    "lng": -82.5969411,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11146508454"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "2dc89c4cdb8b54f8",
+    "name": "Bow Wow Barber",
+    "category": "groomer",
+    "address": "3020 Central Avenue",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33713",
+    "metro": "tampa",
+    "lat": 27.770789,
+    "lng": -82.6744644,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9290629323"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "6698b9301034935e",
+    "name": "Dandy's Pet Grooming",
+    "category": "groomer",
+    "address": "2150 1st Avenue South",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.7700215,
+    "lng": -82.6628277,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6955110879"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "4a95cccf13b61ee7",
+    "name": "Dirty Dog Self Serve Dog Wash",
+    "category": "groomer",
+    "address": "14100 Walsingham Road",
+    "city": "Largo",
+    "state": "FL",
+    "zip": "33774",
+    "metro": "tampa",
+    "lat": 27.8799238,
+    "lng": -82.8345306,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/13421902711"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17273091751"
+  },
+  {
+    "id": "7f9f9f28fe14d4f2",
+    "name": "Downtown Saint Pete Vet Clinic",
+    "category": "groomer",
+    "address": "111 2nd Avenue Northeast",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33701",
+    "metro": "tampa",
+    "lat": 27.7739587,
+    "lng": -82.6333998,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6857706675"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17272749112",
+    "website": "https://www.northeastanimalhospital.com/locations/downtown-st-pete-vet-clinic"
+  },
+  {
+    "id": "bdf348dd463a566e",
+    "name": "Fancy That Dog Grooming",
+    "category": "groomer",
+    "address": "1402 E Fletcher Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33612",
+    "metro": "tampa",
+    "lat": 28.0696638,
+    "lng": -82.4438727,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/821888936"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "4b91d060545f719b",
+    "name": "Gorgeous Growlers Grooming",
+    "category": "groomer",
+    "address": "25227 Wesley Chapel Boulevard",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33559",
+    "metro": "tampa",
+    "lat": 28.1948448,
+    "lng": -82.39976,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1188146597"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18136931227",
+    "website": "http://gorgeousgrowlersgrooming.com/"
+  },
+  {
+    "id": "6a461416358a20ba",
+    "name": "Pawtology Grooming & Pet Market",
+    "category": "groomer",
+    "address": "711 Harbour Post Dr",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602",
+    "metro": "tampa",
+    "lat": 27.939647,
+    "lng": -82.451778,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2098621366"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18133637806"
+  },
+  {
+    "id": "0bd29be086f22f05",
+    "name": "Sit Stay Splash!",
+    "category": "groomer",
+    "address": "Collier Parkway",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33549",
+    "metro": "tampa",
+    "lat": 28.183713,
+    "lng": -82.4373676,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9567134441"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18134064293",
+    "website": "https://SitStaySplash.com"
+  },
+  {
+    "id": "370b303ad05e7763",
+    "name": "Southshore Pet Grooming",
+    "category": "groomer",
+    "address": "315 Tamiami Trail",
+    "city": "Ruskin",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.7161749,
+    "lng": -82.4344469,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1044777047"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "13b76a7d2139fc99",
+    "name": "Tampa Paws Pet Salon",
+    "category": "groomer",
+    "address": "15305 Amberly Drive",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": 28.0888006,
+    "lng": -82.4052445,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9925312480"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18138667297"
+  },
+  {
+    "id": "aa172a615f7833fc",
+    "name": "The Dog & Parrot",
+    "category": "groomer",
+    "address": "19703 Gulf Boulevard",
+    "city": "Indian Shores",
+    "state": "FL",
+    "zip": "33785",
+    "metro": "tampa",
+    "lat": 27.8574727,
+    "lng": -82.8463184,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5987978017"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17275933208",
+    "website": "https://www.thedogandparrotfl.com/"
+  },
+  {
+    "id": "3a9c9f004a3c0946",
+    "name": "All Creatures Animal Hospital",
+    "category": "veterinarian",
+    "address": "Sunset Ln",
+    "city": "",
+    "state": "FL",
+    "zip": "33549",
+    "metro": "tampa",
+    "lat": 28.141928,
+    "lng": -82.461804,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2006393945"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "0ab8c32c142622eb",
+    "name": "Animal & Bird Hospital of Clearwater",
+    "category": "veterinarian",
+    "address": "2651 Sunset Point Road",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33759",
+    "metro": "tampa",
+    "lat": 27.9905616,
+    "lng": -82.7267966,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/523873674"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "be0a53999c4d6f8a",
+    "name": "Animal Health Care Clinic",
+    "category": "veterinarian",
+    "address": "2118 Drew Street",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33765",
+    "metro": "tampa",
+    "lat": 27.9683464,
+    "lng": -82.7500089,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/547137824"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17274465501",
+    "website": "http://www.animalhealthcareclinic.com/"
+  },
+  {
+    "id": "e0e82c14c292e6c8",
+    "name": "Animal Hospital of Seminole",
+    "category": "veterinarian",
+    "address": "11375 Park Boulevard North",
+    "city": "Seminole",
+    "state": "FL",
+    "zip": "33772",
+    "metro": "tampa",
+    "lat": 27.8430655,
+    "lng": -82.7965099,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/524265997"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17273933102",
+    "website": "https://seminolevet.com/"
+  },
+  {
+    "id": "b52071ec4bbaa326",
+    "name": "Animal Wellness Centre of Wesley Chapel",
+    "category": "veterinarian",
+    "address": "2710 Windguard Circle",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544",
+    "metro": "tampa",
+    "lat": 28.196063,
+    "lng": -82.3550144,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/821626505"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "75aed030a3ce5d98",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "13112 Dale Mabry Highway",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618",
+    "metro": "tampa",
+    "lat": 28.0661031,
+    "lng": -82.5061394,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6580014869"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "43267ec04a543dc9",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "11665 West Hillsborough Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33635",
+    "metro": "tampa",
+    "lat": 28.0170443,
+    "lng": -82.6145799,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7610517841"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "7ea34f55f8727151",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "973 East Bloomingdale Avenue",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.893057,
+    "lng": -82.2713023,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9316602516"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "be52f645ff75c398",
+    "name": "Banfield Pet Hospital",
+    "category": "veterinarian",
+    "address": "5424 Bruce B Downs Blvd",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33544-8616",
+    "metro": "tampa",
+    "lat": 28.2362775,
+    "lng": -82.3469806,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12198087742"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18139919408",
+    "website": "https://www.banfield.com/locations/veterinarians/fl/wesley-chapel/wyc"
+  },
+  {
+    "id": "68441a37a6fe147b",
+    "name": "Barsch Animal Clinic",
+    "category": "veterinarian",
+    "address": "9999 Plantation Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33624",
+    "metro": "tampa",
+    "lat": 28.0415962,
+    "lng": -82.5264545,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/398374202"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18139627117",
+    "website": "https://www.barschanimalclinic.com/"
+  },
+  {
+    "id": "e619c3b53868c141",
+    "name": "Baycrest Animal Clinic",
+    "category": "veterinarian",
+    "address": "5819 Memorial Highway",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33615",
+    "metro": "tampa",
+    "lat": 27.983771,
+    "lng": -82.567992,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/523042333"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18138869866",
+    "website": "https://www.baycrestanimalclinic.com/"
+  },
+  {
+    "id": "01def4095e5ecce2",
+    "name": "Beach Park Animal Clinic",
+    "category": "veterinarian",
+    "address": "4347 West Kennedy Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.945175,
+    "lng": -82.517697,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2136837022"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "2508600b603b7e9c",
+    "name": "BluePearl",
+    "category": "veterinarian",
+    "address": "West Lumsden Road",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.9235542,
+    "lng": -82.2922112,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/9923076925"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "9be1f9f7013d2a30",
+    "name": "BluePearl Veternary Partners",
+    "category": "veterinarian",
+    "address": "3000 Busch Lake Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33614",
+    "metro": "tampa",
+    "lat": 28.0354502,
+    "lng": -82.4920512,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/311061595"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18139338944",
+    "website": "https://bluepearlvet.com/florida"
+  },
+  {
+    "id": "15685c2bd9734cbe",
+    "name": "Boyette Animal Hospital",
+    "category": "veterinarian",
+    "address": "10931 Boyette Road",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33569",
+    "metro": "tampa",
+    "lat": 27.8560149,
+    "lng": -82.3210807,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/263299507"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18136713400",
+    "website": "https://www.boyetteanimalhospital.com/"
+  },
+  {
+    "id": "cd28e2b749a09855",
+    "name": "Boyette Animal Hospital Well Pet Center",
+    "category": "veterinarian",
+    "address": "Boyette Road",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33569",
+    "metro": "tampa",
+    "lat": 27.8558907,
+    "lng": -82.321905,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7118280767"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "a067b5de9c13ffab",
+    "name": "Brandon Equine Medical Center",
+    "category": "veterinarian",
+    "address": "605 East Bloomingdale Avenue",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.8920369,
+    "lng": -82.2751902,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/680663440"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18136437177",
+    "website": "https://www.brandonequine.com/"
+  },
+  {
+    "id": "4d672d37028fbbfd",
+    "name": "Care Animal Hospital",
+    "category": "veterinarian",
+    "address": "511 East Bloomingdale Avenue",
+    "city": "Brandon",
+    "state": "FL",
+    "zip": "33511",
+    "metro": "tampa",
+    "lat": 27.8931976,
+    "lng": -82.2756809,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/680645584"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18136847387",
+    "website": "http://careanimalhospital.org/"
+  },
+  {
+    "id": "83833c975dc98856",
+    "name": "Cat Hospital",
+    "category": "veterinarian",
+    "address": "Gandy Boulevard",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.867539,
+    "lng": -82.622259,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2210282586"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "544224a3ab59cb98",
+    "name": "Central Animal Hospital",
+    "category": "veterinarian",
+    "address": "4th Street North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33703",
+    "metro": "tampa",
+    "lat": 27.8160912,
+    "lng": -82.6381566,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/165477498"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "5b818ddc6f27b1a0",
+    "name": "Country Oaks Animal Hospital & Boarding Kennel",
+    "category": "veterinarian",
+    "address": "1412 Belcher Road",
+    "city": "Palm Harbor",
+    "state": "FL",
+    "zip": "34683",
+    "metro": "tampa",
+    "lat": 28.081305,
+    "lng": -82.7470979,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/522686474"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "8fbd356c611b9a3b",
+    "name": "Davis Island Animal Clinic",
+    "category": "veterinarian",
+    "address": "225 East Davis Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606",
+    "metro": "tampa",
+    "lat": 27.926809,
+    "lng": -82.4532356,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/7185557318"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18132514384",
+    "website": "https://www.davisislandanimalclinic.com/"
+  },
+  {
+    "id": "f1e6647dcb5af6e8",
+    "name": "Gandy Animal Hospital",
+    "category": "veterinarian",
+    "address": "4714 Gandy Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.8931134,
+    "lng": -82.5256064,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/211032893"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "7afda83dd7f347c7",
+    "name": "Humane Society Tampa Bay Animal Health Center",
+    "category": "veterinarian",
+    "address": "3809 North Armenia Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.9729855,
+    "lng": -82.4844858,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/296880712"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18138703304",
+    "website": "https://humanesocietytampa.org/animalhealthcenter"
+  },
+  {
+    "id": "cd4325a9512ed78f",
+    "name": "Hyde Park Veterinary Clinic",
+    "category": "veterinarian",
+    "address": "1111 W Swann Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606",
+    "metro": "tampa",
+    "lat": 27.9374785,
+    "lng": -82.4715167,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1034672827"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "website": "https://www.hydeparkvet.com/"
+  },
+  {
+    "id": "4fa00459928415f3",
+    "name": "Meadowrun Animal Hospital",
+    "category": "veterinarian",
+    "address": "804 Lithia Pinecrest Road",
+    "city": "Valrico",
+    "state": "FL",
+    "zip": "33547",
+    "metro": "tampa",
+    "lat": 27.925605,
+    "lng": -82.2730761,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/466981710"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "f54750814b86e947",
+    "name": "North Bay Animal Hospital",
+    "category": "veterinarian",
+    "address": "9801 West Hillsborough Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.0028144,
+    "lng": -82.5953626,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1103200000"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "28cd1ef2f2f95930",
+    "name": "Northeast Animal Hospital",
+    "category": "veterinarian",
+    "address": "1401 4th Street North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33704",
+    "metro": "tampa",
+    "lat": 27.7860733,
+    "lng": -82.6381246,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/251522491"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17278228501",
+    "website": "https://www.northeastanimalhospital.com/"
+  },
+  {
+    "id": "59e1192a31d3df80",
+    "name": "Park Animal Hospital",
+    "category": "veterinarian",
+    "address": "66th Street North",
+    "city": "Pinellas Park",
+    "state": "FL",
+    "zip": "33782",
+    "metro": "tampa",
+    "lat": 27.845166,
+    "lng": -82.728139,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/532401182"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "d25542339e6cb315",
+    "name": "Partridge Animal Hospital",
+    "category": "veterinarian",
+    "address": "6920 4th Street North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33702",
+    "metro": "tampa",
+    "lat": 27.835299,
+    "lng": -82.639025,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5388221405"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17275268700",
+    "website": "https://partridgeah.com/services/"
+  },
+  {
+    "id": "d172a80559eaa0c0",
+    "name": "Pasadena Veterinary Hospital",
+    "category": "veterinarian",
+    "address": "7000 Central Avenue",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.7705735,
+    "lng": -82.7355374,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/192532723"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17273813739"
+  },
+  {
+    "id": "09935cba24e6f8e2",
+    "name": "Pebble Creek Animal Hospital",
+    "category": "veterinarian",
+    "address": "19440 Bruce B Downs Boulevard",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": 28.1510878,
+    "lng": -82.3540679,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/547132156"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18135796876",
+    "website": "http://www.tampabayvets.net/location/pebble-creek/"
+  },
+  {
+    "id": "1d7e649941ea5b38",
+    "name": "Pinellas Animal Hospital",
+    "category": "veterinarian",
+    "address": "7791 52nd Street North",
+    "city": "Pinellas Park",
+    "state": "FL",
+    "zip": "33781",
+    "metro": "tampa",
+    "lat": 27.8426677,
+    "lng": -82.7037232,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10224946347"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17275460005"
+  },
+  {
+    "id": "56332fb61ab7b5c6",
+    "name": "Seminole Boulevard Animal Hospital",
+    "category": "veterinarian",
+    "address": "Seminole Boulevard",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 27.8826756,
+    "lng": -82.7879495,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2846173066"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "da006b2dbd71de17",
+    "name": "Sunshine Animal Hospital",
+    "category": "veterinarian",
+    "address": "2807 Gulf to Bay Boulevard",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33759",
+    "metro": "tampa",
+    "lat": 27.9602127,
+    "lng": -82.7212444,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/1772767809"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+17277917242",
+    "website": "https://www.sunshineanimal.com/"
+  },
+  {
+    "id": "9c840431fbdafe7a",
+    "name": "VCA Animal Hospital",
+    "category": "veterinarian",
+    "address": "62nd Avenue North",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33781",
+    "metro": "tampa",
+    "lat": 27.827941,
+    "lng": -82.661148,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/2015039339"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false
+  },
+  {
+    "id": "7bd1bf58543baafa",
+    "name": "VCA Cypress Creek Animal Hospital",
+    "category": "veterinarian",
+    "address": "25227 Wesley Chapel Boulevard",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33559",
+    "metro": "tampa",
+    "lat": 28.194967,
+    "lng": -82.3998464,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1188146596"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18139493045",
+    "website": "https://vcahospitals.com/cypress-creek"
+  },
+  {
+    "id": "8b5d3de0d54c7304",
+    "name": "Wellswood Midtown Animal Hospital",
+    "category": "veterinarian",
+    "address": "4145 North Armenia Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33607",
+    "metro": "tampa",
+    "lat": 27.978073,
+    "lng": -82.4844485,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/372265312"
+    },
+    "lastSeenAt": "2026-04-18T16:33:36Z",
+    "claimed": false,
+    "phone": "+18138771979",
+    "website": "http://wellswoodah.com/"
+  }
+]

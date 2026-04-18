@@ -1,0 +1,514 @@
+[
+  {
+    "id": "69d79ea849fd0542",
+    "name": "Airport Kennel Company",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "21 Redmond Drive",
+    "city": "Fletcher",
+    "state": "NC",
+    "zip": "28732",
+    "metro": "asheville",
+    "lat": 35.4437353,
+    "lng": -82.5298301,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/604317539"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "bcb7c00124a99018",
+    "name": "Mills River Dog Camp",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.4088723,
+    "lng": -82.5544416,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12742154088"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "6d4352ac315f2c3a",
+    "name": "Ruff Life Dog Training Services",
+    "category": "boarder",
+    "subcategories": null,
+    "address": "803 Fairview Street",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28803",
+    "metro": "asheville",
+    "lat": 35.5504694,
+    "lng": -82.5358973,
+    "phone": null,
+    "website": "https://www.rufflifeavl.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1215496182"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "6fe60f23b2e87c40",
+    "name": "Shear & Shine",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.6413524,
+    "lng": -82.5787443,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/5761064577"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "676716c4d84765ef",
+    "name": "Top Dog Kennel",
+    "category": "groomer",
+    "subcategories": null,
+    "address": "12 Cavalier Ln",
+    "city": "Swannanoa",
+    "state": "NC",
+    "zip": "28778",
+    "metro": "asheville",
+    "lat": 35.6041012,
+    "lng": -82.3826662,
+    "phone": "+18286863175",
+    "website": "https://ashevillekennel.com",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11222309476"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": {
+      "raw": "Mo-Sa 08:00-18:00, Su 15:00-18:00"
+    },
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "02179ae319cf9e0e",
+    "name": "All Pets Animal Hospital & Rehabilitation Center",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "7 Reynolds Mountain Boulevard",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28804",
+    "metro": "asheville",
+    "lat": 35.6456981,
+    "lng": -82.5785191,
+    "phone": "+18286455252",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1327400825"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "3dd4f32244e7e019",
+    "name": "Allen Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "24 Critter Trail",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.7086675,
+    "lng": -82.5584004,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/685988193"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "571f6bacef4a5722",
+    "name": "Animal Hospital East",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "1275 Tunnel Road",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28805",
+    "metro": "asheville",
+    "lat": 35.5846937,
+    "lng": -82.4736506,
+    "phone": "+18282986585",
+    "website": "http://animalhospitaleast.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/913637491"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": {
+      "raw": "Mo-Fr 07:30-17:30; Sa 08:30-12:30; Su off"
+    },
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "4a5b17eee7419760",
+    "name": "Animal Hospital of North Asheville",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.6292753,
+    "lng": -82.552182,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/684487531"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "a97adbd765780464",
+    "name": "Appalachian Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "29 Monticello Road",
+    "city": "Weaverville",
+    "state": "NC",
+    "zip": "28787",
+    "metro": "asheville",
+    "lat": 35.7121817,
+    "lng": -82.5643953,
+    "phone": "+18286588989",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/683257442"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "f72b5bf291d23cd1",
+    "name": "Beacon Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "101 Whitson Avenue",
+    "city": "Swannanoa",
+    "state": "NC",
+    "zip": "28778",
+    "metro": "asheville",
+    "lat": 35.6018235,
+    "lng": -82.3973989,
+    "phone": "+18286863828",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10640795475"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "f8e123f49da4c88f",
+    "name": "Candler Veterinary Clinic, PA",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "911 Smokey Park Highway",
+    "city": "Candler",
+    "state": "NC",
+    "zip": "28715",
+    "metro": "asheville",
+    "lat": 35.5466439,
+    "lng": -82.6576352,
+    "phone": "+18286670247",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/6670337105"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "8e9fc24f8870e6f5",
+    "name": "Cedar Ridge Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "184 Charlotte Highway",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28803",
+    "metro": "asheville",
+    "lat": 35.5521926,
+    "lng": -82.4748855,
+    "phone": "+18285752430",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/764138939"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "a91f52ad2503502c",
+    "name": "Fairview Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "867 Charlotte Highway",
+    "city": "Fairview",
+    "state": "NC",
+    "zip": "28730",
+    "metro": "asheville",
+    "lat": 35.5418378,
+    "lng": -82.441141,
+    "phone": "+18286283557",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10284637849"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "d1ebb4a4952675b6",
+    "name": "Swannanoa Valley Animal Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2580 US-70",
+    "city": "Swannanoa",
+    "state": "NC",
+    "zip": "28778",
+    "metro": "asheville",
+    "lat": 35.6015765,
+    "lng": -82.3840367,
+    "phone": "+18282991433",
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/10925174762"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "16f58b9e33af7e9b",
+    "name": "The Animal Hospital at Reems Creek",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "32 Reems Creek Road",
+    "city": "",
+    "state": "NC",
+    "zip": "",
+    "metro": "asheville",
+    "lat": 35.6818677,
+    "lng": -82.569213,
+    "phone": null,
+    "website": null,
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1231070967"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": null,
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "543e6de850c830eb",
+    "name": "West Asheville Family Vet",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "547 Haywood Road",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806",
+    "metro": "asheville",
+    "lat": 35.5788032,
+    "lng": -82.5857209,
+    "phone": null,
+    "website": "https://westashevillefamilyvet.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1084449300"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": {
+      "raw": "Mo-Fr 07:30-17:30; Sa 8:00-13:00"
+    },
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  },
+  {
+    "id": "ecf7915fc334f679",
+    "name": "WNC Veterinary Hospital",
+    "category": "veterinarian",
+    "subcategories": null,
+    "address": "2 Pond Street",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704",
+    "metro": "asheville",
+    "lat": 35.4837454,
+    "lng": -82.5235206,
+    "phone": "+18286843531",
+    "website": "https://www.wncveterinaryhospital.com/",
+    "email": null,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/616192817"
+    },
+    "lastSeenAt": "2026-04-18T16:42:41Z",
+    "hours": {
+      "raw": "Mo,We,Fr 07:30-17:00; Tu,Th 07:30-19:00; Sa 08:00-12:00"
+    },
+    "description": null,
+    "tags": null,
+    "claimed": false,
+    "claimedAt": null
+  }
+]
