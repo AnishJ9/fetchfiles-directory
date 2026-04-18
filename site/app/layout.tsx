@@ -15,6 +15,13 @@ export const metadata: Metadata = {
     description:
       "Find vets, groomers, boarders, daycares, and sitters across five metros.",
     type: "website",
+    siteName: "Fetch Directory",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Fetch Directory — Find your pet's people",
+    description:
+      "Vets, groomers, boarders, daycares, and sitters across five metros.",
   },
 };
 
