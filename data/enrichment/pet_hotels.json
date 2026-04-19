@@ -16,7 +16,7 @@
     "sourceIds": {
       "osm": "node/4574615167"
     },
-    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "lastSeenAt": "2026-04-19T00:11:19Z",
     "claimed": false,
     "phone": "+17708869936",
     "website": "http://pawsparesort.org"
@@ -38,7 +38,7 @@
     "sourceIds": {
       "osm": "node/12120908799"
     },
-    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "lastSeenAt": "2026-04-19T00:11:19Z",
     "claimed": false
   },
   {
@@ -58,7 +58,7 @@
     "sourceIds": {
       "osm": "way/106709214"
     },
-    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "lastSeenAt": "2026-04-19T00:11:19Z",
     "claimed": false,
     "phone": "+16785600880",
     "website": "https://www.bestfriendspetcare.com/location/marietta-ga",
@@ -83,7 +83,7 @@
     "sourceIds": {
       "osm": "node/11146508454"
     },
-    "lastSeenAt": "2026-04-18T23:55:08Z",
+    "lastSeenAt": "2026-04-19T00:11:26Z",
     "claimed": false
   },
   {
@@ -103,7 +103,7 @@
     "sourceIds": {
       "osm": "way/1464118689"
     },
-    "lastSeenAt": "2026-04-18T23:55:08Z",
+    "lastSeenAt": "2026-04-19T00:11:26Z",
     "claimed": false
   },
   {
@@ -123,7 +123,7 @@
     "sourceIds": {
       "osm": "node/12228545449"
     },
-    "lastSeenAt": "2026-04-18T23:55:45Z",
+    "lastSeenAt": "2026-04-19T00:12:16Z",
     "claimed": false,
     "phone": "+15129305365",
     "website": "https://countrysidepetresort.com/",
@@ -131,5 +131,255 @@
     "hours": {
       "raw": "Su 16:00-18:00, Mo-Fr 07:00-13:00,15:00-18:00, Sa 08:00-12:00"
     }
+  },
+  {
+    "id": "a5e520253cd354d2",
+    "name": "K9 Resorts Luxury Pet Hotel Gallatin",
+    "category": "pet_hotel",
+    "address": "2021 Gorden Crossing",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066",
+    "metro": "nashville",
+    "lat": 36.3424976,
+    "lng": -86.5291454,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "k9_resorts",
+      "storeId": "gallatin"
+    },
+    "lastSeenAt": "2026-04-19T00:12:36Z",
+    "claimed": false,
+    "phone": "+16159038894",
+    "website": "https://www.k9resorts.com/gallatin/"
+  },
+  {
+    "id": "a65685e185a59520",
+    "name": "K9 Resorts Luxury Pet Hotel Suwanee",
+    "category": "pet_hotel",
+    "address": "300 Peachtree Industrial Pkwy",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.0660224,
+    "lng": -84.0705404,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "k9_resorts",
+      "storeId": "suwanee"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "website": "https://www.k9resorts.com/suwanee/"
+  },
+  {
+    "id": "3be200efef030e10",
+    "name": "Hounds Town Conyers",
+    "category": "pet_hotel",
+    "address": "1381 Iris Drive Southeast",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30013",
+    "metro": "atlanta",
+    "lat": 33.6679,
+    "lng": -84.0177,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-conyers"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14704867333",
+    "website": "https://houndstownusa.com/locations/atlanta-conyers/"
+  },
+  {
+    "id": "9dc7fa56d28a3bc2",
+    "name": "Hounds Town Alpharetta",
+    "category": "pet_hotel",
+    "address": "2610 Holcomb Bridge Rd, Suite 100",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 34.0754,
+    "lng": -84.2941,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "roswell"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14707191779",
+    "website": "https://houndstownusa.com/locations/roswell/"
+  },
+  {
+    "id": "c13e8dd053038eb5",
+    "name": "Hounds Town Smyrna",
+    "category": "pet_hotel",
+    "address": "1810 Spring Rd, Unit 5",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8839,
+    "lng": -84.5144,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-sandy-springs"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+17706742226",
+    "website": "https://houndstownusa.com/locations/atlanta-sandy-springs/"
+  },
+  {
+    "id": "90411387cb1f820b",
+    "name": "Hounds Town Lithia Springs",
+    "category": "pet_hotel",
+    "address": "685 Thornton Way suite B",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "zip": "30122",
+    "metro": "atlanta",
+    "lat": 33.7998,
+    "lng": -84.6532,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-smyrna"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+16782174127",
+    "website": "https://houndstownusa.com/locations/atlanta-smyrna/"
+  },
+  {
+    "id": "13f23590d469a16b",
+    "name": "Hounds Town Stone Mountain",
+    "category": "pet_hotel",
+    "address": "1899 Parker Court",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30087",
+    "metro": "atlanta",
+    "lat": 33.8081,
+    "lng": -84.1702,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "lithia-springs"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14704502275",
+    "website": "https://houndstownusa.com/locations/lithia-springs/"
+  },
+  {
+    "id": "cbbf5b638c12a3a5",
+    "name": "Hounds Town Leander",
+    "category": "pet_hotel",
+    "address": "10181 East Crystal Falls Pkwy, Ste 102",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5788,
+    "lng": -97.8531,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "houston-the-woodlands"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+19362793660",
+    "website": "https://houndstownusa.com/locations/houston-the-woodlands/"
+  },
+  {
+    "id": "9134589c50ba52c3",
+    "name": "Hounds Town Gallatin",
+    "category": "pet_hotel",
+    "address": "203 W Main St.",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066",
+    "metro": "nashville",
+    "lat": 36.3881,
+    "lng": -86.4467,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "gallatin"
+    },
+    "lastSeenAt": "2026-04-19T00:12:39Z",
+    "claimed": false,
+    "phone": "+16158992275",
+    "website": "https://houndstownusa.com/locations/gallatin/"
+  },
+  {
+    "id": "6c318214d4a2774f",
+    "name": "Best Friends Pet Hotel Marietta",
+    "category": "pet_hotel",
+    "address": "1087 Johnson Ferry Road",
+    "city": "N.E. Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.907201,
+    "lng": -84.352633,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "best_friends",
+      "storeId": "marietta"
+    },
+    "lastSeenAt": "2026-04-19T00:12:41Z",
+    "claimed": false,
+    "website": "https://bestfriendspetcare.com/locations/marietta/"
+  },
+  {
+    "id": "69c5a1d136d1e42d",
+    "name": "Best Friends Pet Hotel Ruff House Dog Resort",
+    "category": "pet_hotel",
+    "address": "640 Dorris Rd",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.109269,
+    "lng": -84.342556,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "best_friends",
+      "storeId": "ruff-house-dog-resort"
+    },
+    "lastSeenAt": "2026-04-19T00:12:42Z",
+    "claimed": false,
+    "website": "https://bestfriendspetcare.com/locations/ruff-house-dog-resort/"
   }
 ]

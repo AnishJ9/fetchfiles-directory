@@ -26421,8 +26421,8 @@
     "description": "Leave your pet in expert hands at Pet Paradise Wesley Chapel, offering premium boarding suites, grooming, doggy daycare and 24/7 TLC from a caring staff."
   },
   {
-    "id": "16c2dd2814567590",
-    "name": "Dog Grooming in Belleair Bluffs",
+    "id": "50b528dcfdd1e152",
+    "name": "Woof Gang Bakery - Belleair Bluffs",
     "category": "pet_cafe",
     "address": "2919 West Bay Drive",
     "city": "Belleair Bluffs",
@@ -26438,14 +26438,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "belleair-bluffs"
     },
-    "lastSeenAt": "2026-04-18T23:54:47Z",
+    "lastSeenAt": "2026-04-18T23:58:11Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/belleair-bluffs",
     "phone": "+17276370177"
   },
   {
-    "id": "b2edec1744806f2c",
-    "name": "Dog Grooming in St. Pete",
+    "id": "cf67401d703ba307",
+    "name": "Woof Gang Bakery - St Pete",
     "category": "pet_cafe",
     "address": "1504 66th St. N",
     "city": "St. Petersburg",
@@ -26461,14 +26461,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "st-pete"
     },
-    "lastSeenAt": "2026-04-18T23:54:48Z",
+    "lastSeenAt": "2026-04-18T23:58:12Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/st-pete",
     "phone": "+17272130804"
   },
   {
-    "id": "81f250df01fadc4f",
-    "name": "Dog Grooming in Wesley Chapel",
+    "id": "8b0b99adcfdb6a21",
+    "name": "Woof Gang Bakery - Wesleychapel",
     "category": "pet_cafe",
     "address": "25912 Sierra Center Boulevard",
     "city": "Lutz",
@@ -26486,14 +26486,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "wesleychapel"
     },
-    "lastSeenAt": "2026-04-18T23:55:10Z",
+    "lastSeenAt": "2026-04-18T23:58:16Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/wesleychapel",
     "phone": "+18133882010"
   },
   {
-    "id": "b3a593be1b68fd26",
-    "name": "Dog Grooming in New Tampa",
+    "id": "0c89a6a71263f4b2",
+    "name": "Woof Gang Bakery - New Tampa",
     "category": "pet_cafe",
     "address": "8634 Hunters Village Road",
     "city": "Tampa",
@@ -26509,14 +26509,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "new-tampa"
     },
-    "lastSeenAt": "2026-04-18T23:55:11Z",
+    "lastSeenAt": "2026-04-18T23:58:17Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/new-tampa",
     "phone": "+18133458468"
   },
   {
-    "id": "5ec1b497c756e799",
-    "name": "Dog Grooming in Bellevue",
+    "id": "a8a4457ad344579f",
+    "name": "Woof Gang Bakery - Bellevue",
     "category": "pet_cafe",
     "address": "8026 Highway 100",
     "city": "Nashville",
@@ -26532,13 +26532,13 @@
       "chain": "woof_gang_bakery",
       "storeId": "bellevue"
     },
-    "lastSeenAt": "2026-04-18T23:55:24Z",
+    "lastSeenAt": "2026-04-18T23:58:21Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/bellevue"
   },
   {
-    "id": "e626e0126aee60d3",
-    "name": "Dog Grooming in Peachtree City",
+    "id": "d355696f87fca812",
+    "name": "Woof Gang Bakery - Peachtree City",
     "category": "pet_cafe",
     "address": "156 Peachtree East Shopping Center",
     "city": "Peachtree City",
@@ -26554,14 +26554,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "peachtree-city"
     },
-    "lastSeenAt": "2026-04-18T23:55:25Z",
+    "lastSeenAt": "2026-04-18T23:58:21Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/peachtree-city",
     "phone": "+14049059128"
   },
   {
-    "id": "1117d786567faea6",
-    "name": "Dog Grooming in Avalon Park",
+    "id": "15eb121f646f6476",
+    "name": "Woof Gang Bakery - Avalon Park",
     "category": "pet_cafe",
     "address": "4424 Friendly WaySuite 150",
     "city": "Wesley Chapel",
@@ -26577,14 +26577,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "avalon-park"
     },
-    "lastSeenAt": "2026-04-18T23:55:29Z",
+    "lastSeenAt": "2026-04-18T23:58:22Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/avalon-park",
     "phone": "+18138259663"
   },
   {
-    "id": "a2c63db96b837b97",
-    "name": "Dog Grooming in Suwanee",
+    "id": "90d6cb6a20455ab5",
+    "name": "Woof Gang Bakery - Suwanee",
     "category": "pet_cafe",
     "address": "991 Peachtree Industrial Blvd.",
     "city": "Suwanee",
@@ -26600,14 +26600,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "suwanee"
     },
-    "lastSeenAt": "2026-04-18T23:55:47Z",
+    "lastSeenAt": "2026-04-18T23:58:29Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/suwanee",
     "phone": "+16789263405"
   },
   {
-    "id": "02ee726d70a9a51a",
-    "name": "Dog Grooming in Feather Sound",
+    "id": "e70f0e9230d7daa7",
+    "name": "Woof Gang Bakery - Feather Sound",
     "category": "pet_cafe",
     "address": "2661 Ulmerton Road",
     "city": "Clearwater",
@@ -26623,14 +26623,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "feather-sound"
     },
-    "lastSeenAt": "2026-04-18T23:55:52Z",
+    "lastSeenAt": "2026-04-18T23:58:30Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/feather-sound",
     "phone": "+17272891234"
   },
   {
-    "id": "6a1cf42aeb6d1213",
-    "name": "Dog Grooming in Ashley Park",
+    "id": "2461913a438161c5",
+    "name": "Woof Gang Bakery - Ashley Park",
     "category": "pet_cafe",
     "address": "358-B Newnan Crossing Bypass",
     "city": "Newnan",
@@ -26646,14 +26646,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "ashley-park"
     },
-    "lastSeenAt": "2026-04-18T23:56:03Z",
+    "lastSeenAt": "2026-04-18T23:58:33Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/ashley-park",
     "phone": "+16783261921"
   },
   {
-    "id": "2524ac7219161a35",
-    "name": "Dog Grooming in South Tampa",
+    "id": "73536ccc5d1e3743",
+    "name": "Woof Gang Bakery - South Tampa",
     "category": "pet_cafe",
     "address": "1714 S. Dale Mabry Hwy",
     "city": "Tampa",
@@ -26669,14 +26669,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "south-tampa"
     },
-    "lastSeenAt": "2026-04-18T23:56:05Z",
+    "lastSeenAt": "2026-04-18T23:58:33Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/south-tampa",
     "phone": "+18135706194"
   },
   {
-    "id": "07ef71efd8d2e630",
-    "name": "Dog Grooming in The Works ATL",
+    "id": "86db2d1900ff3862",
+    "name": "Woof Gang Bakery - The Works Atl",
     "category": "pet_cafe",
     "address": "210 Chattahoochee Row NW",
     "city": "Atlanta",
@@ -26692,14 +26692,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "the-works-atl"
     },
-    "lastSeenAt": "2026-04-18T23:56:15Z",
+    "lastSeenAt": "2026-04-18T23:58:37Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/the-works-atl",
     "phone": "+14044104420"
   },
   {
-    "id": "0cd192a0deb6c64f",
-    "name": "Dog Grooming in Smyrna",
+    "id": "753ab557b78d1b0c",
+    "name": "Woof Gang Bakery - Smyrna",
     "category": "pet_cafe",
     "address": "4500 West Village Place",
     "city": "Smyrna",
@@ -26715,14 +26715,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "smyrna"
     },
-    "lastSeenAt": "2026-04-18T23:56:16Z",
+    "lastSeenAt": "2026-04-18T23:58:37Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/smyrna",
     "phone": "+14705238523"
   },
   {
-    "id": "1f613062a57a1cdd",
-    "name": "Dog Grooming in Valrico",
+    "id": "d44849e7e0f9dafd",
+    "name": "Woof Gang Bakery - Valrico",
     "category": "pet_cafe",
     "address": "3425 Lithia Pinecrest Rd.",
     "city": "Valrico",
@@ -26738,14 +26738,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "valrico"
     },
-    "lastSeenAt": "2026-04-18T23:56:21Z",
+    "lastSeenAt": "2026-04-18T23:58:39Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/valrico",
     "phone": "+18133247125"
   },
   {
-    "id": "baa3258582703fe9",
-    "name": "Dog Grooming in Westlake",
+    "id": "6c7aa544c3e0a97f",
+    "name": "Woof Gang Bakery - Westlake",
     "category": "pet_cafe",
     "address": "701 Capital of Texas Hwy South\nSuite D450",
     "city": "Austin",
@@ -26761,14 +26761,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "westlake"
     },
-    "lastSeenAt": "2026-04-18T23:56:32Z",
+    "lastSeenAt": "2026-04-18T23:58:42Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/westlake",
     "phone": "+15123299663"
   },
   {
-    "id": "658999b2303adab3",
-    "name": "Dog Grooming in Mueller",
+    "id": "a2d4d6194ad508a9",
+    "name": "Woof Gang Bakery - Mueller",
     "category": "pet_cafe",
     "address": "1911 Aldrich Street\nSuite 180",
     "city": "Austin",
@@ -26784,14 +26784,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "mueller"
     },
-    "lastSeenAt": "2026-04-18T23:56:36Z",
+    "lastSeenAt": "2026-04-18T23:58:44Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/mueller",
     "phone": "+15129538480"
   },
   {
-    "id": "f50b1fca607f3912",
-    "name": "Dog Grooming in Round Rock",
+    "id": "aabf601c7c489930",
+    "name": "Woof Gang Bakery - Round Rock",
     "category": "pet_cafe",
     "address": "1900 University Blvd. \nSuite 230",
     "city": "Round Rock",
@@ -26807,14 +26807,14 @@
       "chain": "woof_gang_bakery",
       "storeId": "round-rock"
     },
-    "lastSeenAt": "2026-04-18T23:56:37Z",
+    "lastSeenAt": "2026-04-18T23:58:44Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/round-rock",
     "phone": "+15129049663"
   },
   {
-    "id": "70b2f76e14233bf8",
-    "name": "Dog Grooming in Westchase",
+    "id": "06aafad458f6b28f",
+    "name": "Woof Gang Bakery - Westchase",
     "category": "pet_cafe",
     "address": "9654 W. Linebaugh Avenue",
     "city": "Tampa",
@@ -26830,10 +26830,260 @@
       "chain": "woof_gang_bakery",
       "storeId": "westchase"
     },
-    "lastSeenAt": "2026-04-18T23:56:39Z",
+    "lastSeenAt": "2026-04-18T23:58:45Z",
     "claimed": false,
     "website": "https://woofgangbakery.com/pages/locations/westchase",
     "phone": "+18137496363"
+  },
+  {
+    "id": "a5e520253cd354d2",
+    "name": "K9 Resorts Luxury Pet Hotel Gallatin",
+    "category": "pet_hotel",
+    "address": "2021 Gorden Crossing",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066",
+    "metro": "nashville",
+    "lat": 36.3424976,
+    "lng": -86.5291454,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "k9_resorts",
+      "storeId": "gallatin"
+    },
+    "lastSeenAt": "2026-04-19T00:12:36Z",
+    "claimed": false,
+    "phone": "+16159038894",
+    "website": "https://www.k9resorts.com/gallatin/"
+  },
+  {
+    "id": "a65685e185a59520",
+    "name": "K9 Resorts Luxury Pet Hotel Suwanee",
+    "category": "pet_hotel",
+    "address": "300 Peachtree Industrial Pkwy",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": 34.0660224,
+    "lng": -84.0705404,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "k9_resorts",
+      "storeId": "suwanee"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "website": "https://www.k9resorts.com/suwanee/"
+  },
+  {
+    "id": "3be200efef030e10",
+    "name": "Hounds Town Conyers",
+    "category": "pet_hotel",
+    "address": "1381 Iris Drive Southeast",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30013",
+    "metro": "atlanta",
+    "lat": 33.6679,
+    "lng": -84.0177,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-conyers"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14704867333",
+    "website": "https://houndstownusa.com/locations/atlanta-conyers/"
+  },
+  {
+    "id": "9dc7fa56d28a3bc2",
+    "name": "Hounds Town Alpharetta",
+    "category": "pet_hotel",
+    "address": "2610 Holcomb Bridge Rd, Suite 100",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30022",
+    "metro": "atlanta",
+    "lat": 34.0754,
+    "lng": -84.2941,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "roswell"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14707191779",
+    "website": "https://houndstownusa.com/locations/roswell/"
+  },
+  {
+    "id": "c13e8dd053038eb5",
+    "name": "Hounds Town Smyrna",
+    "category": "pet_hotel",
+    "address": "1810 Spring Rd, Unit 5",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": 33.8839,
+    "lng": -84.5144,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-sandy-springs"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+17706742226",
+    "website": "https://houndstownusa.com/locations/atlanta-sandy-springs/"
+  },
+  {
+    "id": "90411387cb1f820b",
+    "name": "Hounds Town Lithia Springs",
+    "category": "pet_hotel",
+    "address": "685 Thornton Way suite B",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "zip": "30122",
+    "metro": "atlanta",
+    "lat": 33.7998,
+    "lng": -84.6532,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "atlanta-smyrna"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+16782174127",
+    "website": "https://houndstownusa.com/locations/atlanta-smyrna/"
+  },
+  {
+    "id": "13f23590d469a16b",
+    "name": "Hounds Town Stone Mountain",
+    "category": "pet_hotel",
+    "address": "1899 Parker Court",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30087",
+    "metro": "atlanta",
+    "lat": 33.8081,
+    "lng": -84.1702,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "lithia-springs"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+14704502275",
+    "website": "https://houndstownusa.com/locations/lithia-springs/"
+  },
+  {
+    "id": "cbbf5b638c12a3a5",
+    "name": "Hounds Town Leander",
+    "category": "pet_hotel",
+    "address": "10181 East Crystal Falls Pkwy, Ste 102",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641",
+    "metro": "austin",
+    "lat": 30.5788,
+    "lng": -97.8531,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "houston-the-woodlands"
+    },
+    "lastSeenAt": "2026-04-19T00:12:38Z",
+    "claimed": false,
+    "phone": "+19362793660",
+    "website": "https://houndstownusa.com/locations/houston-the-woodlands/"
+  },
+  {
+    "id": "9134589c50ba52c3",
+    "name": "Hounds Town Gallatin",
+    "category": "pet_hotel",
+    "address": "203 W Main St.",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066",
+    "metro": "nashville",
+    "lat": 36.3881,
+    "lng": -86.4467,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "hounds_town",
+      "storeId": "gallatin"
+    },
+    "lastSeenAt": "2026-04-19T00:12:39Z",
+    "claimed": false,
+    "phone": "+16158992275",
+    "website": "https://houndstownusa.com/locations/gallatin/"
+  },
+  {
+    "id": "6c318214d4a2774f",
+    "name": "Best Friends Pet Hotel Marietta",
+    "category": "pet_hotel",
+    "address": "1087 Johnson Ferry Road",
+    "city": "N.E. Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.907201,
+    "lng": -84.352633,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "best_friends",
+      "storeId": "marietta"
+    },
+    "lastSeenAt": "2026-04-19T00:12:41Z",
+    "claimed": false,
+    "website": "https://bestfriendspetcare.com/locations/marietta/"
+  },
+  {
+    "id": "69c5a1d136d1e42d",
+    "name": "Best Friends Pet Hotel Ruff House Dog Resort",
+    "category": "pet_hotel",
+    "address": "640 Dorris Rd",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004",
+    "metro": "atlanta",
+    "lat": 34.109269,
+    "lng": -84.342556,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "best_friends",
+      "storeId": "ruff-house-dog-resort"
+    },
+    "lastSeenAt": "2026-04-19T00:12:42Z",
+    "claimed": false,
+    "website": "https://bestfriendspetcare.com/locations/ruff-house-dog-resort/"
   },
   {
     "id": "4f22f4723401cb88",

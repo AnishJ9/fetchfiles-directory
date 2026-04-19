@@ -12,6 +12,9 @@ import {
 } from "@/types/listing";
 import { getListingsByMetroCategory } from "@/lib/data";
 import { CategoryListings } from "./CategoryListings";
+import { CategoryGuide } from "@/components/CategoryGuide";
+import { CategoryIntro } from "@/components/CategoryIntro";
+import { EmptyState } from "@/components/EmptyState";
 import { FetchFilesCTA } from "@/components/FetchFilesCTA";
 
 export function generateStaticParams() {
@@ -53,7 +56,6 @@ export default function CategoryPage({
   const mLabel = METRO_LABELS[metro];
   const cLabel = CATEGORY_LABELS[category];
 
-  // Pull all unique subcategories for client-side filter UI
   const subSet = new Set<string>();
   for (const l of listings) {
     for (const s of l.subcategories ?? []) subSet.add(s);
@@ -76,13 +78,24 @@ export default function CategoryPage({
         <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight text-ink-900">
           {cLabel} in {mLabel}
         </h1>
-        <p className="mt-2 text-ink-500">
+        <CategoryIntro category={category} />
+        <p className="mt-3 text-sm text-ink-500">
           {listings.length} listing{listings.length === 1 ? "" : "s"}
         </p>
       </section>
 
-      <section className="mx-auto max-w-6xl px-4 pb-12">
-        <CategoryListings listings={listings} subcategories={subs} />
+      <section className="mx-auto max-w-6xl px-4 pb-10 grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div className="lg:col-span-2">
+          {listings.length === 0 ? (
+            <EmptyState category={category} metro={metro} />
+          ) : (
+            <CategoryListings listings={listings} subcategories={subs} />
+          )}
+        </div>
+        <aside className="space-y-4">
+          <CategoryGuide category={category} />
+          <FetchFilesCTA variant="card" />
+        </aside>
       </section>
 
       <FetchFilesCTA />

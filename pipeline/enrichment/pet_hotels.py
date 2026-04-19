@@ -574,6 +574,10 @@ def fetch_osm() -> list[dict]:
         print(f"[osm] {metro} bbox={bbox}", flush=True)
         data = _post_overpass(_overpass_query(bbox))
         if not data:
+            print(f"[osm] retrying {metro} after 5s", flush=True)
+            time.sleep(5)
+            data = _post_overpass(_overpass_query(bbox))
+        if not data:
             print(f"[osm] no data for {metro}", flush=True)
             continue
         elements = data.get("elements") or []
@@ -759,7 +763,7 @@ def _ht_parse_state_page(html: str, default_state: str) -> list[dict]:
         re.IGNORECASE,
     )
     # Grab all location slug occurrences + their positions.
-    positions = [(m.start(), m.group(2)) for m in re.finditer(
+    positions = [(m.start(), m.group(1)) for m in re.finditer(
         r'href="https?://houndstownusa\.com/locations/([a-z0-9-]+)/"', html)]
     if not positions:
         return results
@@ -795,19 +799,23 @@ def _ht_parse_state_page(html: str, default_state: str) -> list[dict]:
         seen_addrs.add(key)
         unique_addrs.append((pos, a))
 
-    # For each slug, pick nearest preceding or following address.
+    # Greedy bipartite pairing: each address assigned to at most one slug.
+    # For each slug (in page order), pick the closest NOT-YET-USED address.
+    used_addr_idx: set[int] = set()
     for pos, slug in unique_slugs:
-        best = None
+        best_idx = None
         best_dist = 10**9
-        for apos, addr in unique_addrs:
+        for i, (apos, addr) in enumerate(unique_addrs):
+            if i in used_addr_idx:
+                continue
             d = abs(apos - pos)
             if d < best_dist:
                 best_dist = d
-                best = (apos, addr)
-        if not best:
+                best_idx = i
+        if best_idx is None:
             continue
-        apos, addr_full = best
-        # Parse components.
+        used_addr_idx.add(best_idx)
+        apos, addr_full = unique_addrs[best_idx]
         am = re.match(r'(.+?),\s*([A-Z][A-Za-z .]+?),\s*([A-Z]{2})\s*(\d{5})', addr_full.strip())
         if not am:
             continue
