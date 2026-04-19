@@ -33,7 +33,18 @@ LISTINGS_OUT = REPO / "data" / "listings.json"
 STATS_OUT = REPO / "data" / "stats.json"
 
 METROS = ["atlanta", "tampa", "austin", "nashville", "asheville"]
-CATEGORIES = ["veterinarian", "groomer", "boarder", "daycare", "sitter", "shelter"]
+CATEGORIES = [
+    "veterinarian",
+    "groomer",
+    "boarder",
+    "daycare",
+    "sitter",
+    "shelter",
+    "pet_hotel",
+    "dog_park",
+    "pet_cafe",
+    "pet_memorial",
+]
 
 NAME_THRESHOLD = 0.88
 GEO_THRESHOLD_M = 100.0
@@ -67,6 +78,15 @@ def name_ratio(a: str, b: str) -> float:
     return SequenceMatcher(None, a, b).ratio()
 
 
+# When the same place is seen under two categories, prefer the more specific.
+# Higher number = more specific.
+CATEGORY_PRECEDENCE = {
+    "boarder": 1,
+    "daycare": 1,
+    "pet_hotel": 2,  # more specific than boarder
+}
+
+
 def merge_one(existing: dict, incoming: dict) -> dict:
     out = dict(existing)
     # union sources
@@ -81,6 +101,13 @@ def merge_one(existing: dict, incoming: dict) -> dict:
     for key in ("phone", "website", "email", "address", "description"):
         if len(str(incoming.get(key) or "")) > len(str(existing.get(key) or "")):
             out[key] = incoming[key]
+    # prefer more specific category
+    e_cat, i_cat = existing.get("category"), incoming.get("category")
+    if e_cat != i_cat:
+        e_rank = CATEGORY_PRECEDENCE.get(e_cat, 0)
+        i_rank = CATEGORY_PRECEDENCE.get(i_cat, 0)
+        if i_rank > e_rank:
+            out["category"] = i_cat
     return out
 
 

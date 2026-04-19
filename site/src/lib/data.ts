@@ -74,6 +74,10 @@ export function countByMetroCategory(
     daycare: 0,
     sitter: 0,
     shelter: 0,
+    pet_hotel: 0,
+    dog_park: 0,
+    pet_cafe: 0,
+    pet_memorial: 0,
   };
   for (const l of getListingsByMetro(metro)) {
     counts[l.category]++;

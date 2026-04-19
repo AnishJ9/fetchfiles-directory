@@ -19,6 +19,7 @@ import {
 import { FetchFilesCTA } from "@/components/FetchFilesCTA";
 import { CategoryGuide } from "@/components/CategoryGuide";
 import { ListingTile } from "@/components/ListingTile";
+import { Comments } from "@/components/Comments";
 import {
   MapPin,
   Phone,
@@ -318,6 +319,8 @@ export default function ListingPage({
               </div>
             </div>
           )}
+
+          <Comments term={l.id} />
         </div>
 
         <aside className="space-y-4">

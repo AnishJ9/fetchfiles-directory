@@ -16,6 +16,10 @@ import {
   MapPin,
   PawPrint,
   Heart,
+  BedDouble,
+  Trees,
+  Cookie,
+  Flower2,
 } from "lucide-react";
 
 const CATEGORY_ICONS = {
@@ -25,6 +29,10 @@ const CATEGORY_ICONS = {
   daycare: Sparkles,
   sitter: HeartHandshake,
   shelter: Heart,
+  pet_hotel: BedDouble,
+  dog_park: Trees,
+  pet_cafe: Cookie,
+  pet_memorial: Flower2,
 } as const;
 
 export default function HomePage() {

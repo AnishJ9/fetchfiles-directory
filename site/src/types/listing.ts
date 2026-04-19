@@ -6,7 +6,11 @@ export type Category =
   | "boarder"
   | "daycare"
   | "sitter"
-  | "shelter";
+  | "shelter"
+  | "pet_hotel"
+  | "dog_park"
+  | "pet_cafe"
+  | "pet_memorial";
 
 export type Metro =
   | "atlanta"
@@ -74,6 +78,10 @@ export const CATEGORIES: Category[] = [
   "daycare",
   "sitter",
   "shelter",
+  "pet_hotel",
+  "dog_park",
+  "pet_cafe",
+  "pet_memorial",
 ];
 
 export const METRO_LABELS: Record<Metro, string> = {
@@ -99,6 +107,10 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   daycare: "Daycares",
   sitter: "Sitters",
   shelter: "Shelters",
+  pet_hotel: "Pet hotels",
+  dog_park: "Dog parks",
+  pet_cafe: "Pet cafes",
+  pet_memorial: "Pet memorials",
 };
 
 export const CATEGORY_LABELS_SINGULAR: Record<Category, string> = {
@@ -108,4 +120,8 @@ export const CATEGORY_LABELS_SINGULAR: Record<Category, string> = {
   daycare: "Daycare",
   sitter: "Sitter",
   shelter: "Shelter",
+  pet_hotel: "Pet hotel",
+  dog_park: "Dog park",
+  pet_cafe: "Pet cafe",
+  pet_memorial: "Pet memorial",
 };

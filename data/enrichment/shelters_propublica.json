@@ -1,0 +1,506 @@
+[
+  {
+    "id": "a249e9299c263aab",
+    "name": "A Welcome Home Animal Rescue Inc",
+    "category": "shelter",
+    "address": "3267",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30345-0000",
+    "metro": "atlanta",
+    "lat": 33.6665099,
+    "lng": -84.4377899,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "264652011"
+    },
+    "lastSeenAt": "2026-04-18T23:40:05Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "00fefc2717bda5e7",
+    "name": "Animal Companion Rescue Foundation Inc",
+    "category": "shelter",
+    "address": "5870 KAYRON DR",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30328-5146",
+    "metro": "atlanta",
+    "lat": 33.9151411,
+    "lng": -84.3727012,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "201189863"
+    },
+    "lastSeenAt": "2026-04-18T23:40:13Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "af8576cbbadf19b7",
+    "name": "Animal Savers Rescue Inc",
+    "category": "shelter",
+    "address": "5312 BUFORD HIGHWAY",
+    "city": "Doraville",
+    "state": "GA",
+    "zip": "30340-1152",
+    "metro": "atlanta",
+    "lat": 33.8971355,
+    "lng": -84.2813112,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "263194593"
+    },
+    "lastSeenAt": "2026-04-18T23:40:22Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "6901ff530bc4fbc3",
+    "name": "Anna L Haas Humane Society Of Cobb County Inc",
+    "category": "shelter",
+    "address": "148 FAIRGROUND ST SE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060-2352",
+    "metro": "atlanta",
+    "lat": 33.9482032,
+    "lng": -84.5360453,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "237116466"
+    },
+    "lastSeenAt": "2026-04-18T23:40:23Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D200",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "ece039e5e13b55be",
+    "name": "Atlanta Animal Rescue Friends Inc",
+    "category": "shelter",
+    "address": "951 MAIN ST",
+    "city": "Stone Mtn",
+    "state": "GA",
+    "zip": "30083-3061",
+    "metro": "atlanta",
+    "lat": 33.8075934,
+    "lng": -84.1702782,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "20558856"
+    },
+    "lastSeenAt": "2026-04-18T23:40:27Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "63c0d381812e39c9",
+    "name": "Atlanta Humane Society & Society Prevention Of Cruelty To Animals",
+    "category": "shelter",
+    "address": "1551 PERRY BLVD NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318-4045",
+    "metro": "atlanta",
+    "lat": 33.7897268,
+    "lng": -84.4383416,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "580685900"
+    },
+    "lastSeenAt": "2026-04-18T23:40:28Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D200",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "442b73007a17dfc9",
+    "name": "Atlanta Wild Animal Rescue Effort Inc",
+    "category": "shelter",
+    "address": "4158 KLONDIKE RD",
+    "city": "Lithonia",
+    "state": "GA",
+    "zip": "30038-4413",
+    "metro": "atlanta",
+    "lat": 33.7064947,
+    "lng": -84.1091364,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "582433175"
+    },
+    "lastSeenAt": "2026-04-18T23:40:29Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "e042a382ab6c97dd",
+    "name": "All Gods Animals Ranch & Rescue Inc",
+    "category": "shelter",
+    "address": "4240 TARKINGTON DR",
+    "city": "Land O Lakes",
+    "state": "FL",
+    "zip": "34639-6429",
+    "metro": "tampa",
+    "lat": 28.2188767,
+    "lng": -82.4374496,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "881497220"
+    },
+    "lastSeenAt": "2026-04-18T23:42:16Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "e2763fe0e8794700",
+    "name": "Buffalo Paws And Claws Animal Shelter Inc",
+    "category": "shelter",
+    "address": "4645 PHOENIX AVE",
+    "city": "Holiday",
+    "state": "FL",
+    "zip": "34690-5704",
+    "metro": "tampa",
+    "lat": 28.1734174,
+    "lng": -82.7372904,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "264029837"
+    },
+    "lastSeenAt": "2026-04-18T23:43:20Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "72eb8940c7305093",
+    "name": "Elizabeths Animal Rescue & Sanctuary",
+    "category": "shelter",
+    "address": "1644 ALTAMONT LN",
+    "city": "Odessa",
+    "state": "FL",
+    "zip": "33556-3712",
+    "metro": "tampa",
+    "lat": 28.1824138,
+    "lng": -82.5551466,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "271899905"
+    },
+    "lastSeenAt": "2026-04-18T23:43:57Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "5a952a06710dc39a",
+    "name": "Cuz I Matter Animal Rescue Inc",
+    "category": "shelter",
+    "address": "1005 DUKE CV",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660-4787",
+    "metro": "austin",
+    "lat": 30.4289985,
+    "lng": -97.6258236,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "811315180"
+    },
+    "lastSeenAt": "2026-04-18T23:45:57Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "b815e65a05eee1a3",
+    "name": "Almost Home Animal Rescue Of Rutherford County",
+    "category": "shelter",
+    "address": "6521 OLD NASHVILLE HWY",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129-8440",
+    "metro": "nashville",
+    "lat": 35.9118147,
+    "lng": -86.4680868,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "203088785"
+    },
+    "lastSeenAt": "2026-04-18T23:46:22Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "13d190750ffd2c9d",
+    "name": "Animal Support And Placement Rescue Inc",
+    "category": "shelter",
+    "address": "1205 CORMAC ST",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37064-1406",
+    "metro": "nashville",
+    "lat": 35.9202769,
+    "lng": -86.9210369,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "464453166"
+    },
+    "lastSeenAt": "2026-04-18T23:46:33Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "c78d07ebeaa3fd2f",
+    "name": "City Of Mount Juliet Animal Shelter Volunteer Organization",
+    "category": "shelter",
+    "address": "115 INDUSTRIAL DR",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "zip": "37122-3089",
+    "metro": "nashville",
+    "lat": 36.2016441,
+    "lng": -86.5168279,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "300622945"
+    },
+    "lastSeenAt": "2026-04-18T23:46:47Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "350c4f7701054617",
+    "name": "Clearwater Farm And Animal Rescue Inc",
+    "category": "shelter",
+    "address": "3250 CRESTMOUNT DR",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129-2607",
+    "metro": "nashville",
+    "lat": 35.8869573,
+    "lng": -86.5039602,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "471404572"
+    },
+    "lastSeenAt": "2026-04-18T23:46:48Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "7d1815e3027c195a",
+    "name": "Halos Second Chance Animal Rescue",
+    "category": "shelter",
+    "address": "1016 MUIRWOOD BLVD",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37128-5273",
+    "metro": "nashville",
+    "lat": 35.8216937,
+    "lng": -86.4767759,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "814553125"
+    },
+    "lastSeenAt": "2026-04-18T23:47:15Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "47d66b2e92bacd81",
+    "name": "Healing Hearts Animal Rescue Inc",
+    "category": "shelter",
+    "address": "235 MAPLE ST",
+    "city": "Madison",
+    "state": "TN",
+    "zip": "37115-3926",
+    "metro": "nashville",
+    "lat": 36.2615335,
+    "lng": -86.709415,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "473812426"
+    },
+    "lastSeenAt": "2026-04-18T23:47:20Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "4309adec5a0f2fc5",
+    "name": "Music City Animal Rescue",
+    "category": "shelter",
+    "address": "2112 FORGE RIDGE CIR",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37217-3025",
+    "metro": "nashville",
+    "lat": 36.0944267,
+    "lng": -86.6573544,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "463553373"
+    },
+    "lastSeenAt": "2026-04-18T23:48:16Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "158d615df11e8926",
+    "name": "Asheville Humane Society Inc",
+    "category": "shelter",
+    "address": "14 FOREVER FRIEND LN",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806-4570",
+    "metro": "asheville",
+    "lat": 35.5476761,
+    "lng": -82.6008192,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "561444098"
+    },
+    "lastSeenAt": "2026-04-18T23:48:39Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D200",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "0553b16437dbad3e",
+    "name": "Charlies Angels Animal Rescue",
+    "category": "shelter",
+    "address": "5526 HENDERSONVILLE RD",
+    "city": "Fletcher",
+    "state": "NC",
+    "zip": "28732-6616",
+    "metro": "asheville",
+    "lat": 35.4080274,
+    "lng": -82.5138466,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "271614841"
+    },
+    "lastSeenAt": "2026-04-18T23:49:02Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D20",
+      "geocode:nominatim"
+    ]
+  },
+  {
+    "id": "86255c104c4d3cde",
+    "name": "Exotic Animal Rescue & Sanctuary",
+    "category": "shelter",
+    "address": "18 MOUNTAIN TER",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806-1924",
+    "metro": "asheville",
+    "lat": 35.5906086,
+    "lng": -82.611006,
+    "sources": [
+      "propublica"
+    ],
+    "sourceIds": {
+      "ein": "851296603"
+    },
+    "lastSeenAt": "2026-04-18T23:49:13Z",
+    "claimed": false,
+    "tags": [
+      "ntee:D50",
+      "geocode:nominatim"
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "9b73d6c50cf994b8",
+    "name": "Paw Spa Resort",
+    "category": "pet_hotel",
+    "address": "2771 Buford Hwy",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041",
+    "metro": "atlanta",
+    "lat": 34.1427764,
+    "lng": -84.1044824,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/4574615167"
+    },
+    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "claimed": false,
+    "phone": "+17708869936",
+    "website": "http://pawsparesort.org"
+  },
+  {
+    "id": "da1c050cef34f947",
+    "name": "The Dog House Pet Resort",
+    "category": "pet_hotel",
+    "address": "",
+    "city": "",
+    "state": "GA",
+    "zip": "",
+    "metro": "atlanta",
+    "lat": 34.0634746,
+    "lng": -84.6507396,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12120908799"
+    },
+    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "claimed": false
+  },
+  {
+    "id": "32ef2f2e3da9a857",
+    "name": "Best Friends Pet Hotel",
+    "category": "pet_hotel",
+    "address": "1087 Johnson Ferry Road Northeast",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068",
+    "metro": "atlanta",
+    "lat": 33.9741809,
+    "lng": -84.4147244,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/106709214"
+    },
+    "lastSeenAt": "2026-04-18T23:55:02Z",
+    "claimed": false,
+    "phone": "+16785600880",
+    "website": "https://www.bestfriendspetcare.com/location/marietta-ga",
+    "hours": {
+      "raw": "Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 08:00-17:00; PH off"
+    }
+  },
+  {
+    "id": "0d87c42d9ee432a0",
+    "name": "Purple Pawz Pet Resort, LLC",
+    "category": "pet_hotel",
+    "address": "10037 West Hillsborough Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33615",
+    "metro": "tampa",
+    "lat": 28.0046395,
+    "lng": -82.5969411,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/11146508454"
+    },
+    "lastSeenAt": "2026-04-18T23:55:08Z",
+    "claimed": false
+  },
+  {
+    "id": "2f1843f6ece924b3",
+    "name": "Bay Paws Pet Resort - Trinity",
+    "category": "pet_hotel",
+    "address": "",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.1885466,
+    "lng": -82.6262186,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "way/1464118689"
+    },
+    "lastSeenAt": "2026-04-18T23:55:08Z",
+    "claimed": false
+  },
+  {
+    "id": "2f99da6a7d848422",
+    "name": "Countryside Pet Resort",
+    "category": "pet_hotel",
+    "address": "455 County Road 103",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626",
+    "metro": "austin",
+    "lat": 30.6494033,
+    "lng": -97.613413,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/12228545449"
+    },
+    "lastSeenAt": "2026-04-18T23:55:45Z",
+    "claimed": false,
+    "phone": "+15129305365",
+    "website": "https://countrysidepetresort.com/",
+    "email": "countrysidepetresort103@gmail.com",
+    "hours": {
+      "raw": "Su 16:00-18:00, Mo-Fr 07:00-13:00,15:00-18:00, Sa 08:00-12:00"
+    }
+  }
+]

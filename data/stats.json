@@ -1,33 +1,45 @@
 {
-  "generatedAt": "2026-04-18T23:41:28.548929+00:00",
-  "totalListings": 690,
+  "generatedAt": "2026-04-18T23:59:05.565640+00:00",
+  "totalListings": 1236,
   "byMetro": {
     "atlanta": {
       "veterinarian": 171,
-      "groomer": 84,
-      "boarder": 24,
+      "groomer": 83,
+      "boarder": 22,
       "daycare": 4,
       "sitter": 0,
-      "shelter": 19,
-      "_total": 302
+      "shelter": 26,
+      "pet_hotel": 3,
+      "dog_park": 115,
+      "pet_cafe": 5,
+      "pet_memorial": 2,
+      "_total": 431
     },
     "tampa": {
       "veterinarian": 78,
       "groomer": 41,
-      "boarder": 7,
+      "boarder": 5,
       "daycare": 2,
       "sitter": 0,
-      "shelter": 3,
-      "_total": 131
+      "shelter": 6,
+      "pet_hotel": 2,
+      "dog_park": 146,
+      "pet_cafe": 9,
+      "pet_memorial": 2,
+      "_total": 291
     },
     "austin": {
       "veterinarian": 111,
       "groomer": 37,
-      "boarder": 14,
+      "boarder": 13,
       "daycare": 2,
       "sitter": 0,
-      "shelter": 14,
-      "_total": 178
+      "shelter": 15,
+      "pet_hotel": 1,
+      "dog_park": 138,
+      "pet_cafe": 3,
+      "pet_memorial": 0,
+      "_total": 320
     },
     "nashville": {
       "veterinarian": 30,
@@ -35,8 +47,12 @@
       "boarder": 2,
       "daycare": 1,
       "sitter": 0,
-      "shelter": 0,
-      "_total": 50
+      "shelter": 7,
+      "pet_hotel": 0,
+      "dog_park": 95,
+      "pet_cafe": 1,
+      "pet_memorial": 0,
+      "_total": 153
     },
     "asheville": {
       "veterinarian": 15,
@@ -44,8 +60,12 @@
       "boarder": 3,
       "daycare": 1,
       "sitter": 0,
-      "shelter": 3,
-      "_total": 29
+      "shelter": 6,
+      "pet_hotel": 0,
+      "dog_park": 9,
+      "pet_cafe": 0,
+      "pet_memorial": 0,
+      "_total": 41
     }
   },
   "bySource": {
@@ -79,15 +99,40 @@
       "added": 209,
       "merged": 19
     },
+    "enrichment/dog_parks": {
+      "raw": 535,
+      "added": 503,
+      "merged": 32
+    },
     "enrichment/osm_wider": {
       "raw": 447,
       "added": 32,
       "merged": 415
     },
+    "enrichment/pet_cafes": {
+      "raw": 19,
+      "added": 18,
+      "merged": 1
+    },
+    "enrichment/pet_hotels": {
+      "raw": 6,
+      "added": 0,
+      "merged": 6
+    },
+    "enrichment/pet_memorials": {
+      "raw": 4,
+      "added": 4,
+      "merged": 0
+    },
     "enrichment/shelters_osm": {
       "raw": 40,
       "added": 39,
       "merged": 1
+    },
+    "enrichment/shelters_propublica": {
+      "raw": 21,
+      "added": 21,
+      "merged": 0
     }
   }
 }

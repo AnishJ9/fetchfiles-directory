@@ -1,0 +1,436 @@
+[
+  {
+    "id": "50b528dcfdd1e152",
+    "name": "Woof Gang Bakery - Belleair Bluffs",
+    "category": "pet_cafe",
+    "address": "2919 West Bay Drive",
+    "city": "Belleair Bluffs",
+    "state": "FL",
+    "zip": "33770",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "belleair-bluffs"
+    },
+    "lastSeenAt": "2026-04-18T23:58:11Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/belleair-bluffs",
+    "phone": "+17276370177"
+  },
+  {
+    "id": "cf67401d703ba307",
+    "name": "Woof Gang Bakery - St Pete",
+    "category": "pet_cafe",
+    "address": "1504 66th St. N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33710",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "st-pete"
+    },
+    "lastSeenAt": "2026-04-18T23:58:12Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/st-pete",
+    "phone": "+17272130804"
+  },
+  {
+    "id": "8b0b99adcfdb6a21",
+    "name": "Woof Gang Bakery - Wesleychapel",
+    "category": "pet_cafe",
+    "address": "25912 Sierra Center Blvd",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33559",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "wesleychapel"
+    },
+    "lastSeenAt": "2026-04-18T23:58:16Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/wesleychapel",
+    "phone": "+18133882010"
+  },
+  {
+    "id": "0c89a6a71263f4b2",
+    "name": "Woof Gang Bakery - New Tampa",
+    "category": "pet_cafe",
+    "address": "8634 Hunters Village Road",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33647",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "new-tampa"
+    },
+    "lastSeenAt": "2026-04-18T23:58:17Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/new-tampa",
+    "phone": "+18133458468"
+  },
+  {
+    "id": "a8a4457ad344579f",
+    "name": "Woof Gang Bakery - Bellevue",
+    "category": "pet_cafe",
+    "address": "8026 Highway 100",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221",
+    "metro": "nashville",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "bellevue"
+    },
+    "lastSeenAt": "2026-04-18T23:58:21Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/bellevue"
+  },
+  {
+    "id": "d355696f87fca812",
+    "name": "Woof Gang Bakery - Peachtree City",
+    "category": "pet_cafe",
+    "address": "156 Peachtree East Shopping Center",
+    "city": "Peachtree City",
+    "state": "GA",
+    "zip": "30269",
+    "metro": "atlanta",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "peachtree-city"
+    },
+    "lastSeenAt": "2026-04-18T23:58:21Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/peachtree-city",
+    "phone": "+14049059128"
+  },
+  {
+    "id": "15eb121f646f6476",
+    "name": "Woof Gang Bakery - Avalon Park",
+    "category": "pet_cafe",
+    "address": "4424 Friendly WaySuite 150",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33543",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "avalon-park"
+    },
+    "lastSeenAt": "2026-04-18T23:58:22Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/avalon-park",
+    "phone": "+18138259663"
+  },
+  {
+    "id": "90d6cb6a20455ab5",
+    "name": "Woof Gang Bakery - Suwanee",
+    "category": "pet_cafe",
+    "address": "991 Peachtree Industrial Blvd.",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024",
+    "metro": "atlanta",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "suwanee"
+    },
+    "lastSeenAt": "2026-04-18T23:58:29Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/suwanee",
+    "phone": "+16789263405"
+  },
+  {
+    "id": "e70f0e9230d7daa7",
+    "name": "Woof Gang Bakery - Feather Sound",
+    "category": "pet_cafe",
+    "address": "2661 Ulmerton Road",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33762",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "feather-sound"
+    },
+    "lastSeenAt": "2026-04-18T23:58:30Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/feather-sound",
+    "phone": "+17272891234"
+  },
+  {
+    "id": "2461913a438161c5",
+    "name": "Woof Gang Bakery - Ashley Park",
+    "category": "pet_cafe",
+    "address": "358-B Newnan Crossing Bypass",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30265",
+    "metro": "atlanta",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "ashley-park"
+    },
+    "lastSeenAt": "2026-04-18T23:58:33Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/ashley-park",
+    "phone": "+16783261921"
+  },
+  {
+    "id": "73536ccc5d1e3743",
+    "name": "Woof Gang Bakery - South Tampa",
+    "category": "pet_cafe",
+    "address": "1714 S. Dale Mabry Hwy",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33629",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "south-tampa"
+    },
+    "lastSeenAt": "2026-04-18T23:58:33Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/south-tampa",
+    "phone": "+18135706194"
+  },
+  {
+    "id": "86db2d1900ff3862",
+    "name": "Woof Gang Bakery - The Works Atl",
+    "category": "pet_cafe",
+    "address": "210 Chattahoochee Row NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318",
+    "metro": "atlanta",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "the-works-atl"
+    },
+    "lastSeenAt": "2026-04-18T23:58:37Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/the-works-atl",
+    "phone": "+14044104420"
+  },
+  {
+    "id": "753ab557b78d1b0c",
+    "name": "Woof Gang Bakery - Smyrna",
+    "category": "pet_cafe",
+    "address": "4500 West Village Place",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "metro": "atlanta",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "smyrna"
+    },
+    "lastSeenAt": "2026-04-18T23:58:37Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/smyrna",
+    "phone": "+14705238523"
+  },
+  {
+    "id": "d44849e7e0f9dafd",
+    "name": "Woof Gang Bakery - Valrico",
+    "category": "pet_cafe",
+    "address": "3425 Lithia Pinecrest Rd.",
+    "city": "Valrico",
+    "state": "FL",
+    "zip": "33596",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "valrico"
+    },
+    "lastSeenAt": "2026-04-18T23:58:39Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/valrico",
+    "phone": "+18133247125"
+  },
+  {
+    "id": "6c7aa544c3e0a97f",
+    "name": "Woof Gang Bakery - Westlake",
+    "category": "pet_cafe",
+    "address": "701 Capital of Texas Hwy South\nSuite D450",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78746",
+    "metro": "austin",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "westlake"
+    },
+    "lastSeenAt": "2026-04-18T23:58:42Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/westlake",
+    "phone": "+15123299663"
+  },
+  {
+    "id": "a2d4d6194ad508a9",
+    "name": "Woof Gang Bakery - Mueller",
+    "category": "pet_cafe",
+    "address": "1911 Aldrich Street\nSuite 180",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78723",
+    "metro": "austin",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "mueller"
+    },
+    "lastSeenAt": "2026-04-18T23:58:44Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/mueller",
+    "phone": "+15129538480"
+  },
+  {
+    "id": "aabf601c7c489930",
+    "name": "Woof Gang Bakery - Round Rock",
+    "category": "pet_cafe",
+    "address": "1900 University Blvd. \nSuite 230",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78655",
+    "metro": "austin",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "round-rock"
+    },
+    "lastSeenAt": "2026-04-18T23:58:44Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/round-rock",
+    "phone": "+15129049663"
+  },
+  {
+    "id": "06aafad458f6b28f",
+    "name": "Woof Gang Bakery - Westchase",
+    "category": "pet_cafe",
+    "address": "9654 W. Linebaugh Avenue",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33626",
+    "metro": "tampa",
+    "lat": null,
+    "lng": null,
+    "sources": [
+      "chain_locator"
+    ],
+    "sourceIds": {
+      "chain": "woof_gang_bakery",
+      "storeId": "westchase"
+    },
+    "lastSeenAt": "2026-04-18T23:58:45Z",
+    "claimed": false,
+    "website": "https://woofgangbakery.com/pages/locations/westchase",
+    "phone": "+18137496363"
+  },
+  {
+    "id": "aee3ef3e36ebee7f",
+    "name": "Woof Gang Bakery & Grooming Wesley Chapel",
+    "category": "pet_cafe",
+    "address": "25912 Sierra Center Boulevard",
+    "city": "",
+    "state": "FL",
+    "zip": "",
+    "metro": "tampa",
+    "lat": 28.19559,
+    "lng": -82.3891339,
+    "sources": [
+      "osm"
+    ],
+    "sourceIds": {
+      "osm": "node/8584326212"
+    },
+    "lastSeenAt": "2026-04-18T23:59:12Z",
+    "claimed": false,
+    "phone": "+18133882010"
+  }
+]
