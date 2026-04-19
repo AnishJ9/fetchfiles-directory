@@ -141,9 +141,10 @@ def find_dup(incoming: dict, pool: list[dict]) -> int | None:
 
 DESCRIPTIONS_FILE = "descriptions.json"
 ATTRIBUTES_FILE = "attributes.json"
+DEEP_ATTRIBUTES_FILE = "deep_attributes.json"
 
 # Lookup-style files (keyed by listing id, not listing arrays)
-LOOKUP_FILES = {DESCRIPTIONS_FILE, ATTRIBUTES_FILE}
+LOOKUP_FILES = {DESCRIPTIONS_FILE, ATTRIBUTES_FILE, DEEP_ATTRIBUTES_FILE}
 
 
 def load_source_files() -> list[tuple[str, list[dict]]]:
@@ -169,11 +170,18 @@ def load_descriptions() -> dict[str, str]:
 
 
 def load_attributes() -> dict[str, list[str]]:
-    p = ENRICHMENT_DIR / ATTRIBUTES_FILE
-    if not p.exists():
-        return {}
-    raw = json.loads(p.read_text())
-    return {k: v["attributes"] for k, v in raw.items() if v.get("attributes")}
+    """Union of shallow (homepage) + deep (service pages) attribute scans."""
+    merged: dict[str, set[str]] = {}
+    for fname in (ATTRIBUTES_FILE, DEEP_ATTRIBUTES_FILE):
+        p = ENRICHMENT_DIR / fname
+        if not p.exists():
+            continue
+        raw = json.loads(p.read_text())
+        for lid, rec in raw.items():
+            attrs = rec.get("attributes") or []
+            if attrs:
+                merged.setdefault(lid, set()).update(attrs)
+    return {lid: sorted(s) for lid, s in merged.items()}
 
 
 def main() -> None:
