@@ -140,6 +140,10 @@ def find_dup(incoming: dict, pool: list[dict]) -> int | None:
 
 
 DESCRIPTIONS_FILE = "descriptions.json"
+ATTRIBUTES_FILE = "attributes.json"
+
+# Lookup-style files (keyed by listing id, not listing arrays)
+LOOKUP_FILES = {DESCRIPTIONS_FILE, ATTRIBUTES_FILE}
 
 
 def load_source_files() -> list[tuple[str, list[dict]]]:
@@ -150,7 +154,7 @@ def load_source_files() -> list[tuple[str, list[dict]]]:
             sources.append((f"by-metro/{metro}", json.loads(p.read_text())))
     if ENRICHMENT_DIR.exists():
         for p in sorted(ENRICHMENT_DIR.glob("*.json")):
-            if p.name == DESCRIPTIONS_FILE:
+            if p.name in LOOKUP_FILES:
                 continue  # handled separately, not a listing array
             sources.append((f"enrichment/{p.stem}", json.loads(p.read_text())))
     return sources
@@ -162,6 +166,14 @@ def load_descriptions() -> dict[str, str]:
         return {}
     raw = json.loads(p.read_text())
     return {k: v["description"] for k, v in raw.items() if v.get("description")}
+
+
+def load_attributes() -> dict[str, list[str]]:
+    p = ENRICHMENT_DIR / ATTRIBUTES_FILE
+    if not p.exists():
+        return {}
+    raw = json.loads(p.read_text())
+    return {k: v["attributes"] for k, v in raw.items() if v.get("attributes")}
 
 
 def main() -> None:
@@ -186,6 +198,14 @@ def main() -> None:
         if not r.get("description") and r["id"] in descriptions:
             r["description"] = descriptions[r["id"]]
             desc_injected += 1
+
+    # Inject computed attributes (emergency, exotic, cat_friendly, etc.)
+    attributes_map = load_attributes()
+    attr_injected = 0
+    for r in pool:
+        if r["id"] in attributes_map:
+            r["attributes"] = attributes_map[r["id"]]
+            attr_injected += 1
 
     by_metro_cat: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     for r in pool:
@@ -221,6 +241,7 @@ def main() -> None:
         print(f"{source_label:<30} {counts['raw']:>6} {counts['added']:>7} {counts['merged']:>7}")
     print()
     print(f"descriptions injected: {desc_injected}")
+    print(f"attributes injected:   {attr_injected}")
 
 
 if __name__ == "__main__":

@@ -57,6 +57,7 @@ export interface Listing {
   hours?: Record<string, string>;
   description?: string;
   tags?: string[];
+  attributes?: string[]; // computed flags, e.g. "emergency", "exotic", "cat_friendly"
 
   // Directory state
   claimed: boolean;

@@ -175,7 +175,10 @@
     "hours": {
       "raw": "Mo-Th 16:00-09:00; Fr 16:00-24:00; Sa-Su 00:00-24:00"
     },
-    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area."
+    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "140a3ee015ea998a",
@@ -354,7 +357,10 @@
     "subcategories": [
       "cat-only"
     ],
-    "description": "Trusted Johns Creek Veterinary Clinic providing full-service care for dogs, cats, rabbits, and exotic species. Compassionate care since 2001."
+    "description": "Trusted Johns Creek Veterinary Clinic providing full-service care for dogs, cats, rabbits, and exotic species. Compassionate care since 2001.",
+    "attributes": [
+      "exotic"
+    ]
   },
   {
     "id": "5f99947ac89c4195",
@@ -450,7 +456,10 @@
     "hours": {
       "raw": "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
     },
-    "description": "Dr. Julian Peckich and his friendly team are dedicated to providing honest, personalized pet care, from basic examinations to emergency procedures."
+    "description": "Dr. Julian Peckich and his friendly team are dedicated to providing honest, personalized pet care, from basic examinations to emergency procedures.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "27cf7fd25c8538d9",
@@ -812,7 +821,10 @@
     "hours": {
       "raw": "Mo 07:30-18:30; Tu,We,Fr 07:30-18:00; Th,Sa 07:00-18:00; Su closed"
     },
-    "description": "North Roswell Veterinary Clinic is a full service veterinary hospital serving Roswell, Alpharetta, Milton and other surrounding areas. They provide outstanding veterinary medical services for cats and dogs including routine vaccines, sick visits, surgery and boarding."
+    "description": "North Roswell Veterinary Clinic is a full service veterinary hospital serving Roswell, Alpharetta, Milton and other surrounding areas. They provide outstanding veterinary medical services for cats and dogs including routine vaccines, sick visits, surgery and boarding.",
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "77f0e90ba5914a31",
@@ -857,7 +869,10 @@
       "osm": "node/10138529676"
     },
     "lastSeenAt": "2026-04-18T16:33:19Z",
-    "claimed": false
+    "claimed": false,
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "c5a55b7209fdabf8",
@@ -1071,7 +1086,11 @@
     "hours": {
       "raw": "Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00"
     },
-    "description": "UrgentVet Kennesaw vet clinic is a walk-in, after-hours veterinarian in Kennesaw, GA open 365 days for cats & dogs with minor emergency injury or illness."
+    "description": "UrgentVet Kennesaw vet clinic is a walk-in, after-hours veterinarian in Kennesaw, GA open 365 days for cats & dogs with minor emergency injury or illness.",
+    "attributes": [
+      "emergency",
+      "cat_friendly"
+    ]
   },
   {
     "id": "0b9e8f209d325774",
@@ -1400,7 +1419,10 @@
     "hours": {
       "raw": "Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00; PH 12:00-20:00"
     },
-    "description": "UrgentVet is an alternative emergency vet in Atlanta, GA, for non-life threatening same day, walk-in and after-hours emergency veterinarian services. Find an Urgent Vet clinic near you in Atlanta - veterinary urgent care for dogs and cats, 365 days a year."
+    "description": "UrgentVet is an alternative emergency vet in Atlanta, GA, for non-life threatening same day, walk-in and after-hours emergency veterinarian services. Find an Urgent Vet clinic near you in Atlanta - veterinary urgent care for dogs and cats, 365 days a year.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "c221ab9ed3ab8b67",
@@ -1448,7 +1470,10 @@
     "hours": {
       "raw": "08:00-18:00"
     },
-    "description": "Looking for a Kennesaw vet? Book online or call our Kennesaw clinic for top-rated veterinary & urgent care support for pet emergencies for your dog or cat."
+    "description": "Looking for a Kennesaw vet? Book online or call our Kennesaw clinic for top-rated veterinary & urgent care support for pet emergencies for your dog or cat.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "381a8d5f6d6edef4",
@@ -1953,7 +1978,10 @@
     "claimed": false,
     "hours": {
       "raw": "closed"
-    }
+    },
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "7b0c3876205019c7",
@@ -2010,7 +2038,10 @@
     "hours": {
       "raw": "24/7"
     },
-    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area."
+    "description": "Visit BluePearl Pet Hospital in Sandy Springs, a 24 hour emergency and specialty pet hospital serving the greater Sandy Springs, and northern Atlanta area.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "1248350f570118d2",
@@ -2134,7 +2165,10 @@
     "hours": {
       "raw": "24/7"
     },
-    "description": "At Dogwood Veterinary Specialty and Emergency, we understand that pets are family, and they deserve care that reflects just how much they mean to you.Our..."
+    "description": "At Dogwood Veterinary Specialty and Emergency, we understand that pets are family, and they deserve care that reflects just how much they mean to you.Our...",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "3de521b7e1036932",
@@ -2161,7 +2195,10 @@
     "hours": {
       "raw": "Mo 07:30-12:00, 13:30-21:00; Tu 08:30-12:00, 13:30-17:30; We 08:30-12:00, 13:30-21:00; Th 08:30-12:00, 13:30-17:30; Fr 08:30-12:00, 13:30-17:30; Sa 08:30-12:00"
     },
-    "description": "We're an accredited AAHA hospital. Pets are our passion and keeping them healthy is our top priority. We have three veterinary clinics located in Marietta, Ga. Our Old Dallas location exotic veterinarians are highly knowledgeable with all of your critters needs!!"
+    "description": "We're an accredited AAHA hospital. Pets are our passion and keeping them healthy is our top priority. We have three veterinary clinics located in Marietta, Ga. Our Old Dallas location exotic veterinarians are highly knowledgeable with all of your critters needs!!",
+    "attributes": [
+      "exotic"
+    ]
   },
   {
     "id": "68b191be5335fdc4",
@@ -2359,7 +2396,10 @@
     "claimed": false,
     "phone": "+14042527881",
     "website": "https://www.aecsandysprings.com/",
-    "description": "Looking for a trusted veterinary and animal hospital in Sandy Springs, GA? Animal Emergency of Sandy Springs provides compassionate care, modern facilities, and expert vets for your pets."
+    "description": "Looking for a trusted veterinary and animal hospital in Sandy Springs, GA? Animal Emergency of Sandy Springs provides compassionate care, modern facilities, and expert vets for your pets.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "1150ad857850993a",
@@ -2894,7 +2934,10 @@
     "website": "https://aperc.com/",
     "hours": {
       "raw": "24/7"
-    }
+    },
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "2ae547bf6c0c46e3",
@@ -3065,7 +3108,10 @@
     "hours": {
       "raw": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
     },
-    "description": "Lassiter Animal Hospital is a full-service animal hospital for cats, dogs and avians. Our Marietta veterinarians provide compassionate, state-of-the-art care."
+    "description": "Lassiter Animal Hospital is a full-service animal hospital for cats, dogs and avians. Our Marietta veterinarians provide compassionate, state-of-the-art care.",
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "d70b90ca8e36b5e9",
@@ -3472,7 +3518,10 @@
     "hours": {
       "raw": "Mo-Fr \"by appointment\"; Sa-Su closed; PH unknown"
     },
-    "description": "I provide a unique experience for your loved fuzzy family member. I specialize in small dogs (45-50lbs or less) and my salon is not equipped to handle larger dogs. I take one-on-one grooming appointments in my state of the art salon located in my own home. One-on-one grooming appointments are a premium service that most grooming salons can not provide. Most of my client\u2019s pet\u2019s are done in about..."
+    "description": "I provide a unique experience for your loved fuzzy family member. I specialize in small dogs (45-50lbs or less) and my salon is not equipped to handle larger dogs. I take one-on-one grooming appointments in my state of the art salon located in my own home. One-on-one grooming appointments are a premium service that most grooming salons can not provide. Most of my client\u2019s pet\u2019s are done in about...",
+    "attributes": [
+      "small_breed"
+    ]
   },
   {
     "id": "39bd098168edd0b4",
@@ -5070,7 +5119,10 @@
     "lastSeenAt": "2026-04-18T16:33:36Z",
     "claimed": false,
     "phone": "+17275933208",
-    "website": "https://www.thedogandparrotfl.com/"
+    "website": "https://www.thedogandparrotfl.com/",
+    "attributes": [
+      "exotic"
+    ]
   },
   {
     "id": "3a9c9f004a3c0946",
@@ -5136,7 +5188,10 @@
     "claimed": false,
     "phone": "+17274465501",
     "website": "http://www.animalhealthcareclinic.com/",
-    "description": "Animal Health Care Clinic is a full-service veterinary hospital in Clearwater offering the highest quality services for cats and dogs. Our veterinarians and support staff are dedicated to our patients, clients, and community."
+    "description": "Animal Health Care Clinic is a full-service veterinary hospital in Clearwater offering the highest quality services for cats and dogs. Our veterinarians and support staff are dedicated to our patients, clients, and community.",
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "e0e82c14c292e6c8",
@@ -5697,7 +5752,11 @@
     "claimed": false,
     "phone": "+17278228501",
     "website": "https://www.northeastanimalhospital.com/",
-    "description": "Northeast Animal Hospital and Downtown Vet Clinic are hospitals for cats, dogs, avians and pocket pets. Our St. Petersburg veterinarians provide quality care."
+    "description": "Northeast Animal Hospital and Downtown Vet Clinic are hospitals for cats, dogs, avians and pocket pets. Our St. Petersburg veterinarians provide quality care.",
+    "attributes": [
+      "exotic",
+      "cat_friendly"
+    ]
   },
   {
     "id": "59e1192a31d3df80",
@@ -6506,7 +6565,10 @@
       "osm": "way/382115283"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "fc6bc476786ac63d",
@@ -6661,7 +6723,10 @@
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
     "claimed": false,
-    "description": "Animal Care Clinic offers primary care for cats and dogs in the Round Rock, Pflugerville, Hutto, and Georgetown, Texas areas."
+    "description": "Animal Care Clinic offers primary care for cats and dogs in the Round Rock, Pflugerville, Hutto, and Georgetown, Texas areas.",
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "0943b94436bf191a",
@@ -7318,7 +7383,10 @@
       "osm": "way/383002601"
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
-    "claimed": false
+    "claimed": false,
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "9e3ec7b6271386d8",
@@ -7499,7 +7567,11 @@
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
     "claimed": false,
-    "description": "Cypress Creek Pet Care offers primary, emergency, and boarding services for cats and dogs in Cedar Park, Austin, and Leander, TX."
+    "description": "Cypress Creek Pet Care offers primary, emergency, and boarding services for cats and dogs in Cedar Park, Austin, and Leander, TX.",
+    "attributes": [
+      "emergency",
+      "cat_friendly"
+    ]
   },
   {
     "id": "ef7f2201c051b34c",
@@ -7601,7 +7673,10 @@
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
     "claimed": false,
-    "description": "For 24-hour pet care from an animal emergency hospital in Leander, TX, give us a call. Walk-ins are welcome. We offer pet surgery and illness treatment."
+    "description": "For 24-hour pet care from an animal emergency hospital in Leander, TX, give us a call. Walk-ins are welcome. We offer pet surgery and illness treatment.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "c085e1385a066858",
@@ -8716,7 +8791,10 @@
     },
     "lastSeenAt": "2026-04-18T16:33:48Z",
     "claimed": false,
-    "description": "UrgentVet Crestview pet clinic is an alternative emergency vet in Crestview, Austin, TX for non-life threatening same-day walk-in and after-hours emergency veterinarian services. Our top-rated urgent vet in Crestview Austin area provides veterinary urgent care for dogs and cats, open 365 days a year."
+    "description": "UrgentVet Crestview pet clinic is an alternative emergency vet in Crestview, Austin, TX for non-life threatening same-day walk-in and after-hours emergency veterinarian services. Our top-rated urgent vet in Crestview Austin area provides veterinary urgent care for dogs and cats, open 365 days a year.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "0660afd7e650f61f",
@@ -9289,7 +9367,10 @@
     "description": "Discover Bellevue Animal Hospital in Nashville, TN. We provide calm, caring veterinary services including surgery, dentistry, laser therapy, and exotic pet care.",
     "tags": null,
     "claimed": false,
-    "claimedAt": null
+    "claimedAt": null,
+    "attributes": [
+      "exotic"
+    ]
   },
   {
     "id": "0212bb9af8b70e66",
@@ -11644,7 +11725,10 @@
     "claimed": false,
     "phone": "+15127444644",
     "website": "https://www.thrivepetcare.com/locations/texas/round-rock/heart-of-texas-veterinary-specialty-center/hot-emergency-care",
-    "description": "Heart of Texas offers 24/7 emergency vet care for dogs and cats in Round Rock, Austin, and surrounding areas."
+    "description": "Heart of Texas offers 24/7 emergency vet care for dogs and cats in Round Rock, Austin, and surrounding areas.",
+    "attributes": [
+      "emergency"
+    ]
   },
   {
     "id": "92662fe81d003671",
@@ -11692,7 +11776,10 @@
     "claimed": false,
     "phone": "+15129003769",
     "website": "https://www.thrivepetcare.com/locations/texas/austin/oltorf",
-    "description": "Compassionate vet care for cats & dogs in South Austin. Serving South Lamar, Zilker, Travis Heights & more. Wellness, surgery, dental & more."
+    "description": "Compassionate vet care for cats & dogs in South Austin. Serving South Lamar, Zilker, Travis Heights & more. Wellness, surgery, dental & more.",
+    "attributes": [
+      "cat_friendly"
+    ]
   },
   {
     "id": "60a4aa47f89e1cc8",
@@ -12403,7 +12490,10 @@
     "subcategories": [
       "boarding"
     ],
-    "description": "Going away for a few days and need someone to watch your pup? Camp Bow Wow offers premier dog care services in Mt Juliet. Contact us to learn about our dog day care and overnight boarding."
+    "description": "Going away for a few days and need someone to watch your pup? Camp Bow Wow offers premier dog care services in Mt Juliet. Contact us to learn about our dog day care and overnight boarding.",
+    "attributes": [
+      "overnight"
+    ]
   },
   {
     "id": "937b4ba4c9144c64",
@@ -12457,7 +12547,10 @@
     "subcategories": [
       "boarding"
     ],
-    "description": "If you\u2019re seeking a trustworthy place to care for your pup while you\u2019re away, contact Camp Bow Wow. We offer day care and overnight boarding services in Tampa. Visit our website to learn more."
+    "description": "If you\u2019re seeking a trustworthy place to care for your pup while you\u2019re away, contact Camp Bow Wow. We offer day care and overnight boarding services in Tampa. Visit our website to learn more.",
+    "attributes": [
+      "overnight"
+    ]
   },
   {
     "id": "06a23cd90011d8bb",
